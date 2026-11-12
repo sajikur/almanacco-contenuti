@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "feste": [
+    { "nome": "Mercoledì delle Ceneri", "regola": { "tipo": "pasqua", "scarto": -46 }, "sostituisce_santo": true },
+    { "nome": "Domenica delle Palme", "regola": { "tipo": "pasqua", "scarto": -7 }, "sostituisce_santo": true },
+    { "nome": "Venerdì santo", "regola": { "tipo": "pasqua", "scarto": -2 }, "sostituisce_santo": true },
+    { "nome": "Pasqua di Risurrezione", "regola": { "tipo": "pasqua", "scarto": 0 }, "sostituisce_santo": true },
+    { "nome": "Lunedì dell'Angelo (Pasquetta)", "regola": { "tipo": "pasqua", "scarto": 1 }, "sostituisce_santo": true },
+    { "nome": "Ascensione del Signore", "regola": { "tipo": "pasqua", "scarto": 42 }, "sostituisce_santo": true, "nota": "In Italia si celebra la domenica" },
+    { "nome": "Pentecoste", "regola": { "tipo": "pasqua", "scarto": 49 }, "sostituisce_santo": true },
+    { "nome": "Corpus Domini", "regola": { "tipo": "pasqua", "scarto": 63 }, "sostituisce_santo": true, "nota": "In Italia si celebra la domenica" },
+    { "nome": "Festa della mamma", "regola": { "tipo": "ennesima_domenica", "mese": 5, "n": 2 }, "sostituisce_santo": false },
+    { "nome": "Inizio dell'ora legale", "regola": { "tipo": "ultima_domenica", "mese": 3 }, "sostituisce_santo": false },
+    { "nome": "Ritorno all'ora solare", "regola": { "tipo": "ultima_domenica", "mese": 10 }, "sostituisce_santo": false },
+    { "nome": "Giornata mondiale in ricordo delle vittime della strada", "regola": { "tipo": "ennesima_domenica", "mese": 11, "n": 3 }, "sostituisce_santo": false },
+    { "nome": "Cristo Re dell'universo", "regola": { "tipo": "domenica_prima", "mese": 12, "giorno": 3, "settimane": 1 }, "sostituisce_santo": true, "nota": "Ultima domenica dell'anno liturgico, una settimana prima dell'Avvento" },
+    { "nome": "Prima domenica di Avvento", "regola": { "tipo": "domenica_prima", "mese": 12, "giorno": 3, "settimane": 0 }, "sostituisce_santo": true, "nota": "La domenica fra il 27 novembre e il 3 dicembre" }
+  ]
+}

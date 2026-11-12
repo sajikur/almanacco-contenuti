@@ -1,0 +1,274 @@
+{
+  "schema": 1,
+  "giorno": "11-17",
+  "santo": {
+    "nome": "Santa Elisabetta d'Ungheria",
+    "nota": "Principessa del XIII secolo che spese i suoi beni per i poveri e i malati. Secondo la leggenda, il pane che portava di nascosto si trasformò in rose.",
+    "altri": [
+      "San Gregorio Taumaturgo",
+      "Sant'Ugo di Lincoln",
+      "Santa Hilda di Whitby"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale degli studenti",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata mondiale della prematurità",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giorno della libertà e della democrazia (Repubblica Ceca)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-17-1869",
+      "anno": 1869,
+      "titolo": "Si apre il Canale di Suez",
+      "testo": "Con una grande cerimonia si inaugura il Canale di Suez: 164 chilometri che uniscono il Mediterraneo al Mar Rosso e risparmiano alle navi il lungo giro attorno all'Africa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Canale di Suez",
+      "indizio": "Domani: un taglio nella sabbia accorcia di migliaia di chilometri la strada per l'India.",
+      "tono": "storico"
+    },
+    {
+      "id": "11-17-1839",
+      "anno": 1839,
+      "titolo": "Il debutto di Verdi",
+      "testo": "Alla Scala di Milano va in scena Oberto, conte di San Bonifacio, la prima opera di un ventiseienne di Busseto: Giuseppe Verdi.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Oberto, conte di San Bonifacio",
+      "indizio": "Domani: alla Scala debutta un giovane compositore emiliano.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-17-1970",
+      "anno": 1970,
+      "titolo": "Il brevetto del mouse",
+      "testo": "Douglas Engelbart ottiene il brevetto per il primo mouse: una scatoletta di legno con due rotelle. Il nome venne dal filo, che sembrava la coda di un topo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Mouse",
+      "indizio": "Domani: viene brevettato un topo di legno che oggi sta sulla tua scrivania.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-17-1970b",
+      "anno": 1970,
+      "titolo": "Un'auto sulla Luna",
+      "testo": "La sonda sovietica Luna 17 deposita sul Mare delle Piogge il Lunochod 1, il primo veicolo telecomandato a muoversi su un altro corpo celeste. Guidato dalla Terra, percorrerà oltre dieci chilometri.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Lunochod 1",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-17-1796",
+      "anno": 1796,
+      "titolo": "Napoleone ad Arcole",
+      "testo": "Si conclude vicino a Verona la battaglia di Arcole: l'armata di Napoleone sconfigge gli austriaci. Nasce la leggenda del giovane generale con la bandiera in mano sul ponte.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia del ponte di Arcole",
+      "tono": "storico"
+    },
+    {
+      "id": "11-17-1989",
+      "anno": 1989,
+      "titolo": "Comincia la Rivoluzione di velluto",
+      "testo": "A Praga una manifestazione di studenti dà il via alla Rivoluzione di velluto: in poche settimane, e senza violenza, finirà il regime comunista in Cecoslovacchia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rivoluzione di velluto",
+      "tono": "storico"
+    },
+    {
+      "id": "11-17-1558",
+      "anno": 1558,
+      "titolo": "Elisabetta sale al trono",
+      "testo": "Alla morte di Maria I diventa regina d'Inghilterra Elisabetta I: comincia l'età elisabettiana, quella di Shakespeare e dei grandi navigatori.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Elisabetta I d'Inghilterra",
+      "tono": "storico"
+    },
+    {
+      "id": "11-17-1820",
+      "anno": 1820,
+      "titolo": "Avvistata l'Antartide",
+      "testo": "Il capitano americano Nathaniel Palmer, cacciatore di foche ventenne, avvista la penisola antartica: oggi una parte di quella costa porta il suo nome.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Nathaniel Palmer",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-17-1922",
+      "anno": 1922,
+      "titolo": "L'ultimo sultano parte per l'esilio",
+      "testo": "Mehmed VI, ultimo sultano dell'Impero ottomano, lascia Costantinopoli su una nave britannica: passerà gli ultimi anni in esilio a Sanremo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Mehmed VI",
+      "tono": "storico"
+    },
+    {
+      "id": "11-17-1570",
+      "anno": 1570,
+      "titolo": "Trema Ferrara",
+      "testo": "Un forte terremoto colpisce Ferrara e le scosse continuano per mesi. L'architetto di corte Pirro Ligorio ne trarrà uno dei primi trattati sui terremoti, con il progetto di una casa antisismica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto di Ferrara del 1570",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-17-1997",
+      "anno": 1997,
+      "titolo": "Strage a Luxor",
+      "testo": "Un commando di terroristi uccide 62 persone davanti al tempio della regina Hatshepsut, a Luxor, in Egitto.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Strage di Luxor",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-17-1962",
+      "anno": 1962,
+      "titolo": "Un aeroporto con le ali",
+      "testo": "Il presidente Kennedy inaugura l'aeroporto Dulles di Washington, con il terminal progettato da Eero Saarinen che sembra un uccello pronto a spiccare il volo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Aeroporto Internazionale di Washington-Dulles",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Vespasiano",
+      "anno": 9,
+      "chi": "imperatore romano, avviò la costruzione del Colosseo",
+      "wiki": "Vespasiano"
+    },
+    {
+      "nome": "August Ferdinand Möbius",
+      "anno": 1790,
+      "chi": "matematico tedesco, quello del nastro con una sola faccia",
+      "wiki": "August Ferdinand Möbius"
+    },
+    {
+      "nome": "Soichiro Honda",
+      "anno": 1906,
+      "chi": "fondatore della Honda",
+      "wiki": "Soichirō Honda"
+    },
+    {
+      "nome": "Martin Scorsese",
+      "anno": 1942,
+      "chi": "regista statunitense",
+      "wiki": "Martin Scorsese"
+    },
+    {
+      "nome": "Danny DeVito",
+      "anno": 1944,
+      "chi": "attore e regista statunitense",
+      "wiki": "Danny DeVito"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "lingua",
+      "titolo": "Perché si chiama vespasiano",
+      "testo": "Il gabinetto pubblico per uomini si chiama vespasiano per l'imperatore nato oggi: Vespasiano mise una tassa sull'urina raccolta nelle latrine, che i lavandai usavano per sbiancare i tessuti."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "L'Aida non era per Suez",
+      "testo": "Si racconta spesso che Verdi scrisse l'Aida per l'apertura del Canale di Suez. Non è così: il teatro dell'Opera del Cairo fu inaugurato nel 1869 con Rigoletto, e l'Aida debuttò solo nel dicembre 1871."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Un nome troppo lungo",
+      "testo": "Nel brevetto il mouse si chiamava «indicatore di posizione X-Y per un sistema di visualizzazione». Per fortuna in laboratorio tutti lo chiamavano già topo."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "La Libertà doveva stare a Suez",
+      "testo": "Prima della Statua della Libertà lo scultore Bartholdi propose per l'ingresso del Canale di Suez un faro a forma di contadina egiziana con una fiaccola. L'Egitto rinunciò, e l'idea finì a New York in un'altra forma."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Un nastro con una sola faccia",
+      "testo": "Prendi una striscia di carta, dalle mezzo giro e incolla le estremità: ottieni il nastro di Möbius, che ha una sola faccia e un solo bordo. Una formica potrebbe percorrerlo tutto senza mai scavalcare il margine."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tornate all'antico e sarà un progresso.",
+      "autore": "Giuseppe Verdi",
+      "fonte": "lettera del 1871"
+    },
+    {
+      "testo": "Il denaro non ha odore (Pecunia non olet).",
+      "autore": "attribuita a Vespasiano",
+      "fonte": "dall'aneddoto narrato da Svetonio"
+    },
+    {
+      "testo": "Paese che vai, usanza che trovi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Non tutte le ciambelle riescono col buco.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Nessun giorno senza una linea (Nulla dies sine linea).",
+      "autore": "Plinio il Vecchio",
+      "fonte": "Naturalis historia, a proposito del pittore Apelle"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Amî di dug, amî di nissun.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Amico di tutti, amico di nessuno.",
+      "spiegazione": "Chi cerca di piacere a tutti finisce per non essere davvero vicino a nessuno.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Chianta la vigna unni teni la vutti.",
+      "regione": "Sicilia",
+      "traduzione": "Pianta la vigna dove tieni la botte.",
+      "spiegazione": "Investi le tue fatiche vicino a casa, dove puoi seguirle e goderne i frutti.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "Unu pagu fele amargurat meda mele.",
+      "regione": "Sardegna",
+      "traduzione": "Un po' di fiele rende amaro molto miele.",
+      "spiegazione": "Basta poca cattiveria per guastare tante cose buone.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

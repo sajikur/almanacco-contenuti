@@ -1,0 +1,281 @@
+{
+  "schema": 1,
+  "giorno": "11-14",
+  "santo": {
+    "nome": "San Lorenzo O'Toole",
+    "nota": "Arcivescovo di Dublino nel XII secolo, mediatore di pace fra irlandesi e inglesi. È il patrono della città.",
+    "altri": [
+      "San Giocondo di Bologna",
+      "Santa Veneranda",
+      "San Nicola Tavelić e compagni"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale del diabete",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata dei bambini (India)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-14-1951",
+      "anno": 1951,
+      "titolo": "Il Po rompe gli argini",
+      "testo": "Dopo giorni di pioggia il Po esce dal letto e allaga il Polesine: circa centomila ettari sott'acqua e quasi 180.000 persone costrette a lasciare la casa. Da tutta Italia partirono aiuti, in una delle più grandi gare di solidarietà del dopoguerra.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Alluvione del Polesine del novembre 1951",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-14-1851",
+      "anno": 1851,
+      "titolo": "Esce Moby Dick",
+      "testo": "Negli Stati Uniti esce Moby Dick di Herman Melville. All'inizio fu un insuccesso e vendette poche copie: solo nel Novecento la caccia alla balena bianca è diventata un classico.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Moby Dick",
+      "indizio": "Domani: una balena bianca sbarca in libreria, ma quasi nessuno se ne accorge.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1889",
+      "anno": 1889,
+      "titolo": "Nellie Bly sfida Phileas Fogg",
+      "testo": "La giornalista Nellie Bly parte da New York per fare il giro del mondo più in fretta del protagonista di Jules Verne. Ce la farà in 72 giorni, viaggiando su navi e treni con una sola borsa da viaggio.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Nellie Bly",
+      "indizio": "Domani: una donna sola decide di battere un personaggio di romanzo.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1973",
+      "anno": 1973,
+      "titolo": "Wembley, finalmente",
+      "testo": "Per la prima volta l'Italia batte l'Inghilterra a casa sua: a Wembley decide un gol di Fabio Capello, mentre Dino Zoff para tutto.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Nazionale di calcio dell'Italia",
+      "indizio": "Domani: in uno stadio di Londra cade un tabù del calcio italiano.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1969",
+      "anno": 1969,
+      "titolo": "Apollo 12 parte tra i fulmini",
+      "testo": "Parte da Cape Kennedy l'Apollo 12, seconda missione con equipaggio diretta sulla Luna. Pochi secondi dopo il decollo il razzo viene colpito due volte da un fulmine, ma la missione prosegue.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Apollo 12",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1922",
+      "anno": 1922,
+      "titolo": "La BBC accende la radio",
+      "testo": "Dalla stazione londinese 2LO la BBC inizia le trasmissioni radiofoniche quotidiane: comincia così la lunga storia della radio della BBC.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "BBC",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1971",
+      "anno": 1971,
+      "titolo": "In orbita attorno a Marte",
+      "testo": "La sonda americana Mariner 9 entra in orbita attorno a Marte: è il primo oggetto costruito dall'uomo a girare intorno a un altro pianeta.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Mariner 9",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-2021",
+      "anno": 2021,
+      "titolo": "L'ultima curva del Dottore",
+      "testo": "A Valencia Valentino Rossi corre la sua ultima gara in MotoGP, dopo 26 anni nel Motomondiale e nove titoli mondiali.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Valentino Rossi",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1433",
+      "anno": 1433,
+      "titolo": "Una cantoria per Donatello",
+      "testo": "A Firenze viene firmato il contratto con cui Donatello si impegna a scolpire una cantoria per il Duomo: oggi è al Museo dell'Opera del Duomo.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Cantoria di Donatello",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1940",
+      "anno": 1940,
+      "titolo": "Coventry rasa al suolo",
+      "testo": "Nella notte i bombardieri tedeschi distruggono il centro di Coventry, compresa la cattedrale medievale. In tedesco nascerà perfino un verbo per indicare la distruzione totale di una città.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Bombardamento di Coventry",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-14-2003",
+      "anno": 2003,
+      "titolo": "Ecco Sedna",
+      "testo": "Gli astronomi osservano per la prima volta Sedna, un piccolo mondo ghiacciato ai confini del Sistema solare: per fare un giro attorno al Sole impiega più di diecimila anni.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "90377 Sedna",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1972",
+      "anno": 1972,
+      "titolo": "Wall Street supera quota mille",
+      "testo": "Per la prima volta l'indice Dow Jones chiude sopra i mille punti.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Dow Jones Industrial Average",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-14-1982",
+      "anno": 1982,
+      "titolo": "Wałęsa torna libero",
+      "testo": "Dopo undici mesi di internamento viene liberato Lech Wałęsa, leader del sindacato polacco Solidarność. L'anno dopo riceverà il Nobel per la pace.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Lech Wałęsa",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Claude Monet",
+      "anno": 1840,
+      "chi": "pittore francese, padre dell'Impressionismo",
+      "wiki": "Claude Monet"
+    },
+    {
+      "nome": "Jawaharlal Nehru",
+      "anno": 1889,
+      "chi": "primo capo del governo dell'India indipendente",
+      "wiki": "Jawaharlal Nehru"
+    },
+    {
+      "nome": "Frederick Banting",
+      "anno": 1891,
+      "chi": "medico canadese, scopritore dell'insulina e premio Nobel",
+      "wiki": "Frederick Banting"
+    },
+    {
+      "nome": "Astrid Lindgren",
+      "anno": 1907,
+      "chi": "scrittrice svedese, creatrice di Pippi Calzelunghe",
+      "wiki": "Astrid Lindgren"
+    },
+    {
+      "nome": "Carlo III",
+      "anno": 1948,
+      "chi": "re del Regno Unito",
+      "wiki": "Carlo III del Regno Unito"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Un brevetto da un dollaro",
+      "testo": "La Giornata mondiale del diabete cade oggi perché è il compleanno di Frederick Banting. Lui e i colleghi cedettero il brevetto dell'insulina all'Università di Toronto per una cifra simbolica di un dollaro: volevano che la cura fosse di tutti."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Nellie incontra Verne",
+      "testo": "Durante il suo giro del mondo Nellie Bly fece una deviazione ad Amiens, in Francia, per conoscere Jules Verne. Lo scrittore la ricevette con la moglie e le augurò buona fortuna."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un nome nato da una presa in giro",
+      "testo": "La parola Impressionismo viene da un quadro di Monet, «Impression, soleil levant». Nel 1874 un critico la usò per prendere in giro quei pittori: loro la adottarono con orgoglio."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Una dea del mare inuit",
+      "testo": "Sedna porta il nome della dea del mare della mitologia inuit, che secondo il mito vive in fondo all'oceano gelido: un nome adatto a uno dei corpi più freddi e lontani del Sistema solare."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il caffè di Moby Dick",
+      "testo": "La catena di caffetterie Starbucks prende il nome da Starbuck, il primo ufficiale della baleniera Pequod in Moby Dick."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Chiamatemi Ismaele.",
+      "autore": "Herman Melville",
+      "fonte": "Moby Dick, prima riga"
+    },
+    {
+      "testo": "Chi trova un amico trova un tesoro.",
+      "autore": "Proverbio",
+      "fonte": "dal libro del Siracide"
+    },
+    {
+      "testo": "Tra il dire e il fare c'è di mezzo il mare.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Non è perché le cose sono difficili che non osiamo; è perché non osiamo che sono difficili.",
+      "autore": "Seneca",
+      "fonte": "Lettere a Lucilio"
+    },
+    {
+      "testo": "Il mattino ha l'oro in bocca.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Offelee, fa el tò mestee.",
+      "regione": "Lombardia",
+      "traduzione": "Pasticciere, fai il tuo mestiere.",
+      "spiegazione": "Ognuno si occupi di ciò che sa fare. L'offelee era il venditore di offelle, dolcetti della tradizione.",
+      "fonte": "Wikiquote, Proverbi milanesi"
+    },
+    {
+      "testo": "Fai bene e scordalu, fai male e pensaci.",
+      "regione": "Sicilia",
+      "traduzione": "Fai del bene e dimenticalo, fai del male e pensaci.",
+      "spiegazione": "Il bene non va rinfacciato; il male fatto, invece, merita di essere ricordato per non ripeterlo.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "Chini va a ru mulinu, se 'mparina.",
+      "regione": "Calabria",
+      "traduzione": "Chi va al mulino s'infarina.",
+      "spiegazione": "Ogni esperienza lascia una traccia: chi frequenta un ambiente ne porta addosso i segni.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

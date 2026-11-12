@@ -1,0 +1,260 @@
+{
+  "schema": 1,
+  "giorno": "11-13",
+  "santo": {
+    "nome": "Sant'Omobono",
+    "nota": "Mercante di stoffe di Cremona, morto nel 1197, che dava ai poveri buona parte dei suoi guadagni. È il patrono della città e dei sarti.",
+    "altri": [
+      "San Brizio di Tours",
+      "San Niccolò I papa",
+      "Sant'Agostina Pietrantoni"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale della gentilezza",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-13-1917",
+      "anno": 1917,
+      "titolo": "Sul Piave non si passa",
+      "testo": "Dopo la ritirata di Caporetto l'esercito italiano si attesta lungo il Piave: comincia la prima battaglia del fiume. Qui l'avanzata austro-tedesca verrà fermata, e il Piave entrerà per sempre nella memoria del Paese.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Prima battaglia del Piave",
+      "indizio": "Domani: un fiume veneto diventa la linea che non si deve superare.",
+      "tono": "storico"
+    },
+    {
+      "id": "11-13-1990",
+      "anno": 1990,
+      "titolo": "Nasce la prima pagina web",
+      "testo": "Al CERN di Ginevra Tim Berners-Lee scrive la prima pagina conosciuta del World Wide Web, su un computer NeXT. Era una pagina di testo e collegamenti: oggi le pagine si contano a miliardi.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "World Wide Web",
+      "indizio": "Domani: in un laboratorio svizzero nasce qualcosa che stai usando proprio adesso.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-13-1940",
+      "anno": 1940,
+      "titolo": "Fantasia, la musica si fa cartone",
+      "testo": "Al Broadway Theatre di New York debutta Fantasia di Walt Disney: otto brani di musica classica trasformati in animazione, proiettati con il Fantasound, uno dei primi sistemi audio stereofonici al cinema.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Fantasia (film 1940)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-13-1875",
+      "anno": 1875,
+      "titolo": "Un quadro arriva a Pompei",
+      "testo": "Il dipinto della Madonna del Rosario arriva a Pompei. Secondo la tradizione viaggiò da Napoli su un carro di letame: diventerà il cuore di uno dei santuari più visitati d'Italia.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Santuario della Beata Vergine del Santo Rosario di Pompei",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-13-1974",
+      "anno": 1974,
+      "titolo": "Addio a Vittorio De Sica",
+      "testo": "Muore vicino a Parigi Vittorio De Sica, attore e regista di Sciuscià e Ladri di biciclette. I suoi film hanno vinto quattro Oscar per il miglior film straniero.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Vittorio De Sica",
+      "indizio": "Domani: se ne va il regista di una bicicletta rubata.",
+      "tono": "storico"
+    },
+    {
+      "id": "11-13-2009",
+      "anno": 2009,
+      "titolo": "C'è acqua sulla Luna",
+      "testo": "La NASA annuncia di aver trovato acqua ghiacciata in quantità significative in un cratere vicino al polo sud lunare, sollevata dall'impatto volontario della sonda LCROSS.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "LCROSS",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-13-1851",
+      "anno": 1851,
+      "titolo": "Sbarcano i fondatori di Seattle",
+      "testo": "Il gruppo di coloni guidato da Arthur Denny sbarca ad Alki Point, sulla costa del Pacifico: è il primo nucleo della futura Seattle.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Seattle",
+      "tono": "storico"
+    },
+    {
+      "id": "11-13-1954",
+      "anno": 1954,
+      "titolo": "La prima Coppa del mondo di rugby a 13",
+      "testo": "A Parigi la Gran Bretagna batte la Francia e vince la prima Rugby League World Cup, davanti a circa 30.000 spettatori.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Coppa del Mondo di rugby a 13",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-13-1985",
+      "anno": 1985,
+      "titolo": "Il risveglio del Nevado del Ruiz",
+      "testo": "In Colombia il vulcano Nevado del Ruiz si risveglia e le colate di fango seppelliscono la cittadina di Armero: muoiono circa 23.000 persone.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Tragedia di Armero",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-13-1991",
+      "anno": 1991,
+      "titolo": "La bella e la bestia",
+      "testo": "Esce negli Stati Uniti La bella e la bestia di Disney: sarà il primo film d'animazione candidato all'Oscar come miglior film.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "La bella e la bestia (film 1991)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-13-2010",
+      "anno": 2010,
+      "titolo": "Aung San Suu Kyi torna libera",
+      "testo": "In Birmania viene liberata Aung San Suu Kyi, premio Nobel per la pace, dopo aver trascorso agli arresti domiciliari circa quindici degli ultimi vent'anni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Aung San Suu Kyi",
+      "tono": "storico"
+    },
+    {
+      "id": "11-13-1994",
+      "anno": 1994,
+      "titolo": "La Svezia sceglie l'Europa",
+      "testo": "Con un referendum gli svedesi decidono di entrare nell'Unione europea: l'adesione arriverà il 1° gennaio 1995.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Svezia",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Sant'Agostino",
+      "anno": 354,
+      "chi": "filosofo e Padre della Chiesa, nato a Tagaste",
+      "wiki": "Agostino d'Ippona"
+    },
+    {
+      "nome": "Robert Louis Stevenson",
+      "anno": 1850,
+      "chi": "scrittore scozzese, autore dell'Isola del tesoro e del Dottor Jekyll",
+      "wiki": "Robert Louis Stevenson"
+    },
+    {
+      "nome": "Whoopi Goldberg",
+      "anno": 1955,
+      "chi": "attrice statunitense, Oscar per Ghost",
+      "wiki": "Whoopi Goldberg"
+    },
+    {
+      "nome": "Gerard Butler",
+      "anno": 1969,
+      "chi": "attore scozzese",
+      "wiki": "Gerard Butler"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "lingua",
+      "titolo": "Gentile vuol dire «di famiglia»",
+      "testo": "In latino gentilis indicava chi apparteneva alla stessa gens, cioè alla stessa stirpe. Poi passò a dire «di buona famiglia», quindi «nobile d'animo», e infine «cortese»: la gentilezza è nata come questione di parentela."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Vietato spegnere",
+      "testo": "Il computer NeXT su cui girava il primo server web aveva un'etichetta scritta a mano che avvertiva di non spegnerlo: se qualcuno l'avesse fatto, il web di allora sarebbe sparito tutto in un colpo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un tesoro nato da un gioco",
+      "testo": "L'isola del tesoro nacque nel 1881 da una mappa di un'isola immaginaria che Stevenson disegnò per gioco con il figliastro Lloyd, in un giorno di pioggia in Scozia. Dalla mappa venne la storia."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Ciao, cioè «sono suo schiavo»",
+      "testo": "Il nostro saluto più famoso viene dal veneziano s-ciào, «schiavo», abbreviazione di «servo suo». Era un saluto di cortesia, un po' come dire «ai suoi ordini»."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una stretta di mano famosa",
+      "testo": "In Fantasia il direttore d'orchestra Leopold Stokowski, in carne e ossa, stringe la mano a Topolino in silhouette: uno dei primi incontri fra attore vero e cartone animato."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Non uscire fuori, rientra in te stesso: nell'intimo dell'uomo abita la verità.",
+      "autore": "Sant'Agostino",
+      "fonte": "De vera religione"
+    },
+    {
+      "testo": "Quindici uomini sulla cassa del morto, yo-ho-ho, e una bottiglia di rum!",
+      "autore": "Robert Louis Stevenson",
+      "fonte": "L'isola del tesoro"
+    },
+    {
+      "testo": "Chi ben comincia è a metà dell'opera.",
+      "autore": "Proverbio",
+      "fonte": "dal latino di Orazio, Epistole"
+    },
+    {
+      "testo": "Dimmi con chi vai e ti dirò chi sei.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "C'è una misura nelle cose (Est modus in rebus).",
+      "autore": "Orazio",
+      "fonte": "Satire"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Sasso trato e parola dita no torna più indrìo.",
+      "regione": "Veneto",
+      "traduzione": "Sasso lanciato e parola detta non tornano più indietro.",
+      "spiegazione": "Pesa le parole prima di dirle: una volta pronunciate non si possono riprendere.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Buonu tiempo e malu tiempo nun durano tutto 'o tiempo.",
+      "regione": "Campania",
+      "traduzione": "Il bel tempo e il brutto tempo non durano per sempre.",
+      "spiegazione": "Né i periodi felici né quelli difficili sono eterni: tutto passa.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "Chie torrat a domo non est mai perdidu.",
+      "regione": "Sardegna",
+      "traduzione": "Chi torna a casa non è mai perduto.",
+      "spiegazione": "Finché si può tornare alle proprie radici, nessuno è davvero smarrito.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

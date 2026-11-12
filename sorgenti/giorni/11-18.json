@@ -1,0 +1,270 @@
+{
+  "schema": 1,
+  "giorno": "11-18",
+  "santo": {
+    "nome": "Dedicazione delle basiliche dei Santi Pietro e Paolo",
+    "nota": "La Chiesa ricorda la consacrazione delle due grandi basiliche romane dedicate agli apostoli: San Pietro in Vaticano e San Paolo fuori le Mura.",
+    "altri": [
+      "Sant'Oddone di Cluny",
+      "Santa Rose-Philippine Duchesne",
+      "San Romano di Antiochia"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata europea degli antibiotici",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Festa dell'indipendenza (Lettonia)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-18-1626",
+      "anno": 1626,
+      "titolo": "San Pietro è finita",
+      "testo": "Dopo centoventi anni di cantiere, cominciato nel 1506, papa Urbano VIII consacra la nuova Basilica di San Pietro. Vi hanno lavorato, tra gli altri, Bramante, Michelangelo e Carlo Maderno.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Basilica di San Pietro in Vaticano",
+      "indizio": "Domani: a Roma si chiude un cantiere aperto da centoventi anni.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1928",
+      "anno": 1928,
+      "titolo": "Topolino fischietta",
+      "testo": "A New York esce Steamboat Willie, il cortometraggio di Walt Disney e Ub Iwerks con Topolino al timone di un battello. È uno dei primi cartoni animati con il sonoro sincronizzato, e oggi è considerato il compleanno ufficiale di Topolino.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Steamboat Willie",
+      "indizio": "Domani: un topo fischietta al timone di un battello e conquista il mondo.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1883",
+      "anno": 1883,
+      "titolo": "Il giorno dei due mezzogiorni",
+      "testo": "Le ferrovie degli Stati Uniti e del Canada adottano cinque fusi orari standard. Fino ad allora ogni città aveva la sua ora locale, e gli orari dei treni erano un rompicapo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Fuso orario",
+      "indizio": "Domani: in America, per un giorno, l'orologio segna mezzogiorno due volte.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1926",
+      "anno": 1926,
+      "titolo": "Shaw dice no ai soldi del Nobel",
+      "testo": "George Bernard Shaw accetta il premio Nobel per la letteratura ma rifiuta il denaro, che finirà a finanziare la traduzione in inglese di autori svedesi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "George Bernard Shaw",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1307",
+      "anno": 1307,
+      "titolo": "La mela di Guglielmo Tell",
+      "testo": "Secondo la leggenda è il giorno in cui Guglielmo Tell, costretto dal balivo Gessler, colpisce con la balestra una mela posata sulla testa del figlio.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Guglielmo Tell",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1985",
+      "anno": 1985,
+      "titolo": "Arrivano Calvin e Hobbes",
+      "testo": "Sui giornali americani esce la prima striscia di Calvin & Hobbes di Bill Watterson: un bambino di sei anni e la sua tigre di pezza, viva solo per lui.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Calvin & Hobbes",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1787",
+      "anno": 1787,
+      "titolo": "Nasce la Nunziatella",
+      "testo": "Ferdinando IV di Borbone fonda a Napoli la scuola militare Nunziatella, una delle più antiche scuole militari del mondo ancora in attività.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Scuola militare Nunziatella",
+      "tono": "storico"
+    },
+    {
+      "id": "11-18-1659",
+      "anno": 1659,
+      "titolo": "Molière fa ridere Parigi",
+      "testo": "A Parigi va in scena Le preziose ridicole, la prima commedia di grande successo di Molière, una satira delle dame dal linguaggio affettato.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Le preziose ridicole",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1477",
+      "anno": 1477,
+      "titolo": "Il primo libro stampato in Inghilterra",
+      "testo": "William Caxton stampa Dictes or Sayengis of the Philosophers, il primo libro datato uscito da una tipografia inglese.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "William Caxton",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1959",
+      "anno": 1959,
+      "titolo": "Ben-Hur in anteprima",
+      "testo": "A New York va in anteprima Ben-Hur di William Wyler: vincerà 11 Oscar, un primato eguagliato solo quasi quarant'anni dopo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Ben-Hur (film 1959)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-18-1918",
+      "anno": 1918,
+      "titolo": "Nasce la Lettonia",
+      "testo": "La Lettonia proclama la sua indipendenza: ancora oggi è la festa nazionale del Paese.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Lettonia",
+      "tono": "storico"
+    },
+    {
+      "id": "11-18-1978",
+      "anno": 1978,
+      "titolo": "La tragedia di Jonestown",
+      "testo": "In Guyana più di 900 seguaci della setta Tempio del popolo muoiono in un suicidio-omicidio di massa ordinato dal predicatore Jim Jones.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Massacro di Jonestown",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Carl Maria von Weber",
+      "anno": 1786,
+      "chi": "compositore tedesco, autore del Franco cacciatore",
+      "wiki": "Carl Maria von Weber"
+    },
+    {
+      "nome": "Louis Daguerre",
+      "anno": 1787,
+      "chi": "inventore francese del dagherrotipo, antenato della fotografia",
+      "wiki": "Louis Daguerre"
+    },
+    {
+      "nome": "George Gallup",
+      "anno": 1901,
+      "chi": "statistico statunitense, padre dei sondaggi d'opinione",
+      "wiki": "George Gallup"
+    },
+    {
+      "nome": "Alan Shepard",
+      "anno": 1923,
+      "chi": "astronauta, primo americano nello spazio",
+      "wiki": "Alan Shepard"
+    },
+    {
+      "nome": "Margaret Atwood",
+      "anno": 1939,
+      "chi": "scrittrice canadese, autrice del Racconto dell'ancella",
+      "wiki": "Margaret Atwood"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Milletrecento anni esatti",
+      "testo": "Secondo la tradizione l'antica basilica voluta da Costantino era stata consacrata da papa Silvestro il 18 novembre 326. La nuova San Pietro fu consacrata nello stesso giorno, milletrecento anni dopo."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Golf sulla Luna",
+      "testo": "Alan Shepard, nato oggi, nel 1971 con l'Apollo 14 portò sulla Luna una testa di mazza da golf, la montò su un attrezzo per i campioni e tirò due palline. Disse che erano volate per chilometri; in realtà la più lunga si fermò a una quarantina di metri."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Fotografia, scrivere con la luce",
+      "testo": "Fotografia viene dal greco: phôs, «luce», e graphía, «scrittura». Daguerre però chiamò la sua invenzione con il proprio nome: dagherrotipo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Topolino arriva in Italia",
+      "testo": "In Italia il primo giornalino intitolato Topolino uscì a Firenze alla fine del 1932, pubblicato dall'editore Nerbini; poi passò a Mondadori."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Perché si chiama fuso orario",
+      "testo": "Le zone orarie, disegnate sul mappamondo da un polo all'altro, hanno la forma affusolata di uno spicchio: proprio come il fuso usato per filare la lana."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tutte le strade portano a Roma.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Cogli l'attimo (Carpe diem).",
+      "autore": "Orazio",
+      "fonte": "Odi"
+    },
+    {
+      "testo": "Chi dorme non piglia pesci.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Roma non fu fatta in un giorno.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Odio e amo (Odi et amo).",
+      "autore": "Catullo",
+      "fonte": "Carmi"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "El mangià per vess assee el gh'ha de cress.",
+      "regione": "Lombardia",
+      "traduzione": "Il mangiare, per essere abbastanza, deve avanzare.",
+      "spiegazione": "Un pranzo è davvero abbondante solo se ne resta un po' nel piatto: si dice dopo una bella mangiata.",
+      "fonte": "Wikiquote, Proverbi milanesi"
+    },
+    {
+      "testo": "Lu piru cunchiutu cade sulu.",
+      "regione": "Calabria",
+      "traduzione": "La pera matura cade da sola.",
+      "spiegazione": "Le cose arrivano a compimento quando è il loro momento: inutile forzarle.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "Bisogno fa buon fante.",
+      "regione": "Toscana",
+      "traduzione": "Il bisogno fa il buon soldato.",
+      "spiegazione": "La necessità rende coraggiosi e capaci di cose che non avremmo creduto.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

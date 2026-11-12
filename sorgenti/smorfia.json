@@ -1,0 +1,546 @@
+{
+  "schema": 1,
+  "fonte": "Smorfia napoletana, versione tradizionale diffusa",
+  "numeri": [
+    {
+      "n": 1,
+      "napoletano": "L'Italia",
+      "italiano": "l'Italia",
+      "spiegazione": "Il numero uno, la cosa più importante: dopo l'Unità è diventato la patria."
+    },
+    {
+      "n": 2,
+      "napoletano": "'A piccerella",
+      "italiano": "la bambina",
+      "spiegazione": "La bimba piccola, simbolo di tenerezza e di inizio."
+    },
+    {
+      "n": 3,
+      "napoletano": "'A jatta",
+      "italiano": "la gatta",
+      "spiegazione": "Animale di casa e di mistero, furbo e indipendente."
+    },
+    {
+      "n": 4,
+      "napoletano": "'O puorco",
+      "italiano": "il maiale",
+      "spiegazione": "Il porco: abbondanza in cucina, ma anche chi si comporta in modo sconveniente."
+    },
+    {
+      "n": 5,
+      "napoletano": "'A mano",
+      "italiano": "la mano",
+      "spiegazione": "Cinque come le dita: lavoro, aiuto e gesti."
+    },
+    {
+      "n": 6,
+      "napoletano": "Chella che guarda 'nterra",
+      "italiano": "quella che guarda a terra",
+      "spiegazione": "Il sesso femminile, indicato con una delle tipiche perifrasi maliziose della Smorfia."
+    },
+    {
+      "n": 7,
+      "napoletano": "'O vasetto",
+      "italiano": "il vasetto",
+      "spiegazione": "Un piccolo vaso; nella tradizione anche il vaso da fiori sul balcone."
+    },
+    {
+      "n": 8,
+      "napoletano": "'A Maronna",
+      "italiano": "la Madonna",
+      "spiegazione": "Per la tradizione l'8 è il numero della Madonna, come la festa dell'Immacolata dell'8 dicembre."
+    },
+    {
+      "n": 9,
+      "napoletano": "'A figliata",
+      "italiano": "la figliolanza",
+      "spiegazione": "La nidiata di figli: famiglia numerosa e prosperità."
+    },
+    {
+      "n": 10,
+      "napoletano": "'E fasule",
+      "italiano": "i fagioli",
+      "spiegazione": "Il cibo povero per eccellenza; a tombola, anche i segnapunti erano fagioli."
+    },
+    {
+      "n": 11,
+      "napoletano": "'E suricille",
+      "italiano": "i topolini",
+      "spiegazione": "Piccoli, svelti e furbetti come i topi di casa."
+    },
+    {
+      "n": 12,
+      "napoletano": "'E surdate",
+      "italiano": "i soldati",
+      "spiegazione": "Il plotone in marcia: ordine e disciplina."
+    },
+    {
+      "n": 13,
+      "napoletano": "Sant'Antonio",
+      "italiano": "Sant'Antonio",
+      "spiegazione": "Il santo molto amato a Napoli, festeggiato il 13 giugno."
+    },
+    {
+      "n": 14,
+      "napoletano": "'O mbriaco",
+      "italiano": "l'ubriaco",
+      "spiegazione": "Chi ha alzato troppo il gomito."
+    },
+    {
+      "n": 15,
+      "napoletano": "'O guaglione",
+      "italiano": "il ragazzo",
+      "spiegazione": "Il ragazzo: a 15 anni si entra nella giovinezza."
+    },
+    {
+      "n": 16,
+      "napoletano": "'O culo",
+      "italiano": "il sedere",
+      "spiegazione": "Uno dei numeri più ridanciani, ma anche la fortuna sfacciata."
+    },
+    {
+      "n": 17,
+      "napoletano": "'A disgrazia",
+      "italiano": "la disgrazia",
+      "spiegazione": "Il numero sfortunato per eccellenza: in numeri romani XVII si anagramma in VIXI, «ho vissuto», cioè «sono morto»."
+    },
+    {
+      "n": 18,
+      "napoletano": "'O sanghe",
+      "italiano": "il sangue",
+      "spiegazione": "Il sangue: famiglia, parentela, ma anche ferite."
+    },
+    {
+      "n": 19,
+      "napoletano": "'A resata",
+      "italiano": "la risata",
+      "spiegazione": "La risata, il buonumore che scaccia i pensieri."
+    },
+    {
+      "n": 20,
+      "napoletano": "'A festa",
+      "italiano": "la festa",
+      "spiegazione": "Festa, celebrazioni e allegria."
+    },
+    {
+      "n": 21,
+      "napoletano": "'A femmena annura",
+      "italiano": "la donna nuda",
+      "spiegazione": "La donna senza veli, sogno e tentazione."
+    },
+    {
+      "n": 22,
+      "napoletano": "'O pazzo",
+      "italiano": "il pazzo",
+      "spiegazione": "Il matto, chi ha perso la testa."
+    },
+    {
+      "n": 23,
+      "napoletano": "'O scemo",
+      "italiano": "lo scemo",
+      "spiegazione": "Lo sciocco, spesso preso in giro dai compagni."
+    },
+    {
+      "n": 24,
+      "napoletano": "'E gguardie",
+      "italiano": "le guardie",
+      "spiegazione": "Le guardie, i poliziotti di una volta."
+    },
+    {
+      "n": 25,
+      "napoletano": "Natale",
+      "italiano": "il Natale",
+      "spiegazione": "Il 25 dicembre: festa e tombolata in famiglia."
+    },
+    {
+      "n": 26,
+      "napoletano": "Nanninella",
+      "italiano": "Annarella",
+      "spiegazione": "Diminutivo di Anna, in omaggio a sant'Anna, festeggiata il 26 luglio."
+    },
+    {
+      "n": 27,
+      "napoletano": "'O cantero",
+      "italiano": "il vaso da notte",
+      "spiegazione": "Il pitale che stava sotto il letto prima dei bagni in casa."
+    },
+    {
+      "n": 28,
+      "napoletano": "'E zzizze",
+      "italiano": "il seno",
+      "spiegazione": "Le forme femminili, senza tanti giri di parole."
+    },
+    {
+      "n": 29,
+      "napoletano": "'O pate d''e criature",
+      "italiano": "il padre dei bambini",
+      "spiegazione": "Il sesso maschile, chiamato con una perifrasi molto napoletana."
+    },
+    {
+      "n": 30,
+      "napoletano": "'E palle d''o tenente",
+      "italiano": "le palle del tenente",
+      "spiegazione": "Detto malizioso della tradizione, di cui si danno spiegazioni diverse."
+    },
+    {
+      "n": 31,
+      "napoletano": "'O padrone 'e casa",
+      "italiano": "il padrone di casa",
+      "spiegazione": "Il proprietario che a fine mese passa a riscuotere l'affitto."
+    },
+    {
+      "n": 32,
+      "napoletano": "'O capitone",
+      "italiano": "il capitone",
+      "spiegazione": "La grossa anguilla che non manca mai sulla tavola napoletana della vigilia di Natale."
+    },
+    {
+      "n": 33,
+      "napoletano": "Ll'anne 'e Cristo",
+      "italiano": "gli anni di Cristo",
+      "spiegazione": "Trentatré, l'età di Gesù alla morte secondo la tradizione."
+    },
+    {
+      "n": 34,
+      "napoletano": "'A capa",
+      "italiano": "la testa",
+      "spiegazione": "La testa, il ragionamento, ma anche la testardaggine."
+    },
+    {
+      "n": 35,
+      "napoletano": "L'aucelluzzo",
+      "italiano": "l'uccellino",
+      "spiegazione": "L'uccellino che canta; con un doppio senso facile da intuire."
+    },
+    {
+      "n": 36,
+      "napoletano": "'E castagnelle",
+      "italiano": "le nacchere",
+      "spiegazione": "Le castagnette, piccole nacchere delle danze popolari."
+    },
+    {
+      "n": 37,
+      "napoletano": "'O monaco",
+      "italiano": "il frate",
+      "spiegazione": "Il monaco, figura di devozione e di qualche sospetto."
+    },
+    {
+      "n": 38,
+      "napoletano": "'E mazzate",
+      "italiano": "le botte",
+      "spiegazione": "Le percosse: un litigio finito male."
+    },
+    {
+      "n": 39,
+      "napoletano": "'A funa 'nganna",
+      "italiano": "la corda al collo",
+      "spiegazione": "Il cappio: essere in una situazione senza via d'uscita."
+    },
+    {
+      "n": 40,
+      "napoletano": "'A noia",
+      "italiano": "la noia",
+      "spiegazione": "La noia e il fastidio, quando niente va per il verso giusto."
+    },
+    {
+      "n": 41,
+      "napoletano": "'O curtiello",
+      "italiano": "il coltello",
+      "spiegazione": "Il coltello, per la cucina o per una lite."
+    },
+    {
+      "n": 42,
+      "napoletano": "'O ccafè",
+      "italiano": "il caffè",
+      "spiegazione": "Il rito napoletano per eccellenza."
+    },
+    {
+      "n": 43,
+      "napoletano": "'A femmena 'ncopp' 'o balcone",
+      "italiano": "la donna sul balcone",
+      "spiegazione": "La donna affacciata che osserva e commenta la vita del vicolo."
+    },
+    {
+      "n": 44,
+      "napoletano": "'E ccancelle",
+      "italiano": "le carceri",
+      "spiegazione": "Le sbarre, la prigione."
+    },
+    {
+      "n": 45,
+      "napoletano": "'O vino bbuono",
+      "italiano": "il vino buono",
+      "spiegazione": "Il buon vino, piacere della tavola."
+    },
+    {
+      "n": 46,
+      "napoletano": "'E denare",
+      "italiano": "i soldi",
+      "spiegazione": "Il denaro, sogno di ogni giocatore del lotto."
+    },
+    {
+      "n": 47,
+      "napoletano": "'O muorto",
+      "italiano": "il morto",
+      "spiegazione": "Sognare un defunto: per la tradizione porta numeri da giocare."
+    },
+    {
+      "n": 48,
+      "napoletano": "'O muorto che parla",
+      "italiano": "il morto che parla",
+      "spiegazione": "Il defunto che in sogno dà consigli o, meglio ancora, i numeri."
+    },
+    {
+      "n": 49,
+      "napoletano": "'O piezzo 'e carne",
+      "italiano": "il pezzo di carne",
+      "spiegazione": "La carne, cibo dei giorni di festa."
+    },
+    {
+      "n": 50,
+      "napoletano": "'O ppane",
+      "italiano": "il pane",
+      "spiegazione": "Il pane, bene primario."
+    },
+    {
+      "n": 51,
+      "napoletano": "'O ciardino",
+      "italiano": "il giardino",
+      "spiegazione": "Il giardino, luogo di pace e di fiori."
+    },
+    {
+      "n": 52,
+      "napoletano": "'A mamma",
+      "italiano": "la mamma",
+      "spiegazione": "La mamma, figura sacra della famiglia napoletana."
+    },
+    {
+      "n": 53,
+      "napoletano": "'O viecchio",
+      "italiano": "il vecchio",
+      "spiegazione": "L'anziano, saggezza ed esperienza."
+    },
+    {
+      "n": 54,
+      "napoletano": "'O cappiello",
+      "italiano": "il cappello",
+      "spiegazione": "Il cappello, elegante e protettivo."
+    },
+    {
+      "n": 55,
+      "napoletano": "'A museca",
+      "italiano": "la musica",
+      "spiegazione": "La musica e la canzone napoletana."
+    },
+    {
+      "n": 56,
+      "napoletano": "'A caruta",
+      "italiano": "la caduta",
+      "spiegazione": "La caduta, a terra o in disgrazia."
+    },
+    {
+      "n": 57,
+      "napoletano": "'O scartellato",
+      "italiano": "il gobbo",
+      "spiegazione": "Il gobbo, che secondo la superstizione porta fortuna se gli si tocca la gobba."
+    },
+    {
+      "n": 58,
+      "napoletano": "'O paccotto",
+      "italiano": "il pacco",
+      "spiegazione": "Il pacco nel senso di imbroglio, la fregatura."
+    },
+    {
+      "n": 59,
+      "napoletano": "'E pile",
+      "italiano": "i peli",
+      "spiegazione": "I peli, cosa da poco o pignolerie."
+    },
+    {
+      "n": 60,
+      "napoletano": "Se lamenta",
+      "italiano": "si lamenta",
+      "spiegazione": "Chi si lamenta sempre, di tutto."
+    },
+    {
+      "n": 61,
+      "napoletano": "'O cacciatore",
+      "italiano": "il cacciatore",
+      "spiegazione": "Il cacciatore, sempre in cerca di qualcosa o di qualcuno."
+    },
+    {
+      "n": 62,
+      "napoletano": "'O muorto acciso",
+      "italiano": "il morto ammazzato",
+      "spiegazione": "Il morto di morte violenta."
+    },
+    {
+      "n": 63,
+      "napoletano": "'A sposa",
+      "italiano": "la sposa",
+      "spiegazione": "La sposa, il matrimonio e la festa che lo accompagna."
+    },
+    {
+      "n": 64,
+      "napoletano": "'A sciammeria",
+      "italiano": "la marsina",
+      "spiegazione": "L'abito da cerimonia, la giacca a coda di rondine."
+    },
+    {
+      "n": 65,
+      "napoletano": "'O chianto",
+      "italiano": "il pianto",
+      "spiegazione": "Il pianto, il dolore."
+    },
+    {
+      "n": 66,
+      "napoletano": "'E ddoje zetelle",
+      "italiano": "le due zitelle",
+      "spiegazione": "Due donne rimaste senza marito, figura classica dei vicoli."
+    },
+    {
+      "n": 67,
+      "napoletano": "'O totaro int'a chitarra",
+      "italiano": "il totano nella chitarra",
+      "spiegazione": "Allusione all'atto sessuale, nascosta dietro un'immagine marinara."
+    },
+    {
+      "n": 68,
+      "napoletano": "'A zuppa cotta",
+      "italiano": "la zuppa cotta",
+      "spiegazione": "La zuppa di pane cotta, cibo semplice e caldo."
+    },
+    {
+      "n": 69,
+      "napoletano": "Sott'e 'ncoppa",
+      "italiano": "sottosopra",
+      "spiegazione": "Sottosopra, come il numero che capovolto resta uguale; con evidente malizia."
+    },
+    {
+      "n": 70,
+      "napoletano": "'O palazzo",
+      "italiano": "il palazzo",
+      "spiegazione": "Il grande edificio, il potere, la vita del condominio."
+    },
+    {
+      "n": 71,
+      "napoletano": "L'ommo 'e merda",
+      "italiano": "l'uomo di merda",
+      "spiegazione": "L'uomo spregevole, di cui non fidarsi."
+    },
+    {
+      "n": 72,
+      "napoletano": "'A maraviglia",
+      "italiano": "la meraviglia",
+      "spiegazione": "Lo stupore davanti a qualcosa di straordinario."
+    },
+    {
+      "n": 73,
+      "napoletano": "'O spitale",
+      "italiano": "l'ospedale",
+      "spiegazione": "L'ospedale, la malattia e la guarigione."
+    },
+    {
+      "n": 74,
+      "napoletano": "'A rotta",
+      "italiano": "la grotta",
+      "spiegazione": "La grotta, rifugio e mistero."
+    },
+    {
+      "n": 75,
+      "napoletano": "Pullecenella",
+      "italiano": "Pulcinella",
+      "spiegazione": "La maschera napoletana per eccellenza."
+    },
+    {
+      "n": 76,
+      "napoletano": "'A funtana",
+      "italiano": "la fontana",
+      "spiegazione": "La fontana, acqua e vita del quartiere."
+    },
+    {
+      "n": 77,
+      "napoletano": "'E diavule",
+      "italiano": "i diavoli",
+      "spiegazione": "I diavoli; per la forma del numero, nella tombola anche «le gambe delle donne»."
+    },
+    {
+      "n": 78,
+      "napoletano": "'A bella figliola",
+      "italiano": "la bella ragazza",
+      "spiegazione": "La bella ragazza; in alcune versioni più crude, la prostituta."
+    },
+    {
+      "n": 79,
+      "napoletano": "'O mariuolo",
+      "italiano": "il ladro",
+      "spiegazione": "Il ladruncolo, il mariolo."
+    },
+    {
+      "n": 80,
+      "napoletano": "'A vocca",
+      "italiano": "la bocca",
+      "spiegazione": "La bocca: parola, cibo e baci."
+    },
+    {
+      "n": 81,
+      "napoletano": "'E sciure",
+      "italiano": "i fiori",
+      "spiegazione": "I fiori, bellezza e festa."
+    },
+    {
+      "n": 82,
+      "napoletano": "'A tavula 'mbandita",
+      "italiano": "la tavola imbandita",
+      "spiegazione": "La tavola apparecchiata a festa."
+    },
+    {
+      "n": 83,
+      "napoletano": "'O maletiempo",
+      "italiano": "il maltempo",
+      "spiegazione": "Il brutto tempo, in cielo e nella vita."
+    },
+    {
+      "n": 84,
+      "napoletano": "'A chiesa",
+      "italiano": "la chiesa",
+      "spiegazione": "La chiesa, la fede e le sue feste."
+    },
+    {
+      "n": 85,
+      "napoletano": "Ll'aneme 'o priatorio",
+      "italiano": "le anime del purgatorio",
+      "spiegazione": "Le anime pezzentelle, molto venerate a Napoli, a cui si chiedevano grazie e numeri."
+    },
+    {
+      "n": 86,
+      "napoletano": "'A puteca",
+      "italiano": "la bottega",
+      "spiegazione": "La bottega, il lavoro e il commercio."
+    },
+    {
+      "n": 87,
+      "napoletano": "'E perucchie",
+      "italiano": "i pidocchi",
+      "spiegazione": "I pidocchi, fastidio e miseria."
+    },
+    {
+      "n": 88,
+      "napoletano": "'E casecavalle",
+      "italiano": "i caciocavalli",
+      "spiegazione": "I caciocavalli appesi a coppie: il doppio 8 ricorda proprio le loro forme."
+    },
+    {
+      "n": 89,
+      "napoletano": "'A vecchia",
+      "italiano": "la vecchia",
+      "spiegazione": "La donna anziana, nonna e saggia."
+    },
+    {
+      "n": 90,
+      "napoletano": "'A paura",
+      "italiano": "la paura",
+      "spiegazione": "L'ultimo numero e il più famoso: la paura, da cui il detto «novanta, la paura»."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "schema": 1,
+  "giorno": "11-19",
+  "santo": {
+    "nome": "Santa Matilde di Hackeborn",
+    "nota": "Monaca e mistica del XIII secolo nel monastero tedesco di Helfta. Guidava il coro, e per la sua voce era chiamata «l'usignolo di Cristo».",
+    "altri": [
+      "Beata Armida Barelli",
+      "San Fausto di Alessandria",
+      "Sant'Abdia profeta"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale dei servizi igienici (ONU)",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata internazionale dell'uomo",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-19-1863",
+      "anno": 1863,
+      "titolo": "Due minuti a Gettysburg",
+      "testo": "All'inaugurazione del cimitero militare di Gettysburg Abraham Lincoln parla per poco più di due minuti. Sono circa 270 parole, ma diventeranno il discorso più famoso della storia americana.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Discorso di Gettysburg",
+      "indizio": "Domani: un discorso di due minuti batte un discorso di due ore.",
+      "tono": "storico"
+    },
+    {
+      "id": "11-19-1969",
+      "anno": 1969,
+      "titolo": "Pelé, gol numero mille",
+      "testo": "Al Maracanã di Rio, contro il Vasco da Gama, Pelé segna su rigore il suo millesimo gol. Lo stadio esplode e la partita resta ferma a lungo per festeggiarlo.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Pelé",
+      "indizio": "Domani: un rigore al Maracanã vale un numero tondo, molto tondo.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-19-1969b",
+      "anno": 1969,
+      "titolo": "Di nuovo sulla Luna",
+      "testo": "Charles Conrad e Alan Bean dell'Apollo 12 scendono nell'Oceano delle Tempeste: sono il terzo e il quarto uomo a camminare sulla Luna. Atterrano a pochi passi da una sonda arrivata due anni prima.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Apollo 12",
+      "indizio": "Domani: due astronauti vanno a trovare una vecchia sonda sulla Luna.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-19-1977",
+      "anno": 1977,
+      "titolo": "Sadat a Gerusalemme",
+      "testo": "Il presidente egiziano Anwar al-Sadat è il primo capo di Stato arabo a visitare ufficialmente Israele: il giorno dopo parlerà alla Knesset. Da qui partirà la strada verso la pace di Camp David.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Anwar al-Sadat",
+      "indizio": "Domani: un presidente arabo atterra in Israele.",
+      "tono": "storico"
+    },
+    {
+      "id": "11-19-1493",
+      "anno": 1493,
+      "titolo": "Colombo arriva a Porto Rico",
+      "testo": "Nel suo secondo viaggio Cristoforo Colombo approda su un'isola che chiama San Juan Bautista: oggi la conosciamo come Porto Rico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Porto Rico",
+      "tono": "storico"
+    },
+    {
+      "id": "11-19-1942",
+      "anno": 1942,
+      "titolo": "La morsa di Stalingrado",
+      "testo": "Con l'Operazione Urano l'Armata Rossa comincia ad accerchiare la 6ª Armata tedesca a Stalingrado: è la svolta della guerra sul fronte orientale.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Operazione Urano",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-19-1985",
+      "anno": 1985,
+      "titolo": "Reagan e Gorbačëv si stringono la mano",
+      "testo": "A Ginevra Ronald Reagan e Michail Gorbačëv si incontrano per la prima volta. È l'inizio del disgelo che porterà alla fine della guerra fredda.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Vertice di Ginevra (1985)",
+      "tono": "storico"
+    },
+    {
+      "id": "11-19-1999",
+      "anno": 1999,
+      "titolo": "La Cina verso lo spazio",
+      "testo": "La Cina lancia senza equipaggio la Shenzhou 1, prima capsula del suo programma spaziale umano. Quattro anni dopo porterà in orbita il primo astronauta cinese.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 2,
+      "wiki": "Shenzhou 1",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-19-1998",
+      "anno": 1998,
+      "titolo": "Un autoritratto da record",
+      "testo": "All'asta a New York l'Autoritratto senza barba di Van Gogh viene venduto per 71,5 milioni di dollari, uno dei prezzi più alti mai pagati per un quadro fino ad allora.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Autoritratto senza barba",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-19-1959",
+      "anno": 1959,
+      "titolo": "Addio, Edsel",
+      "testo": "Ford annuncia la fine dell'Edsel, l'auto lanciata appena due anni prima: fu un fiasco così clamoroso che negli Stati Uniti il suo nome è diventato sinonimo di flop.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Edsel",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-19-1816",
+      "anno": 1816,
+      "titolo": "Nasce l'Università di Varsavia",
+      "testo": "Viene fondata l'Università di Varsavia, oggi la più grande della Polonia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Università di Varsavia",
+      "tono": "storico"
+    },
+    {
+      "id": "11-19-1984",
+      "anno": 1984,
+      "titolo": "Il disastro di San Juanico",
+      "testo": "Una serie di esplosioni in un deposito di gas a San Juan Ixhuatepec, vicino a Città del Messico, provoca centinaia di vittime.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Disastro di San Juanico",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Carlo I d'Inghilterra",
+      "anno": 1600,
+      "chi": "re d'Inghilterra, decapitato nel 1649",
+      "wiki": "Carlo I d'Inghilterra"
+    },
+    {
+      "nome": "Michail Lomonosov",
+      "anno": 1711,
+      "chi": "scienziato e poeta russo",
+      "wiki": "Michail Vasil'evič Lomonosov"
+    },
+    {
+      "nome": "Ferdinand de Lesseps",
+      "anno": 1805,
+      "chi": "diplomatico francese, promotore del Canale di Suez",
+      "wiki": "Ferdinand de Lesseps"
+    },
+    {
+      "nome": "José Raúl Capablanca",
+      "anno": 1888,
+      "chi": "campione del mondo di scacchi cubano",
+      "wiki": "José Raúl Capablanca"
+    },
+    {
+      "nome": "Indira Gandhi",
+      "anno": 1917,
+      "chi": "prima ministra dell'India",
+      "wiki": "Indira Gandhi"
+    },
+    {
+      "nome": "Jodie Foster",
+      "anno": 1962,
+      "chi": "attrice e regista statunitense, due premi Oscar",
+      "wiki": "Jodie Foster"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Due ore contro due minuti",
+      "testo": "L'oratore principale a Gettysburg non era Lincoln ma Edward Everett, che parlò per circa due ore. Il giorno dopo Everett scrisse a Lincoln che avrebbe voluto avvicinarsi al cuore della questione in due ore quanto il presidente in due minuti."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Nomi scambiati",
+      "testo": "Colombo diede all'isola il nome di San Juan Bautista, mentre la città principale si chiamava Puerto Rico, «porto ricco». Con il tempo i due nomi si sono scambiati: oggi l'isola è Porto Rico e la capitale San Juan."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Il water viene dall'inglese",
+      "testo": "In italiano diciamo water, ma è un pezzo di water-closet, «stanzino dell'acqua». Gli inglesi però non lo usano quasi più: per loro water vuol dire solo acqua."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Da dove viene «Pelé»",
+      "testo": "Il soprannome più famoso del calcio non ha un vero significato. Lo stesso Edson Arantes do Nascimento raccontava che nacque da bambino, storpiando il nome di Bilé, il portiere della squadra in cui giocava il padre."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Souvenir dalla Luna",
+      "testo": "Gli astronauti dell'Apollo 12 smontarono la telecamera della sonda Surveyor 3, ferma sulla Luna da due anni e mezzo, e la riportarono a Terra per studiare come avesse resistito all'ambiente lunare."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il governo del popolo, dal popolo, per il popolo, non scomparirà dalla terra.",
+      "autore": "Abraham Lincoln",
+      "fonte": "Discorso di Gettysburg"
+    },
+    {
+      "testo": "Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.",
+      "autore": "Dante Alighieri",
+      "fonte": "Inferno, canto XXVI"
+    },
+    {
+      "testo": "Il buon giorno si vede dal mattino.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi la dura la vince.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "La storia è maestra di vita (Historia magistra vitae).",
+      "autore": "Cicerone",
+      "fonte": "De oratore"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A pagar e a morir, gh'è sempre tempo.",
+      "regione": "Veneto",
+      "traduzione": "Per pagare e per morire c'è sempre tempo.",
+      "spiegazione": "Le cose spiacevoli è meglio non affrettarle: arriveranno comunque.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Chi vêu vive e stâ san da-i parenti stagghe lontan.",
+      "regione": "Liguria",
+      "traduzione": "Chi vuole vivere e stare sano stia lontano dai parenti.",
+      "spiegazione": "Una frecciata bonaria alle liti di famiglia: un po' di distanza aiuta la pace.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Fernesce tutto a tarallucce e vino.",
+      "regione": "Campania",
+      "traduzione": "Finisce tutto a taralli e vino.",
+      "spiegazione": "Le discussioni si chiudono a tavola, in allegria, senza conseguenze.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": {
+    "testata": "The Sun",
+    "luogo": "Baltimora",
+    "data": "1863-11-21",
+    "evento_id": "11-19-1863",
+    "fonte": "Library of Congress, Rare Book and Special Collections Division, Alfred Whital Stern Collection of Lincolniana",
+    "url": "https://www.loc.gov/item/scsm001130/",
+    "loc_item": "scsm001130",
+    "diritti": "Pubblico dominio (pubblicato nel 1863)",
+    "didascalia": "Due giorni dopo la cerimonia i giornali americani raccontano Gettysburg. All'epoca la notizia era il lungo discorso di Everett: le poche righe di Lincoln, che oggi tutti ricordano, passarono quasi in secondo piano."
+  }
+}

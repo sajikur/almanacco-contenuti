@@ -1,0 +1,271 @@
+{
+  "schema": 1,
+  "giorno": "11-15",
+  "santo": {
+    "nome": "Sant'Alberto Magno",
+    "nota": "Domenicano del XIII secolo, maestro di san Tommaso d'Aquino, studiò di tutto: dalle piante agli astri. Dal 1941 è il patrono di chi si dedica alle scienze naturali.",
+    "altri": [
+      "San Leopoldo III d'Austria",
+      "San Felice di Nola",
+      "San Giuseppe Pignatelli"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "11-15-1971",
+      "anno": 1971,
+      "titolo": "Un cervello in un solo chip",
+      "testo": "Intel presenta il 4004, il primo microprocessore in commercio: un'intera unità di calcolo racchiusa in un chip più piccolo di un'unghia. A guidarne il progetto c'era un ingegnere vicentino, Federico Faggin.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Intel 4004",
+      "indizio": "Domani: un vicentino mette un intero cervello elettronico in un chip.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-15-1859",
+      "anno": 1859,
+      "titolo": "Tutti a scuola",
+      "testo": "Nel Regno di Sardegna viene promulgata la Legge Casati, che rende obbligatoria e gratuita l'istruzione elementare. Estesa poi a tutta l'Italia unita, resterà in vigore fino al 1923.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Legge Casati",
+      "indizio": "Domani: una legge manda a scuola i bambini di un regno, e poi di un Paese intero.",
+      "tono": "storico"
+    },
+    {
+      "id": "11-15-1921",
+      "anno": 1921,
+      "titolo": "Il dirigibile Roma prende il volo",
+      "testo": "Si alza in volo per la prima volta il dirigibile Roma, costruito in Italia su progetto di Umberto Nobile. Lungo più di un campo da calcio, sarà venduto all'esercito degli Stati Uniti.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Roma (dirigibile)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-15-1899",
+      "anno": 1899,
+      "titolo": "Churchill fatto prigioniero",
+      "testo": "Nella guerra anglo-boera un giovane corrispondente di nome Winston Churchill viene catturato dopo l'attacco a un treno blindato; secondo alcune ricostruzioni a prenderlo furono volontari italiani. Fuggirà dopo poche settimane, diventando famoso.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Winston Churchill",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-15-1889",
+      "anno": 1889,
+      "titolo": "Il Brasile diventa repubblica",
+      "testo": "Senza spargimento di sangue un colpo di Stato militare depone l'imperatore Pietro II: il Brasile diventa una repubblica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Proclamazione della Repubblica in Brasile",
+      "tono": "storico"
+    },
+    {
+      "id": "11-15-1956",
+      "anno": 1956,
+      "titolo": "Elvis arriva al cinema",
+      "testo": "Esce negli Stati Uniti Love Me Tender, il primo film con Elvis Presley. Doveva avere un altro titolo: lo cambiarono per sfruttare il successo della canzone.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Fratelli rivali",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-15-2001",
+      "anno": 2001,
+      "titolo": "Arriva la Xbox",
+      "testo": "Microsoft lancia in Nord America la Xbox, la sua prima console per videogiochi, entrando nel campo di Sony e Nintendo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Xbox (console)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-15-1966",
+      "anno": 1966,
+      "titolo": "Gemini, ultimo atto",
+      "testo": "Con l'ammaraggio della Gemini 12 nell'Atlantico si chiude il programma Gemini, la palestra in cui la NASA imparò le manovre necessarie per andare sulla Luna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 2,
+      "wiki": "Gemini 12",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-15-1315",
+      "anno": 1315,
+      "titolo": "Gli svizzeri vincono a Morgarten",
+      "testo": "Un piccolo gruppo di fanti svizzeri sconfigge l'esercito austriaco, molto più numeroso: è una tappa decisiva per la nascita della Confederazione.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Battaglia di Morgarten",
+      "tono": "storico"
+    },
+    {
+      "id": "11-15-1920",
+      "anno": 1920,
+      "titolo": "La prima assemblea della Società delle Nazioni",
+      "testo": "A Ginevra si riunisce per la prima volta l'assemblea della Società delle Nazioni, nata dopo la Grande guerra per evitarne un'altra: è l'antenata dell'ONU.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Società delle Nazioni",
+      "tono": "storico"
+    },
+    {
+      "id": "11-15-1852",
+      "anno": 1852,
+      "titolo": "Un asteroide di nome Parigi",
+      "testo": "Viene scoperto l'asteroide Lutetia, che porta il nome latino di Parigi. Nel 2010 la sonda europea Rosetta lo fotograferà da vicino.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 2,
+      "wiki": "21 Lutetia",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-15-1791",
+      "anno": 1791,
+      "titolo": "Apre Georgetown",
+      "testo": "A Georgetown, oggi quartiere di Washington, apre la più antica università cattolica degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Università di Georgetown",
+      "tono": "storico"
+    },
+    {
+      "id": "11-15-2011",
+      "anno": 2011,
+      "titolo": "Un milione di «mi piace»",
+      "testo": "Il video di Party Rock Anthem degli LMFAO è il primo su YouTube a superare un milione di «mi piace».",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Party Rock Anthem",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "William Herschel",
+      "anno": 1738,
+      "chi": "astronomo e musicista tedesco, scopritore di Urano",
+      "wiki": "William Herschel"
+    },
+    {
+      "nome": "Gerhart Hauptmann",
+      "anno": 1862,
+      "chi": "drammaturgo tedesco, premio Nobel per la letteratura",
+      "wiki": "Gerhart Hauptmann"
+    },
+    {
+      "nome": "Georgia O'Keeffe",
+      "anno": 1887,
+      "chi": "pittrice statunitense",
+      "wiki": "Georgia O'Keeffe"
+    },
+    {
+      "nome": "Petula Clark",
+      "anno": 1932,
+      "chi": "cantante e attrice britannica",
+      "wiki": "Petula Clark"
+    },
+    {
+      "nome": "Daniel Barenboim",
+      "anno": 1942,
+      "chi": "pianista e direttore d'orchestra",
+      "wiki": "Daniel Barenboim"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Il pianeta che doveva chiamarsi Giorgio",
+      "testo": "Quando scoprì Urano, nel 1781, William Herschel voleva chiamarlo Georgium Sidus, «la stella di Giorgio», in onore del re Giorgio III. Gli astronomi di altri Paesi non furono d'accordo e prevalse il nome mitologico."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Nato per una calcolatrice",
+      "testo": "Il 4004 fu progettato per le calcolatrici della giapponese Busicom e conteneva circa 2.300 transistor. Un processore di oggi ne contiene decine di miliardi."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Chip, una scheggia",
+      "testo": "In inglese chip significa «scheggia, frammento»: la stessa parola delle patatine chips. Il nome viene dalla piastrina di silicio tagliata da un disco più grande."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "L'assente illustre",
+      "testo": "La Società delle Nazioni fu ideata soprattutto dal presidente americano Woodrow Wilson, ma gli Stati Uniti non vi entrarono mai: il Senato di Washington votò contro."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Una scatola per le DirectX",
+      "testo": "Il nome Xbox viene da «DirectX Box», la scatola delle DirectX, il software Microsoft per la grafica dei giochi su cui la console era costruita."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Non c'è una via facile dalla terra alle stelle.",
+      "autore": "Seneca",
+      "fonte": "Hercules furens"
+    },
+    {
+      "testo": "La goccia scava la pietra.",
+      "autore": "Ovidio",
+      "fonte": "Epistulae ex Ponto"
+    },
+    {
+      "testo": "Chi va piano va sano e va lontano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi semina vento raccoglie tempesta.",
+      "autore": "Proverbio",
+      "fonte": "dal libro del profeta Osea"
+    },
+    {
+      "testo": "La fatica ostinata vince ogni cosa (Labor omnia vincit improbus).",
+      "autore": "Virgilio",
+      "fonte": "Georgiche"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Cui grans si fâs il stâr.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Con i chicchi si fa lo staio.",
+      "spiegazione": "Chicco dopo chicco si riempie la misura: le grandi cose si costruiscono un poco alla volta.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "A bellessa a nö fa boggî a pûgnatta.",
+      "regione": "Liguria",
+      "traduzione": "La bellezza non fa bollire la pentola.",
+      "spiegazione": "L'aspetto non basta a mettere il pranzo in tavola: servono lavoro e concretezza.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Chi non arde non incende.",
+      "regione": "Toscana",
+      "traduzione": "Chi non brucia non incendia.",
+      "spiegazione": "Chi non ha passione per una cosa non riesce ad appassionare gli altri.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

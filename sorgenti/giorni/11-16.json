@@ -1,0 +1,266 @@
+{
+  "schema": 1,
+  "giorno": "11-16",
+  "santo": {
+    "nome": "Santa Margherita di Scozia",
+    "nota": "Regina di Scozia nell'XI secolo, ricordata per la carità verso i poveri e i pellegrini. È la patrona della Scozia.",
+    "altri": [
+      "Santa Gertrude la Grande",
+      "San Fidenzio di Padova",
+      "Sant'Edmondo di Canterbury"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale per la tolleranza (UNESCO)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-16-1929",
+      "anno": 1929,
+      "titolo": "Nasce la Scuderia Ferrari",
+      "testo": "A Modena Enzo Ferrari fonda la Scuderia Ferrari, nata per far correre in gara le Alfa Romeo dei piloti appassionati. Le auto con il suo nome arriveranno solo nel dopoguerra.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Scuderia Ferrari",
+      "indizio": "Domani: a Modena nasce una squadra con un cavallino sul cofano.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-16-1965",
+      "anno": 1965,
+      "titolo": "Destinazione Venere",
+      "testo": "L'Unione Sovietica lancia la sonda Venera 3. Pochi mesi dopo si schianterà su Venere, diventando il primo oggetto costruito dall'uomo a toccare la superficie di un altro pianeta.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Venera 3",
+      "indizio": "Domani: parte la prima sonda che toccherà un altro pianeta.",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-16-1849",
+      "anno": 1849,
+      "titolo": "Dostoevskij condannato a morte",
+      "testo": "Un tribunale russo condanna a morte il giovane Fëdor Dostoevskij per attività contro il governo. La grazia arriverà all'ultimo istante, quando era già davanti al plotone: una scena che non dimenticherà mai.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Fëdor Dostoevskij",
+      "indizio": "Domani: un grande scrittore russo viene condannato a morte, ma la storia non finisce lì.",
+      "tono": "storico"
+    },
+    {
+      "id": "11-16-2001",
+      "anno": 2001,
+      "titolo": "Harry Potter al cinema",
+      "testo": "Esce negli Stati Uniti Harry Potter e la pietra filosofale, primo film della saga del maghetto: sarà il più visto dell'anno nel mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Harry Potter e la pietra filosofale (film)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-16-1992",
+      "anno": 1992,
+      "titolo": "Cercava un martello, trovò un tesoro",
+      "testo": "In un campo di Hoxne, in Inghilterra, un appassionato di metal detector che cercava un martello perduto trova migliaia di monete d'oro e d'argento romane: è il Tesoro di Hoxne.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Tesoro di Hoxne",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-16-2004",
+      "anno": 2004,
+      "titolo": "Quasi dieci volte il suono",
+      "testo": "Il velivolo sperimentale senza pilota X-43A della NASA vola a circa 11.000 km orari, quasi dieci volte la velocità del suono: un record per un aereo con motore che respira aria.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "NASA X-43",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-16-1907",
+      "anno": 1907,
+      "titolo": "Ecco l'Oklahoma",
+      "testo": "Il Territorio indiano e il Territorio dell'Oklahoma si uniscono: nasce l'Oklahoma, 46° Stato degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Oklahoma",
+      "tono": "storico"
+    },
+    {
+      "id": "11-16-1894",
+      "anno": 1894,
+      "titolo": "Trema la Calabria",
+      "testo": "Un forte terremoto con epicentro vicino a Palmi colpisce la Calabria meridionale e la zona dello Stretto.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto della Calabria meridionale del 1894",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-16-1922",
+      "anno": 1922,
+      "titolo": "Il discorso del bivacco",
+      "testo": "Mussolini presenta alla Camera il suo primo governo dicendo che avrebbe potuto fare di «quest'aula sorda e grigia» un bivacco per le sue squadre.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Discorso del bivacco",
+      "tono": "storico"
+    },
+    {
+      "id": "11-16-1973",
+      "anno": 1973,
+      "titolo": "Ottantaquattro giorni in orbita",
+      "testo": "Parte Skylab 4, ultima missione verso la stazione spaziale americana Skylab: i tre astronauti resteranno lassù 84 giorni, un record per l'epoca.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Skylab 4",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-16-1914",
+      "anno": 1914,
+      "titolo": "Apre la Federal Reserve",
+      "testo": "Negli Stati Uniti inizia a operare la Federal Reserve, la banca centrale americana.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Federal Reserve",
+      "tono": "storico"
+    },
+    {
+      "id": "11-16-1840",
+      "anno": 1840,
+      "titolo": "La Nuova Zelanda fa da sé",
+      "testo": "La Nuova Zelanda viene separata dal Nuovo Galles del Sud e diventa una colonia britannica a sé stante.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Nuova Zelanda",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Tiberio",
+      "anno": -42,
+      "chi": "secondo imperatore romano",
+      "wiki": "Tiberio"
+    },
+    {
+      "nome": "W. C. Handy",
+      "anno": 1873,
+      "chi": "compositore statunitense, detto il padre del blues",
+      "wiki": "W. C. Handy"
+    },
+    {
+      "nome": "Paul Hindemith",
+      "anno": 1895,
+      "chi": "compositore tedesco",
+      "wiki": "Paul Hindemith"
+    },
+    {
+      "nome": "José Saramago",
+      "anno": 1922,
+      "chi": "scrittore portoghese, premio Nobel per la letteratura",
+      "wiki": "José Saramago"
+    },
+    {
+      "nome": "Chinua Achebe",
+      "anno": 1930,
+      "chi": "scrittore nigeriano, autore di Il crollo",
+      "wiki": "Chinua Achebe"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il cavallino di un aviatore",
+      "testo": "Il cavallino rampante era dipinto sull'aereo di Francesco Baracca, asso dell'aviazione nella Prima guerra mondiale. Fu la madre di Baracca a suggerire a Enzo Ferrari di usarlo; il fondo giallo è il colore di Modena."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Tollerare vuol dire sopportare",
+      "testo": "Tolleranza viene dal latino tolerare, «sopportare, reggere un peso». In meccanica la parola indica ancora oggi il margine di errore che un pezzo può avere senza smettere di funzionare."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Venere, un inferno",
+      "testo": "Sulla superficie di Venere la temperatura supera i 450 gradi e la pressione è circa novanta volte quella terrestre: per questo le prime sonde sovietiche smettevano di funzionare durante la discesa."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Bivacco, una guardia in più",
+      "testo": "Bivacco viene dal tedesco svizzero Biwacht, «guardia supplementare»: la sentinella di notte all'aperto. Passato per il francese bivouac, è arrivato a indicare il riposo improvvisato sotto le stelle."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una pietra, due nomi",
+      "testo": "In America il primo Harry Potter si intitola «Sorcerer's Stone» e non «Philosopher's Stone». Per questo le scene in cui si nomina la pietra furono girate due volte, una per ciascun titolo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La bellezza salverà il mondo.",
+      "autore": "Fëdor Dostoevskij",
+      "fonte": "L'idiota"
+    },
+    {
+      "testo": "Affrettati lentamente (Festina lente).",
+      "autore": "Augusto",
+      "fonte": "riferito da Svetonio"
+    },
+    {
+      "testo": "L'appetito vien mangiando.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Sbagliando s'impara.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "La fortuna aiuta gli audaci (Audentes fortuna iuvat).",
+      "autore": "Virgilio",
+      "fonte": "Eneide"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi se fa piegora, el lovo lo magna.",
+      "regione": "Veneto",
+      "traduzione": "Chi si fa pecora, il lupo se lo mangia.",
+      "spiegazione": "Chi si mostra troppo arrendevole finisce per essere sopraffatto.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Meglio auciello 'e campagna ca de gajola.",
+      "regione": "Campania",
+      "traduzione": "Meglio uccello di campagna che di gabbia.",
+      "spiegazione": "Meglio la libertà, anche con qualche rischio, che una sicurezza in gabbia.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "R' picc' abbàst', r'assai uàst'.",
+      "regione": "Basilicata",
+      "traduzione": "Il poco basta, il troppo guasta.",
+      "spiegazione": "Accontentarsi del giusto: l'eccesso rovina anche le cose buone.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}
