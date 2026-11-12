@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "giorno": "12-12",
+  "santo": {
+    "nome": "Madonna di Guadalupe",
+    "nota": "Si celebra l'immagine della Vergine impressa, secondo la tradizione, sul mantello dell'indio Juan Diego nel 1531. È la patrona delle Americhe.",
+    "altri": [
+      "Santo Spiridione",
+      "Sant'Eulalia di Asti",
+      "San Finnian di Clonard"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-12-1901",
+      "anno": 1901,
+      "titolo": "Tre punti attraverso l'oceano",
+      "testo": "A St. John's, in Terranova, Guglielmo Marconi riceve il primo segnale radio arrivato attraverso l'Atlantico dalla Cornovaglia: tre punti, la lettera S dell'alfabeto Morse.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Guglielmo Marconi",
+      "tono": "leggero",
+      "indizio": "Domani: tre piccoli segnali attraversano l'oceano senza fili."
+    },
+    {
+      "id": "12-12-1913",
+      "anno": 1913,
+      "titolo": "Ritrovata la Gioconda",
+      "testo": "A Firenze viene ritrovata la Gioconda, rubata dal Louvre due anni prima: il ladro, l'italiano Vincenzo Peruggia, voleva venderla agli Uffizi.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Furto della Gioconda",
+      "tono": "leggero",
+      "indizio": "Domani: un quadro rubato da due anni ricompare in un albergo di Firenze."
+    },
+    {
+      "id": "12-12-2015",
+      "anno": 2015,
+      "titolo": "L'Accordo di Parigi",
+      "testo": "Alla conferenza sul clima di Parigi 196 Paesi approvano l'accordo per contenere il riscaldamento globale ben sotto i due gradi.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Accordo di Parigi (2015)",
+      "tono": "storico",
+      "indizio": "Domani: quasi tutti i Paesi del mondo si mettono d'accordo sul clima."
+    },
+    {
+      "id": "12-12-1531",
+      "anno": 1531,
+      "titolo": "L'immagine sul mantello",
+      "testo": "Secondo la tradizione, Juan Diego apre il suo mantello davanti al vescovo di Città del Messico: dentro ci sono rose fuori stagione e l'immagine della Madonna di Guadalupe.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Nostra Signora di Guadalupe",
+      "tono": "storico"
+    },
+    {
+      "id": "12-12-1870",
+      "anno": 1870,
+      "titolo": "Il primo deputato nero",
+      "testo": "Joseph Rainey della Carolina del Sud diventa il primo afroamericano a sedere alla Camera dei rappresentanti degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Joseph Rainey",
+      "tono": "storico"
+    },
+    {
+      "id": "12-12-1963",
+      "anno": 1963,
+      "titolo": "Il Kenya indipendente",
+      "testo": "Il Kenya ottiene l'indipendenza dal Regno Unito.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Kenya",
+      "tono": "storico"
+    },
+    {
+      "id": "12-12-2021",
+      "anno": 2021,
+      "titolo": "Verstappen campione",
+      "testo": "All'ultimo giro dell'ultimo Gran Premio, ad Abu Dhabi, Max Verstappen supera Lewis Hamilton e vince il suo primo mondiale di Formula 1.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Max Verstappen",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-12-1865",
+      "anno": 1865,
+      "titolo": "Nasce la Popolare di Milano",
+      "testo": "Viene fondata la Banca Popolare di Milano, fra le prime banche cooperative italiane.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Banca Popolare di Milano",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-12-1897",
+      "anno": 1897,
+      "titolo": "Nasce Belo Horizonte",
+      "testo": "In Brasile viene inaugurata Belo Horizonte, una delle prime città progettate a tavolino del Paese.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Belo Horizonte",
+      "tono": "storico"
+    },
+    {
+      "id": "12-12-1787",
+      "anno": 1787,
+      "titolo": "La Pennsylvania ratifica",
+      "testo": "La Pennsylvania è il secondo Stato a ratificare la Costituzione degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Pennsylvania",
+      "tono": "storico"
+    },
+    {
+      "id": "12-12-1969",
+      "anno": 1969,
+      "titolo": "Piazza Fontana",
+      "testo": "A Milano una bomba esplode nella Banca nazionale dell'agricoltura, in piazza Fontana: 17 morti. Comincia la stagione delle stragi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Strage di piazza Fontana",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Gustave Flaubert",
+      "anno": 1821,
+      "chi": "scrittore francese, autore di Madame Bovary",
+      "wiki": "Gustave Flaubert"
+    },
+    {
+      "nome": "Edvard Munch",
+      "anno": 1863,
+      "chi": "pittore norvegese dell'Urlo",
+      "wiki": "Edvard Munch"
+    },
+    {
+      "nome": "Frank Sinatra",
+      "anno": 1915,
+      "chi": "cantante e attore, «The Voice»",
+      "wiki": "Frank Sinatra"
+    },
+    {
+      "nome": "Dionne Warwick",
+      "anno": 1940,
+      "chi": "cantante statunitense",
+      "wiki": "Dionne Warwick"
+    },
+    {
+      "nome": "Emerson Fittipaldi",
+      "anno": 1946,
+      "chi": "pilota brasiliano, due volte campione di Formula 1",
+      "wiki": "Emerson Fittipaldi"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "Un'antenna appesa a un aquilone",
+      "testo": "Per ricevere il segnale a Terranova Marconi alzò l'antenna con un aquilone, perché il vento aveva già distrutto un pallone. Ascoltò con una cuffia i tre deboli «tic» arrivati dall'Inghilterra."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Nascosta in un baule",
+      "testo": "Vincenzo Peruggia, un imbianchino che aveva lavorato al Louvre, uscì con la Gioconda sotto il camice e la tenne due anni in un baule a Parigi. Diceva di volerla restituire all'Italia."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Più di un Urlo",
+      "testo": "L'Urlo di Munch non è un quadro solo: ne esistono diverse versioni, dipinte o disegnate dall'artista in anni diversi."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La pittura è una poesia che si vede e non si sente.",
+      "autore": "Leonardo da Vinci",
+      "fonte": "Trattato della pittura"
+    },
+    {
+      "testo": "Chi cerca trova.",
+      "autore": "Proverbio",
+      "fonte": "dal Vangelo"
+    },
+    {
+      "testo": "Il silenzio è d'oro.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "L'onōr nol fās bulī la cite.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "L'onore non fa bollire la pentola.",
+      "spiegazione": "I titoli e le lodi non bastano a mettere il pranzo in tavola.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "A meglia parola è chilla ca 'un se dice.",
+      "regione": "Calabria",
+      "traduzione": "La parola migliore è quella che non si dice.",
+      "spiegazione": "Spesso tacere è la scelta più saggia.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

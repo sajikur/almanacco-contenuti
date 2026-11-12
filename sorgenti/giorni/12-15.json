@@ -1,0 +1,241 @@
+{
+  "schema": 1,
+  "giorno": "12-15",
+  "santo": {
+    "nome": "Santa Maria Crocifissa Di Rosa",
+    "nota": "Paola Di Rosa, bresciana dell'Ottocento, curò i malati durante il colera e fondò le Ancelle della Carità.",
+    "altri": [
+      "San Valeriano",
+      "Santa Cristiana",
+      "San Massimino di Micy"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno di Zamenhof (festa dell'esperanto)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-15-1896",
+      "anno": 1896,
+      "titolo": "Si misura la pressione",
+      "testo": "Il medico piemontese Scipione Riva-Rocci presenta lo sfigmomanometro a bracciale, lo strumento con cui ancora oggi si misura la pressione del sangue.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Scipione Riva-Rocci",
+      "tono": "leggero",
+      "indizio": "Domani: un medico italiano inventa lo strumento che ti stringe il braccio dal dottore."
+    },
+    {
+      "id": "12-15-1964",
+      "anno": 1964,
+      "titolo": "Il primo satellite italiano",
+      "testo": "Dalla base americana di Wallops parte il San Marco 1: l'Italia è il terzo Paese, dopo Unione Sovietica e Stati Uniti, a mettere in orbita un satellite tutto suo.",
+      "ambito": "italia",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "San Marco 1",
+      "tono": "leggero",
+      "indizio": "Domani: l'Italia mette in orbita il suo primo satellite."
+    },
+    {
+      "id": "12-15-1939",
+      "anno": 1939,
+      "titolo": "Via col vento",
+      "testo": "Ad Atlanta va in scena la prima di Via col vento, con Vivien Leigh e Clark Gable: vincerà otto Oscar.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Via col vento (film)",
+      "tono": "leggero",
+      "indizio": "Domani: debutta un kolossal che durerà quasi quattro ore."
+    },
+    {
+      "id": "12-15-1970",
+      "anno": 1970,
+      "titolo": "Venera 7 su Venere",
+      "testo": "La sonda sovietica Venera 7 atterra su Venere e trasmette per una ventina di minuti: è il primo atterraggio riuscito su un altro pianeta.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Venera 7",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda tocca terra su Venere e riesce a mandare un messaggio."
+    },
+    {
+      "id": "12-15-2001",
+      "anno": 2001,
+      "titolo": "Riapre la Torre di Pisa",
+      "testo": "Dopo undici anni di lavori per raddrizzarla un poco, la Torre pendente di Pisa riapre ai visitatori.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Torre di Pisa",
+      "tono": "leggero",
+      "indizio": "Domani: una torre famosa per pendere riapre, appena un po' più dritta."
+    },
+    {
+      "id": "12-15-1974",
+      "anno": 1974,
+      "titolo": "Frankenstein Junior",
+      "testo": "Esce negli Stati Uniti Frankenstein Junior di Mel Brooks.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Frankenstein Junior",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-15-1979",
+      "anno": 1979,
+      "titolo": "Nasce Rete 3",
+      "testo": "Comincia a trasmettere la terza rete della Rai, con il TG3 e i telegiornali regionali.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Rai 3",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-15-1995",
+      "anno": 1995,
+      "titolo": "La sentenza Bosman",
+      "testo": "La Corte di giustizia europea dà ragione al calciatore belga Jean-Marc Bosman: i giocatori a fine contratto possono cambiare squadra liberamente.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Sentenza Bosman",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-15-1791",
+      "anno": 1791,
+      "titolo": "Il Bill of Rights",
+      "testo": "Entrano in vigore i primi dieci emendamenti della Costituzione americana, la Carta dei diritti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Carta dei diritti degli Stati Uniti d'America",
+      "tono": "storico"
+    },
+    {
+      "id": "12-15-1840",
+      "anno": 1840,
+      "titolo": "Napoleone torna a Parigi",
+      "testo": "Le spoglie di Napoleone, riportate da Sant'Elena, vengono sepolte agli Invalides.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Napoleone Bonaparte",
+      "tono": "storico"
+    },
+    {
+      "id": "12-15-2000",
+      "anno": 2000,
+      "titolo": "Chiude Černobyl'",
+      "testo": "Viene spento l'ultimo reattore ancora attivo della centrale nucleare di Černobyl'.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Centrale nucleare di Černobyl'",
+      "tono": "storico"
+    },
+    {
+      "id": "12-15-1965",
+      "anno": 1965,
+      "titolo": "Gemini 6A",
+      "testo": "Parte la Gemini 6A, che si avvicinerà a pochi metri dalla Gemini 7: il primo appuntamento fra due astronavi in orbita.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Gemini 6A",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Nerone",
+      "anno": 37,
+      "chi": "imperatore romano",
+      "wiki": "Nerone"
+    },
+    {
+      "nome": "Gustave Eiffel",
+      "anno": 1832,
+      "chi": "ingegnere francese della torre di Parigi",
+      "wiki": "Gustave Eiffel"
+    },
+    {
+      "nome": "Antoine Henri Becquerel",
+      "anno": 1852,
+      "chi": "fisico francese, scoprì la radioattività",
+      "wiki": "Antoine Henri Becquerel"
+    },
+    {
+      "nome": "Ludwik Zamenhof",
+      "anno": 1859,
+      "chi": "medico polacco, inventore dell'esperanto",
+      "wiki": "Ludwik Zamenhof"
+    },
+    {
+      "nome": "Edna O'Brien",
+      "anno": 1930,
+      "chi": "scrittrice irlandese",
+      "wiki": "Edna O'Brien"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "RR in cartella",
+      "testo": "Ancora oggi in molte cartelle cliniche la pressione arteriosa è indicata con la sigla PA o RR: le due erre sono le iniziali di Riva-Rocci."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Il dottore che spera",
+      "testo": "Zamenhof pubblicò il primo libro della nuova lingua nel 1887 con lo pseudonimo Doktoro Esperanto, «il dottore che spera»: da lì il nome della lingua."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Raddrizzata di quaranta centimetri",
+      "testo": "Con i lavori finiti nel 2001 la Torre di Pisa è stata raddrizzata di circa quaranta centimetri: abbastanza per tenerla in piedi per secoli, non abbastanza da farle perdere la sua famosa pendenza."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Quale artista muore con me!",
+      "autore": "Nerone",
+      "fonte": "secondo Svetonio"
+    },
+    {
+      "testo": "Dopotutto, domani è un altro giorno.",
+      "autore": "Margaret Mitchell",
+      "fonte": "Via col vento"
+    },
+    {
+      "testo": "Il riso fa buon sangue.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Pazzo chi joca e pazzo chi nun ghioca.",
+      "regione": "Campania",
+      "traduzione": "Pazzo chi gioca e pazzo chi non gioca.",
+      "spiegazione": "Al gioco del lotto c'è chi si rovina e chi rimpiange di non aver tentato.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "Cul timp e cu la pae si madressin i gnespui.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Col tempo e con la paglia maturano le nespole.",
+      "spiegazione": "Ogni cosa ha bisogno del suo tempo: con pazienza tutto matura.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

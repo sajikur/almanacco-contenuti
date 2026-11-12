@@ -1,0 +1,237 @@
+{
+  "schema": 1,
+  "giorno": "12-11",
+  "santo": {
+    "nome": "San Damaso I",
+    "nota": "Papa nel IV secolo: affidò a san Girolamo la traduzione della Bibbia in latino, la Vulgata, e fece incidere bellissime iscrizioni sulle tombe dei martiri nelle catacombe.",
+    "altri": [
+      "San Savino di Piacenza",
+      "San Daniele lo Stilita",
+      "Santa Maravillas de Jesús"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale della montagna",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giorno del tango (Argentina)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-11-1972",
+      "anno": 1972,
+      "titolo": "L'ultimo allunaggio",
+      "testo": "Il modulo lunare dell'Apollo 17 si posa nella valle di Taurus-Littrow: Eugene Cernan e Harrison Schmitt sono finora gli ultimi uomini ad aver camminato sulla Luna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Apollo 17",
+      "tono": "leggero",
+      "indizio": "Domani: due uomini scendono sulla Luna, e dopo di loro nessuno ci tornerà per più di mezzo secolo."
+    },
+    {
+      "id": "12-11-1946",
+      "anno": 1946,
+      "titolo": "Nasce l'UNICEF",
+      "testo": "L'Assemblea delle Nazioni Unite crea l'UNICEF, il fondo per aiutare i bambini dei Paesi devastati dalla guerra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "UNICEF",
+      "tono": "storico",
+      "indizio": "Domani: le Nazioni Unite creano un fondo tutto dedicato ai bambini."
+    },
+    {
+      "id": "12-11-1997",
+      "anno": 1997,
+      "titolo": "Il Protocollo di Kyoto",
+      "testo": "A Kyoto viene approvato il protocollo con cui i Paesi industrializzati si impegnano a ridurre le emissioni di gas serra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Protocollo di Kyoto",
+      "tono": "storico",
+      "indizio": "Domani: in Giappone il mondo firma il primo impegno contro il riscaldamento globale."
+    },
+    {
+      "id": "12-11-1970",
+      "anno": 1970,
+      "titolo": "Gli Aristogatti",
+      "testo": "Esce negli Stati Uniti Gli Aristogatti, il cartone dei gatti parigini che vogliono fare jazz.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Gli Aristogatti",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-11-1981",
+      "anno": 1981,
+      "titolo": "L'ultimo incontro di Ali",
+      "testo": "Alle Bahamas Muhammad Ali perde contro Trevor Berbick e chiude la sua carriera di pugile.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Muhammad Ali",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-11-1936",
+      "anno": 1936,
+      "titolo": "Giorgio VI re",
+      "testo": "Dopo l'abdicazione del fratello Edoardo VIII, sale al trono Giorgio VI, il re balbuziente del film Il discorso del re.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Giorgio VI del Regno Unito",
+      "tono": "storico"
+    },
+    {
+      "id": "12-11-1937",
+      "anno": 1937,
+      "titolo": "L'Italia lascia la Società delle Nazioni",
+      "testo": "L'Italia fascista esce dalla Società delle Nazioni, che l'aveva sanzionata per la guerra d'Etiopia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Società delle Nazioni",
+      "tono": "storico"
+    },
+    {
+      "id": "12-11-2001",
+      "anno": 2001,
+      "titolo": "La Cina nel commercio mondiale",
+      "testo": "La Repubblica Popolare Cinese entra nell'Organizzazione mondiale del commercio.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Organizzazione mondiale del commercio",
+      "tono": "storico"
+    },
+    {
+      "id": "12-11-2008",
+      "anno": 2008,
+      "titolo": "Arrestato Madoff",
+      "testo": "A New York viene arrestato Bernard Madoff: la sua finanziaria era un'enorme catena di Sant'Antonio da decine di miliardi di dollari.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Bernard Madoff",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-11-1792",
+      "anno": 1792,
+      "titolo": "Il processo al re",
+      "testo": "A Parigi comincia il processo a Luigi XVI, accusato di tradimento dalla Convenzione.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Processo a Luigi XVI",
+      "tono": "storico"
+    },
+    {
+      "id": "12-11-1955",
+      "anno": 1955,
+      "titolo": "Nasce il Partito Radicale",
+      "testo": "Dalla sinistra del Partito Liberale nasce il Partito Radicale.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Partito Radicale (Italia)",
+      "tono": "storico"
+    },
+    {
+      "id": "12-11-1295",
+      "anno": 1295,
+      "titolo": "Federico III re di Sicilia",
+      "testo": "A Palermo Federico d'Aragona viene proclamato re di Sicilia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Federico III di Sicilia",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Hector Berlioz",
+      "anno": 1803,
+      "chi": "compositore francese, Sinfonia fantastica",
+      "wiki": "Hector Berlioz"
+    },
+    {
+      "nome": "Robert Koch",
+      "anno": 1843,
+      "chi": "medico tedesco, scoprì il bacillo della tubercolosi",
+      "wiki": "Robert Koch"
+    },
+    {
+      "nome": "Carlo Ponti",
+      "anno": 1912,
+      "chi": "produttore cinematografico milanese",
+      "wiki": "Carlo Ponti"
+    },
+    {
+      "nome": "Aleksandr Solženicyn",
+      "anno": 1918,
+      "chi": "scrittore russo, premio Nobel",
+      "wiki": "Aleksandr Solženicyn"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Un geologo sulla Luna",
+      "testo": "Harrison Schmitt, dell'Apollo 17, è stato l'unico scienziato di professione a camminare sulla Luna: era un geologo, e scelse i campioni di roccia con occhio da esperto."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La giornata delle montagne",
+      "testo": "Le Nazioni Unite celebrano oggi la Giornata internazionale della montagna. In Italia le montagne coprono più di un terzo del territorio, e le Dolomiti sono patrimonio dell'umanità dal 2009."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Il bacillo di Koch",
+      "testo": "Robert Koch annunciò la scoperta del batterio della tubercolosi il 24 marzo 1882: per questo il 24 marzo è la Giornata mondiale della tubercolosi."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Per correr miglior acque alza le vele omai la navicella del mio ingegno.",
+      "autore": "Dante Alighieri",
+      "fonte": "Purgatorio, canto I"
+    },
+    {
+      "testo": "Ogni salita ha la sua discesa.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi ha più giudizio lo usi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Aqua turbia, vadagno de pescaori.",
+      "regione": "Veneto",
+      "traduzione": "Acqua torbida, guadagno dei pescatori.",
+      "spiegazione": "Nella confusione c'è sempre qualcuno che ci guadagna.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Crabittu rassu brincat in mandra.",
+      "regione": "Sardegna",
+      "traduzione": "Il capretto grasso salta nel gregge.",
+      "spiegazione": "Chi sta bene si fa notare, e salta più degli altri.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

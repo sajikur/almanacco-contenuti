@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "giorno": "12-13",
+  "santo": {
+    "nome": "Santa Lucia",
+    "nota": "Martire di Siracusa all'inizio del IV secolo, protettrice degli occhi e della vista. In molte zone del Nord, nella notte fra il 12 e il 13 dicembre, porta i doni ai bambini.",
+    "altri": [
+      "Sant'Antioco di Sulcis",
+      "Sant'Autberto di Cambrai",
+      "San Giudoco"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno della Repubblica (Malta)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-13-1294",
+      "anno": 1294,
+      "titolo": "Il gran rifiuto",
+      "testo": "A Napoli papa Celestino V, l'eremita Pietro da Morrone, rinuncia al pontificato dopo appena cinque mesi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Papa Celestino V",
+      "tono": "storico",
+      "indizio": "Domani: un eremita diventato papa decide di tornare eremita."
+    },
+    {
+      "id": "12-13-1545",
+      "anno": 1545,
+      "titolo": "Comincia il Concilio di Trento",
+      "testo": "Nella cattedrale di San Vigilio, a Trento, si apre il concilio che riformerà la Chiesa cattolica: durerà diciotto anni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Concilio di Trento",
+      "tono": "storico",
+      "indizio": "Domani: in una città fra le Alpi si apre un concilio che durerà diciotto anni."
+    },
+    {
+      "id": "12-13-1577",
+      "anno": 1577,
+      "titolo": "Drake salpa",
+      "testo": "Francis Drake parte da Plymouth con cinque navi: tornerà tre anni dopo, dopo aver fatto il giro del mondo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Francis Drake",
+      "tono": "leggero",
+      "indizio": "Domani: un corsaro inglese parte per un viaggio che lo porterà attorno al mondo."
+    },
+    {
+      "id": "12-13-1972",
+      "anno": 1972,
+      "titolo": "Gli ultimi passi sulla Luna",
+      "testo": "Gene Cernan e Harrison Schmitt escono per l'ultima passeggiata lunare dell'Apollo 17: prima di risalire Cernan lascia sulla polvere le iniziali della figlia.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Apollo 17",
+      "tono": "leggero",
+      "indizio": "Domani: un astronauta scrive il nome di sua figlia nella polvere della Luna."
+    },
+    {
+      "id": "12-13-1642",
+      "anno": 1642,
+      "titolo": "Tasman in Nuova Zelanda",
+      "testo": "Abel Tasman è il primo europeo a raggiungere la Nuova Zelanda.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Abel Tasman",
+      "tono": "storico"
+    },
+    {
+      "id": "12-13-1836",
+      "anno": 1836,
+      "titolo": "Brucia la Fenice",
+      "testo": "Un incendio distrugge il teatro La Fenice di Venezia: come il suo nome promette, rinascerà dalle ceneri in poco più di un anno.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Teatro La Fenice",
+      "tono": "storico"
+    },
+    {
+      "id": "12-13-1250",
+      "anno": 1250,
+      "titolo": "Muore Federico II",
+      "testo": "Nel castello di Fiorentino, in Puglia, muore l'imperatore Federico II di Svevia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Federico II di Svevia",
+      "tono": "storico"
+    },
+    {
+      "id": "12-13-2002",
+      "anno": 2002,
+      "titolo": "L'Europa si allarga",
+      "testo": "A Copenaghen l'Unione europea annuncia l'ingresso di dieci nuovi Paesi, quasi tutti dell'Est.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Allargamento dell'Unione europea del 2004",
+      "tono": "storico"
+    },
+    {
+      "id": "12-13-2003",
+      "anno": 2003,
+      "titolo": "Catturato Saddam",
+      "testo": "Vicino a Tikrit i soldati americani trovano Saddam Hussein nascosto in una buca.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Saddam Hussein",
+      "tono": "storico"
+    },
+    {
+      "id": "12-13-1981",
+      "anno": 1981,
+      "titolo": "Legge marziale in Polonia",
+      "testo": "Il generale Jaruzelski proclama lo stato di guerra in Polonia per fermare Solidarność.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Legge marziale in Polonia",
+      "tono": "storico"
+    },
+    {
+      "id": "12-13-1981b",
+      "anno": 1981,
+      "titolo": "Il Flamengo di Zico",
+      "testo": "A Tokyo il Flamengo di Zico batte il Liverpool 3-0 e vince la Coppa Intercontinentale.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Coppa Intercontinentale 1981",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-13-1982",
+      "anno": 1982,
+      "titolo": "La frana di Ancona",
+      "testo": "Una grande frana colpisce un quartiere di Ancona: migliaia di persone devono lasciare la casa, ma non ci sono vittime.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Frana di Ancona del 1982",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Heinrich Heine",
+      "anno": 1797,
+      "chi": "poeta tedesco",
+      "wiki": "Heinrich Heine"
+    },
+    {
+      "nome": "Werner von Siemens",
+      "anno": 1816,
+      "chi": "inventore e industriale tedesco",
+      "wiki": "Werner von Siemens"
+    },
+    {
+      "nome": "Dick Van Dyke",
+      "anno": 1925,
+      "chi": "attore, lo spazzacamino di Mary Poppins",
+      "wiki": "Dick Van Dyke"
+    },
+    {
+      "nome": "Jamie Foxx",
+      "anno": 1967,
+      "chi": "attore e cantante statunitense",
+      "wiki": "Jamie Foxx"
+    },
+    {
+      "nome": "Taylor Swift",
+      "anno": 1989,
+      "chi": "cantautrice statunitense",
+      "wiki": "Taylor Swift"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Il giorno più corto che ci sia",
+      "testo": "Il proverbio su santa Lucia viene dal vecchio calendario giuliano: prima della riforma del 1582 il solstizio d'inverno cadeva proprio intorno al 13 dicembre. Oggi il giorno più corto è il 21."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una fenice che rinasce",
+      "testo": "La Fenice di Venezia è bruciata due volte, nel 1836 e nel 1996, e due volte è risorta: il nome scelto nel Settecento si è rivelato profetico."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il papa del gran rifiuto",
+      "testo": "Si pensa che Dante alluda a Celestino V nell'Inferno, fra gli ignavi, parlando di colui che fece «per viltade il gran rifiuto»."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Santa Lucia, il giorno più corto che ci sia.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Colui che fece per viltade il gran rifiuto.",
+      "autore": "Dante Alighieri",
+      "fonte": "Inferno, canto III"
+    },
+    {
+      "testo": "Chi si contenta gode.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A mëgio mëxinn-a l'è o dechêutto de cantinn-a.",
+      "regione": "Liguria",
+      "traduzione": "La miglior medicina è il decotto di cantina.",
+      "spiegazione": "Per il contadino ligure, un buon bicchiere di vino vale più di tante medicine.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Lu muttu anticu, È lu Vanceliu nicu.",
+      "regione": "Sicilia",
+      "traduzione": "Il motto antico è il piccolo Vangelo.",
+      "spiegazione": "I proverbi degli antichi valgono come piccole verità da seguire.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

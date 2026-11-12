@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "giorno": "12-14",
+  "santo": {
+    "nome": "San Giovanni della Croce",
+    "nota": "Carmelitano spagnolo del Cinquecento, riformatore dell'ordine con santa Teresa d'Avila, poeta mistico della «notte oscura» e dottore della Chiesa.",
+    "altri": [
+      "Sant'Agnello di Napoli",
+      "Santa Droside",
+      "San Folcuino"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-14-1911",
+      "anno": 1911,
+      "titolo": "Amundsen al Polo Sud",
+      "testo": "Il norvegese Roald Amundsen e quattro compagni sono i primi uomini a raggiungere il Polo Sud, con sci e cani da slitta.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Roald Amundsen",
+      "tono": "leggero",
+      "indizio": "Domani: cinque uomini con le slitte arrivano dove nessuno era mai stato."
+    },
+    {
+      "id": "12-14-1900",
+      "anno": 1900,
+      "titolo": "Nasce il quanto",
+      "testo": "A Berlino Max Planck presenta l'idea che l'energia della luce sia fatta di piccoli pacchetti, i quanti: è il giorno di nascita della fisica quantistica.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Max Planck",
+      "tono": "leggero",
+      "indizio": "Domani: un fisico tedesco scopre che l'energia arriva a pacchetti."
+    },
+    {
+      "id": "12-14-1955",
+      "anno": 1955,
+      "titolo": "L'Italia entra all'ONU",
+      "testo": "Dopo anni di attesa l'Italia diventa membro delle Nazioni Unite, insieme ad altri quindici Paesi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Italia e Nazioni Unite",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia prende posto per la prima volta all'Assemblea delle Nazioni Unite."
+    },
+    {
+      "id": "12-14-2003",
+      "anno": 2003,
+      "titolo": "Riapre la Fenice",
+      "testo": "Dopo l'incendio del 1996, a Venezia riapre il teatro La Fenice, ricostruito «com'era e dov'era».",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Teatro La Fenice",
+      "tono": "leggero",
+      "indizio": "Domani: un teatro veneziano risorge dalle ceneri, ancora una volta."
+    },
+    {
+      "id": "12-14-1782",
+      "anno": 1782,
+      "titolo": "Il primo pallone dei Montgolfier",
+      "testo": "Ad Annonay i fratelli Montgolfier fanno salire all'aperto il loro primo pallone ad aria calda, senza nessuno a bordo.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Fratelli Montgolfier",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-14-1902",
+      "anno": 1902,
+      "titolo": "Un cavo sotto il Pacifico",
+      "testo": "Viene posato il primo cavo telegrafico sottomarino nell'oceano Pacifico, fra San Francisco e le Hawaii.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Cavo sottomarino",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-14-1946",
+      "anno": 1946,
+      "titolo": "L'ONU sceglie New York",
+      "testo": "L'Assemblea delle Nazioni Unite decide di stabilire la propria sede a New York, su un terreno donato da John D. Rockefeller Jr.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Sede delle Nazioni Unite",
+      "tono": "storico"
+    },
+    {
+      "id": "12-14-1825",
+      "anno": 1825,
+      "titolo": "I decabristi",
+      "testo": "A San Pietroburgo un gruppo di ufficiali si ribella al nuovo zar chiedendo una costituzione: la rivolta dei decabristi fallisce in poche ore.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rivolta decabrista",
+      "tono": "storico"
+    },
+    {
+      "id": "12-14-1934",
+      "anno": 1934,
+      "titolo": "Stanlio e Ollio nel paese dei balocchi",
+      "testo": "Esce Babes in Toyland, il film natalizio con Stanlio e Ollio fra i personaggi delle filastrocche.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Nel paese delle meraviglie (film 1934)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-14-1960",
+      "anno": 1960,
+      "titolo": "Nasce l'OCSE",
+      "testo": "A Parigi venti Paesi firmano la convenzione che istituisce l'Organizzazione per la cooperazione e lo sviluppo economico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "OCSE",
+      "tono": "storico"
+    },
+    {
+      "id": "12-14-1939",
+      "anno": 1939,
+      "titolo": "L'URSS espulsa",
+      "testo": "Dopo l'attacco alla Finlandia, l'Unione Sovietica viene espulsa dalla Società delle Nazioni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Società delle Nazioni",
+      "tono": "storico"
+    },
+    {
+      "id": "12-14-1287",
+      "anno": 1287,
+      "titolo": "L'alluvione di Santa Lucia",
+      "testo": "Una tempesta rompe le dighe dello Zuiderzee, nei Paesi Bassi, con decine di migliaia di vittime.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Inondazione di Santa Lucia",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Nostradamus",
+      "anno": 1503,
+      "chi": "medico e astrologo francese delle profezie",
+      "wiki": "Nostradamus"
+    },
+    {
+      "nome": "Tycho Brahe",
+      "anno": 1546,
+      "chi": "astronomo danese",
+      "wiki": "Tycho Brahe"
+    },
+    {
+      "nome": "Paul Éluard",
+      "anno": 1895,
+      "chi": "poeta surrealista francese",
+      "wiki": "Paul Éluard"
+    },
+    {
+      "nome": "Shirley Jackson",
+      "anno": 1916,
+      "chi": "scrittrice statunitense",
+      "wiki": "Shirley Jackson"
+    },
+    {
+      "nome": "Jane Birkin",
+      "anno": 1946,
+      "chi": "attrice e cantante",
+      "wiki": "Jane Birkin"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Una lettera per Scott",
+      "testo": "Al Polo Sud Amundsen lasciò una tenda con una lettera per il re di Norvegia, affidata a chi fosse arrivato dopo. Robert Scott la trovò cinque settimane più tardi."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Un trucco matematico",
+      "testo": "Planck stesso considerava i suoi quanti poco più di un artificio di calcolo. Fu Einstein, cinque anni dopo, a prenderli sul serio per spiegare la luce."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Il naso d'oro di Tycho",
+      "testo": "L'astronomo Tycho Brahe, nato oggi, perse parte del naso in un duello da studente e portò per tutta la vita una protesi di metallo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Alla sera della vita saremo giudicati sull'amore.",
+      "autore": "San Giovanni della Croce",
+      "fonte": "Detti di luce e d'amore"
+    },
+    {
+      "testo": "Non bisogna mai disperare (Nil desperandum).",
+      "autore": "Orazio",
+      "fonte": "Odi"
+    },
+    {
+      "testo": "Volere è potere.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi pon cavolo d'aprile, tutto l'anno se ne ride.",
+      "regione": "Toscana",
+      "traduzione": "Chi pianta il cavolo d'aprile, tutto l'anno ne ride.",
+      "spiegazione": "Detto ironico: il cavolo piantato in aprile cresce male, e chi lo pianta resta a mani vuote.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Bone so 'li ffiche e pure li cerase, ma trist'a quera panza ca pane nun ge trase.",
+      "regione": "Basilicata",
+      "traduzione": "Buoni sono i fichi e anche le ciliegie, ma triste la pancia in cui non entra il pane.",
+      "spiegazione": "Le golosità vanno bene, ma è il pane che sfama davvero.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}
