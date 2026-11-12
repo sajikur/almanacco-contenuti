@@ -1,0 +1,219 @@
+{
+  "schema": 1,
+  "giorno": "01-02",
+  "santo": {
+    "nome": "Santi Basilio Magno e Gregorio Nazianzeno",
+    "nota": "Due amici di gioventù, vescovi in Cappadocia nel IV secolo e dottori della Chiesa. Basilio fondò ospedali e regole per i monaci.",
+    "altri": [
+      "San Defendente di Tebe",
+      "San Telesforo papa",
+      "San Macario d'Alessandria"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-02-1959",
+      "anno": 1959,
+      "titolo": "Luna 1",
+      "testo": "L'Unione Sovietica lancia Luna 1: manca la Luna, ma diventa il primo oggetto costruito dall'uomo a sfuggire alla gravità terrestre e a girare attorno al Sole.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Luna 1",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda sovietica manca il bersaglio e diventa il primo pianeta artificiale."
+    },
+    {
+      "id": "01-02-1839",
+      "anno": 1839,
+      "titolo": "La prima foto della Luna",
+      "testo": "Louis Daguerre fotografa per la prima volta la Luna con il suo dagherrotipo.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Louis Daguerre",
+      "tono": "leggero",
+      "indizio": "Domani: l'inventore della fotografia punta l'obiettivo verso il cielo notturno."
+    },
+    {
+      "id": "01-02-533",
+      "anno": 533,
+      "titolo": "Il primo papa che cambia nome",
+      "testo": "Il prete romano Mercurio viene eletto papa e sceglie il nome di Giovanni II: non gli sembrava giusto un papa con il nome di un dio pagano.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Papa Giovanni II",
+      "tono": "leggero",
+      "indizio": "Domani: un papa decide che il suo nome non va bene e ne prende un altro."
+    },
+    {
+      "id": "01-02-2004",
+      "anno": 2004,
+      "titolo": "Stardust incontra una cometa",
+      "testo": "La sonda Stardust attraversa la chioma della cometa Wild 2 e cattura granelli di polvere in un gel leggerissimo, per riportarli sulla Terra.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Stardust (sonda spaziale)",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda raccoglie la polvere di una cometa come con un retino."
+    },
+    {
+      "id": "01-02-1492",
+      "anno": 1492,
+      "titolo": "La resa di Granada",
+      "testo": "Granada, l'ultimo regno musulmano della penisola iberica, si arrende a Ferdinando e Isabella.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Presa di Granada",
+      "tono": "storico",
+      "indizio": "Domani: cade l'ultimo regno moresco di Spagna."
+    },
+    {
+      "id": "01-02-1843",
+      "anno": 1843,
+      "titolo": "L'olandese volante",
+      "testo": "A Dresda debutta L'olandese volante di Richard Wagner, la storia del capitano condannato a navigare per sempre.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "L'olandese volante",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-02-1860",
+      "anno": 1860,
+      "titolo": "Il pianeta che non c'era",
+      "testo": "L'astronomo Urbain Le Verrier annuncia all'Accademia delle scienze che fra Mercurio e il Sole deve esistere un altro pianeta, che chiama Vulcano. Non lo troverà mai nessuno.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Vulcano (pianeta ipotetico)",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-02-1547",
+      "anno": 1547,
+      "titolo": "La congiura dei Fieschi",
+      "testo": "A Genova fallisce la congiura di Gian Luigi Fieschi contro Andrea Doria: il capo dei congiurati, nella notte, cade in acqua dal porto e annega con l'armatura.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Congiura dei Fieschi",
+      "tono": "storico"
+    },
+    {
+      "id": "01-02-1882",
+      "anno": 1882,
+      "titolo": "La Standard Oil",
+      "testo": "John D. Rockefeller riunisce le sue compagnie nel trust della Standard Oil.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Standard Oil",
+      "tono": "storico"
+    },
+    {
+      "id": "01-02-2007",
+      "anno": 2007,
+      "titolo": "Nasce Intesa Sanpaolo",
+      "testo": "Diventa operativa la fusione fra Banca Intesa e Sanpaolo IMI.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Intesa Sanpaolo",
+      "tono": "storico"
+    },
+    {
+      "id": "01-02-1971",
+      "anno": 1971,
+      "titolo": "Il disastro di Ibrox",
+      "testo": "Allo stadio di Glasgow, alla fine della partita fra Rangers e Celtic, la calca su una scala provoca una strage.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Disastro dell'Ibrox Park del 1971",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Teresa di Lisieux",
+      "anno": 1873,
+      "chi": "santa francese, dottore della Chiesa",
+      "wiki": "Teresa di Lisieux"
+    },
+    {
+      "nome": "Isaac Asimov",
+      "anno": 1920,
+      "chi": "scrittore e divulgatore, maestro della fantascienza",
+      "wiki": "Isaac Asimov"
+    },
+    {
+      "nome": "Roger Miller",
+      "anno": 1936,
+      "chi": "cantautore country statunitense",
+      "wiki": "Roger Miller"
+    },
+    {
+      "nome": "Cuba Gooding Jr.",
+      "anno": 1968,
+      "chi": "attore statunitense",
+      "wiki": "Cuba Gooding Jr."
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Un'armatura di troppo",
+      "testo": "Gian Luigi Fieschi, mentre la congiura stava riuscendo, passò su una passerella fra due galee. La tavola si rovesciò e lui, con l'armatura addosso, finì in mare senza che nessuno se ne accorgesse."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Le tre leggi della robotica",
+      "testo": "Isaac Asimov, nato oggi, inventò le «tre leggi della robotica» in un racconto del 1942. Fu anche il primo a usare in inglese la parola robotics."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Più vicini al Sole d'inverno",
+      "testo": "In questi giorni la Terra passa nel punto della sua orbita più vicino al Sole, il perielio. Da noi fa freddo lo stesso: le stagioni dipendono dall'inclinazione dell'asse, non dalla distanza."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La violenza è l'ultimo rifugio degli incapaci.",
+      "autore": "Isaac Asimov",
+      "fonte": "Fondazione"
+    },
+    {
+      "testo": "Gennaio secco, villano ricco.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Non posso aver paura di un Dio che si è fatto così piccolo per me.",
+      "autore": "Teresa di Lisieux",
+      "fonte": "lettere"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Jennaru sìccu, massaru rìccu.",
+      "regione": "Calabria",
+      "traduzione": "Gennaio secco, massaro ricco.",
+      "spiegazione": "Un gennaio freddo e asciutto fa sperare in un buon raccolto d'estate.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "Megio el tacon, che sbregon.",
+      "regione": "Veneto",
+      "traduzione": "Meglio la toppa che lo strappo.",
+      "spiegazione": "Meglio rimediare in qualche modo che lasciare un danno aperto.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    }
+  ],
+  "prima_pagina": null
+}

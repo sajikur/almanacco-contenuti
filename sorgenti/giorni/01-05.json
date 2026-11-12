@@ -1,0 +1,212 @@
+{
+  "schema": 1,
+  "giorno": "01-05",
+  "santo": {
+    "nome": "Sant'Amelia",
+    "nota": "Vergine e martire di Gerona, in Spagna. Stanotte, vigilia dell'Epifania, secondo la tradizione passa la Befana a riempire le calze.",
+    "altri": [
+      "San Giovanni Nepomuceno Neumann",
+      "Sant'Edoardo il Confessore",
+      "Beato Pietro Bonilli"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Notte della Befana",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-05-1886",
+      "anno": 1886,
+      "titolo": "Jekyll e Hyde",
+      "testo": "A Londra esce Lo strano caso del dottor Jekyll e del signor Hyde di Robert Louis Stevenson: in sei mesi se ne vendono quarantamila copie.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Lo strano caso del dottor Jekyll e del signor Hyde",
+      "tono": "leggero",
+      "indizio": "Domani: esce il romanzo di un medico che di notte diventa un altro."
+    },
+    {
+      "id": "01-05-1933",
+      "anno": 1933,
+      "titolo": "Il Golden Gate",
+      "testo": "A San Francisco cominciano i lavori del Golden Gate Bridge.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Golden Gate Bridge",
+      "tono": "leggero",
+      "indizio": "Domani: a San Francisco si comincia a costruire il ponte più fotografato del mondo."
+    },
+    {
+      "id": "01-05-1914",
+      "anno": 1914,
+      "titolo": "Cinque dollari al giorno",
+      "testo": "Henry Ford annuncia per i suoi operai la giornata di otto ore e una paga di cinque dollari al giorno, il doppio della media.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Ford Motor Company",
+      "tono": "storico",
+      "indizio": "Domani: un industriale americano raddoppia la paga ai suoi operai."
+    },
+    {
+      "id": "01-05-2005",
+      "anno": 2005,
+      "titolo": "Eris, il pianeta in più",
+      "testo": "Su alcune foto del cielo scattate mesi prima, gli astronomi individuano Eris: sarà la sua scoperta a far declassare Plutone a pianeta nano.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Eris (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: un nuovo mondo ghiacciato mette in crisi Plutone."
+    },
+    {
+      "id": "01-05-1964",
+      "anno": 1964,
+      "titolo": "Paolo VI e Atenagora",
+      "testo": "A Gerusalemme papa Paolo VI abbraccia il patriarca Atenagora: è il primo incontro fra i capi delle Chiese cattolica e ortodossa da cinque secoli.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Papa Paolo VI",
+      "tono": "storico"
+    },
+    {
+      "id": "01-05-1911",
+      "anno": 1911,
+      "titolo": "Lo zoo di Roma",
+      "testo": "A Villa Borghese apre il giardino zoologico di Roma, oggi Bioparco.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Bioparco di Roma",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-05-1974",
+      "anno": 1974,
+      "titolo": "Caldo in Antartide",
+      "testo": "Alla stazione neozelandese Vanda, in Antartide, il termometro tocca i 15 gradi sopra lo zero, un record per l'epoca.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Antartide",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-05-1984",
+      "anno": 1984,
+      "titolo": "Comincia GNU",
+      "testo": "Richard Stallman comincia a scrivere GNU, il sistema operativo libero da cui nascerà, con Linux, il software libero moderno.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Progetto GNU",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-05-1925",
+      "anno": 1925,
+      "titolo": "La prima governatrice",
+      "testo": "Nellie Tayloe Ross diventa governatrice del Wyoming: è la prima donna a guidare uno Stato americano.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Nellie Tayloe Ross",
+      "tono": "storico"
+    },
+    {
+      "id": "01-05-1984b",
+      "anno": 1984,
+      "titolo": "Giuseppe Fava",
+      "testo": "A Catania la mafia uccide il giornalista e scrittore Giuseppe Fava.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Giuseppe Fava",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Konrad Adenauer",
+      "anno": 1876,
+      "chi": "primo cancelliere della Germania Ovest",
+      "wiki": "Konrad Adenauer"
+    },
+    {
+      "nome": "Umberto Eco",
+      "anno": 1932,
+      "chi": "semiologo e scrittore, autore del Nome della rosa",
+      "wiki": "Umberto Eco"
+    },
+    {
+      "nome": "Juan Carlos di Borbone",
+      "anno": 1938,
+      "chi": "re di Spagna dal 1975 al 2014",
+      "wiki": "Juan Carlos di Borbone"
+    },
+    {
+      "nome": "Diane Keaton",
+      "anno": 1946,
+      "chi": "attrice statunitense",
+      "wiki": "Diane Keaton"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "La Befana",
+      "testo": "La Befana deve il suo nome all'Epifania, storpiata nella parlata popolare in «befania». La tradizione della calza appesa al camino è diffusa soprattutto nell'Italia centrale."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un incubo e un caminetto",
+      "testo": "Secondo la famiglia, Stevenson ebbe l'idea di Jekyll e Hyde da un incubo. La prima stesura, criticata dalla moglie, la bruciò nel caminetto e la riscrisse in pochi giorni."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Arancione internazionale",
+      "testo": "Il Golden Gate non è dorato ma «arancione internazionale»: era il colore del primo antiruggine, e l'architetto lo scelse perché si vede bene nella nebbia."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "L'uomo non è veramente uno, ma veramente due.",
+      "autore": "Robert Louis Stevenson",
+      "fonte": "Lo strano caso del dottor Jekyll e del signor Hyde"
+    },
+    {
+      "testo": "La Befana vien di notte con le scarpe tutte rotte.",
+      "autore": "Filastrocca",
+      "fonte": "tradizione popolare"
+    },
+    {
+      "testo": "Il successo nasce dalla perseveranza.",
+      "autore": "attribuita a Henry Ford",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Pan d'un dì, ūv d'un'ore, lat d'un minūt e vin d'un an.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Pane di un giorno, uovo di un'ora, latte di un minuto e vino di un anno.",
+      "spiegazione": "Ogni cibo ha il suo momento migliore: il pane fresco, le uova appena fatte, il latte appena munto, il vino invecchiato.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "'Nce vo' pacienza a magna' le carcioffole.",
+      "regione": "Campania",
+      "traduzione": "Ci vuole pazienza per mangiare i carciofi.",
+      "spiegazione": "Le cose piacevoli richiedono impegno e pazienza, foglia dopo foglia.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

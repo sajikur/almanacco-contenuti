@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "giorno": "01-04",
+  "santo": {
+    "nome": "Sant'Angela da Foligno",
+    "nota": "Mistica umbra del Duecento: dopo una vita agiata si convertì, diventò terziaria francescana e dettò il racconto delle sue esperienze spirituali.",
+    "altri": [
+      "Sant'Elizabeth Ann Seton",
+      "San Rigoberto di Reims",
+      "Beato Secondo Pollo"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale del Braille",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-04-2010",
+      "anno": 2010,
+      "titolo": "Il Burj Khalifa",
+      "testo": "A Dubai viene inaugurato il Burj Khalifa: con i suoi 828 metri è l'edificio più alto del mondo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Burj Khalifa",
+      "tono": "leggero",
+      "indizio": "Domani: nel deserto si inaugura un grattacielo alto più di ottocento metri."
+    },
+    {
+      "id": "01-04-1936",
+      "anno": 1936,
+      "titolo": "La prima hit parade",
+      "testo": "La rivista Billboard pubblica la sua prima classifica dei dischi più venduti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Billboard",
+      "tono": "leggero",
+      "indizio": "Domani: una rivista americana inventa la classifica delle canzoni."
+    },
+    {
+      "id": "01-04-1968",
+      "anno": 1968,
+      "titolo": "La Corrida",
+      "testo": "Alla radio debutta La Corrida di Corrado: «dilettanti allo sbaraglio», con il pubblico armato di campanacci e fischietti.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "La Corrida (programma televisivo)",
+      "tono": "leggero",
+      "indizio": "Domani: alla radio sbarcano i dilettanti allo sbaraglio."
+    },
+    {
+      "id": "01-04-2004",
+      "anno": 2004,
+      "titolo": "Spirit su Marte",
+      "testo": "Il rover Spirit della NASA atterra su Marte rimbalzando dentro i suoi airbag e invia le prime immagini.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Spirit (rover)",
+      "tono": "leggero",
+      "indizio": "Domani: un piccolo robot atterra su Marte rimbalzando come un pallone."
+    },
+    {
+      "id": "01-04-1847",
+      "anno": 1847,
+      "titolo": "La rivoltella di Colt",
+      "testo": "Samuel Colt riceve dall'esercito americano il primo grande ordine per le sue pistole a tamburo, che lo salva dalla bancarotta.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Samuel Colt",
+      "tono": "storico"
+    },
+    {
+      "id": "01-04-1968b",
+      "anno": 1968,
+      "titolo": "Nasce Lamezia Terme",
+      "testo": "Dall'unione di Nicastro, Sambiase e Sant'Eufemia Lamezia nasce il comune di Lamezia Terme.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Lamezia Terme",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-04-1948",
+      "anno": 1948,
+      "titolo": "La Birmania indipendente",
+      "testo": "La Birmania, oggi Myanmar, ottiene l'indipendenza dal Regno Unito.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Birmania",
+      "tono": "storico"
+    },
+    {
+      "id": "01-04-1854",
+      "anno": 1854,
+      "titolo": "Isole senza nessuno",
+      "testo": "Il capitano William McDonald avvista le isole che oggi portano il suo nome, nell'Oceano Indiano meridionale: sono ancora disabitate.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Isole Heard e McDonald",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-04-1896",
+      "anno": 1896,
+      "titolo": "Lo Utah",
+      "testo": "Lo Utah diventa il quarantacinquesimo Stato degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Utah",
+      "tono": "storico"
+    },
+    {
+      "id": "01-04-1884",
+      "anno": 1884,
+      "titolo": "La Fabian Society",
+      "testo": "A Londra nasce la Fabian Society, da cui verrà il Partito laburista.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Fabian Society",
+      "tono": "storico"
+    },
+    {
+      "id": "01-04-1967",
+      "anno": 1967,
+      "titolo": "Donald Campbell",
+      "testo": "Il pilota Donald Campbell muore tentando il record di velocità sull'acqua sul lago Coniston.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Donald Campbell",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Giovanni Battista Pergolesi",
+      "anno": 1710,
+      "chi": "compositore nato a Jesi, autore dello Stabat Mater",
+      "wiki": "Giovanni Battista Pergolesi"
+    },
+    {
+      "nome": "Jacob Grimm",
+      "anno": 1785,
+      "chi": "linguista e raccoglitore di fiabe con il fratello Wilhelm",
+      "wiki": "Jacob Grimm"
+    },
+    {
+      "nome": "Louis Braille",
+      "anno": 1809,
+      "chi": "inventore francese dell'alfabeto per ciechi",
+      "wiki": "Louis Braille"
+    },
+    {
+      "nome": "Charles Stratton",
+      "anno": 1838,
+      "chi": "il «Generale Tom Thumb», star del circo Barnum",
+      "wiki": "Charles Stratton"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Un alfabeto a quindici anni",
+      "testo": "Louis Braille, cieco da bambino, inventò il suo sistema di puntini a quindici anni, semplificando un codice militare per leggere al buio."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Campanacci e fischietti",
+      "testo": "Alla Corrida il pubblico poteva giudicare i concorrenti con campanacci, trombette e fischietti. Corrado chiudeva ogni puntata con «E non finisce qui!»"
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Visibile da lontano",
+      "testo": "La punta del Burj Khalifa si vede nelle giornate limpide da quasi cento chilometri. In cima, il tramonto arriva qualche minuto dopo che a terra."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "E non finisce qui!",
+      "autore": "Corrado Mantoni",
+      "fonte": "La Corrida"
+    },
+    {
+      "testo": "Chi sa leggere ha quattro occhi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "La lingua è l'anima di un popolo.",
+      "autore": "attribuita a Jacob Grimm",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "In su binu sa veridade.",
+      "regione": "Sardegna",
+      "traduzione": "Nel vino la verità.",
+      "spiegazione": "Chi beve finisce per dire quello che pensa davvero.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Crisc' lu purch' ca t'ung lu muss.",
+      "regione": "Basilicata",
+      "traduzione": "Alleva il maiale, che te ne ungerai il muso.",
+      "spiegazione": "Ciò che curi oggi ti nutrirà domani: la fatica viene ripagata.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

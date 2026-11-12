@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "giorno": "01-11",
+  "santo": {
+    "nome": "Sant'Igino papa",
+    "nota": "Papa nel II secolo, secondo la tradizione greco di Atene. Avrebbe stabilito che al battesimo ci fossero il padrino e la madrina.",
+    "altri": [
+      "San Teodosio il Cenobiarca",
+      "Santa Liberata",
+      "San Paolino II d'Aquileia"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-11-1922",
+      "anno": 1922,
+      "titolo": "La prima insulina",
+      "testo": "A Toronto un ragazzo diabetico di quattordici anni, Leonard Thompson, riceve la prima iniezione di insulina: il diabete smette di essere una condanna.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Insulina",
+      "tono": "leggero",
+      "indizio": "Domani: un ragazzo canadese riceve un'iniezione che salverà milioni di vite."
+    },
+    {
+      "id": "01-11-1881",
+      "anno": 1881,
+      "titolo": "Il Ballo Excelsior",
+      "testo": "Alla Scala debutta il Ballo Excelsior, un grande balletto che celebra il progresso: il traforo del Moncenisio, il canale di Suez, la luce elettrica.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Ballo Excelsior",
+      "tono": "leggero",
+      "indizio": "Domani: alla Scala si balla il progresso, dalla luce elettrica al canale di Suez."
+    },
+    {
+      "id": "01-11-1787",
+      "anno": 1787,
+      "titolo": "Titania e Oberon",
+      "testo": "William Herschel scopre due lune di Urano, che avranno i nomi del re e della regina delle fate di Shakespeare.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Titania (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: due lune prendono i nomi dei re delle fate."
+    },
+    {
+      "id": "01-11-1846",
+      "anno": 1846,
+      "titolo": "Venezia attaccata alla terraferma",
+      "testo": "Si inaugura il ponte ferroviario che collega Venezia alla terraferma: per la prima volta in città si arriva in treno.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Ferrovia Milano-Venezia",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta si arriva a Venezia senza barca."
+    },
+    {
+      "id": "01-11-1908",
+      "anno": 1908,
+      "titolo": "Il Grand Canyon protetto",
+      "testo": "Il presidente Theodore Roosevelt dichiara il Grand Canyon monumento nazionale.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Grand Canyon",
+      "tono": "leggero",
+      "indizio": "Domani: un presidente americano decide di proteggere una delle meraviglie della Terra."
+    },
+    {
+      "id": "01-11-1935",
+      "anno": 1935,
+      "titolo": "Earhart sul Pacifico",
+      "testo": "Amelia Earhart è la prima persona a volare da sola dalle Hawaii alla California.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Amelia Earhart",
+      "tono": "storico",
+      "indizio": "Domani: un'aviatrice sorvola da sola il Pacifico."
+    },
+    {
+      "id": "01-11-1963",
+      "anno": 1963,
+      "titolo": "Please Please Me",
+      "testo": "Esce in Gran Bretagna il singolo Please Please Me: per i Beatles è il primo grande successo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Please Please Me (singolo)",
+      "tono": "leggero",
+      "indizio": "Domani: quattro ragazzi di Liverpool scalano le classifiche."
+    },
+    {
+      "id": "01-11-1822",
+      "anno": 1822,
+      "titolo": "La prima cassa di risparmio",
+      "testo": "Nasce la Cassa di risparmio di Venezia, la prima in Italia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Cassa di Risparmio di Venezia",
+      "tono": "storico"
+    },
+    {
+      "id": "01-11-1980",
+      "anno": 1980,
+      "titolo": "Maestro a quattordici anni",
+      "testo": "L'inglese Nigel Short, a quattordici anni, diventa il più giovane maestro internazionale di scacchi dell'epoca.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Nigel Short",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-11-1914",
+      "anno": 1914,
+      "titolo": "Nasce la Reggina",
+      "testo": "A Reggio Calabria viene fondata la squadra di calcio che diventerà la Reggina.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Reggina 1914",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-11-1693",
+      "anno": 1693,
+      "titolo": "Il terremoto del Val di Noto",
+      "testo": "La scossa principale del terremoto del Val di Noto distrugge decine di città della Sicilia orientale: saranno ricostruite in stile barocco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto del Val di Noto del 1693",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Alexander Hamilton",
+      "anno": 1755,
+      "chi": "padre fondatore degli Stati Uniti",
+      "wiki": "Alexander Hamilton"
+    },
+    {
+      "nome": "William James",
+      "anno": 1842,
+      "chi": "filosofo e psicologo statunitense",
+      "wiki": "William James"
+    },
+    {
+      "nome": "Jean Chrétien",
+      "anno": 1934,
+      "chi": "primo ministro del Canada",
+      "wiki": "Jean Chrétien"
+    },
+    {
+      "nome": "Mary J. Blige",
+      "anno": 1971,
+      "chi": "cantante statunitense",
+      "wiki": "Mary J. Blige"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Un brevetto da un dollaro",
+      "testo": "Gli scopritori dell'insulina vendettero il brevetto all'università di Toronto per un dollaro a testa: volevano che la cura fosse alla portata di tutti."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il barocco nato dalle macerie",
+      "testo": "Noto, Ragusa, Modica e le altre città distrutte dal terremoto del 1693 furono ricostruite tutte insieme, in pochi decenni. Per questo il Val di Noto è un museo del barocco, patrimonio dell'UNESCO."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un balletto da 500 ballerini",
+      "testo": "Il Ballo Excelsior portava in scena centinaia di ballerini e comparse e fu replicato per anni in tutto il mondo. Era la festa della fiducia ottocentesca nel progresso."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "L'insulina non appartiene a me, appartiene al mondo.",
+      "autore": "attribuita a Frederick Banting",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Agisci come se ciò che fai facesse la differenza. La fa.",
+      "autore": "attribuita a William James",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Il tempo è galantuomo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Il tempo sana ogni cosa.",
+      "regione": "Toscana",
+      "traduzione": "Il tempo guarisce ogni cosa.",
+      "spiegazione": "Anche i dolori più forti col tempo si attenuano.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Su paladu est minoreddu, et que falat palattu et castedu.",
+      "regione": "Sardegna",
+      "traduzione": "Il palato è piccolo, eppure ci passano palazzi e castelli.",
+      "spiegazione": "Monito per i golosi e gli spreconi: a forza di bocconi si mangiano interi patrimoni.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

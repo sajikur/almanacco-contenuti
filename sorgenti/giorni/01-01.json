@@ -1,0 +1,263 @@
+{
+  "schema": 1,
+  "giorno": "01-01",
+  "santo": {
+    "nome": "Maria Santissima Madre di Dio",
+    "nota": "Il primo giorno dell'anno la Chiesa celebra Maria madre di Gesù. Dal 1968 è anche la Giornata mondiale della pace.",
+    "altri": [
+      "San Basilio Magno",
+      "Sant'Odilone di Cluny",
+      "San Fulgenzio di Ruspe"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Capodanno",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata mondiale della pace",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-01-1801",
+      "anno": 1801,
+      "titolo": "Piazzi scopre Cerere",
+      "testo": "Dall'osservatorio di Palermo l'astronomo Giuseppe Piazzi scopre Cerere, il primo corpo della fascia degli asteroidi: oggi è classificato come pianeta nano.",
+      "ambito": "italia",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Cerere (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: a Palermo, la prima notte del secolo, un astronomo trova un mondo nuovo."
+    },
+    {
+      "id": "01-01-2002",
+      "anno": 2002,
+      "titolo": "Arriva l'euro in tasca",
+      "testo": "Monete e banconote in euro entrano in circolazione in dodici Paesi, Italia compresa: per due mesi lira ed euro convivono.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Euro",
+      "tono": "leggero",
+      "indizio": "Domani: gli italiani pagano il caffè con una moneta nuova."
+    },
+    {
+      "id": "01-01-1977",
+      "anno": 1977,
+      "titolo": "Finisce Carosello",
+      "testo": "Va in onda l'ultima puntata di Carosello: dopo vent'anni la pubblicità della Rai cambia formula e i bambini perdono il segnale per andare a letto.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Carosello",
+      "tono": "leggero",
+      "indizio": "Domani: finisce il programma dopo il quale i bambini italiani andavano a letto."
+    },
+    {
+      "id": "01-01-1818",
+      "anno": 1818,
+      "titolo": "Frankenstein",
+      "testo": "A Londra esce, senza il nome dell'autrice, Frankenstein o il moderno Prometeo di Mary Shelley, che l'aveva cominciato a diciott'anni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Frankenstein",
+      "tono": "leggero",
+      "indizio": "Domani: una ragazza inglese pubblica la storia di uno scienziato che dà vita a una creatura."
+    },
+    {
+      "id": "01-01-1948",
+      "anno": 1948,
+      "titolo": "La Costituzione in vigore",
+      "testo": "Entra in vigore la Costituzione della Repubblica italiana; Enrico De Nicola diventa il primo presidente della Repubblica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Costituzione della Repubblica Italiana",
+      "tono": "storico",
+      "indizio": "Domani: entra in vigore la legge fondamentale degli italiani."
+    },
+    {
+      "id": "01-01-1892",
+      "anno": 1892,
+      "titolo": "Ellis Island",
+      "testo": "Nella baia di New York apre il centro di accoglienza di Ellis Island: da qui passeranno milioni di emigranti, moltissimi italiani.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Ellis Island",
+      "tono": "storico",
+      "indizio": "Domani: apre l'isola da cui passeranno milioni di emigranti italiani."
+    },
+    {
+      "id": "01-01-1983",
+      "anno": 1983,
+      "titolo": "Nasce Internet",
+      "testo": "La rete ARPANET passa al protocollo TCP/IP: è la data che molti considerano la nascita di Internet.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "ARPANET",
+      "tono": "leggero",
+      "indizio": "Domani: una rete di computer americani cambia lingua e nasce Internet."
+    },
+    {
+      "id": "01-01-1970",
+      "anno": 1970,
+      "titolo": "L'epoca Unix",
+      "testo": "Alla mezzanotte di oggi, ora di Greenwich, comincia il conto dei secondi usato da quasi tutti i computer: il «tempo Unix».",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Tempo (Unix)",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-01-1851",
+      "anno": 1851,
+      "titolo": "Il primo francobollo italiano",
+      "testo": "Nel Regno di Sardegna entrano in uso i primi francobolli di uno Stato italiano, con il profilo di Vittorio Emanuele II.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Francobolli del Regno di Sardegna",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-01-1788",
+      "anno": 1788,
+      "titolo": "Nasce il Times",
+      "testo": "A Londra il Daily Universal Register prende il nome che lo renderà famoso: The Times.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "The Times",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-01-2005",
+      "anno": 2005,
+      "titolo": "Addio alla naja",
+      "testo": "In Italia finisce il servizio militare obbligatorio, dopo più di centoquarant'anni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Servizio militare in Italia",
+      "tono": "storico"
+    },
+    {
+      "id": "01-01-2019",
+      "anno": 2019,
+      "titolo": "Il mondo più lontano",
+      "testo": "La sonda New Horizons sorvola Arrokoth, nella fascia di Kuiper: è l'oggetto più lontano mai visitato da vicino.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "486958 Arrokoth",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-01-1993",
+      "anno": 1993,
+      "titolo": "Il divorzio di velluto",
+      "testo": "La Cecoslovacchia si divide pacificamente in Repubblica Ceca e Slovacchia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Dissoluzione della Cecoslovacchia",
+      "tono": "storico"
+    },
+    {
+      "id": "01-01-2024",
+      "anno": 2024,
+      "titolo": "Il terremoto di Ishikawa",
+      "testo": "Un forte terremoto colpisce la penisola di Noto, in Giappone.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto della penisola di Noto del 2024",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Lorenzo il Magnifico",
+      "anno": 1449,
+      "chi": "signore di Firenze, mecenate e poeta",
+      "wiki": "Lorenzo de' Medici"
+    },
+    {
+      "nome": "Pierre de Coubertin",
+      "anno": 1863,
+      "chi": "pedagogista francese, rifondatore delle Olimpiadi",
+      "wiki": "Pierre de Coubertin"
+    },
+    {
+      "nome": "J. D. Salinger",
+      "anno": 1919,
+      "chi": "scrittore statunitense, autore del Giovane Holden",
+      "wiki": "J. D. Salinger"
+    },
+    {
+      "nome": "Maurice Béjart",
+      "anno": 1927,
+      "chi": "coreografo francese",
+      "wiki": "Maurice Béjart"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "spazio",
+      "titolo": "Cerere Ferdinandea",
+      "testo": "Piazzi voleva chiamare il nuovo astro Cerere Ferdinandea, in onore della dea protettrice della Sicilia e del re Ferdinando. Rimase solo Cerere, e da lei viene il nome dell'elemento cerio."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Dopo Carosello tutti a nanna",
+      "testo": "Carosello durava dieci minuti, ma ogni spot doveva raccontare una piccola storia e citare il prodotto solo alla fine. Per milioni di famiglie la frase «dopo Carosello a letto» era una regola di casa."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il problema del 2038",
+      "testo": "Molti computer contano il tempo in secondi dal 1° gennaio 1970. Nei sistemi più vecchi quel contatore si riempirà il 19 gennaio 2038: un piccolo «millennium bug» annunciato."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Chi vuol esser lieto, sia: di doman non c'è certezza.",
+      "autore": "Lorenzo il Magnifico",
+      "fonte": "Trionfo di Bacco e Arianna"
+    },
+    {
+      "testo": "Chi ha cominciato è a metà dell'opera.",
+      "autore": "Orazio",
+      "fonte": "Epistole, I, 2"
+    },
+    {
+      "testo": "Sono malvagio perché sono infelice.",
+      "autore": "Mary Shelley",
+      "fonte": "Frankenstein"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "È vierno e malo tiempo fa: ha da ascì 'nu raggio 'e sole pe 'mme fa scarfà.",
+      "regione": "Campania",
+      "traduzione": "È inverno e fa brutto tempo: dovrà pure uscire un raggio di sole a scaldarmi.",
+      "spiegazione": "Anche nei periodi cattivi prima o poi arriva il momento buono: un augurio perfetto per l'anno nuovo.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "Ogni domane porta il suo pane.",
+      "regione": "Toscana",
+      "traduzione": "Ogni domani porta il suo pane.",
+      "spiegazione": "Non serve angosciarsi per il futuro: ogni giorno porta con sé ciò che serve.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

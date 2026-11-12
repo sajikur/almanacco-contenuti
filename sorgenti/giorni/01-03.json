@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "giorno": "01-03",
+  "santo": {
+    "nome": "Santa Genoveffa",
+    "nota": "Patrona di Parigi, secondo la tradizione salvò la città dagli Unni di Attila con la preghiera e poi la sfamò durante un assedio.",
+    "altri": [
+      "Sant'Antero papa",
+      "San Daniele di Padova",
+      "San Fiorenzo di Vienne"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Santissimo Nome di Gesù",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-03-1954",
+      "anno": 1954,
+      "titolo": "Nasce la televisione italiana",
+      "testo": "Alle 11 la Rai comincia le trasmissioni regolari del Programma Nazionale: la sera va in onda il primo telegiornale.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Storia della televisione in Italia",
+      "tono": "leggero",
+      "indizio": "Domani: gli italiani accendono per la prima volta un apparecchio che cambierà le loro serate."
+    },
+    {
+      "id": "01-03-2000",
+      "anno": 2000,
+      "titolo": "L'ultima striscia dei Peanuts",
+      "testo": "Esce l'ultima striscia quotidiana dei Peanuts: Charles Schulz saluta i lettori dopo quasi cinquant'anni di Charlie Brown e Snoopy.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Peanuts",
+      "tono": "leggero",
+      "indizio": "Domani: Charlie Brown e Snoopy salutano i lettori dei giornali."
+    },
+    {
+      "id": "01-03-1870",
+      "anno": 1870,
+      "titolo": "Il ponte di Brooklyn",
+      "testo": "Cominciano i lavori del ponte di Brooklyn: quando aprirà, nel 1883, sarà il ponte sospeso più lungo del mondo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Ponte di Brooklyn",
+      "tono": "leggero",
+      "indizio": "Domani: a New York si comincia a costruire un ponte da record."
+    },
+    {
+      "id": "01-03-2009",
+      "anno": 2009,
+      "titolo": "Il primo blocco di Bitcoin",
+      "testo": "Un misterioso Satoshi Nakamoto crea il primo blocco della catena di Bitcoin: dentro, un titolo di giornale di quel giorno.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Bitcoin",
+      "tono": "leggero",
+      "indizio": "Domani: qualcuno con un nome inventato crea una moneta che non esiste su carta."
+    },
+    {
+      "id": "01-03-1889",
+      "anno": 1889,
+      "titolo": "Nietzsche a Torino",
+      "testo": "In piazza Carlo Alberto, a Torino, Friedrich Nietzsche si getta al collo di un cavallo frustato da un vetturino: è l'inizio del suo crollo mentale.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Friedrich Nietzsche",
+      "tono": "storico"
+    },
+    {
+      "id": "01-03-1968",
+      "anno": 1968,
+      "titolo": "Gilmour nei Pink Floyd",
+      "testo": "David Gilmour entra ufficialmente nei Pink Floyd.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "David Gilmour",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-03-1982",
+      "anno": 1982,
+      "titolo": "Nasce Italia 1",
+      "testo": "Dall'idea dell'editore Edilio Rusconi comincia a trasmettere Italia 1.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Italia 1",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-03-1959",
+      "anno": 1959,
+      "titolo": "L'Alaska",
+      "testo": "L'Alaska diventa il quarantanovesimo Stato degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Alaska",
+      "tono": "storico"
+    },
+    {
+      "id": "01-03-1987",
+      "anno": 1987,
+      "titolo": "Aretha nella Hall of Fame",
+      "testo": "Aretha Franklin è la prima donna ammessa nella Rock and Roll Hall of Fame.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Aretha Franklin",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-03-1925",
+      "anno": 1925,
+      "titolo": "Il discorso di Mussolini",
+      "testo": "Alla Camera Mussolini si assume la responsabilità politica del delitto Matteotti: comincia la dittatura.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Discorso del 3 gennaio 1925",
+      "tono": "storico"
+    },
+    {
+      "id": "01-03-1117",
+      "anno": 1117,
+      "titolo": "Il terremoto di Verona",
+      "testo": "Un fortissimo terremoto colpisce l'Italia settentrionale, con l'epicentro nel Veronese.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto di Verona del 1117",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Marco Tullio Cicerone",
+      "anno": -106,
+      "chi": "oratore e scrittore romano",
+      "wiki": "Marco Tullio Cicerone"
+    },
+    {
+      "nome": "J. R. R. Tolkien",
+      "anno": 1892,
+      "chi": "scrittore inglese, autore del Signore degli anelli",
+      "wiki": "J. R. R. Tolkien"
+    },
+    {
+      "nome": "Sergio Leone",
+      "anno": 1929,
+      "chi": "regista romano degli spaghetti western",
+      "wiki": "Sergio Leone"
+    },
+    {
+      "nome": "Mel Gibson",
+      "anno": 1956,
+      "chi": "attore e regista",
+      "wiki": "Mel Gibson"
+    },
+    {
+      "nome": "Michael Schumacher",
+      "anno": 1969,
+      "chi": "pilota tedesco, sette volte campione del mondo",
+      "wiki": "Michael Schumacher"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Arrivi e partenze",
+      "testo": "Il primo giorno di televisione italiana andò in onda anche Arrivi e partenze, condotto da un giovane Mike Bongiorno. Gli abbonati erano poche decine di migliaia, quasi tutti al Nord."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Lingue prima delle storie",
+      "testo": "Tolkien, nato oggi, era un linguista: inventò prima le lingue degli elfi e poi le storie, per dare loro un mondo in cui essere parlate."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Bob Robertson",
+      "testo": "Sergio Leone, nato oggi, firmò Per un pugno di dollari come Bob Robertson: un omaggio al padre, regista del muto con lo pseudonimo di Roberto Roberti. Robertson voleva dire «figlio di Roberto»."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Senza musica la vita sarebbe un errore.",
+      "autore": "Friedrich Nietzsche",
+      "fonte": "Crepuscolo degli idoli"
+    },
+    {
+      "testo": "Finché c'è vita c'è speranza.",
+      "autore": "Marco Tullio Cicerone",
+      "fonte": "Lettere ad Attico"
+    },
+    {
+      "testo": "La felicità è un cucciolo caldo.",
+      "autore": "Charles Schulz",
+      "fonte": "titolo di un libro dei Peanuts"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Quannu 'u diavulu t'accarizza, voli l'arma.",
+      "regione": "Sicilia",
+      "traduzione": "Quando il diavolo ti accarezza, vuole l'anima.",
+      "spiegazione": "Diffida delle gentilezze esagerate: spesso nascondono un interesse.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "A tôa no se ven vëgi.",
+      "regione": "Liguria",
+      "traduzione": "A tavola non si invecchia.",
+      "spiegazione": "Il tempo passato a mangiare in compagnia è tempo guadagnato.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    }
+  ],
+  "prima_pagina": null
+}

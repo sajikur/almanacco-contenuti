@@ -1,0 +1,219 @@
+{
+  "schema": 1,
+  "giorno": "01-16",
+  "santo": {
+    "nome": "San Marcello I papa",
+    "nota": "Papa all'inizio del IV secolo, durante le ultime persecuzioni. Secondo la tradizione fu condannato a lavorare in una stalla, dove oggi sorge la chiesa di San Marcello al Corso.",
+    "altri": [
+      "Sant'Onorato di Arles",
+      "San Tiziano di Oderzo",
+      "Santi Berardo e compagni"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-16-1605",
+      "anno": 1605,
+      "titolo": "Esce il Don Chisciotte",
+      "testo": "A Madrid si pubblica la prima parte del Don Chisciotte della Mancia di Miguel de Cervantes: il cavaliere che combatte contro i mulini a vento diventa subito famoso.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Don Chisciotte della Mancia",
+      "tono": "leggero",
+      "indizio": "Domani: esce la storia di un cavaliere che scambia i mulini a vento per giganti."
+    },
+    {
+      "id": "01-16-1938",
+      "anno": 1938,
+      "titolo": "Il jazz alla Carnegie Hall",
+      "testo": "Benny Goodman porta il jazz e lo swing alla Carnegie Hall di New York, il tempio della musica classica: è uno dei concerti più famosi del secolo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Benny Goodman",
+      "tono": "leggero",
+      "indizio": "Domani: il jazz entra nel tempio della musica classica."
+    },
+    {
+      "id": "01-16-1957",
+      "anno": 1957,
+      "titolo": "Apre il Cavern Club",
+      "testo": "A Liverpool apre il Cavern Club, una cantina che diventerà famosa perché ci suoneranno quasi trecento volte i Beatles.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The Cavern Club",
+      "tono": "leggero",
+      "indizio": "Domani: a Liverpool apre una cantina in cui suoneranno i Beatles."
+    },
+    {
+      "id": "01-16-1909",
+      "anno": 1909,
+      "titolo": "Il polo sud magnetico",
+      "testo": "Tre uomini della spedizione di Shackleton raggiungono il polo sud magnetico, trascinando le slitte a mano per più di duemila chilometri.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Polo sud magnetico",
+      "tono": "storico",
+      "indizio": "Domani: tre esploratori trovano il punto dove impazziscono le bussole."
+    },
+    {
+      "id": "01-16--27",
+      "anno": -27,
+      "titolo": "Ottaviano diventa Augusto",
+      "testo": "Il Senato di Roma concede a Ottaviano il titolo di Augusto: è l'inizio dell'impero.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Augusto",
+      "tono": "storico",
+      "indizio": "Domani: il Senato dà a un uomo un nome che diventerà quello di un mese."
+    },
+    {
+      "id": "01-16-1916",
+      "anno": 1916,
+      "titolo": "Gli scout cattolici",
+      "testo": "Nasce l'Associazione scouts cattolici italiani, l'ASCI.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Associazione Scouts Cattolici Italiani",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-16-1919",
+      "anno": 1919,
+      "titolo": "Il proibizionismo",
+      "testo": "Negli Stati Uniti viene ratificato il XVIII emendamento: dall'anno dopo sarà vietato produrre e vendere alcolici.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Proibizionismo negli Stati Uniti",
+      "tono": "storico"
+    },
+    {
+      "id": "01-16-2003",
+      "anno": 2003,
+      "titolo": "La legge antifumo",
+      "testo": "Il Parlamento italiano approva la legge che vieterà il fumo nei locali pubblici: entrerà in vigore due anni dopo.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Legge Sirchia",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-16-1994",
+      "anno": 1994,
+      "titolo": "Finisce la Prima Repubblica",
+      "testo": "Il presidente Scalfaro scioglie le Camere: è la fine simbolica della Prima Repubblica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Prima Repubblica",
+      "tono": "storico"
+    },
+    {
+      "id": "01-16-2021",
+      "anno": 2021,
+      "titolo": "Nasce Stellantis",
+      "testo": "Dalla fusione fra FCA e il gruppo francese PSA nasce Stellantis.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Stellantis",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-16-1969",
+      "anno": 1969,
+      "titolo": "Jan Palach",
+      "testo": "A Praga lo studente Jan Palach si dà fuoco per protesta contro l'occupazione sovietica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Jan Palach",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Vittorio Alfieri",
+      "anno": 1749,
+      "chi": "poeta e drammaturgo astigiano",
+      "wiki": "Vittorio Alfieri"
+    },
+    {
+      "nome": "Dian Fossey",
+      "anno": 1932,
+      "chi": "zoologa statunitense, studiosa dei gorilla",
+      "wiki": "Dian Fossey"
+    },
+    {
+      "nome": "Susan Sontag",
+      "anno": 1933,
+      "chi": "scrittrice e saggista statunitense",
+      "wiki": "Susan Sontag"
+    },
+    {
+      "nome": "Kate Moss",
+      "anno": 1974,
+      "chi": "modella britannica",
+      "wiki": "Kate Moss"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Legato alla sedia",
+      "testo": "Vittorio Alfieri, nato oggi, per costringersi a studiare si faceva legare alla sedia dal servitore. Da qui il suo famoso «volli, sempre volli, fortissimamente volli»."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il monco di Lepanto",
+      "testo": "Cervantes aveva perso l'uso della mano sinistra nella battaglia di Lepanto, e da allora lo chiamavano «il monco di Lepanto». Ne andò fiero tutta la vita."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Un mese con il suo nome",
+      "testo": "Dal titolo di Augusto prese il nome il mese di agosto: il Senato lo dedicò a lui come luglio era stato dedicato a Giulio Cesare."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Dimmi con chi vai e ti dirò chi sei.",
+      "autore": "Miguel de Cervantes",
+      "fonte": "Don Chisciotte"
+    },
+    {
+      "testo": "Volli, e volli sempre, e fortissimamente volli.",
+      "autore": "Vittorio Alfieri",
+      "fonte": "lettera a Ranieri de' Calzabigi"
+    },
+    {
+      "testo": "Il riso fa buon sangue.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Consiglio di vecchio non rompe mai la testa.",
+      "regione": "Toscana",
+      "traduzione": "Il consiglio di un anziano non fa mai male.",
+      "spiegazione": "Ascoltare chi ha più esperienza non costa nulla e spesso evita guai.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Ògne scarrafóne è bbèllo 'a màmma sóia.",
+      "regione": "Campania",
+      "traduzione": "Ogni scarafaggio è bello per la sua mamma.",
+      "spiegazione": "Agli occhi di una madre il proprio figlio è sempre il più bello.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

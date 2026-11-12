@@ -1,0 +1,219 @@
+{
+  "schema": 1,
+  "giorno": "01-13",
+  "santo": {
+    "nome": "Sant'Ilario di Poitiers",
+    "nota": "Vescovo e dottore della Chiesa del IV secolo, difese la fede contro l'arianesimo e per questo fu esiliato in Asia Minore.",
+    "altri": [
+      "San Remigio di Reims",
+      "San Bernone di Cluny",
+      "Beata Veronica da Binasco"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-13-1930",
+      "anno": 1930,
+      "titolo": "Topolino a fumetti",
+      "testo": "Sui giornali americani esce la prima striscia a fumetti di Topolino, due anni dopo il suo debutto al cinema.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Topolino",
+      "tono": "leggero",
+      "indizio": "Domani: un topo con i calzoni rossi passa dal cinema ai giornali."
+    },
+    {
+      "id": "01-13-1898",
+      "anno": 1898,
+      "titolo": "J'accuse",
+      "testo": "Sul quotidiano parigino L'Aurore Émile Zola pubblica J'accuse, lettera aperta al presidente in difesa del capitano Dreyfus: trecentomila copie vanno a ruba.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "J'accuse",
+      "tono": "storico",
+      "indizio": "Domani: uno scrittore francese accusa sul giornale l'esercito del suo Paese."
+    },
+    {
+      "id": "01-13-1854",
+      "anno": 1854,
+      "titolo": "La fisarmonica brevettata",
+      "testo": "A Filadelfia l'artigiano Anthony Faas ottiene un brevetto per una fisarmonica migliorata. Pochi anni dopo, a Castelfidardo, nelle Marche, nascerà la grande industria italiana di questi strumenti.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Fisarmonica",
+      "tono": "leggero",
+      "indizio": "Domani: uno strumento a mantice ottiene il suo brevetto americano."
+    },
+    {
+      "id": "01-13-1992",
+      "anno": 1992,
+      "titolo": "Nasce il TG5",
+      "testo": "Va in onda la prima edizione del TG5, diretto da Enrico Mentana.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "TG5",
+      "tono": "leggero",
+      "indizio": "Domani: nasce un telegiornale che sfida quelli della Rai."
+    },
+    {
+      "id": "01-13-1942",
+      "anno": 1942,
+      "titolo": "L'auto di soia",
+      "testo": "Henry Ford brevetta una carrozzeria in plastica ricavata anche dalla soia, più leggera di quella in acciaio: per mostrarne la resistenza la prende a colpi d'ascia.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Soybean car",
+      "tono": "leggero",
+      "indizio": "Domani: un industriale prende a colpi d'ascia un'automobile per dimostrare che è solida."
+    },
+    {
+      "id": "01-13-1610",
+      "anno": 1610,
+      "titolo": "Ganimede",
+      "testo": "Galileo osserva per la prima volta Ganimede, la più grande delle lune di Giove e di tutto il Sistema solare.",
+      "ambito": "italia",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Ganimede (astronomia)",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-13-1999",
+      "anno": 1999,
+      "titolo": "Jordan si ritira di nuovo",
+      "testo": "Michael Jordan annuncia il suo secondo ritiro dal basket, dopo sei titoli con i Chicago Bulls.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Michael Jordan",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-13-2018",
+      "anno": 2018,
+      "titolo": "Il falso allarme delle Hawaii",
+      "testo": "Per un errore di un operatore, i cellulari delle Hawaii ricevono l'allarme per un missile in arrivo: la smentita arriva dopo trentotto minuti.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Falso allarme missilistico delle Hawaii del 2018",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-13-1435",
+      "anno": 1435,
+      "titolo": "Contro la schiavitù",
+      "testo": "Papa Eugenio IV condanna la riduzione in schiavitù degli abitanti delle Canarie: è il primo documento papale contro la schiavitù.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Sicut Dudum",
+      "tono": "storico"
+    },
+    {
+      "id": "01-13-1915",
+      "anno": 1915,
+      "titolo": "Il terremoto della Marsica",
+      "testo": "Un terremoto distrugge Avezzano e gran parte della Marsica, in Abruzzo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Terremoto della Marsica del 1915",
+      "tono": "tragico"
+    },
+    {
+      "id": "01-13-2012",
+      "anno": 2012,
+      "titolo": "La Costa Concordia",
+      "testo": "La nave da crociera Costa Concordia urta gli scogli davanti all'Isola del Giglio e si inclina su un fianco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Naufragio della Costa Concordia",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Horatio Alger",
+      "anno": 1832,
+      "chi": "scrittore americano delle storie «dalle stalle alle stelle»",
+      "wiki": "Horatio Alger"
+    },
+    {
+      "nome": "Julia Louis-Dreyfus",
+      "anno": 1961,
+      "chi": "attrice statunitense",
+      "wiki": "Julia Louis-Dreyfus"
+    },
+    {
+      "nome": "Patrick Dempsey",
+      "anno": 1966,
+      "chi": "attore statunitense",
+      "wiki": "Patrick Dempsey"
+    },
+    {
+      "nome": "Orlando Bloom",
+      "anno": 1977,
+      "chi": "attore britannico",
+      "wiki": "Orlando Bloom"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Il titolo di Clemenceau",
+      "testo": "Il titolo J'accuse, «Io accuso», non lo scelse Zola ma il direttore del giornale, Georges Clemenceau. Per quell'articolo Zola fu condannato e dovette fuggire in Inghilterra."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Topolino in Italia",
+      "testo": "In Italia Topolino arrivò già nel 1930, sull'Illustrazione del Popolo, e nel 1932 ebbe un giornalino tutto suo, uscito prima a Firenze."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Castelfidardo",
+      "testo": "Secondo la tradizione, a Castelfidardo la fisarmonica arrivò grazie a un pellegrino austriaco diretto a Loreto, che ne lasciò una a un giovane contadino, Paolo Soprani. Da lì nacque un distretto famoso nel mondo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La verità è in cammino e nulla la fermerà.",
+      "autore": "Émile Zola",
+      "fonte": "J'accuse"
+    },
+    {
+      "testo": "Chi semina vento raccoglie tempesta.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Se puoi sognarlo, puoi farlo.",
+      "autore": "attribuita a Walt Disney",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Buono sì, ma fesso no.",
+      "regione": "Campania",
+      "traduzione": "Buono sì, ma stupido no.",
+      "spiegazione": "Si può essere generosi senza lasciarsi imbrogliare.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "Val plui une fete di polente quiete che une panzade maladete.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Vale più una fetta di polenta mangiata in pace che una scorpacciata che porta guai.",
+      "spiegazione": "Meglio poco e in tranquillità che tanto con le preoccupazioni.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "giorno": "01-17",
+  "santo": {
+    "nome": "Sant'Antonio abate",
+    "nota": "Eremita egiziano del III e IV secolo, padre del monachesimo. È il protettore degli animali domestici: oggi in molti paesi si benedicono le stalle e si accendono i falò.",
+    "altri": [
+      "San Sulpizio di Bourges",
+      "Santa Roselina di Villeneuve",
+      "San Marcello di Die"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata nazionale del dialetto",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Benedizione degli animali",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-17-1929",
+      "anno": 1929,
+      "titolo": "Arriva Braccio di Ferro",
+      "testo": "Nella striscia Thimble Theatre di Elzie Segar compare per la prima volta Braccio di Ferro, il marinaio con la pipa: doveva essere una comparsa.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Braccio di Ferro",
+      "tono": "leggero",
+      "indizio": "Domani: in una striscia americana compare un marinaio che doveva restare per poche vignette."
+    },
+    {
+      "id": "01-17-1377",
+      "anno": 1377,
+      "titolo": "Il papa torna a Roma",
+      "testo": "Papa Gregorio XI rientra a Roma da Avignone, anche su insistenza di Caterina da Siena: finisce la «cattività avignonese».",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Cattività avignonese",
+      "tono": "storico",
+      "indizio": "Domani: dopo settant'anni in Francia, il papa torna a Roma."
+    },
+    {
+      "id": "01-17-1773",
+      "anno": 1773,
+      "titolo": "Oltre il circolo polare antartico",
+      "testo": "La Resolution di James Cook è la prima nave a oltrepassare il circolo polare antartico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "James Cook",
+      "tono": "storico",
+      "indizio": "Domani: una nave inglese entra per la prima volta nel grande freddo del Sud."
+    },
+    {
+      "id": "01-17-1988",
+      "anno": 1988,
+      "titolo": "Casa Vianello",
+      "testo": "Su Canale 5 va in onda la prima puntata di Casa Vianello con Sandra Mondaini e Raimondo Vianello: andrà avanti per vent'anni.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Casa Vianello",
+      "tono": "leggero",
+      "indizio": "Domani: una coppia comincia a litigare a letto in prima serata, per vent'anni."
+    },
+    {
+      "id": "01-17-1912",
+      "anno": 1912,
+      "titolo": "Scott al Polo Sud",
+      "testo": "Robert Falcon Scott raggiunge il Polo Sud e vi trova la tenda di Amundsen, arrivato un mese prima.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Robert Falcon Scott",
+      "tono": "storico"
+    },
+    {
+      "id": "01-17-1985",
+      "anno": 1985,
+      "titolo": "Crolla il Palasport di San Siro",
+      "testo": "Sotto il peso della grande nevicata crolla il tetto del Palazzo dello sport di San Siro, a Milano: non ci sono feriti, ma non verrà più ricostruito.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Palazzo dello Sport di San Siro",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-17-1966",
+      "anno": 1966,
+      "titolo": "Le bombe di Palomares",
+      "testo": "Un bombardiere americano si scontra in volo con un aereo cisterna sopra Palomares, in Spagna: quattro bombe all'idrogeno cadono senza esplodere. L'ultima viene ripescata in mare dopo ottanta giorni.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Incidente di Palomares",
+      "tono": "storico"
+    },
+    {
+      "id": "01-17-1601",
+      "anno": 1601,
+      "titolo": "Saluzzo ai Savoia",
+      "testo": "Con il trattato di Lione il marchesato di Saluzzo passa ai Savoia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Marchesato di Saluzzo",
+      "tono": "storico"
+    },
+    {
+      "id": "01-17-2011",
+      "anno": 2011,
+      "titolo": "Jobs lascia Apple",
+      "testo": "Steve Jobs lascia la guida operativa di Apple per motivi di salute; la affida a Tim Cook.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Steve Jobs",
+      "tono": "storico"
+    },
+    {
+      "id": "01-17-1995",
+      "anno": 1995,
+      "titolo": "Il terremoto di Kobe",
+      "testo": "Un violento terremoto colpisce la città giapponese di Kobe.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto di Kobe del 1995",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Benjamin Franklin",
+      "anno": 1706,
+      "chi": "scienziato, inventore e padre fondatore degli Stati Uniti",
+      "wiki": "Benjamin Franklin"
+    },
+    {
+      "nome": "Muhammad Ali",
+      "anno": 1942,
+      "chi": "pugile statunitense, tre volte campione del mondo",
+      "wiki": "Muhammad Ali"
+    },
+    {
+      "nome": "Jim Carrey",
+      "anno": 1962,
+      "chi": "attore canadese",
+      "wiki": "Jim Carrey"
+    },
+    {
+      "nome": "Michelle Obama",
+      "anno": 1964,
+      "chi": "avvocata e first lady degli Stati Uniti",
+      "wiki": "Michelle Obama"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "Il porcellino di Sant'Antonio",
+      "testo": "Sant'Antonio abate è raffigurato con un maialino ai piedi. Nel medioevo i suoi frati allevavano maiali con il grasso dei quali curavano il «fuoco di Sant'Antonio», e i maiali potevano girare liberi per i paesi."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Gli spinaci non c'entrano",
+      "testo": "La storia che Braccio di Ferro mangi spinaci per un errore di virgola nel contenuto di ferro è a sua volta una leggenda. E gli spinaci, nella striscia, arrivarono solo un paio d'anni dopo il debutto."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Gli occhiali di Franklin",
+      "testo": "Benjamin Franklin, nato oggi, inventò il parafulmine e gli occhiali bifocali, e non volle mai brevettarli: diceva che le invenzioni devono servire a tutti."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il tempo è denaro.",
+      "autore": "Benjamin Franklin",
+      "fonte": "Consigli a un giovane commerciante, 1748"
+    },
+    {
+      "testo": "Vola come una farfalla, pungi come un'ape.",
+      "autore": "Muhammad Ali",
+      "fonte": "1964"
+    },
+    {
+      "testo": "Sant'Antonio dalla barba bianca, se non piove la neve non manca.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A Sant'Antuon maschere e suon.",
+      "regione": "Basilicata",
+      "traduzione": "A Sant'Antonio maschere e suoni.",
+      "spiegazione": "Con Sant'Antonio abate comincia il Carnevale: si tirano fuori maschere e strumenti.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "Acqua, fuacu e pane 'un se neganu mancu a ri cani.",
+      "regione": "Calabria",
+      "traduzione": "Acqua, fuoco e pane non si negano neanche ai cani.",
+      "spiegazione": "Le cose essenziali non si rifiutano a nessuno: è la regola dell'ospitalità.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

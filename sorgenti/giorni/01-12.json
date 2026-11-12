@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "giorno": "01-12",
+  "santo": {
+    "nome": "San Bernardo da Corleone",
+    "nota": "Calzolaio e spadaccino siciliano del Seicento, dopo un duello finito male si fece frate cappuccino e passò il resto della vita in penitenza e preghiera.",
+    "altri": [
+      "Santa Tatiana",
+      "Sant'Antonio Maria Pucci",
+      "San Benedetto Biscop"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-12-1908",
+      "anno": 1908,
+      "titolo": "Radio dalla Torre Eiffel",
+      "testo": "Dalla Torre Eiffel parte il primo messaggio radio a lunga distanza: la torre, che doveva essere smontata, si salva diventando un'antenna.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Torre Eiffel",
+      "tono": "leggero",
+      "indizio": "Domani: un monumento destinato a essere smontato si salva grazie alla radio."
+    },
+    {
+      "id": "01-12-1848",
+      "anno": 1848,
+      "titolo": "La rivoluzione di Palermo",
+      "testo": "A Palermo scoppia la rivolta contro i Borbone: è la prima delle rivoluzioni che nel 1848 attraverseranno tutta l'Europa.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Rivoluzione siciliana del 1848",
+      "tono": "storico",
+      "indizio": "Domani: a Palermo comincia l'anno che farà dire «è successo un quarantotto»."
+    },
+    {
+      "id": "01-12-1969",
+      "anno": 1969,
+      "titolo": "Il primo dei Led Zeppelin",
+      "testo": "Negli Stati Uniti esce il primo album dei Led Zeppelin, registrato in trentasei ore.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Led Zeppelin (album)",
+      "tono": "leggero",
+      "indizio": "Domani: una band inglese pubblica un disco registrato in un giorno e mezzo."
+    },
+    {
+      "id": "01-12-1985",
+      "anno": 1985,
+      "titolo": "Il gelo di Firenze",
+      "testo": "Un'ondata di freddo siberiano colpisce l'Italia: a Firenze il termometro scende a oltre 23 gradi sotto zero, e nevica perfino sulle spiagge.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Nevicata del 1985",
+      "tono": "leggero",
+      "indizio": "Domani: l'Italia si sveglia nella morsa del gelo più forte del secolo."
+    },
+    {
+      "id": "01-12-1773",
+      "anno": 1773,
+      "titolo": "Il primo museo americano",
+      "testo": "A Charleston, nella Carolina del Sud, apre il primo museo degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Charleston Museum",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-12-1709",
+      "anno": 1709,
+      "titolo": "Il grande inverno",
+      "testo": "In Francia infuria il «grande inverno»: due mesi di gelo che ghiacciano la Senna e perfino il mare lungo le coste. A Venezia gela la laguna.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Grande inverno del 1709",
+      "tono": "storico"
+    },
+    {
+      "id": "01-12-1866",
+      "anno": 1866,
+      "titolo": "La società aeronautica",
+      "testo": "A Londra nasce la Royal Aeronautical Society, trentasette anni prima del volo dei fratelli Wright.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Royal Aeronautical Society",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-12-1932",
+      "anno": 1932,
+      "titolo": "La prima senatrice",
+      "testo": "Hattie Caraway è la prima donna eletta al Senato degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Hattie Caraway",
+      "tono": "storico"
+    },
+    {
+      "id": "01-12-1943",
+      "anno": 1943,
+      "titolo": "La ritirata del Don",
+      "testo": "L'offensiva sovietica sul Don travolge il fronte: comincia la ritirata degli alpini italiani in Russia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Ritirata di Russia",
+      "tono": "storico"
+    },
+    {
+      "id": "01-12-2010",
+      "anno": 2010,
+      "titolo": "Il terremoto di Haiti",
+      "testo": "Un terremoto devasta Haiti e la capitale Port-au-Prince.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto di Haiti del 2010",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Charles Perrault",
+      "anno": 1628,
+      "chi": "scrittore francese delle fiabe di Cenerentola e del Gatto con gli stivali",
+      "wiki": "Charles Perrault"
+    },
+    {
+      "nome": "Jack London",
+      "anno": 1876,
+      "chi": "scrittore statunitense del Richiamo della foresta",
+      "wiki": "Jack London"
+    },
+    {
+      "nome": "Haruki Murakami",
+      "anno": 1949,
+      "chi": "scrittore giapponese",
+      "wiki": "Haruki Murakami"
+    },
+    {
+      "nome": "Jeff Bezos",
+      "anno": 1964,
+      "chi": "fondatore di Amazon",
+      "wiki": "Jeff Bezos"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Cappuccetto Rosso senza cacciatore",
+      "testo": "Nella versione di Perrault, nato oggi, Cappuccetto Rosso finisce mangiata dal lupo e non arriva nessun cacciatore: il lieto fine lo aggiunsero i fratelli Grimm più di un secolo dopo."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "È successo un quarantotto",
+      "testo": "L'espressione «fare un quarantotto», cioè un gran trambusto, viene proprio dalle rivoluzioni del 1848, cominciate a Palermo."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Neve sulle spiagge",
+      "testo": "Nel gennaio 1985 nevicò in quasi tutta Italia, perfino lungo le coste. A Milano cadde più di mezzo metro di neve e crollò il tetto del velodromo Vigorelli."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "C'era una volta…",
+      "autore": "Charles Perrault",
+      "fonte": "inizio delle Fiabe"
+    },
+    {
+      "testo": "Non si può aspettare l'ispirazione: bisogna andarle dietro con un bastone.",
+      "autore": "Jack London",
+      "fonte": "saggio Getting Into Print, 1903"
+    },
+    {
+      "testo": "Sotto la neve pane, sotto l'acqua fame.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi ruma catta ossi.",
+      "regione": "Veneto",
+      "traduzione": "Chi scava trova ossa.",
+      "spiegazione": "Chi cerca trova: chi fruga troppo, però, rischia di trovare quello che non voleva.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Chi se leva ru matinu abbusca nu carinu.",
+      "regione": "Calabria",
+      "traduzione": "Chi si alza presto guadagna un carlino.",
+      "spiegazione": "Il mattino ha l'oro in bocca: chi comincia presto la giornata ne ricava di più.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "giorno": "01-15",
+  "santo": {
+    "nome": "San Mauro abate",
+    "nota": "Discepolo prediletto di san Benedetto, secondo la tradizione camminò sulle acque per salvare il giovane Placido che stava annegando.",
+    "altri": [
+      "Sant'Efisio",
+      "San Paolo di Tebe",
+      "San Romedio"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-15-2001",
+      "anno": 2001,
+      "titolo": "Nasce Wikipedia",
+      "testo": "Va online Wikipedia, l'enciclopedia che chiunque può scrivere e correggere: oggi ha centinaia di edizioni in altrettante lingue.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Wikipedia",
+      "tono": "leggero",
+      "indizio": "Domani: nasce un'enciclopedia che chiunque può scrivere."
+    },
+    {
+      "id": "01-15-2009",
+      "anno": 2009,
+      "titolo": "Il miracolo dell'Hudson",
+      "testo": "Un aereo della US Airways perde i motori dopo l'impatto con uno stormo di oche: il pilota Chesley Sullenberger lo fa scendere sul fiume Hudson, a New York. Si salvano tutti i 155 a bordo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Volo US Airways 1549",
+      "tono": "leggero",
+      "indizio": "Domani: un pilota posa un aereo sul fiume in mezzo a New York."
+    },
+    {
+      "id": "01-15-1759",
+      "anno": 1759,
+      "titolo": "Apre il British Museum",
+      "testo": "A Londra apre al pubblico il British Museum, il primo grande museo nazionale aperto gratuitamente a tutti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "British Museum",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra apre un museo gratuito per chiunque sia curioso."
+    },
+    {
+      "id": "01-15-1967",
+      "anno": 1967,
+      "titolo": "Il primo Super Bowl",
+      "testo": "A Los Angeles si gioca la prima finale del football americano: i Green Bay Packers battono i Kansas City Chiefs 35 a 10. Molti biglietti restano invenduti.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Super Bowl I",
+      "tono": "leggero",
+      "indizio": "Domani: si gioca la prima finale del football americano, e restano posti vuoti."
+    },
+    {
+      "id": "01-15-1945",
+      "anno": 1945,
+      "titolo": "Nasce l'ANSA",
+      "testo": "A Roma nasce l'ANSA, l'agenzia nazionale di stampa, fondata da un gruppo di quotidiani.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "ANSA",
+      "tono": "leggero",
+      "indizio": "Domani: nasce l'agenzia che darà le notizie a tutti i giornali italiani."
+    },
+    {
+      "id": "01-15-1974",
+      "anno": 1974,
+      "titolo": "Happy Days",
+      "testo": "Sulla rete americana ABC debutta Happy Days, la serie di Fonzie e Richie Cunningham.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Happy Days",
+      "tono": "leggero",
+      "indizio": "Domani: debutta una serie ambientata negli anni Cinquanta con un meccanico in giubbotto di pelle."
+    },
+    {
+      "id": "01-15-1943",
+      "anno": 1943,
+      "titolo": "Il Pentagono",
+      "testo": "Viene completato a Washington il Pentagono, costruito in sedici mesi: è uno degli edifici per uffici più grandi del mondo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Pentagono (edificio)",
+      "tono": "storico"
+    },
+    {
+      "id": "01-15-1993",
+      "anno": 1993,
+      "titolo": "Arrestato Riina",
+      "testo": "A Palermo i carabinieri arrestano Totò Riina, latitante da più di vent'anni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Totò Riina",
+      "tono": "storico",
+      "indizio": "Domani: finisce la latitanza del capo dei capi."
+    },
+    {
+      "id": "01-15-1990",
+      "anno": 1990,
+      "titolo": "Il giorno che i telefoni tacquero",
+      "testo": "Un errore in un programma blocca per nove ore la rete telefonica americana AT&T: milioni di chiamate non arrivano a destinazione.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "AT&T",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-15-303",
+      "anno": 303,
+      "titolo": "Sant'Efisio",
+      "testo": "A Nora, in Sardegna, viene martirizzato Efisio: la sua processione da Cagliari a Nora, ogni primo maggio, è una delle più grandi d'Italia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Sant'Efisio",
+      "tono": "storico"
+    },
+    {
+      "id": "01-15-1919",
+      "anno": 1919,
+      "titolo": "Rosa Luxemburg",
+      "testo": "A Berlino vengono uccisi i leader spartachisti Rosa Luxemburg e Karl Liebknecht.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Rosa Luxemburg",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Molière",
+      "anno": 1622,
+      "chi": "commediografo francese, qui la data del battesimo",
+      "wiki": "Molière"
+    },
+    {
+      "nome": "Pierre-Joseph Proudhon",
+      "anno": 1809,
+      "chi": "filosofo francese",
+      "wiki": "Pierre-Joseph Proudhon"
+    },
+    {
+      "nome": "Edward Teller",
+      "anno": 1908,
+      "chi": "fisico ungherese-statunitense",
+      "wiki": "Edward Teller"
+    },
+    {
+      "nome": "Martin Luther King",
+      "anno": 1929,
+      "chi": "pastore e leader dei diritti civili, premio Nobel per la pace",
+      "wiki": "Martin Luther King"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "Wiki vuol dire veloce",
+      "testo": "«Wiki» è una parola hawaiana che significa «veloce»: l'inventore dei siti wiki la sentì all'aeroporto di Honolulu, dove una navetta si chiamava Wiki Wiki."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Duecentootto secondi",
+      "testo": "Fra l'impatto con le oche e l'ammaraggio sull'Hudson passarono meno di quattro minuti. I passeggeri furono raccolti dai traghetti e dai battelli di passaggio."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Per gli studiosi e i curiosi",
+      "testo": "Il British Museum nacque dalla collezione di un medico, Hans Sloane, e aprì «a tutte le persone studiose e curiose». L'ingresso è gratuito ancora oggi."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Ho un sogno.",
+      "autore": "Martin Luther King",
+      "fonte": "discorso di Washington, 1963"
+    },
+    {
+      "testo": "Si muore una volta sola, e per tanto tempo!",
+      "autore": "Molière",
+      "fonte": "Il dispetto amoroso"
+    },
+    {
+      "testo": "Meglio tardi che mai.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Ci stai vecin' a lu mmele, se lecca l'ogne.",
+      "regione": "Basilicata",
+      "traduzione": "Chi sta vicino al miele si lecca le unghie.",
+      "spiegazione": "Chi sta accanto a chi ha qualcosa da offrire finisce sempre per ricavarne un po'.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "I proverbi i xe la sapienza de l'omo.",
+      "regione": "Veneto",
+      "traduzione": "I proverbi sono la saggezza dell'uomo.",
+      "spiegazione": "Nei proverbi c'è l'esperienza di generazioni: ascoltarli conviene.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    }
+  ],
+  "prima_pagina": null
+}

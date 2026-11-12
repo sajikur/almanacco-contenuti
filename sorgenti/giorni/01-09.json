@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "giorno": "01-09",
+  "santo": {
+    "nome": "Sant'Adriano di Canterbury",
+    "nota": "Monaco nato in Africa, abate vicino a Napoli, fu mandato dal papa in Inghilterra nel VII secolo. A Canterbury fondò una scuola famosa in tutta Europa.",
+    "altri": [
+      "San Marcellino di Ancona",
+      "Santa Marciana",
+      "Beata Giulia Della Rena"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-09-2007",
+      "anno": 2007,
+      "titolo": "Ecco l'iPhone",
+      "testo": "A San Francisco Steve Jobs presenta il primo iPhone: «un iPod, un telefono e un comunicatore Internet», tutto in uno.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "iPhone (prima generazione)",
+      "tono": "leggero",
+      "indizio": "Domani: un uomo in maglione nero presenta tre apparecchi che in realtà sono uno solo."
+    },
+    {
+      "id": "01-09-1793",
+      "anno": 1793,
+      "titolo": "Il primo volo in America",
+      "testo": "Jean-Pierre Blanchard decolla in pallone da Filadelfia, davanti a George Washington: è il primo volo nella storia degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Jean-Pierre Blanchard",
+      "tono": "leggero",
+      "indizio": "Domani: sotto gli occhi del presidente un francese si alza in volo sopra Filadelfia."
+    },
+    {
+      "id": "01-09-1923",
+      "anno": 1923,
+      "titolo": "L'autogiro",
+      "testo": "In Spagna vola per la prima volta l'autogiro di Juan de la Cierva, antenato dell'elicottero: un'ala che gira da sola, spinta dal vento.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Autogiro",
+      "tono": "leggero",
+      "indizio": "Domani: un ingegnere spagnolo fa volare un aereo con le ali che girano."
+    },
+    {
+      "id": "01-09-1768",
+      "anno": 1768,
+      "titolo": "Il primo circo",
+      "testo": "A Londra Philip Astley, ex sergente di cavalleria, apre il primo circo moderno: acrobazie a cavallo dentro una pista rotonda.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Circo",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-09-1995",
+      "anno": 1995,
+      "titolo": "Un anno nello spazio",
+      "testo": "Il medico russo Valerij Poljakov compie un anno intero a bordo della stazione Mir: alla fine resterà in orbita 437 giorni, un record ancora imbattuto.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Valerij Poljakov",
+      "tono": "leggero",
+      "indizio": "Domani: un medico russo festeggia un anno intero lassù."
+    },
+    {
+      "id": "01-09-1878",
+      "anno": 1878,
+      "titolo": "Umberto I re",
+      "testo": "Alla morte del padre Vittorio Emanuele II, Umberto I diventa re d'Italia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Umberto I di Savoia",
+      "tono": "storico"
+    },
+    {
+      "id": "01-09-1448",
+      "anno": 1448,
+      "titolo": "La prima lotteria",
+      "testo": "Secondo le cronache, a Milano si tiene la prima lotteria pubblica italiana.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Lotteria",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-09-1951",
+      "anno": 1951,
+      "titolo": "Il palazzo dell'ONU",
+      "testo": "A New York apre il Palazzo di Vetro, sede delle Nazioni Unite.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Palazzo di Vetro",
+      "tono": "storico"
+    },
+    {
+      "id": "01-09-1960",
+      "anno": 1960,
+      "titolo": "La diga di Assuan",
+      "testo": "In Egitto cominciano i lavori della grande diga di Assuan; i templi di Abu Simbel verranno spostati pezzo per pezzo per salvarli dalle acque.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Diga di Assuan",
+      "tono": "storico"
+    },
+    {
+      "id": "01-09-1822",
+      "anno": 1822,
+      "titolo": "Il giorno del «resto»",
+      "testo": "In Brasile il principe Pietro disobbedisce al Portogallo e annuncia: «Resto!». È il primo passo verso l'indipendenza.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Dia do Fico",
+      "tono": "storico"
+    },
+    {
+      "id": "01-09-1950",
+      "anno": 1950,
+      "titolo": "Le Fonderie di Modena",
+      "testo": "Durante una manifestazione davanti alle Fonderie Riunite di Modena le forze dell'ordine sparano sugli operai.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Eccidio delle Fonderie Riunite",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Simone de Beauvoir",
+      "anno": 1908,
+      "chi": "scrittrice e filosofa francese",
+      "wiki": "Simone de Beauvoir"
+    },
+    {
+      "nome": "Richard Nixon",
+      "anno": 1913,
+      "chi": "presidente degli Stati Uniti",
+      "wiki": "Richard Nixon"
+    },
+    {
+      "nome": "Joan Baez",
+      "anno": 1941,
+      "chi": "cantautrice statunitense",
+      "wiki": "Joan Baez"
+    },
+    {
+      "nome": "Jimmy Page",
+      "anno": 1944,
+      "chi": "chitarrista dei Led Zeppelin",
+      "wiki": "Jimmy Page"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Tredici metri di diametro",
+      "testo": "Philip Astley scoprì che in una pista rotonda di circa tredici metri un cavallo al galoppo spinge il cavaliere verso l'interno e lo aiuta a stare in piedi in sella. Le piste dei circhi hanno ancora quella misura."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il telefono senza tasti",
+      "testo": "Quando Jobs presentò l'iPhone, quasi tutti i telefoni avevano la tastiera. Un dirigente di un concorrente commentò che nessuno avrebbe comprato un telefono senza tasti."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Il medico cavia",
+      "testo": "Poljakov restò così a lungo sulla Mir per studiare su se stesso gli effetti di un lungo viaggio verso Marte. Al ritorno scese dalla capsula camminando da solo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Donna non si nasce, lo si diventa.",
+      "autore": "Simone de Beauvoir",
+      "fonte": "Il secondo sesso"
+    },
+    {
+      "testo": "Oggi Apple reinventa il telefono.",
+      "autore": "Steve Jobs",
+      "fonte": "presentazione dell'iPhone, 2007"
+    },
+    {
+      "testo": "Gennaio fa il ponte, febbraio lo rompe.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Pe conosce un bôxardo bezêugna fâlo parlà trae votte.",
+      "regione": "Liguria",
+      "traduzione": "Per riconoscere un bugiardo bisogna farlo parlare tre volte.",
+      "spiegazione": "Chi mente prima o poi si contraddice: basta lasciarlo parlare.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Cu s'avanti'ssulu, nu'vvali nu fasulu.",
+      "regione": "Basilicata",
+      "traduzione": "Chi si loda da solo non vale un fagiolo.",
+      "spiegazione": "Le lodi valgono solo quando vengono dagli altri.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

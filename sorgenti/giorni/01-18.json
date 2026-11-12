@@ -1,0 +1,219 @@
+{
+  "schema": 1,
+  "giorno": "01-18",
+  "santo": {
+    "nome": "Santa Prisca",
+    "nota": "Giovane martire romana, venerata in una delle chiese più antiche dell'Aventino. Il calendario ricorda oggi anche santa Margherita d'Ungheria.",
+    "altri": [
+      "Santa Margherita d'Ungheria",
+      "San Deicolo di Lure",
+      "Beata Cristina Ciccarelli"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Inizio della Settimana di preghiera per l'unità dei cristiani",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-18-1911",
+      "anno": 1911,
+      "titolo": "Il primo atterraggio su una nave",
+      "testo": "Nella baia di San Francisco il pilota Eugene Ely atterra con il suo biplano sul ponte dell'incrociatore Pennsylvania: per fermarlo, funi tese con sacchi di sabbia.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Eugene Ely",
+      "tono": "leggero",
+      "indizio": "Domani: un aereo si posa per la prima volta sul ponte di una nave."
+    },
+    {
+      "id": "01-18-1778",
+      "anno": 1778,
+      "titolo": "Cook alle Hawaii",
+      "testo": "James Cook è il primo europeo ad arrivare alle Hawaii: le chiama isole Sandwich, in onore del conte di Sandwich.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "James Cook",
+      "tono": "leggero",
+      "indizio": "Domani: un capitano inglese trova un arcipelago e gli dà il nome di un panino."
+    },
+    {
+      "id": "01-18-1919",
+      "anno": 1919,
+      "titolo": "Liberi e forti",
+      "testo": "A Roma don Luigi Sturzo lancia l'appello «ai liberi e forti» e fonda il Partito Popolare Italiano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Partito Popolare Italiano (1919)",
+      "tono": "storico",
+      "indizio": "Domani: un prete siciliano chiama a raccolta i «liberi e forti»."
+    },
+    {
+      "id": "01-18-1871",
+      "anno": 1871,
+      "titolo": "L'Impero tedesco",
+      "testo": "Nella Sala degli specchi di Versailles Guglielmo I di Prussia viene proclamato imperatore di Germania.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Impero tedesco",
+      "tono": "storico",
+      "indizio": "Domani: nella reggia dei re di Francia nasce l'impero tedesco."
+    },
+    {
+      "id": "01-18-1997",
+      "anno": 1997,
+      "titolo": "L'Antartide da solo",
+      "testo": "Il norvegese Børge Ousland è il primo ad attraversare l'Antartide da solo e senza aiuti, trainando una slitta e aiutandosi con un aquilone.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Børge Ousland",
+      "tono": "leggero",
+      "indizio": "Domani: un esploratore attraversa da solo il continente più freddo."
+    },
+    {
+      "id": "01-18-1919b",
+      "anno": 1919,
+      "titolo": "Nasce la Bentley",
+      "testo": "In Inghilterra Walter Owen Bentley fonda la casa automobilistica che porta il suo nome.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Bentley",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-18-1535",
+      "anno": 1535,
+      "titolo": "Nasce Lima",
+      "testo": "Francisco Pizarro fonda Lima, che diventerà la capitale del Perù.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Lima",
+      "tono": "storico"
+    },
+    {
+      "id": "01-18-1562",
+      "anno": 1562,
+      "titolo": "Il Concilio di Trento riapre",
+      "testo": "Papa Pio IV riapre il Concilio di Trento per la sua ultima sessione.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Concilio di Trento",
+      "tono": "storico"
+    },
+    {
+      "id": "01-18-1964",
+      "anno": 1964,
+      "titolo": "I Beatles in classifica",
+      "testo": "I Beatles entrano per la prima volta nella classifica americana di Billboard: tre settimane dopo sbarcheranno a New York.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "The Beatles",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-18-1886",
+      "anno": 1886,
+      "titolo": "Nasce l'hockey su prato moderno",
+      "testo": "In Inghilterra viene fondata la Hockey Association, che dà all'hockey su prato le sue regole moderne.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Hockey su prato",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Montesquieu",
+      "anno": 1689,
+      "chi": "filosofo francese della separazione dei poteri",
+      "wiki": "Montesquieu"
+    },
+    {
+      "nome": "A. A. Milne",
+      "anno": 1882,
+      "chi": "scrittore inglese, papà di Winnie the Pooh",
+      "wiki": "A. A. Milne"
+    },
+    {
+      "nome": "Oliver Hardy",
+      "anno": 1892,
+      "chi": "attore comico, l'Ollio di Stanlio e Ollio",
+      "wiki": "Oliver Hardy"
+    },
+    {
+      "nome": "Cary Grant",
+      "anno": 1904,
+      "chi": "attore britannico-statunitense",
+      "wiki": "Cary Grant"
+    },
+    {
+      "nome": "Kevin Costner",
+      "anno": 1955,
+      "chi": "attore e regista statunitense",
+      "wiki": "Kevin Costner"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "lingua",
+      "titolo": "Il panino del conte",
+      "testo": "Il conte di Sandwich, secondo la leggenda, chiedeva carne fra due fette di pane per non lasciare il tavolo da gioco. Dal suo nome vengono sia le isole di Cook sia il panino."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un orso di nome Winnipeg",
+      "testo": "Winnie the Pooh prese il nome da un'orsa vera dello zoo di Londra, Winnipeg, amatissima dal figlio di Milne, Christopher Robin."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Ollio a Hollywood",
+      "testo": "Oliver Hardy, nato oggi, prima del cinema gestiva una sala di proiezione in Georgia. Guardando i film comici pensò di poter fare di meglio."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Perché non si possa abusare del potere bisogna che il potere arresti il potere.",
+      "autore": "Montesquieu",
+      "fonte": "Lo spirito delle leggi"
+    },
+    {
+      "testo": "A tutti gli uomini liberi e forti…",
+      "autore": "Luigi Sturzo",
+      "fonte": "appello del 1919"
+    },
+    {
+      "testo": "Chi trova un amico trova un tesoro.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Qui hat cobertura de cristallu, non bettet pedra a cobertura anzena.",
+      "regione": "Sardegna",
+      "traduzione": "Chi ha il tetto di vetro non tiri pietre sul tetto degli altri.",
+      "spiegazione": "Chi ha difetti non critichi quelli altrui.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Chi de vinti no sa, de trenta no n'à.",
+      "regione": "Liguria",
+      "traduzione": "Chi a vent'anni non sa, a trenta non ha.",
+      "spiegazione": "Quello che non si impara da giovani si sconta più avanti.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    }
+  ],
+  "prima_pagina": null
+}

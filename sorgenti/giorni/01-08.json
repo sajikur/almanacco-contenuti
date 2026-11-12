@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "giorno": "01-08",
+  "santo": {
+    "nome": "San Severino del Norico",
+    "nota": "Monaco del V secolo che assisté le popolazioni del Danubio durante le invasioni barbariche. Le sue reliquie sono a Napoli.",
+    "altri": [
+      "San Lorenzo Giustiniani",
+      "San Massimo di Pavia",
+      "Beata Eurosia Fabris"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-08-1889",
+      "anno": 1889,
+      "titolo": "La macchina dei censimenti",
+      "testo": "Herman Hollerith brevetta la sua macchina tabulatrice a schede perforate: con lei il censimento americano del 1890 si conterà in un anno invece che in otto. La sua azienda diventerà IBM.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Herman Hollerith",
+      "tono": "leggero",
+      "indizio": "Domani: un ingegnere inventa una macchina che conta la gente con le schede bucate."
+    },
+    {
+      "id": "01-08-1963",
+      "anno": 1963,
+      "titolo": "La Gioconda in America",
+      "testo": "Alla National Gallery di Washington viene esposta la Gioconda, in prestito dalla Francia: in poche settimane la vedranno più di mezzo milione di persone.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Gioconda",
+      "tono": "leggero",
+      "indizio": "Domani: il sorriso più famoso del mondo attraversa l'oceano."
+    },
+    {
+      "id": "01-08-1930",
+      "anno": 1930,
+      "titolo": "Umberto sposa Maria José",
+      "testo": "A Roma il principe ereditario Umberto di Savoia sposa la principessa Maria José del Belgio, che diventerà la «regina di maggio».",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Maria José del Belgio",
+      "tono": "storico",
+      "indizio": "Domani: a Roma un principe sposa colei che sarà regina per un solo mese."
+    },
+    {
+      "id": "01-08-1838",
+      "anno": 1838,
+      "titolo": "Punti e linee",
+      "testo": "Alfred Vail mostra che il telegrafo può trasmettere messaggi con un alfabeto di punti e linee: nasce il codice Morse.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Codice Morse",
+      "tono": "leggero",
+      "indizio": "Domani: un telegrafista inventa un alfabeto fatto di punti e di linee."
+    },
+    {
+      "id": "01-08-1958",
+      "anno": 1958,
+      "titolo": "Bobby Fischer campione a 14 anni",
+      "testo": "Il quattordicenne Bobby Fischer vince il campionato degli Stati Uniti di scacchi senza perdere una partita.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Bobby Fischer",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-08-1324",
+      "anno": 1324,
+      "titolo": "Muore Marco Polo",
+      "testo": "A Venezia muore Marco Polo: il racconto dei suoi viaggi in Cina aveva fatto sognare l'Europa intera.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Marco Polo",
+      "tono": "storico"
+    },
+    {
+      "id": "01-08-1642",
+      "anno": 1642,
+      "titolo": "Muore Galileo",
+      "testo": "Ad Arcetri, vicino a Firenze, dove era confinato, muore Galileo Galilei.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Galileo Galilei",
+      "tono": "storico"
+    },
+    {
+      "id": "01-08-1815",
+      "anno": 1815,
+      "titolo": "La battaglia di New Orleans",
+      "testo": "Andrew Jackson sconfigge i britannici a New Orleans: la pace era già stata firmata due settimane prima, ma la notizia non era ancora arrivata.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di New Orleans",
+      "tono": "storico"
+    },
+    {
+      "id": "01-08-1918",
+      "anno": 1918,
+      "titolo": "I Quattordici punti",
+      "testo": "Il presidente americano Wilson presenta i suoi Quattordici punti per la pace dopo la Grande guerra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Quattordici punti",
+      "tono": "storico"
+    },
+    {
+      "id": "01-08-1992",
+      "anno": 1992,
+      "titolo": "Un malore a cena",
+      "testo": "Durante una cena ufficiale a Tokyo il presidente George Bush senior si sente male e sviene sul primo ministro giapponese.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "George H. W. Bush",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-08-1959",
+      "anno": 1959,
+      "titolo": "Castro all'Avana",
+      "testo": "Fidel Castro entra all'Avana alla testa dei barbudos.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rivoluzione cubana",
+      "tono": "storico"
+    },
+    {
+      "id": "01-08-1989",
+      "anno": 1989,
+      "titolo": "Il disastro di Kegworth",
+      "testo": "Un aereo della British Midland precipita su una scarpata dell'autostrada M1, in Inghilterra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Disastro aereo di Kegworth",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Elvis Presley",
+      "anno": 1935,
+      "chi": "cantante statunitense, il re del rock and roll",
+      "wiki": "Elvis Presley"
+    },
+    {
+      "nome": "Shirley Bassey",
+      "anno": 1937,
+      "chi": "cantante gallese",
+      "wiki": "Shirley Bassey"
+    },
+    {
+      "nome": "Stephen Hawking",
+      "anno": 1942,
+      "chi": "fisico e cosmologo britannico",
+      "wiki": "Stephen Hawking"
+    },
+    {
+      "nome": "David Bowie",
+      "anno": 1947,
+      "chi": "cantautore britannico",
+      "wiki": "David Bowie"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Trecento anni esatti",
+      "testo": "Stephen Hawking nacque l'8 gennaio 1942, trecento anni esatti dopo la morte di Galileo. Gli piaceva ricordarlo, aggiungendo che quel giorno erano nati anche duecentomila altri bambini."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Non ho detto la metà",
+      "testo": "Secondo un frate che lo conobbe, Marco Polo sul letto di morte rifiutò di ritrattare: disse di non aver raccontato nemmeno la metà di quello che aveva visto."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Elvis e la chitarra",
+      "testo": "Per il suo undicesimo compleanno Elvis voleva un fucile o una bicicletta. La madre gli regalò una chitarra: costava meno ed era meno pericolosa."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Non ho scritto la metà di quello che ho visto.",
+      "autore": "attribuita a Marco Polo",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Guardate le stelle, non i vostri piedi.",
+      "autore": "Stephen Hawking",
+      "fonte": "discorso del 2012"
+    },
+    {
+      "testo": "Chi va con lo zoppo impara a zoppicare.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Mezus terra senza pane, que terra senza justitia.",
+      "regione": "Sardegna",
+      "traduzione": "Meglio una terra senza pane che una terra senza giustizia.",
+      "spiegazione": "La giustizia conta più del benessere: senza di lei nessuna ricchezza dura.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Jè plui grande la pōre dal māl, che il māl istes.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "È più grande la paura del male che il male stesso.",
+      "spiegazione": "Spesso ci si tormenta più per l'attesa di un guaio che per il guaio vero.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

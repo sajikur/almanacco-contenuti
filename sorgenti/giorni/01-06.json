@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "giorno": "01-06",
+  "santo": {
+    "nome": "Epifania del Signore",
+    "nota": "La festa dei Magi che portano a Gesù oro, incenso e mirra. Per tradizione chiude le feste di Natale; per gli ortodossi è la vigilia del loro Natale.",
+    "altri": [
+      "Sant'Andrea Corsini",
+      "San Carlo da Sezze",
+      "San Raimondo de Blanes"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Vigilia di Natale ortodossa",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-06-1907",
+      "anno": 1907,
+      "titolo": "La prima Casa dei Bambini",
+      "testo": "Nel quartiere romano di San Lorenzo Maria Montessori apre la sua prima Casa dei Bambini, dove sperimenta il suo metodo educativo.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Maria Montessori",
+      "tono": "leggero",
+      "indizio": "Domani: a Roma una dottoressa apre una scuola dove i bambini imparano da soli."
+    },
+    {
+      "id": "01-06-1911",
+      "anno": 1911,
+      "titolo": "L'Italia veste d'azzurro",
+      "testo": "A Milano, contro l'Ungheria, la Nazionale italiana di calcio indossa per la prima volta la maglia azzurra.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Nazionale di calcio dell'Italia",
+      "tono": "leggero",
+      "indizio": "Domani: la Nazionale scende in campo con un colore che le darà il soprannome."
+    },
+    {
+      "id": "01-06-1838",
+      "anno": 1838,
+      "titolo": "Il telegrafo funziona",
+      "testo": "Samuel Morse e Alfred Vail provano con successo il telegrafo elettrico su tre chilometri di filo, a Morristown, nel New Jersey.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Telegrafo",
+      "tono": "leggero",
+      "indizio": "Domani: un pittore americano manda un messaggio lungo un filo elettrico."
+    },
+    {
+      "id": "01-06-1931",
+      "anno": 1931,
+      "titolo": "L'ultimo brevetto di Edison",
+      "testo": "Thomas Edison deposita la sua ultima domanda di brevetto: in tutta la vita ne aveva ottenuti più di mille negli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Thomas Edison",
+      "tono": "leggero",
+      "indizio": "Domani: il più prolifico inventore americano deposita la sua ultima idea."
+    },
+    {
+      "id": "01-06-1880",
+      "anno": 1880,
+      "titolo": "Gli italiani di Criciúma",
+      "testo": "Un gruppo di emigranti veneti fonda nel sud del Brasile la città di Criciúma.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Criciúma",
+      "tono": "storico"
+    },
+    {
+      "id": "01-06-1870",
+      "anno": 1870,
+      "titolo": "Il Musikverein",
+      "testo": "A Vienna viene inaugurato il Musikverein: dalla sua sala dorata va in onda ogni anno il Concerto di Capodanno.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Musikverein",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-06-1926",
+      "anno": 1926,
+      "titolo": "Nasce Lufthansa",
+      "testo": "Dalla fusione di due compagnie tedesche nasce la Deutsche Luft Hansa.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Lufthansa",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-06-1928",
+      "anno": 1928,
+      "titolo": "I molossi",
+      "testo": "La Nocerina batte il Napoli all'Arenaccia: da quel giorno i suoi giocatori vengono chiamati «molossi».",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Associazione Sportiva Giovanile Nocerina",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-06-1998",
+      "anno": 1998,
+      "titolo": "Lunar Prospector",
+      "testo": "Parte la sonda Lunar Prospector, che troverà indizi di ghiaccio nei crateri dei poli lunari.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Lunar Prospector",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-06-1912",
+      "anno": 1912,
+      "titolo": "Il Nuovo Messico",
+      "testo": "Il Nuovo Messico diventa il quarantasettesimo Stato degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Nuovo Messico",
+      "tono": "storico"
+    },
+    {
+      "id": "01-06-1980",
+      "anno": 1980,
+      "titolo": "Piersanti Mattarella",
+      "testo": "A Palermo la mafia uccide il presidente della Regione Siciliana Piersanti Mattarella.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Piersanti Mattarella",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Giovanna d'Arco",
+      "anno": 1412,
+      "chi": "eroina francese e santa, secondo la data tradizionale",
+      "wiki": "Giovanna d'Arco"
+    },
+    {
+      "nome": "Gustave Doré",
+      "anno": 1832,
+      "chi": "illustratore francese della Divina Commedia",
+      "wiki": "Gustave Doré"
+    },
+    {
+      "nome": "Kahlil Gibran",
+      "anno": 1883,
+      "chi": "poeta libanese, autore del Profeta",
+      "wiki": "Kahlil Gibran"
+    },
+    {
+      "nome": "Adriano Celentano",
+      "anno": 1938,
+      "chi": "cantante, il «molleggiato»",
+      "wiki": "Adriano Celentano"
+    },
+    {
+      "nome": "Rowan Atkinson",
+      "anno": 1955,
+      "chi": "attore britannico, Mr. Bean",
+      "wiki": "Rowan Atkinson"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "sport",
+      "titolo": "Perché azzurro",
+      "testo": "L'azzurro della Nazionale viene dal colore di Casa Savoia, che compariva nello stemma al centro del tricolore. Nelle prime partite l'Italia giocava in bianco."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Mobili a misura di bambino",
+      "testo": "Nelle Case dei Bambini di Maria Montessori sedie, tavoli e lavandini erano piccoli e leggeri, perché i bambini potessero spostarli e usarli da soli."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "I Magi da Milano a Colonia",
+      "testo": "Secondo la tradizione le reliquie dei Magi erano custodite a Milano, nella basilica di Sant'Eustorgio. Federico Barbarossa le portò via nel 1164 e oggi sono nel duomo di Colonia."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Aiutami a fare da solo.",
+      "autore": "attribuita a Maria Montessori",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "I vostri figli non sono figli vostri: sono i figli e le figlie della vita stessa.",
+      "autore": "Kahlil Gibran",
+      "fonte": "Il profeta"
+    },
+    {
+      "testo": "L'Epifania tutte le feste porta via.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "L'Epifania tute le feste la scoa via.",
+      "regione": "Veneto",
+      "traduzione": "L'Epifania tutte le feste le spazza via.",
+      "spiegazione": "Con il 6 gennaio finiscono le feste di Natale e si torna alla vita di tutti i giorni.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "A Pasquëta, n'oëta.",
+      "regione": "Liguria",
+      "traduzione": "All'Epifania, un'oretta.",
+      "spiegazione": "In Liguria la Pasquetta è il 6 gennaio: a quel punto le giornate si sono allungate di circa un'ora.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    }
+  ],
+  "prima_pagina": null
+}

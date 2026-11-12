@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "giorno": "01-07",
+  "santo": {
+    "nome": "San Raimondo di Peñafort",
+    "nota": "Domenicano catalano del Duecento, grande esperto di diritto: raccolse per il papa le leggi della Chiesa. È il patrono degli avvocati.",
+    "altri": [
+      "San Crispino di Pavia",
+      "Santa Virginia del Poitou",
+      "San Canuto Lavard"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa del Tricolore",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Natale ortodosso",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-07-1610",
+      "anno": 1610,
+      "titolo": "Le lune di Giove",
+      "testo": "Da Padova, con il suo cannocchiale, Galileo vede tre «stelline» vicino a Giove: nelle notti seguenti capirà che gli girano attorno. Sono le prime lune scoperte oltre la nostra.",
+      "ambito": "italia",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Satelliti galileiani",
+      "tono": "leggero",
+      "indizio": "Domani: un professore di Padova punta il cannocchiale su Giove e vede qualcosa che cambierà l'astronomia."
+    },
+    {
+      "id": "01-07-1797",
+      "anno": 1797,
+      "titolo": "Nasce il tricolore",
+      "testo": "A Reggio Emilia il congresso della Repubblica Cispadana adotta come bandiera il tricolore bianco, rosso e verde: è la prima volta per uno Stato italiano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Bandiera d'Italia",
+      "tono": "storico",
+      "indizio": "Domani: a Reggio Emilia nasce una bandiera di tre colori."
+    },
+    {
+      "id": "01-07-1927",
+      "anno": 1927,
+      "titolo": "Pronto, Londra?",
+      "testo": "Comincia il servizio telefonico commerciale fra New York e Londra, via radio: tre minuti costano 75 dollari.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Telefonia",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta si può telefonare dall'altra parte dell'oceano."
+    },
+    {
+      "id": "01-07-1785",
+      "anno": 1785,
+      "titolo": "La Manica in pallone",
+      "testo": "Jean-Pierre Blanchard e John Jeffries attraversano la Manica in mongolfiera a idrogeno: per non cadere in mare gettano tutto, perfino i vestiti.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Jean-Pierre Blanchard",
+      "tono": "leggero",
+      "indizio": "Domani: due uomini attraversano la Manica in pallone e arrivano quasi in mutande."
+    },
+    {
+      "id": "01-07-1730",
+      "anno": 1730,
+      "titolo": "I confini delle Contrade",
+      "testo": "A Siena il bando della governatrice Violante di Baviera fissa una volta per tutte i confini delle diciassette Contrade, quelli del Palio di oggi.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Contrade di Siena",
+      "tono": "leggero",
+      "indizio": "Domani: a Siena si decide fin dove arriva ogni contrada."
+    },
+    {
+      "id": "01-07-1990",
+      "anno": 1990,
+      "titolo": "Chiude la Torre di Pisa",
+      "testo": "La Torre di Pisa viene chiusa al pubblico per il rischio di crollo: riaprirà nel 2001, dopo essere stata raddrizzata di una quarantina di centimetri.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Torre di Pisa",
+      "tono": "leggero",
+      "indizio": "Domani: la torre più famosa d'Italia chiude perché pende troppo."
+    },
+    {
+      "id": "01-07-1927b",
+      "anno": 1927,
+      "titolo": "Harlem Globetrotters",
+      "testo": "In una cittadina dell'Illinois giocano la loro prima partita gli Harlem Globetrotters, i giocolieri del basket.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Harlem Globetrotters",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-07-1904",
+      "anno": 1904,
+      "titolo": "CQD, prima dell'SOS",
+      "testo": "Viene adottato CQD come segnale di soccorso via radio; due anni dopo sarà sostituito dall'SOS.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "CQD",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-07-1954",
+      "anno": 1954,
+      "titolo": "Il computer traduttore",
+      "testo": "A New York un calcolatore IBM traduce automaticamente sessanta frasi dal russo all'inglese: è la prima dimostrazione pubblica di traduzione automatica.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Esperimento di Georgetown-IBM",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-07-2007",
+      "anno": 2007,
+      "titolo": "Staminali nel liquido amniotico",
+      "testo": "Un gruppo di ricercatori, fra cui l'italiano Paolo De Coppi, annuncia di aver trovato cellule staminali nel liquido amniotico.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Cellula staminale",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-07-1566",
+      "anno": 1566,
+      "titolo": "Papa Pio V",
+      "testo": "Il domenicano Antonio Ghislieri viene eletto papa con il nome di Pio V.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Papa Pio V",
+      "tono": "storico"
+    },
+    {
+      "id": "01-07-2015",
+      "anno": 2015,
+      "titolo": "Charlie Hebdo",
+      "testo": "A Parigi un commando attacca la redazione del settimanale satirico Charlie Hebdo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Attentato alla sede di Charlie Hebdo",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Millard Fillmore",
+      "anno": 1800,
+      "chi": "presidente degli Stati Uniti",
+      "wiki": "Millard Fillmore"
+    },
+    {
+      "nome": "Bernadette Soubirous",
+      "anno": 1844,
+      "chi": "la veggente di Lourdes, santa",
+      "wiki": "Bernadette Soubirous"
+    },
+    {
+      "nome": "Charles Péguy",
+      "anno": 1873,
+      "chi": "scrittore e poeta francese",
+      "wiki": "Charles Péguy"
+    },
+    {
+      "nome": "Gerald Durrell",
+      "anno": 1925,
+      "chi": "naturalista e scrittore britannico",
+      "wiki": "Gerald Durrell"
+    },
+    {
+      "nome": "Nicolas Cage",
+      "anno": 1964,
+      "chi": "attore statunitense",
+      "wiki": "Nicolas Cage"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "spazio",
+      "titolo": "Le stelle dei Medici",
+      "testo": "Galileo chiamò le lune di Giove «stelle medicee», in onore di Cosimo II de' Medici, sperando in un posto a Firenze. Lo ottenne. I nomi di oggi, Io, Europa, Ganimede e Callisto, arrivarono più tardi."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Strisce orizzontali",
+      "testo": "Il primo tricolore della Repubblica Cispadana aveva le strisce orizzontali, con il rosso in alto, e al centro uno stemma con una faretra e quattro frecce, una per ogni città."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Raddrizzata, ma non troppo",
+      "testo": "Gli ingegneri che salvarono la Torre di Pisa la raddrizzarono solo quanto bastava a metterla in sicurezza. Raddrizzarla del tutto avrebbe tolto a Pisa il suo monumento più famoso."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Eppur si muove.",
+      "autore": "attribuita a Galileo Galilei",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Uomo avvisato, mezzo salvato.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "La matematica è l'alfabeto con cui Dio ha scritto l'universo.",
+      "autore": "attribuita a Galileo Galilei",
+      "fonte": "dal Saggiatore"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Uomo avvisato, è mezzo salvo.",
+      "regione": "Toscana",
+      "traduzione": "Uomo avvisato è mezzo salvo.",
+      "spiegazione": "Chi è stato messo in guardia ha già fatto metà del lavoro per evitare il pericolo.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Pani e mantu no gravanu tantu.",
+      "regione": "Calabria",
+      "traduzione": "Pane e mantello non pesano troppo.",
+      "spiegazione": "Le cose essenziali vanno sempre portate con sé: non sono mai un peso.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

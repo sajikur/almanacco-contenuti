@@ -1,0 +1,213 @@
+{
+  "schema": 1,
+  "giorno": "01-10",
+  "santo": {
+    "nome": "Sant'Aldo",
+    "nota": "Eremita del medioevo vissuto fra la Toscana e il Pavese, ricordato per la vita di preghiera e di carità.",
+    "altri": [
+      "San Gregorio di Nissa",
+      "San Pietro Orseolo",
+      "San Paolo di Tebe"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-10-1927",
+      "anno": 1927,
+      "titolo": "Metropolis",
+      "testo": "A Berlino debutta Metropolis di Fritz Lang, il film di fantascienza con la città del futuro e la donna robot.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Metropolis (film 1927)",
+      "tono": "leggero",
+      "indizio": "Domani: a Berlino si proietta un film sulla città del futuro e su un robot dal volto di donna."
+    },
+    {
+      "id": "01-10-1863",
+      "anno": 1863,
+      "titolo": "La prima metropolitana",
+      "testo": "A Londra apre il primo tratto della metropolitana, fra Paddington e Farringdon: treni a vapore sotto le strade.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Metropolitana di Londra",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra si comincia a viaggiare sotto terra."
+    },
+    {
+      "id": "01-10--49",
+      "anno": -49,
+      "titolo": "Il Rubicone",
+      "testo": "Giulio Cesare attraversa con le sue legioni il Rubicone, il fiume romagnolo che segnava il confine dell'Italia: comincia la guerra civile.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Attraversamento del Rubicone",
+      "tono": "storico",
+      "indizio": "Domani: un generale attraversa un piccolo fiume romagnolo e cambia la storia di Roma."
+    },
+    {
+      "id": "01-10-1929",
+      "anno": 1929,
+      "titolo": "Arriva Tintin",
+      "testo": "Su un supplemento per ragazzi di un giornale belga esce la prima avventura di Tintin, il reporter con il ciuffo, disegnato da Hergé.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Tintin",
+      "tono": "leggero",
+      "indizio": "Domani: in Belgio nasce un giornalista con il ciuffo e un cagnolino bianco."
+    },
+    {
+      "id": "01-10-1859",
+      "anno": 1859,
+      "titolo": "Il grido di dolore",
+      "testo": "Aprendo il Parlamento a Torino, Vittorio Emanuele II dice di non essere insensibile al «grido di dolore» che sale da tante parti d'Italia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Grido di dolore",
+      "tono": "storico",
+      "indizio": "Domani: un re pronuncia a Torino una frase che annuncia la guerra per l'Italia."
+    },
+    {
+      "id": "01-10-1072",
+      "anno": 1072,
+      "titolo": "I Normanni a Palermo",
+      "testo": "Roberto il Guiscardo e il fratello Ruggero conquistano Palermo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Roberto il Guiscardo",
+      "tono": "storico"
+    },
+    {
+      "id": "01-10-1776",
+      "anno": 1776,
+      "titolo": "Senso comune",
+      "testo": "Thomas Paine pubblica Senso comune, il pamphlet che convince molti americani a volere l'indipendenza.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Senso comune",
+      "tono": "storico"
+    },
+    {
+      "id": "01-10-1936",
+      "anno": 1936,
+      "titolo": "Nasce l'Olimpia Milano",
+      "testo": "Viene fondata la società di pallacanestro che diventerà l'Olimpia Milano, la più titolata d'Italia.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Pallacanestro Olimpia Milano",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-10-1920",
+      "anno": 1920,
+      "titolo": "La Società delle Nazioni",
+      "testo": "Entra in vigore il patto che crea la Società delle Nazioni, antenata dell'ONU.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Società delle Nazioni",
+      "tono": "storico"
+    },
+    {
+      "id": "01-10-1946",
+      "anno": 1946,
+      "titolo": "La prima assemblea dell'ONU",
+      "testo": "A Londra si apre la prima Assemblea generale delle Nazioni Unite.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Assemblea generale delle Nazioni Unite",
+      "tono": "storico"
+    },
+    {
+      "id": "01-10-1962",
+      "anno": 1962,
+      "titolo": "Il crollo dello Huascarán",
+      "testo": "In Perù un enorme pezzo del ghiacciaio dello Huascarán si stacca e travolge i villaggi a valle.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Huascarán",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Rod Stewart",
+      "anno": 1945,
+      "chi": "cantante britannico",
+      "wiki": "Rod Stewart"
+    },
+    {
+      "nome": "George Foreman",
+      "anno": 1949,
+      "chi": "pugile statunitense, due volte campione dei pesi massimi",
+      "wiki": "George Foreman"
+    },
+    {
+      "nome": "Pat Benatar",
+      "anno": 1953,
+      "chi": "cantante statunitense",
+      "wiki": "Pat Benatar"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Il dado è tratto, in greco",
+      "testo": "Secondo Plutarco, al Rubicone Cesare non disse la frase in latino ma in greco, citando un verso del commediografo Menandro. Il Rubicone, oggi, è un piccolo fiume fra Cesena e Rimini."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un reporter che non scrive",
+      "testo": "In tutte le sue avventure Tintin, che di mestiere fa il giornalista, non si vede quasi mai scrivere un articolo."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Vapore sotto terra",
+      "testo": "I primi treni della metropolitana di Londra andavano a vapore: le gallerie erano piene di fumo, ma il primo giorno viaggiarono quasi quarantamila passeggeri."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il dado è tratto.",
+      "autore": "Giulio Cesare",
+      "fonte": "secondo Svetonio"
+    },
+    {
+      "testo": "Non siamo insensibili al grido di dolore che da tante parti d'Italia si leva verso di noi.",
+      "autore": "Vittorio Emanuele II",
+      "fonte": "discorso al Parlamento, 1859"
+    },
+    {
+      "testo": "Il mediatore fra la mente e le mani deve essere il cuore.",
+      "autore": "Thea von Harbou",
+      "fonte": "Metropolis"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "'Mbriachi e picciriddi, 'u Signuri aiuta.",
+      "regione": "Sicilia",
+      "traduzione": "Ubriachi e bambini, il Signore li aiuta.",
+      "spiegazione": "Chi è indifeso, o non sa quello che fa, sembra protetto da una buona stella.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "Pe' fa' ambressa 'a gatta facette 'e figlie cecate.",
+      "regione": "Campania",
+      "traduzione": "Per fare in fretta la gatta fece i figli ciechi.",
+      "spiegazione": "Le cose fatte di fretta riescono male.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}
