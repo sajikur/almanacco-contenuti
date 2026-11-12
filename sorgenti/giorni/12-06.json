@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "giorno": "12-06",
+  "santo": {
+    "nome": "San Nicola",
+    "nota": "Vescovo di Myra, in Asia Minore, nel IV secolo. Le sue reliquie sono a Bari dal 1087. È il protettore dei bambini e dei marinai, e dalla sua leggenda nasce Babbo Natale.",
+    "altri": [
+      "Sant'Apollinare di Trieste",
+      "Sant'Asella",
+      "San Pietro Pascasio"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa dell'indipendenza (Finlandia)",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giorno della Costituzione (Spagna)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-06-1768",
+      "anno": 1768,
+      "titolo": "Nasce l'Enciclopedia Britannica",
+      "testo": "A Edimburgo esce il primo fascicolo dell'Encyclopædia Britannica: resterà per due secoli e mezzo l'enciclopedia di riferimento in lingua inglese.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Encyclopædia Britannica",
+      "tono": "leggero",
+      "indizio": "Domani: a Edimburgo comincia un'opera che vuole contenere tutto il sapere."
+    },
+    {
+      "id": "12-06-1933",
+      "anno": 1933,
+      "titolo": "L'Ulisse non è osceno",
+      "testo": "Un giudice federale americano stabilisce che l'Ulisse di James Joyce non è un libro osceno e può entrare negli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Ulisse (Joyce)",
+      "tono": "leggero",
+      "indizio": "Domani: un giudice americano legge un romanzo difficile e lo lascia entrare in libreria."
+    },
+    {
+      "id": "12-06-1959",
+      "anno": 1959,
+      "titolo": "Lo Stadio del Sole",
+      "testo": "A Napoli si inaugura lo stadio di Fuorigrotta, allora chiamato Stadio del Sole: il Napoli batte la Juventus 2-1.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Stadio Diego Armando Maradona",
+      "tono": "leggero",
+      "indizio": "Domani: Napoli inaugura il suo nuovo stadio battendo la Juventus."
+    },
+    {
+      "id": "12-06-1917",
+      "anno": 1917,
+      "titolo": "La Finlandia indipendente",
+      "testo": "Il Parlamento finlandese dichiara l'indipendenza dalla Russia: oggi è la festa nazionale del Paese.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Dichiarazione d'indipendenza della Finlandia",
+      "tono": "storico",
+      "indizio": "Domani: un Paese del Nord dichiara la propria indipendenza in mezzo alla rivoluzione russa."
+    },
+    {
+      "id": "12-06-1877",
+      "anno": 1877,
+      "titolo": "Mary aveva un agnellino",
+      "testo": "Thomas Edison registra la propria voce sul fonografo recitando una filastrocca: la macchina la ripete, fra lo stupore di tutti.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Fonografo",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-06-1877b",
+      "anno": 1877,
+      "titolo": "Esce il Washington Post",
+      "testo": "Esce il primo numero del Washington Post, il quotidiano che un secolo dopo scoprirà lo scandalo Watergate.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "The Washington Post",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-06-1884",
+      "anno": 1884,
+      "titolo": "La punta dell'obelisco",
+      "testo": "A Washington viene posata la punta di alluminio dell'obelisco dedicato a George Washington: è completato il monumento, allora la struttura più alta del mondo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Monumento a Washington",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-06-1821",
+      "anno": 1821,
+      "titolo": "Il processo a Silvio Pellico",
+      "testo": "Si chiude a Venezia il processo contro Silvio Pellico e Piero Maroncelli, carbonari: dagli anni di carcere nascerà Le mie prigioni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Silvio Pellico",
+      "tono": "storico"
+    },
+    {
+      "id": "12-06-1921",
+      "anno": 1921,
+      "titolo": "Il trattato anglo-irlandese",
+      "testo": "Viene firmato il trattato che darà vita allo Stato Libero d'Irlanda, nato un anno dopo, nello stesso giorno.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Trattato anglo-irlandese",
+      "tono": "storico"
+    },
+    {
+      "id": "12-06-1957",
+      "anno": 1957,
+      "titolo": "Flopnik",
+      "testo": "Il primo tentativo americano di mettere in orbita un satellite, il Vanguard, esplode sulla rampa dopo essersi alzato di poco più di un metro. I giornali lo battezzano «Flopnik».",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Vanguard TV3",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-06-1928",
+      "anno": 1928,
+      "titolo": "Nasce il Poligrafico",
+      "testo": "A Roma viene fondato l'Istituto Poligrafico dello Stato, che stamperà francobolli, banconote e la Gazzetta Ufficiale.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Istituto Poligrafico e Zecca dello Stato",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-06-2007",
+      "anno": 2007,
+      "titolo": "Il rogo della ThyssenKrupp",
+      "testo": "Un incendio nell'acciaieria ThyssenKrupp di Torino uccide sette operai: la tragedia segna il dibattito sulla sicurezza sul lavoro.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Incidente alla ThyssenKrupp di Torino",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Baldassarre Castiglione",
+      "anno": 1478,
+      "chi": "letterato mantovano, autore del Cortegiano",
+      "wiki": "Baldassarre Castiglione"
+    },
+    {
+      "nome": "Ira Gershwin",
+      "anno": 1896,
+      "chi": "paroliere statunitense, fratello di George",
+      "wiki": "Ira Gershwin"
+    },
+    {
+      "nome": "Alfred Eisenstaedt",
+      "anno": 1898,
+      "chi": "fotografo, autore del celebre bacio a Times Square",
+      "wiki": "Alfred Eisenstaedt"
+    },
+    {
+      "nome": "Dave Brubeck",
+      "anno": 1920,
+      "chi": "pianista jazz, il suo quartetto incise Take Five",
+      "wiki": "Dave Brubeck"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Da Nicola a Santa Claus",
+      "testo": "In Olanda san Nicola diventò Sinterklaas, che porta i doni ai bambini. I coloni olandesi lo portarono a New York, dove il nome si trasformò in Santa Claus: il nostro Babbo Natale."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il furto delle reliquie",
+      "testo": "Nel 1087 un gruppo di marinai baresi salpò per Myra, in Asia Minore, e portò via le reliquie di san Nicola per metterle al sicuro a Bari. Il 9 maggio la città festeggia ancora il loro arrivo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un'enciclopedia a fascicoli",
+      "testo": "La prima Britannica uscì a puntate settimanali, come una rivista, e fu completata in tre volumi solo nel 1771."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Usar in ogni cosa una certa sprezzatura, che nasconda l'arte.",
+      "autore": "Baldassarre Castiglione",
+      "fonte": "Il Cortegiano"
+    },
+    {
+      "testo": "Solenne e grassoccio, Buck Mulligan comparve dalla tromba delle scale.",
+      "autore": "James Joyce",
+      "fonte": "Ulisse, prima riga"
+    },
+    {
+      "testo": "Chi va con lo zoppo impara a zoppicare.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi rompe de veccio, paga de novo.",
+      "regione": "Veneto",
+      "traduzione": "Chi rompe il vecchio paga il nuovo.",
+      "spiegazione": "Chi rovina qualcosa, anche se vecchio, deve ripagarlo come fosse nuovo.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "I chiacchiri su' chiacchiri, ma 'a putiara voli i picciuli.",
+      "regione": "Sicilia",
+      "traduzione": "Le chiacchiere sono chiacchiere, ma la bottegaia vuole i soldi.",
+      "spiegazione": "Le belle parole non pagano i conti.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

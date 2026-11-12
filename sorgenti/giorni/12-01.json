@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "giorno": "12-01",
+  "santo": {
+    "nome": "Sant'Eligio",
+    "nota": "Orafo e consigliere del re franco Dagoberto nel VII secolo, poi vescovo di Noyon. È il patrono degli orafi, dei fabbri e dei maniscalchi.",
+    "altri": [
+      "Sant'Ansano, patrono di Siena",
+      "San Charles de Foucauld",
+      "Sant'Evasio"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale contro l'AIDS",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-01-1913",
+      "anno": 1913,
+      "titolo": "La catena di montaggio",
+      "testo": "Nella fabbrica Ford di Highland Park entra in funzione la catena di montaggio mobile: per costruire una Model T non servono più mezza giornata, ma circa un'ora e mezza.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Catena di montaggio",
+      "tono": "leggero",
+      "indizio": "Domani: un nastro che scorre cambia il modo di costruire qualunque cosa."
+    },
+    {
+      "id": "12-01-1955",
+      "anno": 1955,
+      "titolo": "Rosa Parks resta seduta",
+      "testo": "A Montgomery, in Alabama, Rosa Parks si rifiuta di cedere il suo posto sull'autobus a un passeggero bianco e viene arrestata: nasce il boicottaggio che darà forza al movimento per i diritti civili.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Rosa Parks",
+      "tono": "storico",
+      "indizio": "Domani: una sarta resta seduta su un autobus, e l'America comincia a cambiare."
+    },
+    {
+      "id": "12-01-1959",
+      "anno": 1959,
+      "titolo": "L'Antartide di tutti",
+      "testo": "Dodici nazioni firmano il Trattato Antartico: il continente di ghiaccio sarà usato solo per scopi pacifici e per la ricerca scientifica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Trattato Antartico",
+      "tono": "storico",
+      "indizio": "Domani: un intero continente viene dichiarato terra di pace e di scienza."
+    },
+    {
+      "id": "12-01-1990",
+      "anno": 1990,
+      "titolo": "Si incontrano sotto la Manica",
+      "testo": "Gli operai francesi e britannici che scavano il tunnel sotto la Manica si incontrano a metà strada: per la prima volta dall'era glaciale la Gran Bretagna è collegata via terra al continente.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Tunnel della Manica",
+      "tono": "leggero",
+      "indizio": "Domani: due squadre di operai si stringono la mano sotto il mare."
+    },
+    {
+      "id": "12-01-1986",
+      "anno": 1986,
+      "titolo": "Il museo nella stazione",
+      "testo": "A Parigi apre il Musée d'Orsay, ricavato nella vecchia stazione ferroviaria d'Orsay: oggi custodisce la più grande raccolta di pittura impressionista.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Museo d'Orsay",
+      "tono": "leggero",
+      "indizio": "Domani: a Parigi una vecchia stazione diventa la casa degli impressionisti."
+    },
+    {
+      "id": "12-01-1970",
+      "anno": 1970,
+      "titolo": "Il divorzio in Italia",
+      "testo": "Il Parlamento approva la legge Fortuna-Baslini che introduce il divorzio in Italia; un referendum la confermerà nel 1974.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Divorzio in Italia",
+      "tono": "storico",
+      "indizio": "Domani: il Parlamento italiano approva una legge che dividerà e appassionerà il Paese."
+    },
+    {
+      "id": "12-01-1640",
+      "anno": 1640,
+      "titolo": "Il Portogallo torna libero",
+      "testo": "Dopo sessant'anni sotto la corona spagnola il Portogallo riconquista l'indipendenza: Giovanni IV diventa re.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Restaurazione portoghese",
+      "tono": "storico"
+    },
+    {
+      "id": "12-01-1969",
+      "anno": 1969,
+      "titolo": "Arriva Doraemon",
+      "testo": "In Giappone esce la prima storia di Doraemon, il gatto robot venuto dal futuro.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Doraemon",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-01-1999",
+      "anno": 1999,
+      "titolo": "L'albergo a vela",
+      "testo": "A Dubai apre il Burj al-Arab, l'albergo a forma di vela costruito su un'isola artificiale.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Burj al-Arab",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-01-2001",
+      "anno": 2001,
+      "titolo": "Il primo Linux Day",
+      "testo": "In Italia si tiene la prima edizione del Linux Day, la giornata dedicata al software libero.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Linux Day",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-01-2009",
+      "anno": 2009,
+      "titolo": "Il Trattato di Lisbona",
+      "testo": "Entra in vigore il Trattato di Lisbona, che riforma le istituzioni dell'Unione europea.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Trattato di Lisbona",
+      "tono": "storico"
+    },
+    {
+      "id": "12-01-1923",
+      "anno": 1923,
+      "titolo": "Crolla la diga del Gleno",
+      "testo": "In Valle di Scalve, nella Bergamasca, cede la diga del Gleno: l'onda travolge i paesi a valle, con centinaia di vittime.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Disastro del Gleno",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Mary Martin",
+      "anno": 1913,
+      "chi": "attrice e cantante di Broadway",
+      "wiki": "Mary Martin"
+    },
+    {
+      "nome": "Woody Allen",
+      "anno": 1935,
+      "chi": "regista e attore statunitense",
+      "wiki": "Woody Allen"
+    },
+    {
+      "nome": "Bette Midler",
+      "anno": 1945,
+      "chi": "cantante e attrice statunitense",
+      "wiki": "Bette Midler"
+    },
+    {
+      "nome": "Jaco Pastorius",
+      "anno": 1951,
+      "chi": "bassista jazz statunitense",
+      "wiki": "Jaco Pastorius"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il segreto era il movimento",
+      "testo": "Prima di Ford erano gli operai a spostarsi attorno all'auto. Con la catena di montaggio è l'auto a muoversi, e ogni operaio ripete sempre lo stesso gesto: i tempi crollano e il prezzo della Model T scende."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una stazione per l'Esposizione",
+      "testo": "La stazione d'Orsay fu costruita per l'Esposizione universale del 1900. I suoi binari erano troppo corti per i treni moderni, e dopo anni di abbandono è diventata un museo."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il santo degli orafi",
+      "testo": "Sant'Eligio era davvero un orafo, così bravo e onesto che il re Dagoberto lo volle come tesoriere. Per questo gli orafi lo hanno scelto come patrono."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Ricordati di mantenere l'animo sereno nelle difficoltà.",
+      "autore": "Orazio",
+      "fonte": "Odi"
+    },
+    {
+      "testo": "Non c'è rosa senza spine.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Meglio tardi che mai.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Piccola acqua fa cessar gran vento.",
+      "regione": "Toscana",
+      "traduzione": "Poca acqua fa cessare un gran vento.",
+      "spiegazione": "Basta un piccolo gesto, a volte qualche lacrima, per placare una grande collera.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "'A via longa nun rumpe lu carru.",
+      "regione": "Calabria",
+      "traduzione": "La strada lunga non rompe il carro.",
+      "spiegazione": "La via più lunga è spesso la più sicura.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

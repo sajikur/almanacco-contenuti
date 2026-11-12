@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "giorno": "12-09",
+  "santo": {
+    "nome": "San Juan Diego",
+    "nota": "Contadino indio messicano del Cinquecento, al quale secondo la tradizione apparve la Madonna di Guadalupe nel 1531.",
+    "altri": [
+      "San Pietro Fourier",
+      "Santa Leocadia di Toledo",
+      "Santa Gorgonia"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale contro la corruzione",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Festa dell'indipendenza (Tanzania)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-09-1968",
+      "anno": 1968,
+      "titolo": "La madre di tutte le dimostrazioni",
+      "testo": "A San Francisco Douglas Engelbart mostra in novanta minuti il futuro: mouse, finestre, collegamenti ipertestuali, videochiamata e testo modificato insieme a distanza.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Douglas Engelbart",
+      "tono": "leggero",
+      "indizio": "Domani: in novanta minuti un ingegnere mostra il computer di cinquant'anni dopo."
+    },
+    {
+      "id": "12-09-1979",
+      "anno": 1979,
+      "titolo": "Addio al vaiolo",
+      "testo": "Una commissione dell'Organizzazione mondiale della sanità certifica che il vaiolo è stato sconfitto: è la prima malattia umana eliminata dalla Terra.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Vaiolo",
+      "tono": "storico",
+      "indizio": "Domani: una malattia antichissima viene cancellata dal pianeta."
+    },
+    {
+      "id": "12-09-1888",
+      "anno": 1888,
+      "titolo": "La macchina di Hollerith",
+      "testo": "Le macchine a schede perforate di Herman Hollerith entrano in servizio al Dipartimento della guerra americano. Dalla sua azienda nascerà la IBM.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Herman Hollerith",
+      "tono": "leggero",
+      "indizio": "Domani: delle schede bucate cominciano a fare i conti al posto degli impiegati."
+    },
+    {
+      "id": "12-09-1959",
+      "anno": 1959,
+      "titolo": "L'Atleta di Taranto",
+      "testo": "A Taranto viene scoperta la tomba di un atleta greco del VI secolo a.C., sepolto con le anfore vinte ai giochi di Atene.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Atleta di Taranto",
+      "tono": "leggero",
+      "indizio": "Domani: in Puglia riemerge la tomba di un campione dell'antica Grecia."
+    },
+    {
+      "id": "12-09-1531",
+      "anno": 1531,
+      "titolo": "Guadalupe",
+      "testo": "Secondo la tradizione, sulla collina del Tepeyac, in Messico, la Madonna appare all'indio Juan Diego.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Nostra Signora di Guadalupe",
+      "tono": "storico"
+    },
+    {
+      "id": "12-09-1990",
+      "anno": 1990,
+      "titolo": "Wałęsa presidente",
+      "testo": "L'elettricista di Danzica Lech Wałęsa diventa il primo presidente della Polonia eletto direttamente dal popolo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Lech Wałęsa",
+      "tono": "storico"
+    },
+    {
+      "id": "12-09-1990b",
+      "anno": 1990,
+      "titolo": "Il Milan sul tetto del mondo",
+      "testo": "A Tokyo il Milan batte 3-0 l'Olimpia Asunción e vince la sua terza Coppa Intercontinentale.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Coppa Intercontinentale 1990",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-09-1872",
+      "anno": 1872,
+      "titolo": "Il primo governatore afroamericano",
+      "testo": "P. B. S. Pinchback diventa governatore della Louisiana: è il primo afroamericano a guidare uno Stato americano.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "P. B. S. Pinchback",
+      "tono": "storico"
+    },
+    {
+      "id": "12-09-1992",
+      "anno": 1992,
+      "titolo": "Carlo e Diana si separano",
+      "testo": "Il primo ministro britannico annuncia la separazione del principe Carlo e della principessa Diana.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Diana Spencer",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-09-1793",
+      "anno": 1793,
+      "titolo": "Il primo quotidiano di New York",
+      "testo": "Noah Webster, quello del dizionario, fonda l'American Minerva, il primo giornale quotidiano di New York.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Noah Webster",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-09-1425",
+      "anno": 1425,
+      "titolo": "L'Università di Lovanio",
+      "testo": "Papa Martino V fonda l'università di Lovanio, nell'odierno Belgio.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Università Cattolica di Lovanio",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "John Milton",
+      "anno": 1608,
+      "chi": "poeta inglese, autore del Paradiso perduto",
+      "wiki": "John Milton"
+    },
+    {
+      "nome": "Grace Hopper",
+      "anno": 1906,
+      "chi": "informatica e ufficiale della Marina americana",
+      "wiki": "Grace Hopper"
+    },
+    {
+      "nome": "Kirk Douglas",
+      "anno": 1916,
+      "chi": "attore, Spartacus",
+      "wiki": "Kirk Douglas"
+    },
+    {
+      "nome": "Judi Dench",
+      "anno": 1934,
+      "chi": "attrice britannica",
+      "wiki": "Judi Dench"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "L'ultimo caso",
+      "testo": "L'ultimo caso di vaiolo contratto in modo naturale fu quello di Ali Maow Maalin, un cuoco d'ospedale in Somalia, nel 1977. Guarì, e dedicò poi la vita alla lotta contro la poliomielite."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il primo bug era una falena",
+      "testo": "Nel 1947 nel computer Mark II di Harvard fu trovata una falena incastrata in un relè. La squadra di Grace Hopper la incollò nel registro come «primo caso di bug trovato davvero»."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Premiato con l'olio",
+      "testo": "Ai giochi di Atene i vincitori ricevevano anfore piene di olio d'oliva. Quelle trovate nella tomba di Taranto dicono che l'atleta aveva vinto almeno quattro gare."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La mente è luogo a sé, e in sé può fare un cielo dell'inferno, un inferno del cielo.",
+      "autore": "John Milton",
+      "fonte": "Paradiso perduto"
+    },
+    {
+      "testo": "È più facile chiedere scusa che chiedere il permesso.",
+      "autore": "motto attribuito a Grace Hopper",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Prevenire è meglio che curare.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Cui che l'ha bon vin a ćāse nol va ta l'ostarie.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Chi ha il buon vino a casa non va all'osteria.",
+      "spiegazione": "Chi ha già tutto in casa non ha bisogno di cercarlo fuori.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Chi cammina un miglio pazzo, non torna a casa savio.",
+      "regione": "Toscana",
+      "traduzione": "Chi cammina un miglio da pazzo non torna a casa savio.",
+      "spiegazione": "Basta una pazzia per essere considerati pazzi per sempre.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

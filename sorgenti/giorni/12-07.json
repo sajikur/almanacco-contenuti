@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "giorno": "12-07",
+  "santo": {
+    "nome": "Sant'Ambrogio",
+    "nota": "Vescovo di Milano nel IV secolo e dottore della Chiesa, è il patrono della città. Fu eletto vescovo quando non era ancora battezzato.",
+    "altri": [
+      "Santa Maria Giuseppa Rossello",
+      "Santa Fara",
+      "San Giovanni il Silenziario"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Prima della Scala a Milano",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-07-1958",
+      "anno": 1958,
+      "titolo": "Apre l'Autostrada del Sole",
+      "testo": "Si inaugura il primo tratto dell'Autostrada del Sole, da Milano a Parma: sei anni dopo arriverà a Napoli, cucendo l'Italia da nord a sud.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Autostrada A1",
+      "tono": "leggero",
+      "indizio": "Domani: si apre il primo pezzo della strada che unirà l'Italia."
+    },
+    {
+      "id": "12-07-1972",
+      "anno": 1972,
+      "titolo": "Parte l'ultima missione lunare",
+      "testo": "Parte l'Apollo 17, l'ultima missione con uomini sulla Luna. Durante il viaggio l'equipaggio scatterà la famosa foto della Terra intera, la Biglia blu.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Apollo 17",
+      "tono": "leggero",
+      "indizio": "Domani: parte l'ultimo viaggio dell'uomo sulla Luna, finora."
+    },
+    {
+      "id": "12-07-1965",
+      "anno": 1965,
+      "titolo": "Roma e Costantinopoli si riconciliano",
+      "testo": "Papa Paolo VI e il patriarca Atenagora cancellano le scomuniche reciproche del 1054, l'anno dello scisma fra Oriente e Occidente.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Scisma d'Oriente",
+      "tono": "storico",
+      "indizio": "Domani: due Chiese cancellano un'offesa vecchia di novecento anni."
+    },
+    {
+      "id": "12-07-1732",
+      "anno": 1732,
+      "titolo": "Apre Covent Garden",
+      "testo": "A Londra apre il teatro di Covent Garden, l'antenato dell'attuale Royal Opera House.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Royal Opera House",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-07-1873",
+      "anno": 1873,
+      "titolo": "Infiniti più grandi di altri",
+      "testo": "Il matematico Georg Cantor dimostra che i numeri reali non si possono contare: esistono infiniti più grandi di altri.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Georg Cantor",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-07-1943",
+      "anno": 1943,
+      "titolo": "Nasce il Movimento dei Focolari",
+      "testo": "A Trento, in piena guerra, Chiara Lubich si consacra a Dio: è la data di nascita del Movimento dei Focolari.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Movimento dei Focolari",
+      "tono": "storico"
+    },
+    {
+      "id": "12-07--43",
+      "anno": -43,
+      "titolo": "Muore Cicerone",
+      "testo": "Inserito nelle liste di proscrizione di Marco Antonio, Cicerone viene raggiunto e ucciso vicino a Formia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Marco Tullio Cicerone",
+      "tono": "storico"
+    },
+    {
+      "id": "12-07-1787",
+      "anno": 1787,
+      "titolo": "Il primo Stato",
+      "testo": "Il Delaware è il primo Stato a ratificare la Costituzione degli Stati Uniti: per questo si chiama ancora oggi «The First State».",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Delaware",
+      "tono": "storico"
+    },
+    {
+      "id": "12-07-2000",
+      "anno": 2000,
+      "titolo": "La Carta di Nizza",
+      "testo": "Viene proclamata a Nizza la Carta dei diritti fondamentali dell'Unione europea.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Carta dei diritti fondamentali dell'Unione europea",
+      "tono": "storico"
+    },
+    {
+      "id": "12-07-1852",
+      "anno": 1852,
+      "titolo": "I martiri di Belfiore",
+      "testo": "A Mantova vengono impiccati dagli austriaci i patrioti risorgimentali ricordati come martiri di Belfiore, tra cui don Enrico Tazzoli.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Martiri di Belfiore",
+      "tono": "tragico"
+    },
+    {
+      "id": "12-07-1941",
+      "anno": 1941,
+      "titolo": "Pearl Harbor",
+      "testo": "Il Giappone attacca la flotta americana alle Hawaii: gli Stati Uniti entrano nella Seconda guerra mondiale.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Attacco di Pearl Harbor",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Gian Lorenzo Bernini",
+      "anno": 1598,
+      "chi": "scultore e architetto del Barocco romano",
+      "wiki": "Gian Lorenzo Bernini"
+    },
+    {
+      "nome": "Pietro Mascagni",
+      "anno": 1863,
+      "chi": "compositore livornese, autore di Cavalleria rusticana",
+      "wiki": "Pietro Mascagni"
+    },
+    {
+      "nome": "Noam Chomsky",
+      "anno": 1928,
+      "chi": "linguista statunitense",
+      "wiki": "Noam Chomsky"
+    },
+    {
+      "nome": "Tom Waits",
+      "anno": 1949,
+      "chi": "cantautore statunitense",
+      "wiki": "Tom Waits"
+    },
+    {
+      "nome": "Larry Bird",
+      "anno": 1956,
+      "chi": "campione di basket statunitense",
+      "wiki": "Larry Bird"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Vescovo per acclamazione",
+      "testo": "Ambrogio era governatore romano a Milano. Durante un'assemblea per scegliere il nuovo vescovo, si racconta che un bambino gridò «Ambrogio vescovo!» e tutta la folla lo seguì. Fu battezzato e consacrato in pochi giorni."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Oh bej! Oh bej!",
+      "testo": "Per Sant'Ambrogio Milano festeggia con la fiera degli Oh bej! Oh bej!. Il nome verrebbe dallo stupore dei bambini davanti ai regali: «Oh belli! Oh belli!»."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Settecento chilometri in otto anni",
+      "testo": "L'Autostrada del Sole fu completata fino a Napoli nel 1964, in circa otto anni di lavori: oltre 750 chilometri, con decine di gallerie e viadotti sull'Appennino."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Quando sei a Roma, vivi come i Romani.",
+      "autore": "detto attribuito a sant'Ambrogio",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "In mezzo alle armi le leggi tacciono.",
+      "autore": "Cicerone",
+      "fonte": "Pro Milone"
+    },
+    {
+      "testo": "Tutto il mondo è paese.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La bocca l'è minga stracca se la sa nò de vacca.",
+      "regione": "Lombardia",
+      "traduzione": "La bocca non è stanca se non sa di vacca.",
+      "spiegazione": "A tavola non si è soddisfatti finché non si chiude con un buon formaggio.",
+      "fonte": "Wikiquote, Proverbi milanesi"
+    },
+    {
+      "testo": "Chine ha la salute è riccu.",
+      "regione": "Calabria",
+      "traduzione": "Chi ha la salute è ricco.",
+      "spiegazione": "La salute è la vera ricchezza.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

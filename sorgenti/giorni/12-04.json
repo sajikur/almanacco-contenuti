@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "giorno": "12-04",
+  "santo": {
+    "nome": "Santa Barbara",
+    "nota": "Martire dei primi secoli, invocata contro i fulmini e le morti improvvise. È la patrona dei vigili del fuoco, degli artiglieri, della Marina e dei minatori.",
+    "altri": [
+      "San Giovanni Damasceno",
+      "San Bernardo degli Uberti",
+      "Santa Ada"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa dei Vigili del fuoco",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-04-1832",
+      "anno": 1832,
+      "titolo": "L'ultima pagina dello Zibaldone",
+      "testo": "A Firenze Giacomo Leopardi scrive l'ultima nota dello Zibaldone, il diario di pensieri tenuto per quindici anni.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Zibaldone",
+      "tono": "leggero",
+      "indizio": "Domani: un poeta di Recanati chiude un quaderno lungo migliaia di pagine."
+    },
+    {
+      "id": "12-04-1563",
+      "anno": 1563,
+      "titolo": "Si chiude il Concilio di Trento",
+      "testo": "Dopo diciotto anni e venticinque sessioni si chiude il Concilio di Trento, che riforma la Chiesa cattolica dopo la Riforma protestante.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Concilio di Trento",
+      "tono": "storico",
+      "indizio": "Domani: in una città alpina si chiude un concilio durato diciotto anni."
+    },
+    {
+      "id": "12-04-1996",
+      "anno": 1996,
+      "titolo": "Parte Mars Pathfinder",
+      "testo": "Parte la missione Mars Pathfinder: sette mesi dopo poserà su Marte il piccolo rover Sojourner, il primo a muoversi sul pianeta.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Mars Pathfinder",
+      "tono": "leggero",
+      "indizio": "Domani: parte verso Marte un robottino grande come un forno a microonde."
+    },
+    {
+      "id": "12-04-1791",
+      "anno": 1791,
+      "titolo": "Esce The Observer",
+      "testo": "Esce a Londra il primo numero di The Observer, oggi il più antico giornale domenicale del mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "The Observer",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-04-1918",
+      "anno": 1918,
+      "titolo": "Un presidente in Europa",
+      "testo": "Woodrow Wilson parte per la conferenza di pace di Parigi: è il primo presidente americano in carica a recarsi in Europa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Woodrow Wilson",
+      "tono": "storico"
+    },
+    {
+      "id": "12-04-1965",
+      "anno": 1965,
+      "titolo": "Gemini 7",
+      "testo": "Partono Frank Borman e Jim Lovell sulla Gemini 7: resteranno in orbita quasi due settimane, e un'altra capsula li raggiungerà a pochi metri di distanza.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Gemini 7",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-04-1532",
+      "anno": 1532,
+      "titolo": "La Sindone e il fuoco",
+      "testo": "A Chambéry un incendio danneggia la Sindone, custodita in una cassetta d'argento: i segni delle bruciature si vedono ancora.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Sindone",
+      "tono": "storico"
+    },
+    {
+      "id": "12-04-1980",
+      "anno": 1980,
+      "titolo": "I Led Zeppelin si fermano",
+      "testo": "Dopo la morte del batterista John Bonham, i Led Zeppelin annunciano che il gruppo non andrà avanti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Led Zeppelin",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-04-1991",
+      "anno": 1991,
+      "titolo": "Atterra l'ultimo volo Pan Am",
+      "testo": "Dopo 64 anni chiude la Pan American, la compagnia aerea simbolo dei viaggi intercontinentali.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Pan American World Airways",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-04-1968",
+      "anno": 1968,
+      "titolo": "Nasce Avvenire",
+      "testo": "Dalla fusione di due quotidiani cattolici nasce il giornale Avvenire.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Avvenire",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-04-1674",
+      "anno": 1674,
+      "titolo": "Il seme di Chicago",
+      "testo": "Il gesuita Jacques Marquette si accampa sulla riva del lago Michigan, dove sorgerà Chicago.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Jacques Marquette",
+      "tono": "storico"
+    },
+    {
+      "id": "12-04-1563b",
+      "anno": 1563,
+      "titolo": "La baronessa di Carini",
+      "testo": "In Sicilia viene uccisa Laura Lanza, baronessa di Carini: la sua storia diventerà una celebre leggenda popolare.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Laura Lanza",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Thomas Carlyle",
+      "anno": 1795,
+      "chi": "storico e saggista scozzese",
+      "wiki": "Thomas Carlyle"
+    },
+    {
+      "nome": "Samuel Butler",
+      "anno": 1835,
+      "chi": "scrittore inglese, autore di Erewhon",
+      "wiki": "Samuel Butler"
+    },
+    {
+      "nome": "Rainer Maria Rilke",
+      "anno": 1875,
+      "chi": "poeta di lingua tedesca",
+      "wiki": "Rainer Maria Rilke"
+    },
+    {
+      "nome": "Jeff Bridges",
+      "anno": 1949,
+      "chi": "attore statunitense",
+      "wiki": "Jeff Bridges"
+    },
+    {
+      "nome": "Jay-Z",
+      "anno": 1969,
+      "chi": "rapper e produttore statunitense",
+      "wiki": "Jay-Z"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Migliaia di pagine",
+      "testo": "Lo Zibaldone di Leopardi conta oltre 4.500 pagine di appunti su filosofia, lingua e poesia. Fu pubblicato solo alla fine dell'Ottocento, più di sessant'anni dopo la morte del poeta."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "La santabarbara della nave",
+      "testo": "Sulle navi la santabarbara è il deposito delle munizioni: il nome viene proprio da santa Barbara, protettrice di chi maneggia polvere da sparo ed esplosivi."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Atterrare rimbalzando",
+      "testo": "Mars Pathfinder non usò razzi per frenare fino a terra: si avvolse di grandi airbag e rimbalzò sulla superficie di Marte una quindicina di volte prima di fermarsi."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Sempre caro mi fu quest'ermo colle.",
+      "autore": "Giacomo Leopardi",
+      "fonte": "L'infinito"
+    },
+    {
+      "testo": "Abbi pazienza verso tutto ciò che è irrisolto nel tuo cuore.",
+      "autore": "Rainer Maria Rilke",
+      "fonte": "Lettere a un giovane poeta"
+    },
+    {
+      "testo": "Ci si ricorda di santa Barbara solo quando tuona.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Dure plui une cite sclapade che une gnove.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Dura più una pentola incrinata che una nuova.",
+      "spiegazione": "Le cose vecchie e un po' malandate a volte resistono più di quelle nuove.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Ammore 'e mamma nun te 'nganna.",
+      "regione": "Campania",
+      "traduzione": "L'amore di mamma non t'inganna.",
+      "spiegazione": "L'affetto di una madre è il più sincero che ci sia.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

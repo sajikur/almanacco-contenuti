@@ -1,0 +1,250 @@
+{
+  "schema": 1,
+  "giorno": "12-10",
+  "santo": {
+    "nome": "Beata Vergine di Loreto",
+    "nota": "La tradizione vuole che nella basilica di Loreto si conservi la Santa Casa di Nazareth, trasportata dagli angeli. È la patrona degli aviatori: per la Giornata delle Marche si accendono i falò.",
+    "altri": [
+      "Santa Eulalia di Mérida",
+      "San Cesare vescovo",
+      "San Gemello di Ancira"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale dei diritti umani",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Consegna dei Premi Nobel",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata delle Marche",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-10-1847",
+      "anno": 1847,
+      "titolo": "Si canta Fratelli d'Italia",
+      "testo": "A Genova, nel santuario di Oregina, il Canto degli Italiani di Goffredo Mameli e Michele Novaro viene eseguito per la prima volta in pubblico.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Il Canto degli Italiani",
+      "tono": "storico",
+      "indizio": "Domani: un ventenne genovese sente cantare per la prima volta i suoi versi, che diventeranno l'inno di tutti."
+    },
+    {
+      "id": "12-10-1901",
+      "anno": 1901,
+      "titolo": "I primi Nobel",
+      "testo": "Nell'anniversario della morte di Alfred Nobel si consegnano i primi premi: per la fisica vince Wilhelm Röntgen, lo scopritore dei raggi X.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Premio Nobel",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta si consegnano i premi voluti da un inventore svedese."
+    },
+    {
+      "id": "12-10-1927",
+      "anno": 1927,
+      "titolo": "Grazia Deledda riceve il Nobel",
+      "testo": "La scrittrice sarda Grazia Deledda riceve a Stoccolma il Nobel per la letteratura del 1926: è ancora oggi l'unica donna italiana premiata in questa categoria.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Grazia Deledda",
+      "tono": "leggero",
+      "indizio": "Domani: una scrittrice di Nuoro riceve a Stoccolma il premio più importante."
+    },
+    {
+      "id": "12-10-1948",
+      "anno": 1948,
+      "titolo": "I diritti umani",
+      "testo": "L'Assemblea dell'ONU, riunita a Parigi, approva la Dichiarazione universale dei diritti umani.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Dichiarazione universale dei diritti umani",
+      "tono": "storico",
+      "indizio": "Domani: il mondo mette per iscritto i diritti che spettano a ogni persona."
+    },
+    {
+      "id": "12-10-1938",
+      "anno": 1938,
+      "titolo": "Il Nobel di Fermi",
+      "testo": "Enrico Fermi riceve a Stoccolma il Nobel per la fisica. Dalla Svezia non tornerà in Italia: con la moglie, colpita dalle leggi razziali, partirà per gli Stati Uniti.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Enrico Fermi",
+      "tono": "storico",
+      "indizio": "Domani: un fisico romano ritira un premio e non torna più a casa."
+    },
+    {
+      "id": "12-10-1936",
+      "anno": 1936,
+      "titolo": "Il re abdica per amore",
+      "testo": "Edoardo VIII firma l'abdicazione al trono britannico per poter sposare l'americana divorziata Wallis Simpson.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Crisi dell'abdicazione di Edoardo VIII",
+      "tono": "storico",
+      "indizio": "Domani: un re rinuncia alla corona per amore."
+    },
+    {
+      "id": "12-10-1917",
+      "anno": 1917,
+      "titolo": "Luigi Rizzo e la Wien",
+      "testo": "Nel porto di Trieste i motoscafi della Regia Marina guidati da Luigi Rizzo affondano la corazzata austro-ungarica Wien.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Luigi Rizzo",
+      "tono": "storico"
+    },
+    {
+      "id": "12-10-1869",
+      "anno": 1869,
+      "titolo": "Il voto alle donne nel Wyoming",
+      "testo": "Il territorio del Wyoming è il primo, negli Stati Uniti, a concedere il voto alle donne.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Suffragio femminile",
+      "tono": "storico"
+    },
+    {
+      "id": "12-10-1684",
+      "anno": 1684,
+      "titolo": "Halley e le orbite di Newton",
+      "testo": "Alla Royal Society Edmond Halley presenta le dimostrazioni di Isaac Newton sulle orbite dei pianeti: è il primo passo verso i Principia.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Edmond Halley",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-10-1520",
+      "anno": 1520,
+      "titolo": "Lutero brucia la bolla",
+      "testo": "A Wittenberg Martin Lutero brucia in pubblico la bolla con cui il papa minacciava di scomunicarlo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Exsurge Domine",
+      "tono": "storico"
+    },
+    {
+      "id": "12-10-1993",
+      "anno": 1993,
+      "titolo": "Doom",
+      "testo": "Esce Doom, il videogioco che rende famosi gli sparatutto in prima persona: la prima parte si poteva scaricare gratis.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Doom (videogioco 1993)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-10-2000",
+      "anno": 2000,
+      "titolo": "La bambina di Dikika",
+      "testo": "In Etiopia viene trovato lo scheletro quasi completo di una bambina di Australopithecus vissuta 3,3 milioni di anni fa: la chiameranno Selam.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Selam (paleoantropologia)",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Ada Lovelace",
+      "anno": 1815,
+      "chi": "matematica inglese, considerata la prima programmatrice",
+      "wiki": "Ada Lovelace"
+    },
+    {
+      "nome": "César Franck",
+      "anno": 1822,
+      "chi": "compositore e organista",
+      "wiki": "César Franck"
+    },
+    {
+      "nome": "Emily Dickinson",
+      "anno": 1830,
+      "chi": "poetessa statunitense",
+      "wiki": "Emily Dickinson"
+    },
+    {
+      "nome": "Olivier Messiaen",
+      "anno": 1908,
+      "chi": "compositore francese",
+      "wiki": "Olivier Messiaen"
+    },
+    {
+      "nome": "Kenneth Branagh",
+      "anno": 1960,
+      "chi": "attore e regista britannico",
+      "wiki": "Kenneth Branagh"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Inno, ma solo dal 2017",
+      "testo": "Fratelli d'Italia è stato l'inno nazionale «provvisorio» per settant'anni: è diventato ufficialmente l'inno della Repubblica solo con una legge del 2017."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Il primo programma",
+      "testo": "Ada Lovelace, nata oggi, scrisse nel 1843 le istruzioni per far calcolare i numeri di Bernoulli alla macchina analitica di Babbage, che non fu mai costruita: è considerato il primo programma per computer."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Perché oggi i falò",
+      "testo": "Nella notte fra il 9 e il 10 dicembre nelle Marche si accendono i falò per illuminare, secondo la tradizione, il viaggio degli angeli che portarono la Santa Casa a Loreto."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Fratelli d'Italia, l'Italia s'è desta.",
+      "autore": "Goffredo Mameli",
+      "fonte": "Il Canto degli Italiani"
+    },
+    {
+      "testo": "La speranza è quella cosa piumata che si posa sull'anima.",
+      "autore": "Emily Dickinson",
+      "fonte": "Poesie"
+    },
+    {
+      "testo": "Tutti gli esseri umani nascono liberi ed eguali in dignità e diritti.",
+      "autore": "Dichiarazione universale dei diritti umani",
+      "fonte": "articolo 1"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Quann'è legge, è auale pe tutte.",
+      "regione": "Basilicata",
+      "traduzione": "Quando è legge, è uguale per tutti.",
+      "spiegazione": "Le regole valgono per tutti, senza eccezioni.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "Ògne lignàmmo tène 'o fùmmo sùio.",
+      "regione": "Campania",
+      "traduzione": "Ogni legno fa il suo fumo.",
+      "spiegazione": "Ognuno ha il suo carattere, e prima o poi si vede.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

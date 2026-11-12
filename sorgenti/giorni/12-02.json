@@ -1,0 +1,244 @@
+{
+  "schema": 1,
+  "giorno": "12-02",
+  "santo": {
+    "nome": "Santa Bibiana",
+    "nota": "Giovane martire romana del IV secolo. Sulla sua festa c'è uno dei proverbi meteorologici più famosi d'Italia: se piove oggi, pioverà a lungo.",
+    "altri": [
+      "San Cromazio d'Aquileia",
+      "Santa Bianca di Castiglia",
+      "Papa san Silverio"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale per l'abolizione della schiavitù",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Festa nazionale degli Emirati Arabi Uniti",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-02-1942",
+      "anno": 1942,
+      "titolo": "Il primo reattore nucleare",
+      "testo": "Sotto le tribune di uno stadio dell'Università di Chicago, l'italiano Enrico Fermi e la sua squadra avviano la prima reazione nucleare a catena controllata della storia.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Chicago Pile-1",
+      "tono": "storico",
+      "indizio": "Domani: sotto uno stadio di Chicago un fisico romano accende un fuoco nuovo."
+    },
+    {
+      "id": "12-02-1804",
+      "anno": 1804,
+      "titolo": "Napoleone si incorona da solo",
+      "testo": "Nella cattedrale di Notre-Dame, davanti a papa Pio VII, Napoleone prende la corona e se la posa sul capo da solo: è imperatore dei Francesi.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Incoronazione di Napoleone",
+      "tono": "storico",
+      "indizio": "Domani: a Notre-Dame un generale si mette la corona in testa da solo."
+    },
+    {
+      "id": "12-02-1982",
+      "anno": 1982,
+      "titolo": "Un cuore artificiale",
+      "testo": "All'Università dello Utah il dentista Barney Clark riceve il primo cuore artificiale permanente, il Jarvik-7: vivrà con lui per 112 giorni.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Jarvik-7",
+      "tono": "leggero",
+      "indizio": "Domani: un uomo si risveglia con un cuore di plastica e metallo."
+    },
+    {
+      "id": "12-02-1993",
+      "anno": 1993,
+      "titolo": "Occhiali per Hubble",
+      "testo": "Parte lo Space Shuttle Endeavour con la missione per correggere il difetto dello specchio del telescopio Hubble. Dopo la riparazione le immagini diventeranno nitidissime.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "STS-61",
+      "tono": "leggero",
+      "indizio": "Domani: degli astronauti partono per mettere gli occhiali a un telescopio."
+    },
+    {
+      "id": "12-02-1338",
+      "anno": 1338,
+      "titolo": "Treviso diventa veneziana",
+      "testo": "Treviso entra a far parte dei domini della Repubblica di Venezia, primo grande possesso della Serenissima in terraferma.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Storia di Treviso",
+      "tono": "storico"
+    },
+    {
+      "id": "12-02-1867",
+      "anno": 1867,
+      "titolo": "Dickens legge in America",
+      "testo": "A New York Charles Dickens tiene la prima delle sue letture pubbliche negli Stati Uniti: la gente fa la fila al gelo per i biglietti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Charles Dickens",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-02-1927",
+      "anno": 1927,
+      "titolo": "Arriva la Ford Model A",
+      "testo": "Dopo diciannove anni di Model T, la Ford presenta la nuova Model A: in pochi giorni milioni di persone vanno a vederla.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Ford Model A (1927)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-02-1960",
+      "anno": 1960,
+      "titolo": "Roma e Canterbury",
+      "testo": "Papa Giovanni XXIII riceve l'arcivescovo di Canterbury Geoffrey Fisher: è la prima volta in quattro secoli che i capi delle due Chiese si incontrano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Geoffrey Fisher",
+      "tono": "storico"
+    },
+    {
+      "id": "12-02-1995",
+      "anno": 1995,
+      "titolo": "Un osservatorio per il Sole",
+      "testo": "Parte la sonda SOHO, costruita da Europa e Stati Uniti per osservare il Sole senza interruzioni: funziona ancora oggi.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Solar and Heliospheric Observatory",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-02-1971",
+      "anno": 1971,
+      "titolo": "Nascono gli Emirati",
+      "testo": "Sei emirati del Golfo si uniscono negli Emirati Arabi Uniti; l'anno dopo si aggiungerà il settimo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Emirati Arabi Uniti",
+      "tono": "storico"
+    },
+    {
+      "id": "12-02-1805",
+      "anno": 1805,
+      "titolo": "Austerlitz",
+      "testo": "Nella battaglia dei tre imperatori, ad Austerlitz, Napoleone sconfigge russi e austriaci.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Austerlitz",
+      "tono": "tragico"
+    },
+    {
+      "id": "12-02-1943",
+      "anno": 1943,
+      "titolo": "Il bombardamento di Bari",
+      "testo": "Un attacco aereo tedesco colpisce il porto di Bari: affonda anche una nave americana che trasportava in segreto bombe all'iprite.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Bombardamento di Bari",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Georges Seurat",
+      "anno": 1859,
+      "chi": "pittore francese del puntinismo",
+      "wiki": "Georges Seurat"
+    },
+    {
+      "nome": "Maria Callas",
+      "anno": 1923,
+      "chi": "soprano, «la Divina»",
+      "wiki": "Maria Callas"
+    },
+    {
+      "nome": "Gianni Versace",
+      "anno": 1946,
+      "chi": "stilista calabrese",
+      "wiki": "Gianni Versace"
+    },
+    {
+      "nome": "Monica Seles",
+      "anno": 1973,
+      "chi": "tennista, nove titoli del Grande Slam",
+      "wiki": "Monica Seles"
+    },
+    {
+      "nome": "Britney Spears",
+      "anno": 1981,
+      "chi": "cantante statunitense",
+      "wiki": "Britney Spears"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Il navigatore italiano",
+      "testo": "Per comunicare il successo dell'esperimento di Fermi al telefono, il fisico Arthur Compton usò una frase in codice: «Il navigatore italiano è sbarcato nel nuovo mondo»."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il gesto davanti al papa",
+      "testo": "Nel famoso quadro di David sull'incoronazione, Napoleone non si mette la corona da solo: il pittore scelse il momento successivo, quando incorona l'imperatrice Giuseppina."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "La Marca gioiosa",
+      "testo": "Treviso è chiamata da secoli «Marca gioiosa et amorosa», per la vita di corte allegra e raffinata che vi si conduceva nel Medioevo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Se piove per Santa Bibiana, piove quaranta giorni e una settimana.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Era il migliore dei tempi, era il peggiore dei tempi.",
+      "autore": "Charles Dickens",
+      "fonte": "Racconto di due città"
+    },
+    {
+      "testo": "L'amore vince tutto (Omnia vincit amor).",
+      "autore": "Virgilio",
+      "fonte": "Bucoliche"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A fænna do diao a va tutta in brenno.",
+      "regione": "Liguria",
+      "traduzione": "La farina del diavolo va tutta in crusca.",
+      "spiegazione": "Ciò che si ottiene in modo disonesto non porta frutto.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Binu malu et pane tostu durat pius.",
+      "regione": "Sardegna",
+      "traduzione": "Vino cattivo e pane duro durano di più.",
+      "spiegazione": "Le cose poco invitanti si consumano piano: e così durano più a lungo.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

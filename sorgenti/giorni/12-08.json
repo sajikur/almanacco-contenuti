@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "giorno": "12-08",
+  "santo": {
+    "nome": "Immacolata Concezione",
+    "nota": "Festa della Madonna concepita senza peccato originale. In Italia è giorno festivo e, per tradizione, la giornata in cui si fanno l'albero e il presepe.",
+    "altri": [
+      "Sant'Eutichiano papa",
+      "San Macario di Alessandria",
+      "Santa Narcisa di Gesù"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-08-1854",
+      "anno": 1854,
+      "titolo": "Il dogma dell'Immacolata",
+      "testo": "Papa Pio IX proclama il dogma dell'Immacolata Concezione: Maria fu concepita senza peccato originale.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Immacolata Concezione",
+      "tono": "storico",
+      "indizio": "Domani: un papa proclama una verità di fede che dà il nome alla festa di oggi."
+    },
+    {
+      "id": "12-08-1841",
+      "anno": 1841,
+      "titolo": "Don Bosco e il primo ragazzo",
+      "testo": "A Torino don Giovanni Bosco incontra in sacrestia un giovane muratore, Bartolomeo Garelli: è l'inizio del suo oratorio per i ragazzi di strada.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Giovanni Bosco",
+      "tono": "storico",
+      "indizio": "Domani: un prete di Torino accoglie un ragazzo di strada, e comincia una storia lunga due secoli."
+    },
+    {
+      "id": "12-08-1883",
+      "anno": 1883,
+      "titolo": "La nebbia agli irti colli",
+      "testo": "Giosuè Carducci termina la poesia San Martino, quella che generazioni di studenti hanno imparato a memoria.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "San Martino (Carducci)",
+      "tono": "leggero",
+      "indizio": "Domani: un poeta finisce i versi della nebbia che sale sui colli."
+    },
+    {
+      "id": "12-08-1985",
+      "anno": 1985,
+      "titolo": "La Juve campione del mondo",
+      "testo": "A Tokyo la Juventus vince la sua prima Coppa Intercontinentale battendo ai rigori l'Argentinos Juniors.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Coppa Intercontinentale 1985",
+      "tono": "leggero",
+      "indizio": "Domani: a Tokyo una squadra italiana vince ai rigori e diventa campione del mondo."
+    },
+    {
+      "id": "12-08-1991",
+      "anno": 1991,
+      "titolo": "Finisce l'Unione Sovietica",
+      "testo": "I capi di Russia, Ucraina e Bielorussia firmano gli accordi che sciolgono l'Unione Sovietica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Accordi di Belaveža",
+      "tono": "storico",
+      "indizio": "Domani: tre presidenti, in una dacia nel bosco, firmano la fine di un impero."
+    },
+    {
+      "id": "12-08-1965",
+      "anno": 1965,
+      "titolo": "Si chiude il Concilio Vaticano II",
+      "testo": "Papa Paolo VI chiude il Concilio Vaticano II, che ha rinnovato la Chiesa cattolica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Concilio Vaticano II",
+      "tono": "storico"
+    },
+    {
+      "id": "12-08-1960",
+      "anno": 1960,
+      "titolo": "Moon River",
+      "testo": "A Hollywood Henry Mancini registra Moon River, la canzone di Colazione da Tiffany.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Moon River",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-08-1976",
+      "anno": 1976,
+      "titolo": "Hotel California",
+      "testo": "Gli Eagles pubblicano l'album Hotel California.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Hotel California (album)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-08-1972",
+      "anno": 1972,
+      "titolo": "Il TGV a gas",
+      "testo": "Il prototipo francese TGV 001, spinto da turbine a gas, tocca i 318 km/h: record per un treno non elettrico.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "TGV 001",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-08-1816",
+      "anno": 1816,
+      "titolo": "Nasce il Regno delle Due Sicilie",
+      "testo": "Il regno di Napoli e quello di Sicilia vengono uniti in un unico Stato: il Regno delle Due Sicilie.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Regno delle Due Sicilie",
+      "tono": "storico"
+    },
+    {
+      "id": "12-08-1987",
+      "anno": 1987,
+      "titolo": "Il trattato INF",
+      "testo": "Reagan e Gorbačëv firmano il trattato che elimina i missili nucleari a medio raggio in Europa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Trattato INF",
+      "tono": "storico"
+    },
+    {
+      "id": "12-08-1980",
+      "anno": 1980,
+      "titolo": "Muore John Lennon",
+      "testo": "A New York John Lennon viene ucciso davanti a casa da un suo ammiratore squilibrato.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "John Lennon",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Georges Méliès",
+      "anno": 1861,
+      "chi": "pioniere del cinema, autore di Viaggio nella Luna",
+      "wiki": "Georges Méliès"
+    },
+    {
+      "nome": "Camille Claudel",
+      "anno": 1864,
+      "chi": "scultrice francese",
+      "wiki": "Camille Claudel"
+    },
+    {
+      "nome": "Jean Sibelius",
+      "anno": 1865,
+      "chi": "compositore finlandese",
+      "wiki": "Jean Sibelius"
+    },
+    {
+      "nome": "Diego Rivera",
+      "anno": 1886,
+      "chi": "pittore muralista messicano",
+      "wiki": "Diego Rivera"
+    },
+    {
+      "nome": "Jim Morrison",
+      "anno": 1943,
+      "chi": "cantante dei Doors",
+      "wiki": "Jim Morrison"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Non è quello che si pensa",
+      "testo": "Molti confondono l'Immacolata Concezione con il concepimento di Gesù. In realtà il dogma riguarda Maria: è lei a essere stata concepita senza peccato originale."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Scritta per Audrey",
+      "testo": "Henry Mancini compose Moon River pensando alla voce di Audrey Hepburn, che la canta in Colazione da Tiffany seduta sul davanzale con la chitarra."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "Il gol annullato di Platini",
+      "testo": "Nella finale di Tokyo Michel Platini segnò un gol bellissimo che l'arbitro annullò. Lui si sdraiò sul prato, appoggiando la testa sulla mano: una delle immagini più famose del calcio."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La nebbia a gl'irti colli piovigginando sale.",
+      "autore": "Giosuè Carducci",
+      "fonte": "San Martino"
+    },
+    {
+      "testo": "Vergine Madre, figlia del tuo figlio.",
+      "autore": "Dante Alighieri",
+      "fonte": "Paradiso, canto XXXIII"
+    },
+    {
+      "testo": "Natale con i tuoi, Pasqua con chi vuoi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A Natale, grasso o piccin, tutti portan in töa o sêu bibin.",
+      "regione": "Liguria",
+      "traduzione": "A Natale, ricco o povero, tutti portano in tavola il loro tacchino.",
+      "spiegazione": "A Natale ognuno mette in tavola il meglio che può.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Faedda pagu pro non ti faddire meda. – Isculta meda pro non ti pentire.",
+      "regione": "Sardegna",
+      "traduzione": "Parla poco per non sbagliare molto; ascolta molto per non pentirti.",
+      "spiegazione": "Meglio ascoltare tanto e parlare poco.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

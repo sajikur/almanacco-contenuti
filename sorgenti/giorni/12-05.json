@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "giorno": "12-05",
+  "santo": {
+    "nome": "San Saba",
+    "nota": "Monaco del V secolo nato in Cappadocia, fondò nel deserto di Giuda il monastero di Mar Saba, abitato ancora oggi.",
+    "altri": [
+      "San Dalmazzo di Pedona",
+      "Santa Crispina",
+      "San Geraldo di Braga"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale del suolo",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata internazionale del volontariato",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-05-1746",
+      "anno": 1746,
+      "titolo": "Balilla: «Che l'inse?»",
+      "testo": "Nel quartiere di Portoria, a Genova, un ragazzo lancia un sasso contro i soldati austriaci: è il segnale della rivolta che caccerà gli occupanti dalla città.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Balilla",
+      "tono": "storico",
+      "indizio": "Domani: un sasso lanciato da un ragazzino fa insorgere una città."
+    },
+    {
+      "id": "12-05-1492",
+      "anno": 1492,
+      "titolo": "Colombo a Hispaniola",
+      "testo": "Nel suo primo viaggio Cristoforo Colombo sbarca sull'isola che chiama Hispaniola, oggi divisa fra Haiti e Repubblica Dominicana.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Hispaniola",
+      "tono": "storico",
+      "indizio": "Domani: un navigatore genovese sbarca su un'isola che chiamerà «la Spagnola»."
+    },
+    {
+      "id": "12-05-1766",
+      "anno": 1766,
+      "titolo": "La prima asta di Christie's",
+      "testo": "A Londra James Christie batte la sua prima asta: è l'inizio della casa d'aste più famosa del mondo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Christie's",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra cade per la prima volta un martelletto famoso."
+    },
+    {
+      "id": "12-05-1848",
+      "anno": 1848,
+      "titolo": "Oro in California",
+      "testo": "Il presidente Polk conferma al Congresso che in California c'è oro in abbondanza: la corsa all'oro diventa una febbre mondiale.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Corsa all'oro californiana",
+      "tono": "storico",
+      "indizio": "Domani: un presidente conferma una voce, e mezzo mondo parte per la California."
+    },
+    {
+      "id": "12-05-1933",
+      "anno": 1933,
+      "titolo": "Fine del proibizionismo",
+      "testo": "Con la ratifica dello Utah entra in vigore il XXI emendamento: negli Stati Uniti finisce il proibizionismo dopo tredici anni.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Proibizionismo negli Stati Uniti d'America",
+      "tono": "leggero",
+      "indizio": "Domani: l'America può tornare a brindare alla luce del sole."
+    },
+    {
+      "id": "12-05-2022",
+      "anno": 2022,
+      "titolo": "Energia dalla fusione",
+      "testo": "In un laboratorio californiano, per la prima volta, una reazione di fusione nucleare produce più energia di quella usata per innescarla.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "National Ignition Facility",
+      "tono": "leggero",
+      "indizio": "Domani: in un laboratorio si accende per un attimo una piccola stella."
+    },
+    {
+      "id": "12-05--63",
+      "anno": -63,
+      "titolo": "La quarta Catilinaria",
+      "testo": "Nel Senato di Roma Cicerone pronuncia l'ultima delle orazioni contro Catilina e la sua congiura.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Catilinarie",
+      "tono": "storico"
+    },
+    {
+      "id": "12-05-1970",
+      "anno": 1970,
+      "titolo": "Morte accidentale di un anarchico",
+      "testo": "Dario Fo mette in scena per la prima volta una delle sue commedie più rappresentate nel mondo.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Morte accidentale di un anarchico",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-05-1974",
+      "anno": 1974,
+      "titolo": "L'ultimo Flying Circus",
+      "testo": "La BBC trasmette l'ultima puntata del Monty Python's Flying Circus.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Monty Python's Flying Circus",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-05-1945",
+      "anno": 1945,
+      "titolo": "Il mistero del Volo 19",
+      "testo": "Cinque aerei della marina americana scompaiono durante un volo di addestramento: da qui nasce la leggenda del Triangolo delle Bermude.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Volo 19",
+      "tono": "storico"
+    },
+    {
+      "id": "12-05-1952",
+      "anno": 1952,
+      "titolo": "Il grande smog",
+      "testo": "Una nebbia densa e inquinata avvolge Londra per cinque giorni: migliaia di morti porteranno alle prime leggi sull'aria pulita.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Grande smog di Londra",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Fritz Lang",
+      "anno": 1890,
+      "chi": "regista di Metropolis",
+      "wiki": "Fritz Lang"
+    },
+    {
+      "nome": "Walt Disney",
+      "anno": 1901,
+      "chi": "il papà di Topolino",
+      "wiki": "Walt Disney"
+    },
+    {
+      "nome": "Werner Heisenberg",
+      "anno": 1901,
+      "chi": "fisico tedesco, principio di indeterminazione",
+      "wiki": "Werner Heisenberg"
+    },
+    {
+      "nome": "Little Richard",
+      "anno": 1932,
+      "chi": "pioniere del rock and roll",
+      "wiki": "Little Richard"
+    },
+    {
+      "nome": "José Carreras",
+      "anno": 1946,
+      "chi": "tenore spagnolo",
+      "wiki": "José Carreras"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Balilla nell'inno",
+      "testo": "Il ragazzo che diede il via alla rivolta è ricordato come Balilla. Secondo la tradizione si chiamava Giovan Battista Perasso, e il Canto degli Italiani lo cita: «i bimbi d'Italia si chiaman Balilla»."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La voce di Topolino",
+      "testo": "Per quasi vent'anni la voce originale di Topolino è stata quella del suo creatore, Walt Disney, nato oggi."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Bootlegger",
+      "testo": "I contrabbandieri del proibizionismo si chiamavano bootlegger: una volta nascondevano le fiaschette di liquore nel gambale degli stivali, il bootleg."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "O tempi, o costumi! (O tempora, o mores!)",
+      "autore": "Cicerone",
+      "fonte": "Catilinarie"
+    },
+    {
+      "testo": "Non è tutto oro quel che luccica.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi la fa l'aspetti.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Stip' quann' tin' | ca quann' nun tin' | nisciun' t' n' rai'.",
+      "regione": "Basilicata",
+      "traduzione": "Conserva quando hai, perché quando non hai nessuno te ne dà.",
+      "spiegazione": "Mettere da parte nei tempi buoni è la miglior difesa per quelli cattivi.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "Chi ha buona cappa facilmente scappa.",
+      "regione": "Toscana",
+      "traduzione": "Chi ha un buon mantello scappa facilmente.",
+      "spiegazione": "I ricchi e i potenti trovano sempre il modo di cavarsela.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}
