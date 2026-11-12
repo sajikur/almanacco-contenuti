@@ -1,0 +1,195 @@
+{
+  "schema": 1,
+  "giorno": "12-20",
+  "santo": {
+    "nome": "San Domenico di Silos",
+    "nota": "Abate benedettino spagnolo dell'XI secolo, rifondò il monastero di Silos, famoso ancora oggi per il canto gregoriano.",
+    "altri": [
+      "San Liberale di Roma",
+      "San Filogonio di Antiochia",
+      "San Baiulo"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-20-1951",
+      "anno": 1951,
+      "titolo": "Quattro lampadine nucleari",
+      "testo": "In Idaho il reattore sperimentale EBR-I produce per la prima volta elettricità dall'energia nucleare: accende quattro lampadine.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "EBR-I",
+      "tono": "leggero",
+      "indizio": "Domani: quattro lampadine si accendono con un'energia nuova."
+    },
+    {
+      "id": "12-20-1803",
+      "anno": 1803,
+      "titolo": "La Louisiana diventa americana",
+      "testo": "A New Orleans la Francia consegna ufficialmente la Louisiana agli Stati Uniti: con l'acquisto il territorio americano raddoppia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Acquisto della Louisiana",
+      "tono": "storico",
+      "indizio": "Domani: con una firma e una bandiera, l'America raddoppia."
+    },
+    {
+      "id": "12-20-1577",
+      "anno": 1577,
+      "titolo": "Brucia il Palazzo Ducale",
+      "testo": "A Venezia un incendio distrugge la Sala del Maggior Consiglio del Palazzo Ducale. Per ricostruirla saranno chiamati i grandi pittori dell'epoca, da Tintoretto a Veronese.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Palazzo Ducale (Venezia)",
+      "tono": "storico",
+      "indizio": "Domani: a Venezia le fiamme divorano la sala più grande del Palazzo Ducale."
+    },
+    {
+      "id": "12-20-1999",
+      "anno": 1999,
+      "titolo": "Macao torna alla Cina",
+      "testo": "Dopo oltre quattro secoli di amministrazione portoghese, Macao torna alla Cina.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Macao",
+      "tono": "storico"
+    },
+    {
+      "id": "12-20-1955",
+      "anno": 1955,
+      "titolo": "Cardiff capitale",
+      "testo": "Cardiff viene proclamata capitale del Galles.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Cardiff",
+      "tono": "storico"
+    },
+    {
+      "id": "12-20-1860",
+      "anno": 1860,
+      "titolo": "La prima secessione",
+      "testo": "La Carolina del Sud è il primo Stato a staccarsi dagli Stati Uniti: è il preludio della guerra civile.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Carolina del Sud",
+      "tono": "storico"
+    },
+    {
+      "id": "12-20-1915",
+      "anno": 1915,
+      "titolo": "Via da Gallipoli",
+      "testo": "Le ultime truppe australiane e neozelandesi lasciano di nascosto Gallipoli: l'evacuazione riesce senza vittime.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Campagna di Gallipoli",
+      "tono": "storico"
+    },
+    {
+      "id": "12-20-2007",
+      "anno": 2007,
+      "titolo": "Picasso rubato a San Paolo",
+      "testo": "Dal museo d'arte di San Paolo, in Brasile, vengono rubati un Picasso e un Portinari: saranno ritrovati venti giorni dopo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Museo d'arte di San Paolo",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-20-69",
+      "anno": 69,
+      "titolo": "Muore Vitellio",
+      "testo": "A Roma viene ucciso l'imperatore Vitellio: finisce l'anno dei quattro imperatori e comincia l'epoca di Vespasiano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Vitellio",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Harvey Firestone",
+      "anno": 1868,
+      "chi": "industriale statunitense degli pneumatici",
+      "wiki": "Harvey Firestone"
+    },
+    {
+      "nome": "Irene Dunne",
+      "anno": 1898,
+      "chi": "attrice statunitense",
+      "wiki": "Irene Dunne"
+    },
+    {
+      "nome": "Robert Van de Graaff",
+      "anno": 1901,
+      "chi": "fisico, inventore del generatore che fa rizzare i capelli",
+      "wiki": "Robert Van de Graaff"
+    },
+    {
+      "nome": "Jonah Hill",
+      "anno": 1983,
+      "chi": "attore statunitense",
+      "wiki": "Jonah Hill"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Quattro lampadine e basta",
+      "testo": "La prima elettricità nucleare della storia bastò ad accendere solo quattro lampadine da 200 watt. Il giorno dopo l'EBR-I alimentò l'intero edificio."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Meno di tre centesimi",
+      "testo": "Gli Stati Uniti pagarono la Louisiana circa 15 milioni di dollari: meno di tre centesimi per acro, uno degli affari immobiliari più convenienti della storia."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il Paradiso di Tintoretto",
+      "testo": "Nella sala ricostruita del Palazzo Ducale c'è il Paradiso di Tintoretto, una delle tele più grandi del mondo: più di venti metri di larghezza."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il fuoco mette alla prova l'oro, le avversità gli uomini forti.",
+      "autore": "Seneca",
+      "fonte": "De providentia"
+    },
+    {
+      "testo": "Il diavolo fa le pentole ma non i coperchi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Meglio un uovo oggi che una gallina domani.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "I omeni se ciapa per la parola, i aseni per la cavezza.",
+      "regione": "Veneto",
+      "traduzione": "Gli uomini si prendono per la parola, gli asini per la cavezza.",
+      "spiegazione": "Le persone si convincono parlando; la forza serve solo con gli asini.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Amicu ca m'a datu la castagna, ora m'a ddari 'u sucu di la vigna.",
+      "regione": "Sicilia",
+      "traduzione": "Amico che mi hai dato la castagna, ora mi devi dare il succo della vigna.",
+      "spiegazione": "Chi ha ricevuto un favore poi se ne aspetta un altro: l'amicizia è fatta di scambi.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

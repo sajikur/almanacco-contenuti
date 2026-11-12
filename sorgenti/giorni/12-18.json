@@ -1,0 +1,242 @@
+{
+  "schema": 1,
+  "giorno": "12-18",
+  "santo": {
+    "nome": "San Graziano di Tours",
+    "nota": "Primo vescovo di Tours nel III secolo, uno dei missionari inviati da Roma a portare il Vangelo in Gallia.",
+    "altri": [
+      "San Flannano di Killaloe",
+      "San Paolo Nguyen Van My",
+      "San Flavito"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale dei migranti",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-18-1994",
+      "anno": 1994,
+      "titolo": "La grotta Chauvet",
+      "testo": "Tre speleologi francesi scoprono nell'Ardèche una grotta con centinaia di animali dipinti più di trentamila anni fa: leoni, rinoceronti, cavalli, orsi.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Grotta Chauvet",
+      "tono": "leggero",
+      "indizio": "Domani: tre speleologi entrano in una grotta e trovano la più antica galleria d'arte del mondo."
+    },
+    {
+      "id": "12-18-1865",
+      "anno": 1865,
+      "titolo": "Fine della schiavitù",
+      "testo": "Negli Stati Uniti entra in vigore il XIII emendamento alla Costituzione, che abolisce la schiavitù.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "XIII emendamento della Costituzione degli Stati Uniti d'America",
+      "tono": "storico",
+      "indizio": "Domani: l'America cancella la schiavitù dalla sua Costituzione."
+    },
+    {
+      "id": "12-18-1859",
+      "anno": 1859,
+      "titolo": "Nascono i Salesiani",
+      "testo": "A Torino don Bosco riunisce i suoi primi collaboratori e fonda la Società salesiana, dedicata all'educazione dei giovani.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Salesiani di Don Bosco",
+      "tono": "storico",
+      "indizio": "Domani: a Torino un prete e un gruppo di giovani fondano una congregazione che arriverà in tutto il mondo."
+    },
+    {
+      "id": "12-18-1890",
+      "anno": 1890,
+      "titolo": "Il tubo di Londra",
+      "testo": "A Londra apre la City and South London Railway, la prima metropolitana elettrica in galleria profonda: nasce il Tube.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "City and South London Railway",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra si comincia a viaggiare in treno elettrico dentro un tubo sotto terra."
+    },
+    {
+      "id": "12-18-2022",
+      "anno": 2022,
+      "titolo": "L'Argentina di Messi",
+      "testo": "In Qatar l'Argentina batte la Francia ai rigori in una finale pazza, finita 3-3: Lionel Messi vince finalmente il Mondiale.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Campionato mondiale di calcio 2022",
+      "tono": "leggero",
+      "indizio": "Domani: il più forte calciatore della sua epoca vince finalmente il Mondiale."
+    },
+    {
+      "id": "12-18-2007",
+      "anno": 2007,
+      "titolo": "La moratoria sulla pena di morte",
+      "testo": "L'Assemblea dell'ONU approva la moratoria universale delle esecuzioni, con una campagna in cui l'Italia ha avuto un ruolo di primo piano.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Moratoria universale della pena di morte",
+      "tono": "storico",
+      "indizio": "Domani: le Nazioni Unite chiedono a tutti di fermare le esecuzioni."
+    },
+    {
+      "id": "12-18-1912",
+      "anno": 1912,
+      "titolo": "Presentato l'uomo di Piltdown",
+      "testo": "A Londra viene presentato il cranio dell'uomo di Piltdown, creduto l'anello mancante: quarant'anni dopo si scoprirà che era un falso.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Uomo di Piltdown",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-18-1941",
+      "anno": 1941,
+      "titolo": "L'impresa di Alessandria",
+      "testo": "Nella notte tre «maiali», siluri pilotati della Regia Marina, entrano nel porto di Alessandria d'Egitto e danneggiano gravemente due corazzate britanniche.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Impresa di Alessandria",
+      "tono": "storico"
+    },
+    {
+      "id": "12-18-2004",
+      "anno": 2004,
+      "titolo": "Il flauto più antico",
+      "testo": "Viene annunciata la scoperta, in una grotta della Germania, di un flauto d'avorio di circa 35.000 anni fa, fra gli strumenti musicali più antichi del mondo.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Flauti preistorici",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-18-1987",
+      "anno": 1987,
+      "titolo": "Arriva Perl",
+      "testo": "Il programmatore Larry Wall pubblica la prima versione del linguaggio Perl.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Perl",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-18-1956",
+      "anno": 1956,
+      "titolo": "Il Giappone all'ONU",
+      "testo": "Il Giappone entra a far parte delle Nazioni Unite.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Giappone",
+      "tono": "storico"
+    },
+    {
+      "id": "12-18-1271",
+      "anno": 1271,
+      "titolo": "Kublai Khan imperatore",
+      "testo": "Kublai Khan, nipote di Gengis Khan, fonda la dinastia Yuan e si proclama imperatore della Cina: è il sovrano che accoglierà Marco Polo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Kublai Khan",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Joseph Grimaldi",
+      "anno": 1778,
+      "chi": "attore inglese, il clown più famoso dell'Ottocento",
+      "wiki": "Joseph Grimaldi"
+    },
+    {
+      "nome": "Paul Klee",
+      "anno": 1879,
+      "chi": "pittore svizzero-tedesco",
+      "wiki": "Paul Klee"
+    },
+    {
+      "nome": "Keith Richards",
+      "anno": 1943,
+      "chi": "chitarrista dei Rolling Stones",
+      "wiki": "Keith Richards"
+    },
+    {
+      "nome": "Steven Spielberg",
+      "anno": 1946,
+      "chi": "regista statunitense",
+      "wiki": "Steven Spielberg"
+    },
+    {
+      "nome": "Brad Pitt",
+      "anno": 1963,
+      "chi": "attore statunitense",
+      "wiki": "Brad Pitt"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il nome viene da Chauvet",
+      "testo": "La grotta porta il nome di Jean-Marie Chauvet, uno dei tre speleologi che la scoprirono. Per proteggerla è chiusa al pubblico: i visitatori entrano in una copia fedele costruita lì vicino."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Salesiani per san Francesco di Sales",
+      "testo": "Don Bosco chiamò la sua congregazione Salesiani in onore di san Francesco di Sales, il vescovo savoiardo noto per la dolcezza: voleva che i suoi educatori fossero così."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il Mississippi in ritardo",
+      "testo": "Lo Stato del Mississippi ratificò il XIII emendamento solo nel 1995, e la notifica ufficiale arrivò nel 2013: un dimenticatoio lungo quasi un secolo e mezzo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Basta che siate giovani perché io vi ami assai.",
+      "autore": "San Giovanni Bosco",
+      "fonte": "tradizione salesiana"
+    },
+    {
+      "testo": "Né la schiavitù né la servitù involontaria esisteranno negli Stati Uniti.",
+      "autore": "XIII emendamento",
+      "fonte": "Costituzione degli Stati Uniti"
+    },
+    {
+      "testo": "L'occasione fa l'uomo ladro.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Vuoje spellate maje tirano carre.",
+      "regione": "Campania",
+      "traduzione": "Buoi spellati non tirano mai carri.",
+      "spiegazione": "Chi è sfinito o maltrattato non può dare il meglio di sé.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "Megghiu pocu godiri ca assai triguliari.",
+      "regione": "Calabria",
+      "traduzione": "Meglio godere poco che lamentarsi molto.",
+      "spiegazione": "Meglio accontentarsi delle piccole gioie che passare la vita a brontolare.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

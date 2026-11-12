@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "giorno": "12-17",
+  "santo": {
+    "nome": "San Lazzaro",
+    "nota": "L'amico di Gesù, fratello di Marta e Maria di Betania, che secondo il Vangelo di Giovanni fu richiamato in vita dopo quattro giorni nel sepolcro.",
+    "altri": [
+      "San Giovanni de Matha",
+      "San Floriano di Bologna",
+      "Santa Begga"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-17-1903",
+      "anno": 1903,
+      "titolo": "Il primo volo",
+      "testo": "Sulle dune di Kill Devil Hills, vicino a Kitty Hawk, Orville Wright vola per dodici secondi e trentasette metri su un aereo a motore costruito con il fratello Wilbur: è il primo volo controllato della storia.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Fratelli Wright",
+      "tono": "leggero",
+      "indizio": "Domani: due fabbricanti di biciclette si staccano da terra per dodici secondi, e il mondo cambia."
+    },
+    {
+      "id": "12-17-1989",
+      "anno": 1989,
+      "titolo": "Arrivano i Simpson",
+      "testo": "La rete americana Fox trasmette la prima puntata vera e propria dei Simpson, uno speciale di Natale.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "I Simpson",
+      "tono": "leggero",
+      "indizio": "Domani: una famiglia gialla entra per la prima volta nelle case americane."
+    },
+    {
+      "id": "12-17-1938",
+      "anno": 1938,
+      "titolo": "La fissione dell'uranio",
+      "testo": "A Berlino Otto Hahn e Fritz Strassmann osservano che il nucleo dell'uranio, bombardato con neutroni, si spezza in due: è la scoperta della fissione nucleare.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Fissione nucleare",
+      "tono": "storico",
+      "indizio": "Domani: in un laboratorio di Berlino un atomo si spezza in due."
+    },
+    {
+      "id": "12-17-1930",
+      "anno": 1930,
+      "titolo": "Balbo verso il Brasile",
+      "testo": "Da Orbetello partono quattordici idrovolanti Savoia-Marchetti guidati da Italo Balbo: è la prima trasvolata atlantica in formazione, fino a Rio de Janeiro.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Crociera aerea transatlantica Italia-Brasile",
+      "tono": "storico",
+      "indizio": "Domani: una squadriglia di idrovolanti italiani parte per attraversare l'Atlantico."
+    },
+    {
+      "id": "12-17--497",
+      "anno": -497,
+      "titolo": "I primi Saturnali",
+      "testo": "Secondo la tradizione a Roma si celebrano per la prima volta i Saturnali, le feste di dicembre in onore di Saturno, con banchetti e regali.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Saturnali",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-17-1770",
+      "anno": 1770,
+      "titolo": "Il battesimo di Beethoven",
+      "testo": "A Bonn viene battezzato Ludwig van Beethoven, nato probabilmente il giorno prima.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Ludwig van Beethoven",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-17-1935",
+      "anno": 1935,
+      "titolo": "Il DC-3 prende il volo",
+      "testo": "Vola per la prima volta il Douglas DC-3, l'aereo che renderà il trasporto aereo di passeggeri un affare redditizio.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Douglas DC-3",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-17-2003",
+      "anno": 2003,
+      "titolo": "Cent'anni dopo, supersonico",
+      "testo": "Nel centenario del volo dei Wright, la SpaceShipOne, un piccolo aereo spaziale privato, supera per la prima volta la velocità del suono.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "SpaceShipOne",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-17-1969",
+      "anno": 1969,
+      "titolo": "Niente dischi volanti",
+      "testo": "L'aviazione americana chiude il Progetto Blue Book: in vent'anni di indagini sugli UFO non ha trovato prove di astronavi extraterrestri.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Progetto Blue Book",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-17-1989b",
+      "anno": 1989,
+      "titolo": "Il Milan a Tokyo",
+      "testo": "Il Milan batte 1-0 l'Atlético Nacional ai tempi supplementari e vince la Coppa Intercontinentale.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Coppa Intercontinentale 1989",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-17-1819",
+      "anno": 1819,
+      "titolo": "L'osservatorio di Capodimonte",
+      "testo": "A Napoli l'astronomo Carlo Brioschi compie la prima osservazione dal nuovo osservatorio di Capodimonte.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 2,
+      "wiki": "Osservatorio astronomico di Capodimonte",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-17-1939",
+      "anno": 1939,
+      "titolo": "La fine della Graf Spee",
+      "testo": "Al largo di Montevideo il comandante tedesco Hans Langsdorff fa affondare la sua nave, la Admiral Graf Spee, per non consegnarla.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Admiral Graf Spee",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Humphry Davy",
+      "anno": 1778,
+      "chi": "chimico inglese, inventore della lampada di sicurezza per i minatori",
+      "wiki": "Humphry Davy"
+    },
+    {
+      "nome": "Willard Libby",
+      "anno": 1908,
+      "chi": "chimico, inventò la datazione al carbonio-14",
+      "wiki": "Willard Libby"
+    },
+    {
+      "nome": "Papa Francesco",
+      "anno": 1936,
+      "chi": "Jorge Mario Bergoglio, papa dal 2013 al 2025",
+      "wiki": "Papa Francesco"
+    },
+    {
+      "nome": "Paula Radcliffe",
+      "anno": 1973,
+      "chi": "maratoneta britannica",
+      "wiki": "Paula Radcliffe"
+    },
+    {
+      "nome": "Milla Jovovich",
+      "anno": 1975,
+      "chi": "attrice e modella",
+      "wiki": "Milla Jovovich"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "Più corto di un'ala",
+      "testo": "Il primo volo dei Wright, 37 metri, fu più corto dell'apertura alare di un Boeing 747. Nel quarto volo della giornata Wilbur arrivò a circa 260 metri."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La famiglia di Groening",
+      "testo": "Matt Groening chiamò i personaggi dei Simpson come i membri della sua famiglia: il padre Homer, la madre Margaret, le sorelle Lisa e Maggie. Bart invece è l'anagramma di brat, «monello»."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "I regali di dicembre",
+      "testo": "Durante i Saturnali i Romani si scambiavano doni, spesso candele e statuine di terracotta, e per qualche giorno i padroni servivano a tavola i servi."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Successo, quattro voli giovedì mattina.",
+      "autore": "Orville Wright",
+      "fonte": "telegramma al padre, 17 dicembre 1903"
+    },
+    {
+      "testo": "Piglierà il primo volo il grande uccello.",
+      "autore": "Leonardo da Vinci",
+      "fonte": "Codice sul volo degli uccelli"
+    },
+    {
+      "testo": "Starai più sicuro nel mezzo (Medio tutissimus ibis).",
+      "autore": "Ovidio",
+      "fonte": "Metamorfosi"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Ogni acqua spegne il fuoco.",
+      "regione": "Toscana",
+      "traduzione": "Ogni acqua spegne il fuoco.",
+      "spiegazione": "Bastano poche lacrime, o poche parole buone, per placare anche una grande collera.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Si ti queres sanu, faedda pagu.",
+      "regione": "Sardegna",
+      "traduzione": "Se vuoi restare sano, parla poco.",
+      "spiegazione": "Chi parla poco si mette meno nei guai.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": {
+    "testata": "The San Francisco Call",
+    "luogo": "San Francisco",
+    "data": "1903-12-18",
+    "evento_id": "12-17-1903",
+    "fonte": "Library of Congress, Chronicling America",
+    "url": "https://www.loc.gov/resource/sn85066387/1903-12-18/ed-1/?sp=1",
+    "loc_item": "sn85066387/1903-12-18/ed-1",
+    "loc_json": "https://www.loc.gov/resource/sn85066387/1903-12-18/ed-1/?sp=1&fo=json",
+    "diritti": "Pubblico dominio (pubblicato nel 1903)",
+    "didascalia": "Il giorno dopo il volo, il San Francisco Call dà la notizia in prima pagina, nell'ultima colonna a destra: «Airship's Flight is a Success», il volo dell'aeronave è un successo. Molti altri giornali non ci credettero e la ignorarono, o la misero nelle pagine interne."
+  }
+}

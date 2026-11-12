@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "giorno": "12-19",
+  "santo": {
+    "nome": "Sant'Anastasio I",
+    "nota": "Papa all'inizio del V secolo, amico di san Girolamo e di sant'Agostino.",
+    "altri": [
+      "San Berardo da Teramo",
+      "Santa Fausta",
+      "San Gregenzio di Tafar"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-19-1843",
+      "anno": 1843,
+      "titolo": "Esce il Canto di Natale",
+      "testo": "A Londra esce Canto di Natale di Charles Dickens, la storia del vecchio avaro Scrooge visitato da tre spiriti: le prime copie vanno esaurite prima della vigilia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Canto di Natale",
+      "tono": "leggero",
+      "indizio": "Domani: esce la storia di un vecchio avaro che cambia idea la notte di Natale."
+    },
+    {
+      "id": "12-19-1976",
+      "anno": 1976,
+      "titolo": "La Coppa Davis è italiana",
+      "testo": "A Santiago del Cile Adriano Panatta, Corrado Barazzutti, Paolo Bertolucci e Tonino Zugarelli vincono la prima Coppa Davis della storia del tennis italiano.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Coppa Davis 1976",
+      "tono": "leggero",
+      "indizio": "Domani: quattro tennisti italiani vincono in Sudamerica la coppa più ambita."
+    },
+    {
+      "id": "12-19-1997",
+      "anno": 1997,
+      "titolo": "Titanic",
+      "testo": "Esce negli Stati Uniti Titanic di James Cameron: vincerà undici Oscar e per anni sarà il film con il maggior incasso della storia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Titanic (film 1997)",
+      "tono": "leggero",
+      "indizio": "Domani: un transatlantico affonda di nuovo, stavolta al cinema, e batte ogni record."
+    },
+    {
+      "id": "12-19-1974",
+      "anno": 1974,
+      "titolo": "L'Altair 8800",
+      "testo": "Arriva nelle edicole la rivista che presenta l'Altair 8800, il kit da montare considerato il primo personal computer di successo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Altair 8800",
+      "tono": "leggero",
+      "indizio": "Domani: in edicola compare un computer da montare in casa."
+    },
+    {
+      "id": "12-19-1972",
+      "anno": 1972,
+      "titolo": "L'ultimo ritorno dalla Luna",
+      "testo": "L'Apollo 17 ammara nel Pacifico: si chiude quella che è, finora, l'ultima missione umana sulla Luna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Apollo 17",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-19-1943",
+      "anno": 1943,
+      "titolo": "La Dichiarazione di Chivasso",
+      "testo": "Rappresentanti delle valli alpine firmano a Chivasso una dichiarazione per l'autonomia e il rispetto delle minoranze delle montagne.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Dichiarazione di Chivasso",
+      "tono": "storico"
+    },
+    {
+      "id": "12-19-1777",
+      "anno": 1777,
+      "titolo": "L'inverno a Valley Forge",
+      "testo": "L'esercito di George Washington si ritira nei quartieri d'inverno di Valley Forge, dove ne uscirà più forte e addestrato.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Valley Forge",
+      "tono": "storico"
+    },
+    {
+      "id": "12-19-1793",
+      "anno": 1793,
+      "titolo": "Napoleone a Tolone",
+      "testo": "All'assedio di Tolone il giovane capitano d'artiglieria Napoleone Bonaparte si fa notare: sarà promosso generale.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Assedio di Tolone",
+      "tono": "storico"
+    },
+    {
+      "id": "12-19-2005",
+      "anno": 2005,
+      "titolo": "Alta velocità Roma-Napoli",
+      "testo": "Si inaugura la linea ferroviaria ad alta velocità fra Roma e Napoli.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Ferrovia Roma-Napoli (alta velocità)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-19-2013",
+      "anno": 2013,
+      "titolo": "Gaia, la cartografa delle stelle",
+      "testo": "L'Agenzia spaziale europea lancia Gaia, il satellite che misurerà con precisione la posizione di oltre un miliardo di stelle.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Gaia (sonda spaziale)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-19-1984",
+      "anno": 1984,
+      "titolo": "Hong Kong tornerà alla Cina",
+      "testo": "Regno Unito e Cina firmano la dichiarazione che stabilisce il ritorno di Hong Kong alla Cina nel 1997.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Dichiarazione congiunta sino-britannica",
+      "tono": "storico"
+    },
+    {
+      "id": "12-19-1909",
+      "anno": 1909,
+      "titolo": "Nasce il Borussia Dortmund",
+      "testo": "In Germania viene fondato il Borussia Dortmund.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Borussia Dortmund",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Albert Michelson",
+      "anno": 1852,
+      "chi": "fisico, primo statunitense a vincere il Nobel per una scienza",
+      "wiki": "Albert Michelson"
+    },
+    {
+      "nome": "Jean Genet",
+      "anno": 1910,
+      "chi": "scrittore e drammaturgo francese",
+      "wiki": "Jean Genet"
+    },
+    {
+      "nome": "Édith Piaf",
+      "anno": 1915,
+      "chi": "cantante francese",
+      "wiki": "Édith Piaf"
+    },
+    {
+      "nome": "Richard Leakey",
+      "anno": 1944,
+      "chi": "paleoantropologo keniota",
+      "wiki": "Richard Leakey"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Dickens pagò di tasca sua",
+      "testo": "Dickens fece stampare il Canto di Natale a sue spese, con rilegatura rossa e illustrazioni colorate a mano. Le seimila copie della prima edizione andarono esaurite in pochi giorni, ma i costi alti gli lasciarono poco guadagno."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "Le magliette rosse",
+      "testo": "Nel doppio della finale del 1976 Panatta e Bertolucci scesero in campo con la maglietta rossa, un gesto di protesta contro il regime di Pinochet che governava il Cile."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Un computer senza schermo",
+      "testo": "L'Altair 8800 non aveva né tastiera né schermo: si programmava con degli interruttori e rispondeva accendendo delle lucine. Per lui Bill Gates e Paul Allen scrissero il loro primo programma da vendere."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Dio ci benedica, tutti quanti!",
+      "autore": "Charles Dickens",
+      "fonte": "Canto di Natale"
+    },
+    {
+      "testo": "Forse un giorno anche questo ci farà piacere ricordarlo.",
+      "autore": "Virgilio",
+      "fonte": "Eneide"
+    },
+    {
+      "testo": "Natale al sole, Pasqua col tizzone.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Il caffè l'è bon cun tre S: sedendo, scottando e scroccando.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Il caffè è buono con tre S: seduti, bollente e a scrocco.",
+      "spiegazione": "La ricetta del caffè perfetto: con calma, caldissimo, e offerto da un altro.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Ànim' hai' e ànim' crir'.",
+      "regione": "Basilicata",
+      "traduzione": "Anima hai e anima credi.",
+      "spiegazione": "Tu hai un'anima: ricordati che ce l'hanno anche gli altri.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

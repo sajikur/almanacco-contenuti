@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "giorno": "12-16",
+  "santo": {
+    "nome": "Sant'Adelaide",
+    "nota": "Principessa di Borgogna del X secolo, regina d'Italia e poi imperatrice accanto a Ottone I. Ricordata per la saggezza e la generosità verso i poveri.",
+    "altri": [
+      "Sant'Adone di Vienne",
+      "Sant'Aggeo profeta",
+      "Sant'Eberardo del Friuli"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata nazionale dello spazio",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Giorno della riconciliazione (Sudafrica)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-16-1773",
+      "anno": 1773,
+      "titolo": "Il tè finisce in mare",
+      "testo": "A Boston un gruppo di coloni travestiti da indiani sale sulle navi della Compagnia delle Indie e getta in mare il tè per protesta contro le tasse inglesi: è il Boston Tea Party.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Boston Tea Party",
+      "tono": "storico",
+      "indizio": "Domani: in un porto americano si prepara il tè più famoso della storia, ma nell'acqua salata."
+    },
+    {
+      "id": "12-16-1893",
+      "anno": 1893,
+      "titolo": "Dal Nuovo Mondo",
+      "testo": "Alla Carnegie Hall di New York debutta la Sinfonia n. 9 di Antonín Dvořák, Dal Nuovo Mondo, scritta in America.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Sinfonia n. 9 (Dvořák)",
+      "tono": "leggero",
+      "indizio": "Domani: un compositore boemo racconta in musica l'America."
+    },
+    {
+      "id": "12-16-2007",
+      "anno": 2007,
+      "titolo": "Il Milan campione del mondo",
+      "testo": "A Yokohama il Milan batte 4-2 il Boca Juniors e vince il primo Mondiale per club della sua storia.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Coppa del mondo per club FIFA 2007",
+      "tono": "leggero",
+      "indizio": "Domani: una squadra italiana si laurea campione del mondo in Giappone."
+    },
+    {
+      "id": "12-16-1962",
+      "anno": 1962,
+      "titolo": "L'ultima fuga da Alcatraz",
+      "testo": "John Paul Scott evade dal carcere di Alcatraz e raggiunge a nuoto la riva di San Francisco, dove viene ripreso: è l'ultima evasione dell'isola, che chiuderà pochi mesi dopo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Alcatraz",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-16-1653",
+      "anno": 1653,
+      "titolo": "Cromwell Lord Protettore",
+      "testo": "Oliver Cromwell diventa Lord Protettore di Inghilterra, Scozia e Irlanda.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Oliver Cromwell",
+      "tono": "storico"
+    },
+    {
+      "id": "12-16-1689",
+      "anno": 1689,
+      "titolo": "Il Bill of Rights inglese",
+      "testo": "Il Parlamento inglese approva la Carta dei diritti, che limita i poteri del re.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Bill of Rights 1689",
+      "tono": "storico"
+    },
+    {
+      "id": "12-16-1971",
+      "anno": 1971,
+      "titolo": "Nasce il Bangladesh",
+      "testo": "Con la resa dell'esercito pakistano nasce il Bangladesh.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Guerra di liberazione bengalese",
+      "tono": "storico"
+    },
+    {
+      "id": "12-16-1989",
+      "anno": 1989,
+      "titolo": "Timișoara",
+      "testo": "A Timișoara cominciano le proteste che in pochi giorni porteranno alla caduta di Ceaușescu in Romania.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rivoluzione romena del 1989",
+      "tono": "storico"
+    },
+    {
+      "id": "12-16-1850",
+      "anno": 1850,
+      "titolo": "Nasce Christchurch",
+      "testo": "Arrivano in Nuova Zelanda le prime quattro navi di coloni che fonderanno la città di Christchurch.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Christchurch",
+      "tono": "storico"
+    },
+    {
+      "id": "12-16-1631",
+      "anno": 1631,
+      "titolo": "Il Vesuvio si risveglia",
+      "testo": "Una violenta eruzione del Vesuvio distrugge i paesi alle sue pendici e causa migliaia di vittime.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Eruzione del Vesuvio del 1631",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Ludwig van Beethoven",
+      "anno": 1770,
+      "chi": "compositore tedesco, nato probabilmente oggi: fu battezzato il giorno dopo",
+      "wiki": "Ludwig van Beethoven"
+    },
+    {
+      "nome": "Jane Austen",
+      "anno": 1775,
+      "chi": "scrittrice inglese, autrice di Orgoglio e pregiudizio",
+      "wiki": "Jane Austen"
+    },
+    {
+      "nome": "Margaret Mead",
+      "anno": 1901,
+      "chi": "antropologa statunitense",
+      "wiki": "Margaret Mead"
+    },
+    {
+      "nome": "Arthur C. Clarke",
+      "anno": 1917,
+      "chi": "scrittore di fantascienza, autore di 2001: Odissea nello spazio",
+      "wiki": "Arthur C. Clarke"
+    },
+    {
+      "nome": "Philip K. Dick",
+      "anno": 1928,
+      "chi": "scrittore di fantascienza",
+      "wiki": "Philip K. Dick"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "342 casse",
+      "testo": "Quella notte a Boston furono gettate in acqua 342 casse di tè. I partecipanti si travestirono da indiani Mohawk per non farsi riconoscere."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il Nuovo Mondo sulla Luna",
+      "testo": "Neil Armstrong portò con sé sull'Apollo 11 una registrazione della Sinfonia dal Nuovo Mondo di Dvořák."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Firmato: una signora",
+      "testo": "I romanzi di Jane Austen uscirono senza il suo nome: il primo, Ragione e sentimento, era firmato semplicemente «by a Lady», «di una signora»."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "È una verità universalmente riconosciuta che uno scapolo in possesso di un buon patrimonio debba essere in cerca di moglie.",
+      "autore": "Jane Austen",
+      "fonte": "Orgoglio e pregiudizio"
+    },
+    {
+      "testo": "Deve essere? Deve essere!",
+      "autore": "Ludwig van Beethoven",
+      "fonte": "Quartetto op. 135"
+    },
+    {
+      "testo": "Chi tardi arriva male alloggia.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Megio fruar scarpe che nizioi.",
+      "regione": "Veneto",
+      "traduzione": "Meglio consumare scarpe che lenzuola.",
+      "spiegazione": "Meglio darsi da fare e camminare che restare a letto, malati o pigri.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Ci dissi 'u papici 'a nuci: dammi tempu ca ti pèrciu.",
+      "regione": "Sicilia",
+      "traduzione": "Disse il bruco alla noce: dammi tempo che ti buco.",
+      "spiegazione": "Con la pazienza anche il più piccolo arriva dove vuole.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}
