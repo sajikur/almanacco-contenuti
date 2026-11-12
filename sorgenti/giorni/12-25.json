@@ -55,10 +55,9 @@
       "testo": "Nella notte di Natale George Washington attraversa con le sue truppe il fiume Delaware gelato, per attaccare di sorpresa le truppe nemiche a Trenton.",
       "ambito": "mondo",
       "categoria": "storia",
-      "peso": 4,
+      "peso": 2,
       "wiki": "Traversata del Delaware",
-      "tono": "storico",
-      "indizio": "Domani: un generale attraversa un fiume gelato nella notte di Natale."
+      "tono": "storico"
     },
     {
       "id": "12-25-1991",
