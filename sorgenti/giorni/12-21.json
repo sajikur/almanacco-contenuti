@@ -1,0 +1,241 @@
+{
+  "schema": 1,
+  "giorno": "12-21",
+  "santo": {
+    "nome": "San Pietro Canisio",
+    "nota": "Gesuita olandese del Cinquecento, scrisse un catechismo diffusissimo in tutta Europa. È dottore della Chiesa.",
+    "altri": [
+      "Sant'Anastasio il Giovane",
+      "San Giacomo da Valenza",
+      "San Glicerio di Nicomedia"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale della meditazione",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-21-1891",
+      "anno": 1891,
+      "titolo": "La prima partita di basket",
+      "testo": "In una palestra di Springfield, nel Massachusetts, si gioca la prima partita di pallacanestro, inventata dall'insegnante James Naismith per far muovere i suoi studenti d'inverno.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Pallacanestro",
+      "tono": "leggero",
+      "indizio": "Domani: un insegnante appende due cestini per le pesche in palestra e inventa uno sport."
+    },
+    {
+      "id": "12-21-1913",
+      "anno": 1913,
+      "titolo": "Il primo cruciverba",
+      "testo": "Sul supplemento domenicale del New York World esce il primo cruciverba della storia, ideato dal giornalista Arthur Wynne.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Cruciverba",
+      "tono": "leggero",
+      "indizio": "Domani: su un giornale di New York compare un gioco di parole incrociate."
+    },
+    {
+      "id": "12-21-1937",
+      "anno": 1937,
+      "titolo": "Biancaneve",
+      "testo": "A Hollywood debutta Biancaneve e i sette nani, il primo lungometraggio animato della Disney: il pubblico, compresi i divi presenti, si commuove.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Biancaneve e i sette nani (film 1937)",
+      "tono": "leggero",
+      "indizio": "Domani: debutta il primo lungometraggio a cartoni animati della Disney."
+    },
+    {
+      "id": "12-21-1968",
+      "anno": 1968,
+      "titolo": "Parte l'Apollo 8",
+      "testo": "Partono Frank Borman, Jim Lovell e Bill Anders: saranno i primi uomini a lasciare l'orbita terrestre e a girare attorno alla Luna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Apollo 8",
+      "tono": "leggero",
+      "indizio": "Domani: tre astronauti partono per passare il Natale attorno alla Luna."
+    },
+    {
+      "id": "12-21-1872",
+      "anno": 1872,
+      "titolo": "La nave Challenger",
+      "testo": "Da Portsmouth salpa la HMS Challenger per una spedizione di quasi quattro anni: è l'inizio dell'oceanografia moderna.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Spedizione Challenger",
+      "tono": "leggero",
+      "indizio": "Domani: una nave inglese parte per esplorare le profondità di tutti gli oceani."
+    },
+    {
+      "id": "12-21-1925",
+      "anno": 1925,
+      "titolo": "La corazzata Potëmkin",
+      "testo": "A Mosca viene presentato La corazzata Potëmkin di Sergej Ėjzenštejn, con la celebre scena della scalinata di Odessa.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "La corazzata Potëmkin",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-21-1958",
+      "anno": 1958,
+      "titolo": "De Gaulle presidente",
+      "testo": "Charles de Gaulle viene eletto primo presidente della Quinta Repubblica francese.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Charles de Gaulle",
+      "tono": "storico"
+    },
+    {
+      "id": "12-21-69",
+      "anno": 69,
+      "titolo": "Vespasiano imperatore",
+      "testo": "Dopo la morte di Vitellio, il Senato riconosce Vespasiano imperatore: comincia la dinastia dei Flavi, quella del Colosseo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Vespasiano",
+      "tono": "storico"
+    },
+    {
+      "id": "12-21-1989",
+      "anno": 1989,
+      "titolo": "Bucarest",
+      "testo": "A Bucarest la folla fischia Ceaușescu durante un comizio: è l'inizio della fine del regime.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rivoluzione romena del 1989",
+      "tono": "storico"
+    },
+    {
+      "id": "12-21-1962",
+      "anno": 1962,
+      "titolo": "Il primo parco della Norvegia",
+      "testo": "Nasce il Parco nazionale di Rondane, il primo della Norvegia.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Parco nazionale di Rondane",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-21-1923",
+      "anno": 1923,
+      "titolo": "Il Nepal indipendente",
+      "testo": "Un trattato con il Regno Unito riconosce la piena indipendenza del Nepal.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Nepal",
+      "tono": "storico"
+    },
+    {
+      "id": "12-21-1988",
+      "anno": 1988,
+      "titolo": "Lockerbie",
+      "testo": "Una bomba distrugge un aereo della Pan Am sopra Lockerbie, in Scozia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Attentato di Lockerbie",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Benjamin Disraeli",
+      "anno": 1804,
+      "chi": "statista e scrittore britannico",
+      "wiki": "Benjamin Disraeli"
+    },
+    {
+      "nome": "Heinrich Böll",
+      "anno": 1917,
+      "chi": "scrittore tedesco, premio Nobel",
+      "wiki": "Heinrich Böll"
+    },
+    {
+      "nome": "Jane Fonda",
+      "anno": 1937,
+      "chi": "attrice statunitense",
+      "wiki": "Jane Fonda"
+    },
+    {
+      "nome": "Frank Zappa",
+      "anno": 1940,
+      "chi": "musicista statunitense",
+      "wiki": "Frank Zappa"
+    },
+    {
+      "nome": "Samuel L. Jackson",
+      "anno": 1948,
+      "chi": "attore statunitense",
+      "wiki": "Samuel L. Jackson"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "sport",
+      "titolo": "La scala per la palla",
+      "testo": "Nella prima partita di basket i canestri erano veri cestini per le pesche, con il fondo: a ogni punto qualcuno doveva salire su una scala per recuperare la palla. Finì 1-0."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Una croce di parole",
+      "testo": "Il primo cruciverba di Arthur Wynne aveva la forma di un rombo e si chiamava word-cross, «croce di parole». Il nome si invertì per un errore di stampa, e diventò crossword."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La follia di Disney",
+      "testo": "Mentre lo preparava, a Hollywood chiamavano Biancaneve «la follia di Disney»: nessuno credeva che il pubblico avrebbe guardato un cartone animato per un'ora e mezza. Fu un trionfo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Ci sono tre tipi di bugie: le bugie, le maledette bugie e le statistiche.",
+      "autore": "attribuita a Benjamin Disraeli da Mark Twain",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Il mondo è bello perché è vario.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "A ciascun giorno basta la sua pena.",
+      "autore": "Vangelo di Matteo",
+      "fonte": "6,34"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Il bue mangia il fieno perché si ricorda che è stato erba.",
+      "regione": "Toscana",
+      "traduzione": "Il bue mangia il fieno perché si ricorda che è stato erba.",
+      "spiegazione": "Da anziani si torna volentieri alle abitudini della giovinezza.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Chine nascia rutunnu nun mora quadratu.",
+      "regione": "Calabria",
+      "traduzione": "Chi nasce tondo non muore quadrato.",
+      "spiegazione": "Il carattere di una persona non cambia.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

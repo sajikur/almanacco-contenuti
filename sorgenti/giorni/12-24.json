@@ -1,0 +1,241 @@
+{
+  "schema": 1,
+  "giorno": "12-24",
+  "santo": {
+    "nome": "Vigilia di Natale",
+    "nota": "La sera della vigilia la tradizione italiana vuole la cena di magro, spesso di pesce, e poi la messa di mezzanotte. Il calendario ricorda anche i santi antenati di Gesù.",
+    "altri": [
+      "Santi Adamo ed Eva",
+      "Sant'Adele di Pfalzel",
+      "San Delfino di Bordeaux"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa dell'indipendenza (Libia)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-24-1818",
+      "anno": 1818,
+      "titolo": "Stille Nacht",
+      "testo": "Nella chiesa di San Nicola a Oberndorf, vicino a Salisburgo, il maestro Franz Xaver Gruber e il sacerdote Joseph Mohr cantano per la prima volta Stille Nacht, con l'accompagnamento di una chitarra.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Stille Nacht",
+      "tono": "leggero",
+      "indizio": "Domani: in un paesino austriaco si canta per la prima volta un canto che farà il giro del mondo."
+    },
+    {
+      "id": "12-24-1968",
+      "anno": 1968,
+      "titolo": "Il sorgere della Terra",
+      "testo": "L'Apollo 8 entra in orbita attorno alla Luna. Dal finestrino Bill Anders fotografa la Terra che spunta dall'orizzonte lunare: è la celebre Earthrise.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Earthrise",
+      "tono": "leggero",
+      "indizio": "Domani: tre astronauti vedono la Terra sorgere sopra la Luna."
+    },
+    {
+      "id": "12-24-1914",
+      "anno": 1914,
+      "titolo": "La tregua di Natale",
+      "testo": "Sul fronte occidentale, in molti punti, soldati tedeschi e britannici smettono di sparare, cantano canti natalizi e si scambiano auguri nella terra di nessuno.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Tregua di Natale",
+      "tono": "storico",
+      "indizio": "Domani: in trincea, per una notte, i nemici smettono di spararsi e cantano insieme."
+    },
+    {
+      "id": "12-24-1871",
+      "anno": 1871,
+      "titolo": "L'Aida al Cairo",
+      "testo": "Al Teatro dell'Opera del Cairo va in scena per la prima volta l'Aida di Giuseppe Verdi.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Aida",
+      "tono": "leggero",
+      "indizio": "Domani: al Cairo debutta l'opera di Verdi ambientata nell'antico Egitto."
+    },
+    {
+      "id": "12-24-2024",
+      "anno": 2024,
+      "titolo": "Mai così vicino al Sole",
+      "testo": "La sonda Parker della NASA passa a circa sei milioni di chilometri dalla superficie del Sole: nessun oggetto costruito dall'uomo ci era mai arrivato così vicino.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Parker Solar Probe",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda sfiora il Sole come nessuno prima."
+    },
+    {
+      "id": "12-24-1906",
+      "anno": 1906,
+      "titolo": "La prima trasmissione radio",
+      "testo": "Secondo il suo racconto, la sera della vigilia Reginald Fessenden trasmette via radio musica e una lettura del Vangelo: i radiotelegrafisti delle navi sentono per la prima volta una voce invece dei punti e linee.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Reginald Fessenden",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-24-1777",
+      "anno": 1777,
+      "titolo": "L'isola di Natale",
+      "testo": "James Cook avvista un atollo nel Pacifico e lo chiama Christmas Island: oggi si chiama Kiritimati.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Kiritimati",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-24-1971",
+      "anno": 1971,
+      "titolo": "Leone presidente",
+      "testo": "Giovanni Leone viene eletto sesto presidente della Repubblica italiana, dopo ventitré scrutini.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Giovanni Leone",
+      "tono": "storico"
+    },
+    {
+      "id": "12-24-1713",
+      "anno": 1713,
+      "titolo": "Un Savoia re di Sicilia",
+      "testo": "A Palermo Vittorio Amedeo II di Savoia viene incoronato re di Sicilia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Vittorio Amedeo II di Savoia",
+      "tono": "storico"
+    },
+    {
+      "id": "12-24-1814",
+      "anno": 1814,
+      "titolo": "La pace di Gand",
+      "testo": "Viene firmato il trattato di Gand, che chiude la guerra fra Stati Uniti e Regno Unito.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Trattato di Gand",
+      "tono": "storico"
+    },
+    {
+      "id": "12-24-1951",
+      "anno": 1951,
+      "titolo": "La Libia indipendente",
+      "testo": "La Libia diventa indipendente sotto il re Idris.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Libia",
+      "tono": "storico"
+    },
+    {
+      "id": "12-24-1598",
+      "anno": 1598,
+      "titolo": "La grande piena",
+      "testo": "A Roma il Tevere raggiunge la piena più alta mai registrata, allagando gran parte della città.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Tevere",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Kit Carson",
+      "anno": 1809,
+      "chi": "esploratore del West americano",
+      "wiki": "Kit Carson"
+    },
+    {
+      "nome": "James Prescott Joule",
+      "anno": 1818,
+      "chi": "fisico inglese, quello dei joule",
+      "wiki": "James Prescott Joule"
+    },
+    {
+      "nome": "Howard Hughes",
+      "anno": 1905,
+      "chi": "aviatore e produttore cinematografico",
+      "wiki": "Howard Hughes"
+    },
+    {
+      "nome": "Ava Gardner",
+      "anno": 1922,
+      "chi": "attrice statunitense",
+      "wiki": "Ava Gardner"
+    },
+    {
+      "nome": "Ricky Martin",
+      "anno": 1971,
+      "chi": "cantante portoricano",
+      "wiki": "Ricky Martin"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Con la chitarra",
+      "testo": "Stille Nacht nacque per voce e chitarra; secondo la tradizione perché l'organo della chiesa era guasto. Oggi è cantata in centinaia di lingue."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Una foto non prevista",
+      "testo": "La foto della Terra che sorge non era nel programma di volo. Anders vide la Terra spuntare e chiese ai compagni un rullino a colori: fu la foto che fece nascere il movimento ambientalista."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Una partita nella terra di nessuno",
+      "testo": "Durante la tregua di Natale del 1914, in alcuni punti del fronte, soldati nemici improvvisarono partite di calcio fra le trincee."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Gloria a Dio nel più alto dei cieli e pace in terra agli uomini.",
+      "autore": "Vangelo di Luca",
+      "fonte": "2,14"
+    },
+    {
+      "testo": "Stille Nacht, heilige Nacht.",
+      "autore": "Joseph Mohr",
+      "fonte": "Stille Nacht"
+    },
+    {
+      "testo": "In principio Dio creò il cielo e la terra.",
+      "autore": "Genesi",
+      "fonte": "1,1, letta dagli astronauti dell'Apollo 8"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A salûte senza dinæ a l'è unn-a mëza malattïa.",
+      "regione": "Liguria",
+      "traduzione": "La salute senza soldi è una mezza malattia.",
+      "spiegazione": "Star bene è importante, ma anche le ristrettezze pesano.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Di 'na spina nni nasci 'na rosa, E di 'na rosa nni nasci 'na spina.",
+      "regione": "Sicilia",
+      "traduzione": "Da una spina nasce una rosa, e da una rosa nasce una spina.",
+      "spiegazione": "Dal male può nascere il bene, e dal bene a volte il male: la vita alterna sempre le due cose.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

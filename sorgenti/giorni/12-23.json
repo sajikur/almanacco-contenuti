@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "giorno": "12-23",
+  "santo": {
+    "nome": "San Giovanni da Kęty",
+    "nota": "Sacerdote e professore all'università di Cracovia nel Quattrocento, famoso per la carità: si racconta che desse ai poveri anche il mantello.",
+    "altri": [
+      "Sant'Antonio de Sant'Anna Galvão",
+      "San Dagoberto II",
+      "San Garibaldo di Ratisbona"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-23-1947",
+      "anno": 1947,
+      "titolo": "Nasce il transistor",
+      "testo": "Ai Bell Laboratories John Bardeen e Walter Brattain mostrano il primo transistor funzionante: il componente che renderà possibili computer e telefoni.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Transistor",
+      "tono": "leggero",
+      "indizio": "Domani: in un laboratorio americano nasce il mattoncino di ogni apparecchio elettronico."
+    },
+    {
+      "id": "12-23-1823",
+      "anno": 1823,
+      "titolo": "Arriva Santa Claus",
+      "testo": "Un giornale di New York pubblica la poesia A Visit from St. Nicholas: fissa per sempre l'immagine di Babbo Natale con la slitta e le renne.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "A Visit from St. Nicholas",
+      "tono": "leggero",
+      "indizio": "Domani: una poesia americana mette Babbo Natale su una slitta tirata dalle renne."
+    },
+    {
+      "id": "12-23-1966",
+      "anno": 1966,
+      "titolo": "Il buono, il brutto, il cattivo",
+      "testo": "Esce nelle sale il terzo western di Sergio Leone con Clint Eastwood, con la musica di Ennio Morricone.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Il buono, il brutto, il cattivo",
+      "tono": "leggero",
+      "indizio": "Domani: esce il western italiano con la colonna sonora più fischiettata del mondo."
+    },
+    {
+      "id": "12-23-1987",
+      "anno": 1987,
+      "titolo": "Il primo dominio .it",
+      "testo": "Il CNR di Pisa registra cnr.it, il primo indirizzo Internet italiano.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Dominio di primo livello .it",
+      "tono": "leggero",
+      "indizio": "Domani: nasce il primo indirizzo Internet italiano."
+    },
+    {
+      "id": "12-23-1924",
+      "anno": 1924,
+      "titolo": "Il cartello delle lampadine",
+      "testo": "A Ginevra i maggiori produttori di lampadine firmano il cartello Phoebus, che limita la durata delle lampadine a mille ore: un caso famoso di obsolescenza programmata.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Cartello Phoebus",
+      "tono": "leggero",
+      "indizio": "Domani: alcune aziende si mettono d'accordo per far durare meno le lampadine."
+    },
+    {
+      "id": "12-23-1796",
+      "anno": 1796,
+      "titolo": "La Repubblica Cispadana",
+      "testo": "Al congresso di Reggio Emilia nasce la Repubblica Cispadana: poche settimane dopo, nella stessa città, adotterà il tricolore.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Repubblica Cispadana",
+      "tono": "storico",
+      "indizio": "Domani: a Reggio Emilia nasce la repubblica che sceglierà il tricolore."
+    },
+    {
+      "id": "12-23-1672",
+      "anno": 1672,
+      "titolo": "Cassini scopre Rea",
+      "testo": "L'astronomo ligure Giovanni Domenico Cassini scopre Rea, la seconda luna di Saturno per grandezza.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Rea (astronomia)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-23-1972",
+      "anno": 1972,
+      "titolo": "I sopravvissuti delle Ande",
+      "testo": "Dopo settantadue giorni fra le nevi delle Ande vengono tratti in salvo gli ultimi sopravvissuti dell'aereo uruguaiano precipitato in ottobre: sono sedici.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Disastro aereo delle Ande",
+      "tono": "storico"
+    },
+    {
+      "id": "12-23-1913",
+      "anno": 1913,
+      "titolo": "Nasce la Federal Reserve",
+      "testo": "Il presidente Wilson firma la legge che istituisce la Federal Reserve, la banca centrale americana.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Federal Reserve Act",
+      "tono": "storico"
+    },
+    {
+      "id": "12-23-1990",
+      "anno": 1990,
+      "titolo": "La Slovenia vota l'indipendenza",
+      "testo": "Con un referendum gli sloveni scelgono di lasciare la Jugoslavia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Slovenia",
+      "tono": "storico"
+    },
+    {
+      "id": "12-23-1984",
+      "anno": 1984,
+      "titolo": "La strage del Rapido 904",
+      "testo": "Una bomba esplode sul treno Napoli-Milano nella galleria di San Benedetto Val di Sambro.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Strage del Rapido 904",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Jean-François Champollion",
+      "anno": 1790,
+      "chi": "egittologo francese, decifrò i geroglifici",
+      "wiki": "Jean-François Champollion"
+    },
+    {
+      "nome": "Madam C. J. Walker",
+      "anno": 1867,
+      "chi": "imprenditrice afroamericana, fra le prime donne milionarie d'America",
+      "wiki": "Madam C. J. Walker"
+    },
+    {
+      "nome": "Giuseppe Tomasi di Lampedusa",
+      "anno": 1896,
+      "chi": "scrittore palermitano, autore del Gattopardo",
+      "wiki": "Giuseppe Tomasi di Lampedusa"
+    },
+    {
+      "nome": "Chet Baker",
+      "anno": 1929,
+      "chi": "trombettista jazz statunitense",
+      "wiki": "Chet Baker"
+    },
+    {
+      "nome": "Akihito",
+      "anno": 1933,
+      "chi": "imperatore emerito del Giappone",
+      "wiki": "Akihito"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "Da dove viene transistor",
+      "testo": "Il nome transistor unisce transfer e resistor: una resistenza che trasferisce il segnale. Bardeen, Brattain e Shockley ricevettero il Nobel nel 1956."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Le renne hanno un nome",
+      "testo": "La poesia del 1823 elenca otto renne per nome, fra cui Cometa e Cupido. Rudolph, quella col naso rosso, arrivò solo nel 1939, in un libretto pubblicitario."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un coyote per colonna sonora",
+      "testo": "Il celebre tema di Morricone per Il buono, il brutto, il cattivo imita l'ululato di un coyote, con voci e strumenti diversi per ognuno dei tre protagonisti."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Ce l'ho fatta!",
+      "autore": "Jean-François Champollion",
+      "fonte": "decifrando i geroglifici, 1822"
+    },
+    {
+      "testo": "Buon Natale a tutti, e a tutti buona notte!",
+      "autore": "Clement Clarke Moore",
+      "fonte": "A Visit from St. Nicholas"
+    },
+    {
+      "testo": "Anno nuovo, vita nuova.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Il corli plui devente vieri e miei al ģire.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "L'arcolaio più diventa vecchio, meglio gira.",
+      "spiegazione": "Con gli anni e l'esperienza si lavora meglio.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Tre songo 'e putiente: 'o rre, 'o papa e chi nun tene niente!",
+      "regione": "Campania",
+      "traduzione": "Tre sono i potenti: il re, il papa e chi non ha niente.",
+      "spiegazione": "Chi non possiede nulla non ha niente da perdere, e per questo è libero come un re.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

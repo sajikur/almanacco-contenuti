@@ -1,0 +1,247 @@
+{
+  "schema": 1,
+  "giorno": "12-31",
+  "santo": {
+    "nome": "San Silvestro I",
+    "nota": "Papa al tempo di Costantino, guidò la Chiesa nei primi anni di libertà dopo le persecuzioni. Dal suo nome viene la festa dell'ultima notte dell'anno.",
+    "altri": [
+      "Santa Caterina Labouré",
+      "Santa Melania la giovane",
+      "Santa Colomba di Sens"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Te Deum di ringraziamento per l'anno trascorso",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Notte di San Silvestro, Capodanno",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-31-1879",
+      "anno": 1879,
+      "titolo": "La lampadina per tutti",
+      "testo": "A Menlo Park Thomas Edison accende le sue lampadine a incandescenza davanti a centinaia di visitatori arrivati con treni speciali.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Lampada a incandescenza",
+      "tono": "leggero",
+      "indizio": "Domani: l'ultima sera dell'anno un inventore illumina un villaggio intero con le sue lampadine."
+    },
+    {
+      "id": "12-31-1695",
+      "anno": 1695,
+      "titolo": "La tassa sulle finestre",
+      "testo": "In Inghilterra entra in vigore una tassa sulle finestre: più finestre ha una casa, più si paga. Molti proprietari le murano.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Tassa sulle finestre",
+      "tono": "leggero",
+      "indizio": "Domani: il governo inglese decide di tassare la luce del sole."
+    },
+    {
+      "id": "12-31-1857",
+      "anno": 1857,
+      "titolo": "Ottawa capitale",
+      "testo": "La regina Vittoria sceglie Ottawa come capitale del Canada, preferendola a Toronto, Montréal, Québec e Kingston.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Ottawa",
+      "tono": "leggero",
+      "indizio": "Domani: una regina sceglie la capitale di un Paese dall'altra parte dell'oceano."
+    },
+    {
+      "id": "12-31-1994",
+      "anno": 1994,
+      "titolo": "Rod Stewart a Copacabana",
+      "testo": "Sulla spiaggia di Copacabana, a Rio de Janeiro, Rod Stewart canta davanti a una folla stimata in tre milioni e mezzo di persone, uno dei concerti più affollati di sempre.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Rod Stewart",
+      "tono": "leggero",
+      "indizio": "Domani: un cantante suona davanti a milioni di persone su una spiaggia brasiliana."
+    },
+    {
+      "id": "12-31-1970",
+      "anno": 1970,
+      "titolo": "I Beatles in tribunale",
+      "testo": "Paul McCartney fa causa agli altri tre Beatles per sciogliere legalmente il gruppo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The Beatles",
+      "tono": "leggero",
+      "indizio": "Domani: uno dei quattro ragazzi di Liverpool chiede di sciogliere il gruppo per vie legali."
+    },
+    {
+      "id": "12-31-1999",
+      "anno": 1999,
+      "titolo": "Il Canale di Panama ai panamensi",
+      "testo": "A mezzogiorno gli Stati Uniti consegnano il Canale di Panama al governo di Panama.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Canale di Panama",
+      "tono": "storico",
+      "indizio": "Domani: un canale fra due oceani cambia padrone."
+    },
+    {
+      "id": "12-31-2002",
+      "anno": 2002,
+      "titolo": "Il treno che vola",
+      "testo": "A Shanghai viene inaugurato il primo treno commerciale a levitazione magnetica: tocca i 430 chilometri orari senza toccare i binari.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Shanghai Maglev",
+      "tono": "leggero",
+      "indizio": "Domani: in Cina un treno comincia a viaggiare sospeso sopra i binari."
+    },
+    {
+      "id": "12-31-1999b",
+      "anno": 1999,
+      "titolo": "El'cin si dimette",
+      "testo": "A sorpresa, Boris El'cin lascia la presidenza della Russia e affida l'incarico al primo ministro Vladimir Putin.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Boris El'cin",
+      "tono": "storico"
+    },
+    {
+      "id": "12-31-1600",
+      "anno": 1600,
+      "titolo": "La Compagnia delle Indie",
+      "testo": "La regina Elisabetta I concede il privilegio alla Compagnia inglese delle Indie orientali.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Compagnia britannica delle Indie orientali",
+      "tono": "storico"
+    },
+    {
+      "id": "12-31-1990",
+      "anno": 1990,
+      "titolo": "Kasparov ancora campione",
+      "testo": "Garri Kasparov conserva il titolo mondiale di scacchi contro Anatolij Karpov, al quinto scontro fra i due.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Garri Kasparov",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-31-1960",
+      "anno": 1960,
+      "titolo": "Addio al farthing",
+      "testo": "Il farthing, la moneta da un quarto di penny, smette di avere corso legale in Gran Bretagna.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Farthing",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-31-192",
+      "anno": 192,
+      "titolo": "L'uccisione di Commodo",
+      "testo": "A Roma l'imperatore Commodo viene strangolato in una congiura di palazzo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Commodo",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Andrea Vesalio",
+      "anno": 1514,
+      "chi": "medico fiammingo, fondatore dell'anatomia moderna",
+      "wiki": "Andrea Vesalio"
+    },
+    {
+      "nome": "Henri Matisse",
+      "anno": 1869,
+      "chi": "pittore francese",
+      "wiki": "Henri Matisse"
+    },
+    {
+      "nome": "Anthony Hopkins",
+      "anno": 1937,
+      "chi": "attore gallese",
+      "wiki": "Anthony Hopkins"
+    },
+    {
+      "nome": "Ben Kingsley",
+      "anno": 1943,
+      "chi": "attore britannico",
+      "wiki": "Ben Kingsley"
+    },
+    {
+      "nome": "Donna Summer",
+      "anno": 1948,
+      "chi": "cantante statunitense, regina della disco music",
+      "wiki": "Donna Summer"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Le finestre murate",
+      "testo": "In Inghilterra e Scozia si vedono ancora vecchie case con finestre murate: sono il ricordo della tassa sulle finestre, abolita solo nel 1851."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "Lenticchie e mezzanotte",
+      "testo": "In molte parti d'Italia a San Silvestro si mangiano le lenticchie, che per la loro forma ricordano piccole monete: sono un augurio di soldi per l'anno nuovo."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il Capodanno del 1° gennaio",
+      "testo": "Far cominciare l'anno il 1° gennaio non è sempre stato scontato: a Firenze e a Pisa, fino al Settecento, l'anno nuovo cominciava il 25 marzo, giorno dell'Annunciazione."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il genio è per l'uno per cento ispirazione e per il novantanove per cento traspirazione.",
+      "autore": "Thomas Edison",
+      "fonte": "intervista, 1903 circa"
+    },
+    {
+      "testo": "Chi fa festa a Capodanno fa festa tutto l'anno.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "La creatività richiede coraggio.",
+      "autore": "attribuita a Henri Matisse",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Pan e gaban – l'è bon dut l'an.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Pane e mantello sono buoni tutto l'anno.",
+      "spiegazione": "Le cose essenziali servono in ogni stagione: con pane e mantello si affronta qualunque anno.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Chisto è 'o munno: chi naveca e chi va a funno.",
+      "regione": "Campania",
+      "traduzione": "Questo è il mondo: c'è chi naviga e chi va a fondo.",
+      "spiegazione": "La fortuna non è uguale per tutti: c'è chi sale e chi scende, e il mondo va così.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

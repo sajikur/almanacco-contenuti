@@ -1,0 +1,185 @@
+{
+  "schema": 1,
+  "giorno": "12-22",
+  "santo": {
+    "nome": "Santa Francesca Saverio Cabrini",
+    "nota": "Nata a Sant'Angelo Lodigiano nel 1850, partì per l'America ad assistere gli emigrati italiani. Fu la prima cittadina degli Stati Uniti proclamata santa ed è la patrona degli emigranti.",
+    "altri": [
+      "San Flaviano di Montefiascone",
+      "San Felice II di Metz",
+      "Santi Demetrio, Onorato e Floro"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-22-1947",
+      "anno": 1947,
+      "titolo": "La Costituzione",
+      "testo": "L'Assemblea costituente approva la Costituzione della Repubblica italiana: entrerà in vigore il 1° gennaio 1948.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Costituzione della Repubblica Italiana",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia approva la legge da cui discendono tutte le altre."
+    },
+    {
+      "id": "12-22-1849",
+      "anno": 1849,
+      "titolo": "Davanti al plotone",
+      "testo": "A San Pietroburgo il giovane Dostoevskij e altri condannati vengono portati davanti al plotone d'esecuzione: all'ultimo istante arriva la grazia dello zar. Era una messinscena.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Fëdor Dostoevskij",
+      "tono": "storico",
+      "indizio": "Domani: uno scrittore russo è davanti al plotone d'esecuzione, ma il destino ha altri piani."
+    },
+    {
+      "id": "12-22-1971",
+      "anno": 1971,
+      "titolo": "Nasce Medici senza frontiere",
+      "testo": "A Parigi un gruppo di medici e giornalisti fonda Medici senza frontiere: nel 1999 riceverà il Nobel per la pace.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Medici Senza Frontiere",
+      "tono": "storico",
+      "indizio": "Domani: un gruppo di medici decide di andare dove c'è più bisogno, senza confini."
+    },
+    {
+      "id": "12-22-1989",
+      "anno": 1989,
+      "titolo": "Si riapre la Porta di Brandeburgo",
+      "testo": "A Berlino si riapre il passaggio della Porta di Brandeburgo, chiuso dal Muro per quasi trent'anni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Porta di Brandeburgo",
+      "tono": "storico",
+      "indizio": "Domani: a Berlino si riapre una porta chiusa da quasi trent'anni."
+    },
+    {
+      "id": "12-22-1979",
+      "anno": 1979,
+      "titolo": "Liberati De André e Dori Ghezzi",
+      "testo": "Dopo quattro mesi di sequestro in Sardegna vengono liberati Fabrizio De André e Dori Ghezzi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Fabrizio De André",
+      "tono": "storico"
+    },
+    {
+      "id": "12-22-1216",
+      "anno": 1216,
+      "titolo": "Nascono i Domenicani",
+      "testo": "Papa Onorio III approva l'ordine dei frati predicatori fondato da san Domenico di Guzmán.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Ordine dei frati predicatori",
+      "tono": "storico"
+    },
+    {
+      "id": "12-22-1894",
+      "anno": 1894,
+      "titolo": "Condannato Dreyfus",
+      "testo": "A Parigi il capitano Alfred Dreyfus viene condannato ingiustamente per tradimento: il caso dividerà la Francia per anni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Affare Dreyfus",
+      "tono": "storico"
+    },
+    {
+      "id": "12-22-1885",
+      "anno": 1885,
+      "titolo": "Il primo primo ministro",
+      "testo": "Itō Hirobumi diventa il primo capo del governo del Giappone moderno.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Itō Hirobumi",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Giacomo Puccini",
+      "anno": 1858,
+      "chi": "compositore lucchese di Bohème, Tosca e Turandot",
+      "wiki": "Giacomo Puccini"
+    },
+    {
+      "nome": "Srinivasa Ramanujan",
+      "anno": 1887,
+      "chi": "matematico indiano autodidatta",
+      "wiki": "Srinivasa Ramanujan"
+    },
+    {
+      "nome": "Robin e Maurice Gibb",
+      "anno": 1949,
+      "chi": "gemelli dei Bee Gees",
+      "wiki": "Robin e Maurice Gibb"
+    },
+    {
+      "nome": "Ralph Fiennes",
+      "anno": 1962,
+      "chi": "attore britannico",
+      "wiki": "Ralph Fiennes"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Firmata cinque giorni dopo",
+      "testo": "La Costituzione fu approvata il 22 dicembre ma firmata il 27 da Enrico De Nicola, Umberto Terracini e Alcide De Gasperi. Entrò in vigore il 1° gennaio 1948."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Cinque generazioni di musicisti",
+      "testo": "Giacomo Puccini, nato oggi, veniva da una famiglia di Lucca dove si faceva musica da cinque generazioni: tutti si aspettavano che diventasse organista del duomo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La lettera al fratello",
+      "testo": "Poche ore dopo la finta esecuzione, Dostoevskij scrisse al fratello Michail che la vita è un dono e che ogni minuto potrebbe essere un'eternità di felicità. Quella mattina tornò in molti suoi romanzi, a cominciare dall'Idiota."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "L'Italia è una Repubblica democratica, fondata sul lavoro.",
+      "autore": "Costituzione italiana",
+      "fonte": "articolo 1"
+    },
+    {
+      "testo": "Nessun dorma!",
+      "autore": "Giuseppe Adami e Renato Simoni, per Giacomo Puccini",
+      "fonte": "Turandot"
+    },
+    {
+      "testo": "Sotto la neve pane, sotto la pioggia fame.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Amor xe orbo.",
+      "regione": "Veneto",
+      "traduzione": "L'amore è cieco.",
+      "spiegazione": "Chi è innamorato non vede i difetti dell'altro.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Bestidu, su bastone paret unu barone.",
+      "regione": "Sardegna",
+      "traduzione": "Vestito, anche un bastone sembra un barone.",
+      "spiegazione": "L'abito fa molto: con il vestito giusto chiunque fa la sua figura.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

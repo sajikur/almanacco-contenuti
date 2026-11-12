@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "giorno": "12-25",
+  "santo": {
+    "nome": "Natale del Signore",
+    "nota": "La festa della nascita di Gesù. È anche la festa di sant'Anastasia di Sirmio, ricordata nella seconda messa di Natale.",
+    "altri": [
+      "Sant'Anastasia di Sirmio",
+      "Sant'Eugenia di Roma",
+      "Sant'Alberto Chmielowski"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-25-1223",
+      "anno": 1223,
+      "titolo": "Il primo presepe",
+      "testo": "A Greccio, vicino a Rieti, san Francesco d'Assisi fa preparare in una grotta una mangiatoia con un bue e un asino veri, e vi fa celebrare la messa di Natale: nasce la tradizione del presepe.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Presepe di Greccio",
+      "tono": "leggero",
+      "indizio": "Domani: in una grotta dell'Appennino un frate prepara una mangiatoia con un bue e un asinello."
+    },
+    {
+      "id": "12-25-800",
+      "anno": 800,
+      "titolo": "Carlo Magno imperatore",
+      "testo": "Nella basilica di San Pietro papa Leone III incorona Carlo Magno imperatore dei Romani.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Incoronazione di Carlo Magno",
+      "tono": "storico",
+      "indizio": "Domani: a Roma, la notte di Natale, un re dei Franchi diventa imperatore."
+    },
+    {
+      "id": "12-25-1130",
+      "anno": 1130,
+      "titolo": "Nasce il Regno di Sicilia",
+      "testo": "Nella cattedrale di Palermo Ruggero II d'Altavilla viene incoronato re di Sicilia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Ruggero II di Sicilia",
+      "tono": "storico",
+      "indizio": "Domani: a Palermo un normanno diventa re di un nuovo regno."
+    },
+    {
+      "id": "12-25-1776",
+      "anno": 1776,
+      "titolo": "Washington attraversa il Delaware",
+      "testo": "Nella notte di Natale George Washington attraversa con le sue truppe il fiume Delaware gelato, per attaccare di sorpresa le truppe nemiche a Trenton.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Traversata del Delaware",
+      "tono": "storico",
+      "indizio": "Domani: un generale attraversa un fiume gelato nella notte di Natale."
+    },
+    {
+      "id": "12-25-1991",
+      "anno": 1991,
+      "titolo": "Gorbačëv si dimette",
+      "testo": "Michail Gorbačëv lascia la presidenza dell'Unione Sovietica: quella sera la bandiera rossa viene ammainata dal Cremlino.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Dissoluzione dell'Unione Sovietica",
+      "tono": "storico",
+      "indizio": "Domani: al Cremlino si ammaina una bandiera che sventolava da settant'anni."
+    },
+    {
+      "id": "12-25-2004",
+      "anno": 2004,
+      "titolo": "Huygens si stacca",
+      "testo": "La sonda europea Huygens si separa dalla Cassini e punta verso Titano, la luna di Saturno, dove atterrerà tre settimane dopo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Huygens (sonda)",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda europea parte verso la luna più misteriosa di Saturno."
+    },
+    {
+      "id": "12-25-274",
+      "anno": 274,
+      "titolo": "Il Sole invitto",
+      "testo": "Secondo la tradizione l'imperatore Aureliano fissa a oggi la festa del Sole invitto: la data verrà poi adottata per il Natale cristiano.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Sol Invictus",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-25-1066",
+      "anno": 1066,
+      "titolo": "Guglielmo il Conquistatore",
+      "testo": "Nell'abbazia di Westminster viene incoronato re d'Inghilterra Guglielmo di Normandia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Guglielmo il Conquistatore",
+      "tono": "storico"
+    },
+    {
+      "id": "12-25-1492",
+      "anno": 1492,
+      "titolo": "La Santa María si arena",
+      "testo": "Durante il primo viaggio di Colombo la nave Santa María si incaglia sulla costa di Hispaniola: con il suo legno verrà costruito un forte.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Santa María (nave)",
+      "tono": "storico"
+    },
+    {
+      "id": "12-25-1963",
+      "anno": 1963,
+      "titolo": "La spada nella roccia",
+      "testo": "Esce negli Stati Uniti La spada nella roccia, il film Disney sulla giovinezza di re Artù.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "La spada nella roccia (film)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-25-1926",
+      "anno": 1926,
+      "titolo": "Hirohito imperatore",
+      "testo": "Alla morte del padre, Hirohito diventa imperatore del Giappone: regnerà per sessantadue anni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Hirohito",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Isaac Newton",
+      "anno": 1642,
+      "chi": "fisico e matematico inglese, nato a Natale secondo il calendario del tempo",
+      "wiki": "Isaac Newton"
+    },
+    {
+      "nome": "Clara Barton",
+      "anno": 1821,
+      "chi": "infermiera, fondatrice della Croce Rossa americana",
+      "wiki": "Clara Barton"
+    },
+    {
+      "nome": "Humphrey Bogart",
+      "anno": 1899,
+      "chi": "attore statunitense",
+      "wiki": "Humphrey Bogart"
+    },
+    {
+      "nome": "Anwar al-Sadat",
+      "anno": 1918,
+      "chi": "presidente dell'Egitto, premio Nobel per la pace",
+      "wiki": "Anwar al-Sadat"
+    },
+    {
+      "nome": "Annie Lennox",
+      "anno": 1954,
+      "chi": "cantante scozzese",
+      "wiki": "Annie Lennox"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Un bue e un asino veri",
+      "testo": "A Greccio non c'erano statuine: Francesco volle una vera mangiatoia con il fieno, un bue e un asino, per far vedere a tutti con gli occhi la povertà di Betlemme."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Christmas, la messa di Cristo",
+      "testo": "La parola inglese Christmas viene da Cristes mæsse, «messa di Cristo»: compare per la prima volta in un testo del 1038."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Newton, nato a Natale o no?",
+      "testo": "Isaac Newton nacque il 25 dicembre 1642 secondo il calendario giuliano allora in uso in Inghilterra. Secondo il nostro calendario gregoriano era già il 4 gennaio 1643."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Un bambino è nato per noi, ci è stato dato un figlio.",
+      "autore": "Isaia",
+      "fonte": "9,5"
+    },
+    {
+      "testo": "Se ho visto più lontano è perché stavo sulle spalle di giganti.",
+      "autore": "Isaac Newton",
+      "fonte": "lettera a Robert Hooke, 1675"
+    },
+    {
+      "testo": "Onorerò il Natale nel mio cuore e cercherò di custodirlo tutto l'anno.",
+      "autore": "Charles Dickens",
+      "fonte": "Canto di Natale"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Cuarp passūt, anime consolade.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Corpo sazio, anima consolata.",
+      "spiegazione": "Dopo un buon pranzo anche lo spirito sta meglio.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Chi hàve mamma nun chiàgne e chi tène figlii tène vusciglii.",
+      "regione": "Basilicata",
+      "traduzione": "Chi ha la mamma non piange, e chi ha figli ha alberi giovani.",
+      "spiegazione": "La famiglia è conforto e speranza per il futuro.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

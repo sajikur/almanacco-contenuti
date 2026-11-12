@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "giorno": "12-26",
+  "santo": {
+    "nome": "Santo Stefano",
+    "nota": "Diacono di Gerusalemme, il primo martire cristiano, lapidato secondo gli Atti degli Apostoli. In Italia è giorno di festa, dedicato alle visite e agli avanzi del pranzo di Natale.",
+    "altri": [
+      "San Dionisio papa",
+      "San Zenone di Maiuma",
+      "Santa Vicenta María López y Vicuña"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Boxing Day (Regno Unito)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-26-1898",
+      "anno": 1898,
+      "titolo": "Il radio",
+      "testo": "Marie e Pierre Curie annunciano all'Accademia delle scienze di Parigi la scoperta di un nuovo elemento, molto radioattivo: lo chiamano radio.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Radio (elemento chimico)",
+      "tono": "leggero",
+      "indizio": "Domani: due scienziati di Parigi annunciano un elemento che brilla al buio."
+    },
+    {
+      "id": "12-26-1831",
+      "anno": 1831,
+      "titolo": "La Norma alla Scala",
+      "testo": "Alla Scala di Milano va in scena per la prima volta la Norma di Vincenzo Bellini, quella dell'aria Casta diva.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Norma (opera)",
+      "tono": "leggero",
+      "indizio": "Domani: alla Scala debutta un'opera che all'inizio fu un fiasco, e poi un capolavoro."
+    },
+    {
+      "id": "12-26-1908",
+      "anno": 1908,
+      "titolo": "Jack Johnson campione",
+      "testo": "A Sydney Jack Johnson batte Tommy Burns e diventa il primo campione del mondo afroamericano dei pesi massimi.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Jack Johnson (pugile)",
+      "tono": "storico",
+      "indizio": "Domani: per la prima volta un pugile afroamericano diventa campione dei pesi massimi."
+    },
+    {
+      "id": "12-26-1933",
+      "anno": 1933,
+      "titolo": "Il brevetto della radio FM",
+      "testo": "Edwin Armstrong ottiene il brevetto per la modulazione di frequenza, la radio FM, molto meno disturbata delle onde medie.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Edwin Howard Armstrong",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore brevetta un modo per ascoltare la radio senza fruscii."
+    },
+    {
+      "id": "12-26-1982",
+      "anno": 1982,
+      "titolo": "Il computer uomo dell'anno",
+      "testo": "La rivista Time sceglie come «persona dell'anno» non un essere umano, ma il personal computer, «macchina dell'anno».",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Persona dell'anno",
+      "tono": "leggero",
+      "indizio": "Domani: una rivista americana sceglie come personaggio dell'anno una macchina."
+    },
+    {
+      "id": "12-26-1606",
+      "anno": 1606,
+      "titolo": "Re Lear a corte",
+      "testo": "Il Re Lear di Shakespeare viene rappresentato davanti a re Giacomo I.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Re Lear",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-26-1776",
+      "anno": 1776,
+      "titolo": "La battaglia di Trenton",
+      "testo": "Dopo la traversata del Delaware, Washington sorprende e sconfigge le truppe assoldate dagli inglesi a Trenton.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Trenton",
+      "tono": "storico"
+    },
+    {
+      "id": "12-26-1991",
+      "anno": 1991,
+      "titolo": "L'URSS non esiste più",
+      "testo": "Il Soviet Supremo prende atto formalmente della fine dell'Unione Sovietica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Dissoluzione dell'Unione Sovietica",
+      "tono": "storico"
+    },
+    {
+      "id": "12-26-1973",
+      "anno": 1973,
+      "titolo": "La cometa che deluse",
+      "testo": "La cometa Kohoutek, annunciata come «la cometa del secolo», passa vicino al Sole ma resta poco visibile a occhio nudo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Cometa Kohoutek",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-26-1925",
+      "anno": 1925,
+      "titolo": "La Turchia cambia calendario",
+      "testo": "La Turchia adotta il calendario gregoriano, a partire dal 1926.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Calendario gregoriano",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-26-1662",
+      "anno": 1662,
+      "titolo": "La scuola delle mogli",
+      "testo": "A Parigi va in scena per la prima volta La scuola delle mogli di Molière.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "La scuola delle mogli",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-26-2004",
+      "anno": 2004,
+      "titolo": "Lo tsunami dell'Oceano Indiano",
+      "testo": "Un terremoto di magnitudo 9,1 al largo di Sumatra genera uno tsunami che colpisce le coste di molti Paesi dell'Oceano Indiano.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Terremoto e maremoto dell'Oceano Indiano del 2004",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Federico II di Svevia",
+      "anno": 1194,
+      "chi": "imperatore, «stupor mundi», nato a Jesi in una tenda sulla piazza",
+      "wiki": "Federico II di Svevia"
+    },
+    {
+      "nome": "Charles Babbage",
+      "anno": 1791,
+      "chi": "matematico inglese, padre del calcolatore meccanico",
+      "wiki": "Charles Babbage"
+    },
+    {
+      "nome": "Henry Miller",
+      "anno": 1891,
+      "chi": "scrittore statunitense",
+      "wiki": "Henry Miller"
+    },
+    {
+      "nome": "Richard Widmark",
+      "anno": 1914,
+      "chi": "attore statunitense",
+      "wiki": "Richard Widmark"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Quaderni ancora radioattivi",
+      "testo": "I quaderni di laboratorio di Marie Curie sono ancora radioattivi e lo resteranno per secoli: alla Biblioteca nazionale di Francia si consultano solo con indumenti protettivi."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Fiasco, fiasco, solenne fiasco",
+      "testo": "La prima della Norma andò male, e Bellini scrisse a un amico parlando di «fiasco, solenne fiasco». Dalle repliche successive diventò uno dei titoli più amati del melodramma."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "La macchina di Babbage funziona",
+      "testo": "Charles Babbage, nato oggi, progettò una macchina da calcolo che non riuscì mai a completare. Nel 1991 il Museo della scienza di Londra la costruì seguendo i suoi disegni: funziona perfettamente."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Casta diva, che inargenti queste sacre antiche piante.",
+      "autore": "Felice Romani, per Vincenzo Bellini",
+      "fonte": "Norma"
+    },
+    {
+      "testo": "Nella vita non c'è nulla da temere, solo da capire.",
+      "autore": "attribuita a Marie Curie",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Passata la festa, gabbato lo santo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Pani tostu mantene casa.",
+      "regione": "Calabria",
+      "traduzione": "Il pane duro mantiene la casa.",
+      "spiegazione": "La parsimonia, anche nelle piccole cose, tiene in piedi una famiglia.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "Chi ha fatto la roba, può far la persona.",
+      "regione": "Toscana",
+      "traduzione": "Chi ha fatto il suo lavoro può fare la persona.",
+      "spiegazione": "Chi ha compiuto il proprio dovere ha diritto a riposarsi e godersi la vita.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

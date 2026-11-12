@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "giorno": "12-29",
+  "santo": {
+    "nome": "San Tommaso Becket",
+    "nota": "Arcivescovo di Canterbury, amico e poi avversario del re Enrico II, fu ucciso nella sua cattedrale da quattro cavalieri. Divenne il santo più venerato d'Inghilterra.",
+    "altri": [
+      "San Davide re",
+      "San Trofimo di Arles",
+      "San Martiniano di Milano"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno dell'indipendenza (Mongolia)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-29-1860",
+      "anno": 1860,
+      "titolo": "La HMS Warrior",
+      "testo": "Viene varata la HMS Warrior, la prima corazzata britannica con lo scafo in ferro: rende di colpo antiquate tutte le navi in legno.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "HMS Warrior (1860)",
+      "tono": "leggero",
+      "indizio": "Domani: in Inghilterra scende in mare una nave che rende vecchie tutte le altre."
+    },
+    {
+      "id": "12-29-1911",
+      "anno": 1911,
+      "titolo": "Sun Yat-sen presidente",
+      "testo": "Dopo la caduta della dinastia Qing, Sun Yat-sen viene eletto presidente provvisorio della Repubblica di Cina.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Sun Yat-sen",
+      "tono": "storico",
+      "indizio": "Domani: la Cina, dopo duemila anni di imperatori, si dà un presidente."
+    },
+    {
+      "id": "12-29-1989",
+      "anno": 1989,
+      "titolo": "Havel presidente",
+      "testo": "Václav Havel, drammaturgo, dissidente e più volte in carcere, viene eletto presidente della Cecoslovacchia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Václav Havel",
+      "tono": "storico",
+      "indizio": "Domani: un drammaturgo che era stato in carcere diventa presidente."
+    },
+    {
+      "id": "12-29-1934",
+      "anno": 1934,
+      "titolo": "Basket al Madison Square Garden",
+      "testo": "Per la prima volta il basket universitario arriva al Madison Square Garden di New York: inizia l'epoca del basket come grande spettacolo.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Madison Square Garden",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-29-1949",
+      "anno": 1949,
+      "titolo": "La televisione UHF",
+      "testo": "Una stazione sperimentale di Bridgeport, nel Connecticut, comincia a trasmettere ogni giorno sulle frequenze UHF, quelle che usiamo ancora oggi.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Ultra high frequency",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-29-1503",
+      "anno": 1503,
+      "titolo": "La battaglia del Garigliano",
+      "testo": "Gli spagnoli di Consalvo di Cordova sconfiggono i francesi sul Garigliano: il Regno di Napoli passa alla Spagna per due secoli.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia del Garigliano (1503)",
+      "tono": "storico"
+    },
+    {
+      "id": "12-29-1937",
+      "anno": 1937,
+      "titolo": "Nasce l'Irlanda",
+      "testo": "Entra in vigore la nuova Costituzione: lo Stato Libero d'Irlanda diventa semplicemente Irlanda, in gaelico Éire.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Costituzione dell'Irlanda",
+      "tono": "storico"
+    },
+    {
+      "id": "12-29-1845",
+      "anno": 1845,
+      "titolo": "Il Texas",
+      "testo": "Il Texas entra negli Stati Uniti come ventottesimo Stato.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Texas",
+      "tono": "storico"
+    },
+    {
+      "id": "12-29-1996",
+      "anno": 1996,
+      "titolo": "La pace in Guatemala",
+      "testo": "Un accordo firmato a Città del Guatemala chiude una guerra civile durata trentasei anni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Guerra civile in Guatemala",
+      "tono": "storico"
+    },
+    {
+      "id": "12-29-1964",
+      "anno": 1964,
+      "titolo": "Il giuramento di Saragat",
+      "testo": "Giuseppe Saragat giura davanti alle Camere riunite come quinto presidente della Repubblica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Giuseppe Saragat",
+      "tono": "storico"
+    },
+    {
+      "id": "12-29-1170",
+      "anno": 1170,
+      "titolo": "L'uccisione di Becket",
+      "testo": "Quattro cavalieri del re Enrico II uccidono l'arcivescovo Tommaso Becket nella cattedrale di Canterbury.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Thomas Becket",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Madame de Pompadour",
+      "anno": 1721,
+      "chi": "favorita di Luigi XV e mecenate",
+      "wiki": "Madame de Pompadour"
+    },
+    {
+      "nome": "Charles Goodyear",
+      "anno": 1800,
+      "chi": "inventore statunitense della gomma vulcanizzata",
+      "wiki": "Charles Goodyear"
+    },
+    {
+      "nome": "William Gladstone",
+      "anno": 1809,
+      "chi": "statista britannico, quattro volte primo ministro",
+      "wiki": "William Gladstone"
+    },
+    {
+      "nome": "Pablo Casals",
+      "anno": 1876,
+      "chi": "violoncellista catalano",
+      "wiki": "Pablo Casals"
+    },
+    {
+      "nome": "Jude Law",
+      "anno": 1972,
+      "chi": "attore britannico",
+      "wiki": "Jude Law"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Il re in penitenza",
+      "testo": "Quattro anni dopo l'uccisione di Becket, Enrico II andò a Canterbury in penitenza, a piedi nudi, e si fece frustare dai monaci davanti alla tomba dell'arcivescovo."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "La gomma su una stufa",
+      "testo": "Si racconta che Charles Goodyear, nato oggi, scoprì la vulcanizzazione per caso, facendo cadere su una stufa calda un impasto di gomma e zolfo. Morì pieno di debiti; la famosa azienda di pneumatici porta il suo nome ma non l'ha fondata lui."
+    },
+    {
+      "categoria": "musica",
+      "titolo": "Le suite ritrovate",
+      "testo": "A tredici anni Pablo Casals trovò in una bottega di Barcellona le Suite per violoncello di Bach, quasi dimenticate. Le studiò per dodici anni prima di suonarle in pubblico."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La speranza non è la convinzione che qualcosa andrà bene, ma la certezza che qualcosa ha senso, comunque vada a finire.",
+      "autore": "Václav Havel",
+      "fonte": "Interrogatorio a distanza, 1986"
+    },
+    {
+      "testo": "Chi va piano va sano e va lontano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Il mattino ha l'oro in bocca.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "'A quattara ca va all'acqua, o si rumpi o si ciacca.",
+      "regione": "Sicilia",
+      "traduzione": "La brocca che va spesso all'acqua, o si rompe o si incrina.",
+      "spiegazione": "Chi si espone continuamente al pericolo prima o poi ne paga le conseguenze.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "Cu' joca sulu no perdi mai.",
+      "regione": "Calabria",
+      "traduzione": "Chi gioca da solo non perde mai.",
+      "spiegazione": "Chi fa tutto da sé non rischia sconfitte, ma nemmeno conosce il confronto con gli altri.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

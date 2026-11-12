@@ -1,0 +1,241 @@
+{
+  "schema": 1,
+  "giorno": "12-28",
+  "santo": {
+    "nome": "Santi Martiri Innocenti",
+    "nota": "Ricordano i bambini di Betlemme uccisi per ordine di Erode, secondo il Vangelo di Matteo. Nei Paesi di lingua spagnola è il giorno degli scherzi, come da noi il primo aprile.",
+    "altri": [
+      "Santa Caterina Volpicelli",
+      "San Gaspare del Bufalo",
+      "Sant'Antonio di Lerino"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Día de los Santos Inocentes, giorno degli scherzi (Spagna e America Latina)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "12-28-1895",
+      "anno": 1895,
+      "titolo": "La prima proiezione",
+      "testo": "Al Grand Café di Parigi i fratelli Lumière organizzano la prima proiezione cinematografica a pagamento: dieci brevi film, a cominciare dall'uscita degli operai dalla loro fabbrica.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Fratelli Lumière",
+      "tono": "leggero",
+      "indizio": "Domani: a Parigi si paga per la prima volta un biglietto per vedere immagini in movimento."
+    },
+    {
+      "id": "12-28-1895b",
+      "anno": 1895,
+      "titolo": "I raggi X",
+      "testo": "Wilhelm Röntgen consegna alla Società fisico-medica di Würzburg la comunicazione sulla scoperta di «una nuova specie di raggi»: li chiama raggi X.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Raggi X",
+      "tono": "leggero",
+      "indizio": "Domani: un fisico tedesco annuncia raggi che attraversano il corpo umano."
+    },
+    {
+      "id": "12-28-1897",
+      "anno": 1897,
+      "titolo": "Cyrano de Bergerac",
+      "testo": "Al Théâtre de la Porte Saint-Martin di Parigi debutta Cyrano de Bergerac di Edmond Rostand: il pubblico applaude per un'ora.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Cyrano de Bergerac (Rostand)",
+      "tono": "leggero",
+      "indizio": "Domani: a Parigi debutta il poeta spadaccino con il naso più famoso del teatro."
+    },
+    {
+      "id": "12-28-1943",
+      "anno": 1943,
+      "titolo": "La promessa nelle catacombe",
+      "testo": "Mentre lo scautismo è ancora vietato, le prime guide italiane pronunciano la loro promessa in segreto, nelle catacombe di Priscilla a Roma: nasce l'Associazione guide italiane.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Associazione Guide Italiane",
+      "tono": "storico",
+      "indizio": "Domani: alcune ragazze fanno una promessa segreta sottoterra, a Roma."
+    },
+    {
+      "id": "12-28-2005",
+      "anno": 2005,
+      "titolo": "Il primo satellite Galileo",
+      "testo": "Da Bajkonur parte GIOVE-A, il primo satellite di prova di Galileo, il sistema di navigazione europeo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Sistema di posizionamento Galileo",
+      "tono": "leggero",
+      "indizio": "Domani: l'Europa lancia il primo satellite del suo navigatore."
+    },
+    {
+      "id": "12-28-1836",
+      "anno": 1836,
+      "titolo": "Nasce Adelaide",
+      "testo": "Viene proclamata la colonia dell'Australia Meridionale; la sua capitale sarà Adelaide, che porta il nome della regina.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Adelaide (Australia)",
+      "tono": "storico"
+    },
+    {
+      "id": "12-28-1964",
+      "anno": 1964,
+      "titolo": "Saragat presidente",
+      "testo": "Al ventunesimo scrutinio Giuseppe Saragat viene eletto quinto presidente della Repubblica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Giuseppe Saragat",
+      "tono": "storico"
+    },
+    {
+      "id": "12-28-1478",
+      "anno": 1478,
+      "titolo": "La battaglia di Giornico",
+      "testo": "Nella valle Leventina, nell'attuale Canton Ticino, i confederati svizzeri sconfiggono le truppe del duca di Milano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Battaglia di Giornico",
+      "tono": "storico"
+    },
+    {
+      "id": "12-28-1065",
+      "anno": 1065,
+      "titolo": "Westminster",
+      "testo": "Viene consacrata l'abbazia di Westminster, dove da allora vengono incoronati i re d'Inghilterra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Abbazia di Westminster",
+      "tono": "storico"
+    },
+    {
+      "id": "12-28-1846",
+      "anno": 1846,
+      "titolo": "L'Iowa",
+      "testo": "L'Iowa diventa il ventinovesimo Stato degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Iowa",
+      "tono": "storico"
+    },
+    {
+      "id": "12-28-1908",
+      "anno": 1908,
+      "titolo": "Il terremoto di Messina",
+      "testo": "Un terremoto e un maremoto distruggono Messina e Reggio Calabria.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Terremoto di Messina del 1908",
+      "tono": "tragico"
+    },
+    {
+      "id": "12-28-1943b",
+      "anno": 1943,
+      "titolo": "I fratelli Cervi",
+      "testo": "I sette fratelli Cervi vengono fucilati dai fascisti a Reggio Emilia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Fratelli Cervi",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Woodrow Wilson",
+      "anno": 1856,
+      "chi": "presidente degli Stati Uniti, premio Nobel per la pace",
+      "wiki": "Woodrow Wilson"
+    },
+    {
+      "nome": "Stan Lee",
+      "anno": 1922,
+      "chi": "sceneggiatore di fumetti, creatore di tanti supereroi",
+      "wiki": "Stan Lee"
+    },
+    {
+      "nome": "Maggie Smith",
+      "anno": 1934,
+      "chi": "attrice britannica",
+      "wiki": "Maggie Smith"
+    },
+    {
+      "nome": "Denzel Washington",
+      "anno": 1954,
+      "chi": "attore statunitense",
+      "wiki": "Denzel Washington"
+    },
+    {
+      "nome": "Linus Torvalds",
+      "anno": 1969,
+      "chi": "informatico finlandese, creatore di Linux",
+      "wiki": "Linus Torvalds"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il treno della paura, una leggenda",
+      "testo": "Si racconta che alla prima dei Lumière il pubblico fuggì davanti al treno che arrivava in stazione. In realtà quel film non era nemmeno in programma, e la fuga è con ogni probabilità una leggenda."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "La mano con l'anello",
+      "testo": "Una delle prime radiografie di Röntgen mostra le ossa della mano della moglie Anna Bertha, con l'anello al dito. Si dice che lei, vedendola, abbia esclamato di aver visto la propria morte."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Un hobby, niente di serio",
+      "testo": "Quando annunciò il suo sistema operativo, Linus Torvalds, nato oggi, lo descrisse come un hobby, niente di grande o professionale. Oggi Linux fa girare la maggior parte dei server e dei telefoni Android."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "È molto più bello quando è inutile!",
+      "autore": "Edmond Rostand",
+      "fonte": "Cyrano de Bergerac"
+    },
+    {
+      "testo": "Da un grande potere derivano grandi responsabilità.",
+      "autore": "Stan Lee",
+      "fonte": "Amazing Fantasy n. 15, 1962"
+    },
+    {
+      "testo": "Il cinema è un'invenzione senza avvenire.",
+      "autore": "attribuita ad Antoine Lumière",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "R' gran', s' nun s' semin', nun nasc'; l'omin' nun s'impar', s' nun patisc'.",
+      "regione": "Basilicata",
+      "traduzione": "Il grano, se non viene seminato, non nasce; l'uomo non impara, se non soffre.",
+      "spiegazione": "Le difficoltà sono la scuola della vita: senza fatica non si cresce.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "L'ammore fa passà 'o tiempo e 'o tiempo fa passà l'ammore.",
+      "regione": "Campania",
+      "traduzione": "L'amore fa passare il tempo, e il tempo fa passare l'amore.",
+      "spiegazione": "Con chi si ama le ore volano, ma gli anni possono spegnere anche le passioni più forti.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,231 @@
+{
+  "schema": 1,
+  "giorno": "12-27",
+  "santo": {
+    "nome": "San Giovanni apostolo ed evangelista",
+    "nota": "Il più giovane dei dodici apostoli, il «discepolo amato». La tradizione gli attribuisce il quarto Vangelo e l'Apocalisse, e lo vuole morto a Efeso in tarda età.",
+    "altri": [
+      "Santa Fabiola di Roma",
+      "Santa Nicarete di Costantinopoli",
+      "Santi Teodoro e Teofane"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-27-1831",
+      "anno": 1831,
+      "titolo": "Darwin salpa sul Beagle",
+      "testo": "Da Plymouth parte il brigantino HMS Beagle con a bordo il giovane Charles Darwin: un viaggio di cinque anni che lo porterà, fra l'altro, alle Galápagos.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Viaggio del Beagle",
+      "tono": "leggero",
+      "indizio": "Domani: un giovane naturalista sale su una nave per un giro del mondo che cambierà la biologia."
+    },
+    {
+      "id": "12-27-1908",
+      "anno": 1908,
+      "titolo": "Esce il Corriere dei Piccoli",
+      "testo": "Esce il primo numero del Corriere dei Piccoli, il settimanale che farà conoscere ai bambini italiani il Signor Bonaventura e tanti altri personaggi.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Corriere dei Piccoli",
+      "tono": "leggero",
+      "indizio": "Domani: esce un giornalino che i bambini italiani leggeranno per novant'anni."
+    },
+    {
+      "id": "12-27-1904",
+      "anno": 1904,
+      "titolo": "Peter Pan",
+      "testo": "A Londra debutta Peter Pan, la commedia di James Barrie sul bambino che non voleva crescere.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Peter Pan",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra va in scena un bambino che non vuole crescere."
+    },
+    {
+      "id": "12-27-1612",
+      "anno": 1612,
+      "titolo": "Galileo vede Nettuno",
+      "testo": "Osservando Giove, Galileo annota una stella vicina che non si trova sulle mappe: era Nettuno, che sarà scoperto ufficialmente solo nel 1846.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Nettuno (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: Galileo vede un pianeta senza accorgersene."
+    },
+    {
+      "id": "12-27-1947",
+      "anno": 1947,
+      "titolo": "Promulgata la Costituzione",
+      "testo": "Enrico De Nicola firma e promulga la Costituzione della Repubblica italiana, approvata cinque giorni prima.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Costituzione della Repubblica Italiana",
+      "tono": "storico",
+      "indizio": "Domani: il capo dello Stato firma la legge fondamentale della Repubblica."
+    },
+    {
+      "id": "12-27-1963",
+      "anno": 1963,
+      "titolo": "Nasce il Molise",
+      "testo": "Una legge costituzionale separa il Molise dagli Abruzzi: diventa la ventesima regione italiana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Molise",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia si trova con una regione in più."
+    },
+    {
+      "id": "12-27-1968",
+      "anno": 1968,
+      "titolo": "Torna l'Apollo 8",
+      "testo": "La capsula dell'Apollo 8 ammara nel Pacifico: Borman, Lovell e Anders sono i primi uomini tornati da un viaggio attorno alla Luna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Apollo 8",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-27-1932",
+      "anno": 1932,
+      "titolo": "Il Radio City Music Hall",
+      "testo": "A New York apre il Radio City Music Hall, allora il più grande teatro al chiuso del mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Radio City Music Hall",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-27-1903",
+      "anno": 1903,
+      "titolo": "Finita Madama Butterfly",
+      "testo": "Giacomo Puccini mette la parola fine alla partitura di Madama Butterfly.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Madama Butterfly",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-27-1962",
+      "anno": 1962,
+      "titolo": "Il reattore di Latina",
+      "testo": "Diventa critico il reattore della centrale di Latina, la prima centrale nucleare commerciale italiana.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Centrale elettronucleare di Latina",
+      "tono": "storico"
+    },
+    {
+      "id": "12-27-1978",
+      "anno": 1978,
+      "titolo": "La Spagna democratica",
+      "testo": "Il re Juan Carlos firma la nuova Costituzione: la Spagna diventa una monarchia parlamentare.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Costituzione spagnola del 1978",
+      "tono": "storico"
+    },
+    {
+      "id": "12-27-1985",
+      "anno": 1985,
+      "titolo": "Gli attentati di Fiumicino e Vienna",
+      "testo": "Un commando palestinese attacca i banchi della compagnia israeliana negli aeroporti di Roma e Vienna.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Attentati di Roma e Vienna del 1985",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Giovanni Keplero",
+      "anno": 1571,
+      "chi": "astronomo tedesco, scoprì le leggi dei pianeti",
+      "wiki": "Giovanni Keplero"
+    },
+    {
+      "nome": "Louis Pasteur",
+      "anno": 1822,
+      "chi": "chimico e biologo francese",
+      "wiki": "Louis Pasteur"
+    },
+    {
+      "nome": "Marlene Dietrich",
+      "anno": 1901,
+      "chi": "attrice e cantante tedesca",
+      "wiki": "Marlene Dietrich"
+    },
+    {
+      "nome": "Gérard Depardieu",
+      "anno": 1948,
+      "chi": "attore francese",
+      "wiki": "Gérard Depardieu"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Due date per Nettuno",
+      "testo": "Galileo osservò Nettuno a fine dicembre 1612 e di nuovo a gennaio, e annotò perfino che sembrava spostarsi. Ma lo prese per una stella fissa: la scoperta toccò ad altri, più di due secoli dopo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il Signor Bonaventura",
+      "testo": "Il Signor Bonaventura arrivò sul Corriere dei Piccoli solo nel 1917: era un'invenzione di Sergio Tofano, che finiva ogni storia vincendo un milione."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "I diritti a un ospedale",
+      "testo": "James Barrie donò i diritti di Peter Pan al Great Ormond Street Hospital, l'ospedale dei bambini di Londra, che ne beneficia ancora oggi."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Nel campo dell'osservazione la fortuna favorisce solo le menti preparate.",
+      "autore": "Louis Pasteur",
+      "fonte": "lezione all'Università di Lilla, 1854"
+    },
+    {
+      "testo": "Ogni volta che un bambino dice «Io non credo nelle fate», da qualche parte c'è una fatina che cade morta.",
+      "autore": "James Barrie",
+      "fonte": "Peter Pan"
+    },
+    {
+      "testo": "Natale con i tuoi, Pasqua con chi vuoi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi à di çeppi pêu fä buscagge.",
+      "regione": "Liguria",
+      "traduzione": "Chi ha dei ceppi può fare delle schegge.",
+      "spiegazione": "Chi possiede molto può anche sperperare tutto e restare con ben poco.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Dicciu antigu non errat.",
+      "regione": "Sardegna",
+      "traduzione": "Detto antico non sbaglia.",
+      "spiegazione": "I proverbi hanno dalla loro l'esperienza di molte generazioni.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,224 @@
+{
+  "schema": 1,
+  "giorno": "12-30",
+  "santo": {
+    "nome": "San Ruggero di Canne",
+    "nota": "Vescovo di Canne, in Puglia, nel XII secolo. Le sue reliquie sono a Barletta, di cui è patrono.",
+    "altri": [
+      "San Felice I papa",
+      "Sant'Eugenio di Milano",
+      "San Raniero dell'Aquila"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "12-30-2011",
+      "anno": 2011,
+      "titolo": "Samoa salta un giorno",
+      "testo": "Per allinearsi con Australia e Nuova Zelanda, Samoa e Tokelau spostano la linea del cambiamento di data: dal 29 dicembre si passa direttamente al 31. Il 30 dicembre 2011 lì non è mai esistito.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Linea internazionale del cambio di data",
+      "tono": "leggero",
+      "indizio": "Domani: un Paese intero decide di saltare un giorno del calendario."
+    },
+    {
+      "id": "12-30-1924",
+      "anno": 1924,
+      "titolo": "Le altre galassie",
+      "testo": "Al congresso della Società astronomica americana, che si apre oggi, viene annunciata la scoperta di Edwin Hubble: molte «nebulose» sono in realtà altre galassie, lontanissime dalla nostra.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Edwin Hubble",
+      "tono": "leggero",
+      "indizio": "Domani: un astronomo dimostra che la Via Lattea non è tutto l'universo."
+    },
+    {
+      "id": "12-30-1927",
+      "anno": 1927,
+      "titolo": "La prima metropolitana d'Asia",
+      "testo": "A Tokyo apre la linea Ginza, la prima metropolitana dell'Asia: poco più di due chilometri, percorsi da una folla di curiosi.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Linea Ginza",
+      "tono": "leggero",
+      "indizio": "Domani: in Giappone apre la prima metropolitana d'Asia."
+    },
+    {
+      "id": "12-30-1968",
+      "anno": 1968,
+      "titolo": "Sinatra incide My Way",
+      "testo": "In uno studio di Hollywood Frank Sinatra registra My Way, adattata da Paul Anka da una canzone francese.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "My Way",
+      "tono": "leggero",
+      "indizio": "Domani: un grande cantante registra una canzone che diventerà la sua bandiera."
+    },
+    {
+      "id": "12-30-1940",
+      "anno": 1940,
+      "titolo": "La prima freeway",
+      "testo": "In California apre la Arroyo Seco Parkway, fra Los Angeles e Pasadena: la prima freeway dell'Ovest americano.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Arroyo Seco Parkway",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-30-1922",
+      "anno": 1922,
+      "titolo": "Nasce l'URSS",
+      "testo": "Russia, Ucraina, Bielorussia e Transcaucasia firmano il trattato che crea l'Unione delle Repubbliche Socialiste Sovietiche.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Unione Sovietica",
+      "tono": "storico"
+    },
+    {
+      "id": "12-30-1993",
+      "anno": 1993,
+      "titolo": "Israele e Santa Sede",
+      "testo": "Israele e la Santa Sede firmano l'accordo che apre la strada alle relazioni diplomatiche.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Relazioni bilaterali tra Israele e Santa Sede",
+      "tono": "storico"
+    },
+    {
+      "id": "12-30-1880",
+      "anno": 1880,
+      "titolo": "Il Transvaal repubblica",
+      "testo": "Il Transvaal si proclama repubblica, con Paul Kruger fra i suoi capi.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Repubblica Sudafricana",
+      "tono": "storico"
+    },
+    {
+      "id": "12-30-1896",
+      "anno": 1896,
+      "titolo": "Rizal fucilato",
+      "testo": "A Manila viene fucilato José Rizal, scrittore e patriota: oggi è l'eroe nazionale delle Filippine.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "José Rizal",
+      "tono": "storico"
+    },
+    {
+      "id": "12-30-1230",
+      "anno": 1230,
+      "titolo": "Il miracolo di Sant'Ambrogio",
+      "testo": "Secondo la tradizione fiorentina, nella chiesa di Sant'Ambrogio il vino del calice si trasforma in sangue: è il miracolo eucaristico ancora ricordato in città.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Chiesa di Sant'Ambrogio (Firenze)",
+      "tono": "leggero"
+    },
+    {
+      "id": "12-30-1903",
+      "anno": 1903,
+      "titolo": "L'incendio dell'Iroquois",
+      "testo": "A Chicago un incendio distrugge l'Iroquois Theatre durante uno spettacolo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Incendio dell'Iroquois Theatre",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Rudyard Kipling",
+      "anno": 1865,
+      "chi": "scrittore inglese nato a Bombay, autore del Libro della giungla",
+      "wiki": "Rudyard Kipling"
+    },
+    {
+      "nome": "Davy Jones",
+      "anno": 1945,
+      "chi": "cantante dei Monkees",
+      "wiki": "Davy Jones"
+    },
+    {
+      "nome": "Patti Smith",
+      "anno": 1946,
+      "chi": "cantautrice e poetessa statunitense",
+      "wiki": "Patti Smith"
+    },
+    {
+      "nome": "Tiger Woods",
+      "anno": 1975,
+      "chi": "golfista statunitense",
+      "wiki": "Tiger Woods"
+    },
+    {
+      "nome": "LeBron James",
+      "anno": 1984,
+      "chi": "cestista statunitense",
+      "wiki": "LeBron James"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Un compleanno perso",
+      "testo": "A Samoa chi era nato il 30 dicembre, nel 2011, non poté festeggiare il compleanno nel giorno giusto: il governo aveva semplicemente cancellato la data."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Il telescopio Hubble",
+      "testo": "Il telescopio spaziale che porta il nome di Hubble, lanciato nel 1990, ha fotografato galassie così lontane che la loro luce è partita più di tredici miliardi di anni fa."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Mowgli e la giungla",
+      "testo": "Kipling, nato oggi, scrisse Il libro della giungla non in India ma nel Vermont, negli Stati Uniti, dove visse alcuni anni dopo il matrimonio. Nel 1907 fu il primo scrittore di lingua inglese a vincere il Nobel."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Se saprai incontrare il Trionfo e la Rovina e trattare allo stesso modo quei due impostori…",
+      "autore": "Rudyard Kipling",
+      "fonte": "Se, 1910"
+    },
+    {
+      "testo": "Equipaggiato dei suoi cinque sensi, l'uomo esplora l'universo e chiama l'avventura scienza.",
+      "autore": "attribuita a Edwin Hubble",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Tutto il mondo è paese.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Amor novo va e vien, amor veccio se mantien.",
+      "regione": "Veneto",
+      "traduzione": "L'amore nuovo va e viene, l'amore vecchio resta.",
+      "spiegazione": "L'entusiasmo dei primi tempi passa; l'affetto messo alla prova degli anni dura.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Chi non crede alla buona madre, crede poi alla mala matrigna.",
+      "regione": "Toscana",
+      "traduzione": "Chi non crede alla buona madre crederà poi alla cattiva matrigna.",
+      "spiegazione": "Chi non ascolta i consigli di chi gli vuole bene finisce per dare retta a chi gli vuole male.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}
