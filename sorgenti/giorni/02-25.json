@@ -1,0 +1,225 @@
+{
+  "schema": 1,
+  "giorno": "02-25",
+  "santo": {
+    "nome": "San Gerlando di Agrigento",
+    "nota": "Vescovo di origine normanna o francese, chiamato dal conte Ruggero a ricostruire la diocesi di Agrigento dopo la dominazione araba. È il patrono della città.",
+    "altri": [
+      "Santa Valpurga",
+      "San Nestore di Magydos",
+      "San Luigi Versiglia"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-25-1964",
+      "anno": 1964,
+      "titolo": "Sono il più grande!",
+      "testo": "A Miami il ventiduenne Cassius Clay batte Sonny Liston, che non si presenta alla settima ripresa, e diventa campione del mondo dei pesi massimi. Poco dopo prenderà il nome di Muhammad Ali.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Muhammad Ali",
+      "tono": "leggero",
+      "indizio": "Domani: un giovane pugile chiacchierone batte il campione e grida di essere il più grande."
+    },
+    {
+      "id": "02-25-1836",
+      "anno": 1836,
+      "titolo": "La rivoltella di Colt",
+      "testo": "Samuel Colt ottiene il brevetto della sua pistola a tamburo girevole, la rivoltella che diventerà un simbolo del West.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Samuel Colt",
+      "tono": "storico",
+      "indizio": "Domani: un inventore americano brevetta una pistola che segnerà il Far West."
+    },
+    {
+      "id": "02-25-1837",
+      "anno": 1837,
+      "titolo": "Il motore elettrico",
+      "testo": "Il fabbro americano Thomas Davenport ottiene il primo brevetto per un motore elettrico.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Thomas Davenport",
+      "tono": "leggero",
+      "indizio": "Domani: un fabbro del Vermont brevetta il motore elettrico."
+    },
+    {
+      "id": "02-25-1856",
+      "anno": 1856,
+      "titolo": "Il congresso di Parigi",
+      "testo": "Si apre a Parigi il congresso di pace dopo la guerra di Crimea: Cavour, seduto fra le grandi potenze, riesce a far parlare della questione italiana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Congresso di Parigi",
+      "tono": "storico",
+      "indizio": "Domani: al tavolo delle grandi potenze siede anche un piccolo regno italiano."
+    },
+    {
+      "id": "02-25-1986",
+      "anno": 1986,
+      "titolo": "Marcos lascia le Filippine",
+      "testo": "Dopo giorni di manifestazioni pacifiche, la «rivoluzione del potere popolare», Ferdinand Marcos fugge dalle Filippine.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Ferdinand Marcos",
+      "tono": "storico",
+      "indizio": "Domani: un popolo caccia il suo dittatore con rosari e fiori."
+    },
+    {
+      "id": "02-25-1919",
+      "anno": 1919,
+      "titolo": "La prima tassa sulla benzina",
+      "testo": "L'Oregon è il primo Stato americano a mettere una tassa sulla benzina: un centesimo al gallone, per costruire strade.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Accisa",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-25-1951",
+      "anno": 1951,
+      "titolo": "I primi Giochi panamericani",
+      "testo": "A Buenos Aires si aprono i primi Giochi panamericani.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Giochi panamericani 1951",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-25-138",
+      "anno": 138,
+      "titolo": "Antonino Pio erede",
+      "testo": "L'imperatore Adriano adotta Antonino come successore: comincia un lungo periodo di pace per l'impero.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Antonino Pio",
+      "tono": "storico"
+    },
+    {
+      "id": "02-25-1948",
+      "anno": 1948,
+      "titolo": "Il colpo di Praga",
+      "testo": "In Cecoslovacchia il Partito comunista prende tutto il potere.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Colpo di Praga",
+      "tono": "storico"
+    },
+    {
+      "id": "02-25-1991",
+      "anno": 1991,
+      "titolo": "Finisce il Patto di Varsavia",
+      "testo": "I Paesi del Patto di Varsavia ne sciolgono la struttura militare.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Patto di Varsavia",
+      "tono": "storico"
+    },
+    {
+      "id": "02-25-1695",
+      "anno": 1695,
+      "titolo": "Il terremoto di Asolo",
+      "testo": "Un forte terremoto colpisce Asolo e i paesi vicini, nel Trevigiano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto di Asolo del 1695",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Carlo Goldoni",
+      "anno": 1707,
+      "chi": "commediografo veneziano",
+      "wiki": "Carlo Goldoni"
+    },
+    {
+      "nome": "Pierre-Auguste Renoir",
+      "anno": 1841,
+      "chi": "pittore impressionista francese",
+      "wiki": "Pierre-Auguste Renoir"
+    },
+    {
+      "nome": "Benedetto Croce",
+      "anno": 1866,
+      "chi": "filosofo e storico abruzzese",
+      "wiki": "Benedetto Croce"
+    },
+    {
+      "nome": "Enrico Caruso",
+      "anno": 1873,
+      "chi": "tenore napoletano",
+      "wiki": "Enrico Caruso"
+    },
+    {
+      "nome": "George Harrison",
+      "anno": 1943,
+      "chi": "chitarrista dei Beatles",
+      "wiki": "George Harrison"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il milione di Caruso",
+      "testo": "Enrico Caruso, nato oggi, fu uno dei primi artisti a credere nei dischi: la sua Vesti la giubba fu fra le prime registrazioni a superare il milione di copie vendute."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La riforma di Goldoni",
+      "testo": "Carlo Goldoni, nato oggi a Venezia, tolse le maschere agli attori e scrisse per intero le loro battute, che prima nella commedia dell'arte venivano improvvisate."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "La farfalla e l'ape",
+      "testo": "Prima dell'incontro con Liston Cassius Clay era dato perdente sette contro uno. Lui annunciò che avrebbe volato come una farfalla e punto come un'ape."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Sono il più grande!",
+      "autore": "Muhammad Ali",
+      "fonte": "Miami, 1964"
+    },
+    {
+      "testo": "Il mondo è un bel libro, ma serve poco a chi non lo sa leggere.",
+      "autore": "Carlo Goldoni",
+      "fonte": "La Pamela"
+    },
+    {
+      "testo": "Chi va piano va sano e va lontano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Amor no porta rispeto a nesun.",
+      "regione": "Veneto",
+      "traduzione": "L'amore non porta rispetto a nessuno.",
+      "spiegazione": "L'amore non guarda in faccia nessuno: colpisce giovani e vecchi, ricchi e poveri.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "'A cuscienze 'a pastenàiene e nun ascette!",
+      "regione": "Campania",
+      "traduzione": "La coscienza l'hanno seminata, ma non è spuntata!",
+      "spiegazione": "Si dice di chi non ha scrupoli: in lui la coscienza non è mai germogliata.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

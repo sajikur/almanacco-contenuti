@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "giorno": "02-13",
+  "santo": {
+    "nome": "Sante Fosca e Maura",
+    "nota": "Due martiri di Ravenna del III secolo, la giovane Fosca e la sua nutrice Maura. I loro corpi furono portati a Torcello, nella laguna di Venezia, dove sorge la chiesa di Santa Fosca.",
+    "altri": [
+      "Santa Giuliana di Torino",
+      "San Benigno di Todi",
+      "Beato Giordano di Sassonia"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale della radio",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-13-1503",
+      "anno": 1503,
+      "titolo": "La Disfida di Barletta",
+      "testo": "Fra Andria e Corato tredici cavalieri italiani guidati da Ettore Fieramosca sfidano tredici cavalieri francesi che avevano deriso il valore degli italiani, e li sconfiggono tutti.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Disfida di Barletta",
+      "tono": "leggero",
+      "indizio": "Domani: tredici cavalieri italiani rispondono a un insulto con una sfida."
+    },
+    {
+      "id": "02-13-1895",
+      "anno": 1895,
+      "titolo": "Il cinematografo brevettato",
+      "testo": "A Lione Auguste e Louis Lumière depositano il brevetto del Cinématographe, l'apparecchio che riprende e proietta le immagini in movimento.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Cinematografo",
+      "tono": "leggero",
+      "indizio": "Domani: due fratelli francesi brevettano la macchina che inventerà il cinema."
+    },
+    {
+      "id": "02-13-2012",
+      "anno": 2012,
+      "titolo": "Il primo volo di Vega",
+      "testo": "Dalla Guyana francese parte per la prima volta Vega, il razzo europeo progettato e costruito in gran parte in Italia, a Colleferro.",
+      "ambito": "italia",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Vega (lanciatore)",
+      "tono": "leggero",
+      "indizio": "Domani: decolla il primo razzo nato in Italia."
+    },
+    {
+      "id": "02-13-1633",
+      "anno": 1633,
+      "titolo": "Galileo a Roma",
+      "testo": "Galileo Galilei, quasi settantenne e malato, arriva a Roma per il processo davanti all'Inquisizione.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Processo a Galileo Galilei",
+      "tono": "storico",
+      "indizio": "Domani: un vecchio scienziato arriva a Roma per difendere le sue idee."
+    },
+    {
+      "id": "02-13-1861",
+      "anno": 1861,
+      "titolo": "La resa di Gaeta",
+      "testo": "Dopo tre mesi di assedio la fortezza di Gaeta si arrende: Francesco II lascia l'Italia e finisce il Regno delle Due Sicilie.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Assedio di Gaeta (1860-1861)",
+      "tono": "storico",
+      "indizio": "Domani: cade l'ultima fortezza dei Borbone di Napoli."
+    },
+    {
+      "id": "02-13-1970",
+      "anno": 1970,
+      "titolo": "Black Sabbath",
+      "testo": "Venerdì 13 esce il primo album dei Black Sabbath: secondo molti è la nascita dell'heavy metal.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Black Sabbath (album)",
+      "tono": "leggero",
+      "indizio": "Domani: un venerdì 13 esce il disco che inventa l'heavy metal."
+    },
+    {
+      "id": "02-13-2004",
+      "anno": 2004,
+      "titolo": "Una stella di diamante",
+      "testo": "Gli astronomi annunciano che il cuore della nana bianca BPM 37093 è un enorme cristallo di carbonio: un diamante grande come la Luna. L'hanno soprannominata Lucy, come la canzone dei Beatles.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "BPM 37093",
+      "tono": "leggero",
+      "indizio": "Domani: gli astronomi trovano nel cielo un diamante grande come la Luna."
+    },
+    {
+      "id": "02-13-1929",
+      "anno": 1929,
+      "titolo": "La penicillina presentata",
+      "testo": "Alexander Fleming presenta a Londra la sua scoperta della penicillina, ma all'epoca quasi nessuno ne capisce l'importanza.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Penicillina",
+      "tono": "leggero",
+      "indizio": "Domani: uno scienziato presenta una muffa che salverà milioni di vite."
+    },
+    {
+      "id": "02-13-1866",
+      "anno": 1866,
+      "titolo": "La prima rapina di Jesse James",
+      "testo": "Nel Missouri la banda dei fratelli James compie la prima rapina in banca in tempo di pace della storia americana.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Jesse James",
+      "tono": "storico"
+    },
+    {
+      "id": "02-13-1983",
+      "anno": 1983,
+      "titolo": "L'incendio del Cinema Statuto",
+      "testo": "A Torino un incendio nel Cinema Statuto, durante una proiezione, provoca una strage.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Incendio del cinema Statuto",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Fëdor Šaljapin",
+      "anno": 1873,
+      "chi": "basso russo",
+      "wiki": "Fëdor Šaljapin"
+    },
+    {
+      "nome": "Georges Simenon",
+      "anno": 1903,
+      "chi": "scrittore belga, papà del commissario Maigret",
+      "wiki": "Georges Simenon"
+    },
+    {
+      "nome": "Chuck Yeager",
+      "anno": 1923,
+      "chi": "pilota, primo a superare la barriera del suono",
+      "wiki": "Chuck Yeager"
+    },
+    {
+      "nome": "Kim Novak",
+      "anno": 1933,
+      "chi": "attrice statunitense",
+      "wiki": "Kim Novak"
+    },
+    {
+      "nome": "Peter Gabriel",
+      "anno": 1950,
+      "chi": "cantautore britannico",
+      "wiki": "Peter Gabriel"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "L'insulto di La Motte",
+      "testo": "La Disfida nacque in un'osteria di Barletta: il cavaliere francese Charles de La Motte, prigioniero degli spagnoli, disse che gli italiani erano vili. Massimo d'Azeglio ne fece più tardi il romanzo Ettore Fieramosca."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Maigret in undici giorni",
+      "testo": "Georges Simenon, nato oggi, scrisse più di quattrocento libri. Un romanzo di Maigret gli richiedeva in genere una decina di giorni, durante i quali non vedeva nessuno."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "La giornata della radio",
+      "testo": "La Giornata mondiale della radio cade oggi perché il 13 febbraio 1946 cominciò a trasmettere la radio delle Nazioni Unite."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Fatta l'Italia, bisogna fare gli italiani.",
+      "autore": "attribuita a Massimo d'Azeglio",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Chi ha tempo non aspetti tempo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "L'unione fa la forza.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A pparlé picche nan ze sbaglie mé.",
+      "regione": "Puglia",
+      "traduzione": "A parlare poco non si sbaglia mai.",
+      "spiegazione": "Chi misura le parole evita molti errori e molti guai.",
+      "fonte": "Wikiquote, Proverbi gravinesi"
+    },
+    {
+      "testo": "Dio lassa far, ma no strafar.",
+      "regione": "Veneto",
+      "traduzione": "Dio lascia fare, ma non strafare.",
+      "spiegazione": "Si può osare, ma senza esagerare: chi passa il limite prima o poi paga.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    }
+  ],
+  "prima_pagina": null
+}

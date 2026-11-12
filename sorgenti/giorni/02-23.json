@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "giorno": "02-23",
+  "santo": {
+    "nome": "San Policarpo di Smirne",
+    "nota": "Vescovo di Smirne, discepolo dell'apostolo Giovanni, martire a ottantasei anni nel II secolo. Il racconto del suo martirio è uno dei più antichi documenti cristiani.",
+    "altri": [
+      "Santa Giuseppina Vannini",
+      "San Primiano di Ancona",
+      "Beata Giovannina Franchi"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-23-1455",
+      "anno": 1455,
+      "titolo": "La Bibbia di Gutenberg",
+      "testo": "Secondo la data tradizionale, a Magonza Johannes Gutenberg completa la Bibbia a quarantadue righe, il primo grande libro stampato con i caratteri mobili.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Bibbia di Gutenberg",
+      "tono": "leggero",
+      "indizio": "Domani: a Magonza esce il primo grande libro stampato."
+    },
+    {
+      "id": "02-23-1940",
+      "anno": 1940,
+      "titolo": "Il Pinocchio di Disney",
+      "testo": "Negli Stati Uniti esce il Pinocchio di Walt Disney, ispirato al romanzo di Carlo Collodi: è il secondo lungometraggio animato dello studio.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Pinocchio (film 1940)",
+      "tono": "leggero",
+      "indizio": "Domani: un burattino toscano diventa una star di Hollywood."
+    },
+    {
+      "id": "02-23-1893",
+      "anno": 1893,
+      "titolo": "Il brevetto del motore Diesel",
+      "testo": "Rudolf Diesel deposita il brevetto del suo motore, che si accende per compressione senza candela.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Motore Diesel",
+      "tono": "leggero",
+      "indizio": "Domani: un ingegnere tedesco brevetta un motore che non ha bisogno di candele."
+    },
+    {
+      "id": "02-23-1987",
+      "anno": 1987,
+      "titolo": "La supernova 1987A",
+      "testo": "Gli astronomi vedono esplodere una stella nella Grande Nube di Magellano: è la supernova più vicina osservata dai tempi di Keplero.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "SN 1987A",
+      "tono": "leggero",
+      "indizio": "Domani: nel cielo australe esplode una stella che si vede a occhio nudo."
+    },
+    {
+      "id": "02-23-1945",
+      "anno": 1945,
+      "titolo": "La bandiera su Iwo Jima",
+      "testo": "I marines piantano la bandiera americana in cima al monte Suribachi, a Iwo Jima: la foto di Joe Rosenthal diventerà un'icona.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Raising the Flag on Iwo Jima",
+      "tono": "storico",
+      "indizio": "Domani: un fotografo scatta l'immagine di una bandiera piantata in cima a un vulcano."
+    },
+    {
+      "id": "02-23-1958",
+      "anno": 1958,
+      "titolo": "Rapito Fangio",
+      "testo": "All'Avana i ribelli di Castro rapiscono il campione di Formula 1 Juan Manuel Fangio, alla vigilia di un Gran Premio: lo libereranno illeso il giorno dopo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Juan Manuel Fangio",
+      "tono": "leggero",
+      "indizio": "Domani: un campione di automobilismo viene rapito, e poi diventa amico dei suoi rapitori."
+    },
+    {
+      "id": "02-23-1832",
+      "anno": 1832,
+      "titolo": "La granata dei Carabinieri",
+      "testo": "Sui cappelli dei Carabinieri Reali compare per la prima volta la granata con la fiamma, ancora oggi il loro simbolo.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Arma dei Carabinieri",
+      "tono": "leggero",
+      "indizio": "Domani: i Carabinieri si mettono in testa una fiamma."
+    },
+    {
+      "id": "02-23-1947",
+      "anno": 1947,
+      "titolo": "Nasce l'ISO",
+      "testo": "A Londra nasce l'Organizzazione internazionale per la normazione, quella delle norme ISO.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Organizzazione internazionale per la normazione",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-23-1998",
+      "anno": 1998,
+      "titolo": "Nasce Mozilla",
+      "testo": "Netscape annuncia mozilla.org, il progetto da cui nascerà il browser Firefox.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Mozilla",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-23-1981",
+      "anno": 1981,
+      "titolo": "Il golpe di Tejero",
+      "testo": "A Madrid il colonnello Tejero irrompe con le armi nel Congresso dei deputati: il re Juan Carlos, in televisione, difende la democrazia e il golpe fallisce.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Tentato colpo di Stato in Spagna del 1981",
+      "tono": "storico",
+      "indizio": "Domani: un colonnello irrompe armato nel Parlamento spagnolo."
+    },
+    {
+      "id": "02-23-1887",
+      "anno": 1887,
+      "titolo": "Il terremoto della Riviera",
+      "testo": "Un terremoto colpisce la Riviera ligure di Ponente: Diano Marina e Bussana vengono distrutte.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto della Liguria del 1887",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Samuel Pepys",
+      "anno": 1633,
+      "chi": "il più famoso diarista inglese",
+      "wiki": "Samuel Pepys"
+    },
+    {
+      "nome": "Georg Friedrich Händel",
+      "anno": 1685,
+      "chi": "compositore tedesco del Messia",
+      "wiki": "Georg Friedrich Händel"
+    },
+    {
+      "nome": "Mayer Amschel Rothschild",
+      "anno": 1744,
+      "chi": "banchiere, capostipite della dinastia",
+      "wiki": "Mayer Amschel Rothschild"
+    },
+    {
+      "nome": "W. E. B. Du Bois",
+      "anno": 1868,
+      "chi": "sociologo e attivista afroamericano",
+      "wiki": "W. E. B. Du Bois"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il grillo schiacciato",
+      "testo": "Nel romanzo di Collodi il Grillo parlante, dopo la sua predica, viene colpito da Pinocchio con un martello di legno. Disney ne fece invece il simpatico Jiminy, la coscienza del burattino."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Le Bibbie superstiti",
+      "testo": "Gutenberg stampò circa centottanta copie della sua Bibbia, alcune su pergamena. Ne sopravvivono una cinquantina, e sono fra i libri più preziosi del mondo."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il villaggio degli artisti",
+      "testo": "Bussana Vecchia, distrutta dal terremoto del 1887 e abbandonata, fu rioccupata negli anni Sessanta da un gruppo di artisti che ne fecero un villaggio di botteghe."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "C'era una volta un pezzo di legno.",
+      "autore": "Carlo Collodi",
+      "fonte": "Le avventure di Pinocchio"
+    },
+    {
+      "testo": "Ottantasei anni l'ho servito e non mi ha fatto alcun male: come posso bestemmiare il mio re?",
+      "autore": "San Policarpo",
+      "fonte": "Martirio di Policarpo"
+    },
+    {
+      "testo": "Le bugie hanno il naso lungo.",
+      "autore": "Proverbio",
+      "fonte": "modo di dire"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Abbunnanza re sùrece, carestia re 'atte.",
+      "regione": "Basilicata",
+      "traduzione": "Abbondanza di topi, carestia di gatti.",
+      "spiegazione": "Quando una cosa abbonda è perché ne manca un'altra che la terrebbe a bada.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "'A cambàne se canòsce de o suéne, l'òme da 'u parlàre.",
+      "regione": "Puglia",
+      "traduzione": "La campana si riconosce dal suono, l'uomo dal parlare.",
+      "spiegazione": "Da come una persona parla si capisce chi è.",
+      "fonte": "Wikiquote, Proverbi tarantini"
+    }
+  ],
+  "prima_pagina": null
+}

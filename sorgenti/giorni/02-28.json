@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "giorno": "02-28",
+  "santo": {
+    "nome": "San Romano di Condat",
+    "nota": "Eremita del V secolo sui monti del Giura, fondò con il fratello Lupicino alcuni dei primi monasteri della Gallia. Negli anni non bisestili oggi si ricordano anche i santi del 29 febbraio.",
+    "altri": [
+      "Sant'Ilario papa",
+      "Sant'Osvaldo di Worcester",
+      "Beata Antonia da Firenze"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata delle malattie rare, l'ultimo giorno di febbraio",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-28-1953",
+      "anno": 1953,
+      "titolo": "Il segreto della vita",
+      "testo": "All'Eagle, un pub di Cambridge, Francis Crick annuncia agli avventori che lui e James Watson hanno scoperto «il segreto della vita»: la doppia elica del DNA.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Struttura del DNA",
+      "tono": "leggero",
+      "indizio": "Domani: in un pub inglese due scienziati annunciano di aver scoperto il segreto della vita."
+    },
+    {
+      "id": "02-28-1983",
+      "anno": 1983,
+      "titolo": "L'ultima puntata di M*A*S*H",
+      "testo": "Va in onda l'ultimo episodio di M*A*S*H, la serie sugli ospedali militari in Corea: lo guardano più di cento milioni di americani, un record per anni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "M*A*S*H (serie televisiva)",
+      "tono": "leggero",
+      "indizio": "Domani: cento milioni di americani salutano un ospedale da campo."
+    },
+    {
+      "id": "02-28-1297",
+      "anno": 1297,
+      "titolo": "La Serrata del Maggior Consiglio",
+      "testo": "A Venezia la Serrata del Maggior Consiglio riserva il governo alle famiglie che già ne fanno parte: nasce l'aristocrazia che guiderà la Repubblica per cinque secoli.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Serrata del Maggior Consiglio",
+      "tono": "storico",
+      "indizio": "Domani: a Venezia si chiude la porta del governo per cinquecento anni."
+    },
+    {
+      "id": "02-28-2013",
+      "anno": 2013,
+      "titolo": "Benedetto XVI lascia",
+      "testo": "Alle 20 finisce il pontificato di Benedetto XVI: un elicottero lo porta a Castel Gandolfo, e le Guardie Svizzere lasciano il portone.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Rinuncia di papa Benedetto XVI",
+      "tono": "storico",
+      "indizio": "Domani: un papa lascia il Vaticano in elicottero."
+    },
+    {
+      "id": "02-28-1935",
+      "anno": 1935,
+      "titolo": "Il primo nylon",
+      "testo": "Nel laboratorio della DuPont Wallace Carothers produce per la prima volta il nylon.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Nylon",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-28-1922",
+      "anno": 1922,
+      "titolo": "L'Egitto indipendente",
+      "testo": "Il Regno Unito riconosce l'indipendenza dell'Egitto.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Egitto",
+      "tono": "storico"
+    },
+    {
+      "id": "02-28-1854",
+      "anno": 1854,
+      "titolo": "Nasce il Partito Repubblicano",
+      "testo": "In una scuola di Ripon, nel Wisconsin, un gruppo di oppositori della schiavitù fonda il Partito Repubblicano.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Partito Repubblicano (Stati Uniti d'America)",
+      "tono": "storico"
+    },
+    {
+      "id": "02-28-1700",
+      "anno": 1700,
+      "titolo": "La Svezia salta un giorno",
+      "testo": "Per passare piano piano al nuovo calendario, la Svezia salta il 29 febbraio 1700: dopo il 28 viene subito il 1° marzo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Calendario svedese",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-28-1940",
+      "anno": 1940,
+      "titolo": "La miniera dell'Arsia",
+      "testo": "Un'esplosione nella miniera di carbone dell'Arsia, in Istria, allora italiana, uccide quasi duecento minatori.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Disastro della miniera di Arsia",
+      "tono": "tragico"
+    },
+    {
+      "id": "02-28-1986b",
+      "anno": 1986,
+      "titolo": "Olof Palme",
+      "testo": "A Stoccolma viene ucciso per strada il primo ministro svedese Olof Palme.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Olof Palme",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Michel de Montaigne",
+      "anno": 1533,
+      "chi": "filosofo francese dei Saggi",
+      "wiki": "Michel de Montaigne"
+    },
+    {
+      "nome": "Linus Pauling",
+      "anno": 1901,
+      "chi": "chimico statunitense, due premi Nobel",
+      "wiki": "Linus Pauling"
+    },
+    {
+      "nome": "Mario Andretti",
+      "anno": 1940,
+      "chi": "pilota nato a Montona d'Istria, campione di Formula 1 e di Indianapolis",
+      "wiki": "Mario Andretti"
+    },
+    {
+      "nome": "Dino Zoff",
+      "anno": 1942,
+      "chi": "portiere campione del mondo nel 1982",
+      "wiki": "Dino Zoff"
+    },
+    {
+      "nome": "Brian Jones",
+      "anno": 1942,
+      "chi": "fondatore dei Rolling Stones",
+      "wiki": "Brian Jones"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Una foto rubata",
+      "testo": "Per capire la struttura del DNA fu decisiva una fotografia ai raggi X scattata da Rosalind Franklin, la «foto 51». Lei non lo seppe mai: morì nel 1958, quattro anni prima del Nobel a Watson e Crick."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Più lunga della guerra",
+      "testo": "La serie M*A*S*H durò undici stagioni, quasi quattro volte la guerra di Corea che raccontava."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "I gemelli di Montona",
+      "testo": "Mario Andretti, nato oggi in Istria, emigrò in America da ragazzo con il gemello Aldo. Vinse tutto: Indianapolis, Daytona e il mondiale di Formula 1 del 1978."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Che cosa so io?",
+      "autore": "Michel de Montaigne",
+      "fonte": "Saggi"
+    },
+    {
+      "testo": "Abbiamo scoperto il segreto della vita.",
+      "autore": "Francis Crick",
+      "fonte": "all'Eagle di Cambridge, 1953"
+    },
+    {
+      "testo": "Tutto è bene quel che finisce bene.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "L'è mei un ov in sen che un òch pr'aria.",
+      "regione": "Emilia-Romagna",
+      "traduzione": "È meglio un uovo in grembo che un'oca per aria.",
+      "spiegazione": "Meglio una cosa piccola ma sicura che una grande soltanto sperata.",
+      "fonte": "Wikiquote, Proverbi ferraresi"
+    },
+    {
+      "testo": "Amara chira casa cu l'erva a ru scalune.",
+      "regione": "Calabria",
+      "traduzione": "Triste quella casa con l'erba sullo scalino.",
+      "spiegazione": "Una casa dove l'erba cresce sulla soglia è una casa dove non entra più nessuno.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

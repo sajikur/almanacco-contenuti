@@ -1,0 +1,214 @@
+{
+  "schema": 1,
+  "giorno": "02-16",
+  "santo": {
+    "nome": "San Giuseppe Allamano",
+    "nota": "Sacerdote piemontese, rettore del santuario della Consolata di Torino, fondò all'inizio del Novecento i Missionari e le Missionarie della Consolata. È stato proclamato santo nel 2024.",
+    "altri": [
+      "Santa Giuliana di Nicomedia",
+      "Santa Filippa Mareri",
+      "San Simeone di Metz"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa nazionale della Lituania",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-16-1923",
+      "anno": 1923,
+      "titolo": "La tomba di Tutankhamon",
+      "testo": "Nella Valle dei Re Howard Carter apre la camera funeraria del faraone Tutankhamon: dentro c'è il sarcofago con il corpo del giovane re.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Tutankhamon",
+      "tono": "leggero",
+      "indizio": "Domani: un archeologo inglese apre la stanza segreta di un faraone bambino."
+    },
+    {
+      "id": "02-16-1937",
+      "anno": 1937,
+      "titolo": "Il brevetto del nylon",
+      "testo": "Wallace Carothers della DuPont ottiene il brevetto del nylon, la prima fibra completamente sintetica: le calze di nylon andranno a ruba.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Nylon",
+      "tono": "leggero",
+      "indizio": "Domani: un chimico americano brevetta una fibra che vestirà le gambe delle donne."
+    },
+    {
+      "id": "02-16-1952",
+      "anno": 1952,
+      "titolo": "Zeno Colò d'oro",
+      "testo": "Alle Olimpiadi di Oslo l'abetonese Zeno Colò vince la discesa libera: è il primo oro olimpico italiano nello sci alpino.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Zeno Colò",
+      "tono": "leggero",
+      "indizio": "Domani: uno sciatore toscano vince la discesa libera olimpica."
+    },
+    {
+      "id": "02-16-1978",
+      "anno": 1978,
+      "titolo": "La prima bacheca elettronica",
+      "testo": "A Chicago due amici, bloccati in casa da una tempesta di neve, creano il primo BBS, una bacheca per scambiarsi messaggi via telefono e computer.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Bulletin board system",
+      "tono": "leggero",
+      "indizio": "Domani: due amici bloccati dalla neve inventano un modo di chiacchierare col computer."
+    },
+    {
+      "id": "02-16-2005",
+      "anno": 2005,
+      "titolo": "Il protocollo di Kyoto",
+      "testo": "Entra in vigore il protocollo di Kyoto, il primo accordo internazionale per ridurre i gas serra.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Protocollo di Kyoto",
+      "tono": "storico",
+      "indizio": "Domani: entra in vigore il primo patto mondiale per il clima."
+    },
+    {
+      "id": "02-16-1976",
+      "anno": 1976,
+      "titolo": "Nasce Radio 105",
+      "testo": "A Milano comincia a trasmettere Radio 105.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Radio 105 Network",
+      "tono": "leggero",
+      "indizio": "Domani: a Milano accende i microfoni una nuova radio."
+    },
+    {
+      "id": "02-16-1804",
+      "anno": 1804,
+      "titolo": "L'incursione di Tripoli",
+      "testo": "Il giovane ufficiale americano Stephen Decatur entra di notte nel porto di Tripoli e incendia la fregata Philadelphia, catturata dai pirati. Nelson la chiamò l'azione più audace dell'epoca.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Stephen Decatur",
+      "tono": "storico"
+    },
+    {
+      "id": "02-16-889",
+      "anno": 889,
+      "titolo": "Guido re d'Italia",
+      "testo": "A Pavia Guido di Spoleto viene incoronato re d'Italia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Guido II di Spoleto",
+      "tono": "storico"
+    },
+    {
+      "id": "02-16-1918",
+      "anno": 1918,
+      "titolo": "La Lituania indipendente",
+      "testo": "La Lituania proclama la propria indipendenza: per i lituani oggi è festa nazionale.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Lituania",
+      "tono": "storico"
+    },
+    {
+      "id": "02-16-1943",
+      "anno": 1943,
+      "titolo": "La strage di Domenikon",
+      "testo": "In Tessaglia soldati italiani compiono una rappresaglia contro gli abitanti del villaggio di Domenikon.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Strage di Domenikon",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Ernst Haeckel",
+      "anno": 1834,
+      "chi": "biologo tedesco, inventore della parola ecologia",
+      "wiki": "Ernst Haeckel"
+    },
+    {
+      "nome": "Sonny Bono",
+      "anno": 1935,
+      "chi": "cantante, la metà di Sonny & Cher",
+      "wiki": "Sonny Bono"
+    },
+    {
+      "nome": "John McEnroe",
+      "anno": 1959,
+      "chi": "tennista statunitense",
+      "wiki": "John McEnroe"
+    },
+    {
+      "nome": "Valentino Rossi",
+      "anno": 1979,
+      "chi": "pilota motociclistico di Tavullia, nove volte campione del mondo",
+      "wiki": "Valentino Rossi"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Cose meravigliose",
+      "testo": "Già nel novembre 1922, sbirciando con una candela nell'anticamera, Carter alla domanda «Vedi qualcosa?» aveva risposto: «Sì, cose meravigliose». Ci vollero tre mesi per arrivare alla camera funeraria."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "L'uovo di Colò",
+      "testo": "Zeno Colò, dell'Abetone, sciava in una posizione raccolta «a uovo» che anticipava di decenni la tecnica moderna. Fu anche primatista mondiale di velocità sugli sci."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il nome del nylon",
+      "testo": "Il nome nylon non vuol dire niente: la DuPont lo scelse perché suonasse bene e non fosse un marchio di nessuno. Quando le calze arrivarono nei negozi, nel 1940, se ne vendettero milioni di paia in pochi giorni."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Sì, cose meravigliose.",
+      "autore": "Howard Carter",
+      "fonte": "Valle dei Re, 1922"
+    },
+    {
+      "testo": "Bacco, tabacco e Venere riducono l'uomo in cenere.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Volere è potere.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Quanne u vine va a funne, le paróle viénne a galla.",
+      "regione": "Molise",
+      "traduzione": "Quando il vino va a fondo, le parole vengono a galla.",
+      "spiegazione": "Chi beve finisce per dire cose che avrebbe fatto meglio a tenere per sé.",
+      "fonte": "Wikiquote, Proverbi molisani"
+    },
+    {
+      "testo": "A piccol forno poca legna basta.",
+      "regione": "Toscana",
+      "traduzione": "A un forno piccolo basta poca legna.",
+      "spiegazione": "Chi ha bisogni modesti si accontenta di poco, e vive meglio.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

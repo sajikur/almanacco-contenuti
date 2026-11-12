@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "giorno": "02-21",
+  "santo": {
+    "nome": "San Pier Damiani",
+    "nota": "Monaco ravennate dell'XI secolo, priore di Fonte Avellana, poi cardinale e dottore della Chiesa. Combatté la corruzione del clero. Dante lo mette nel Paradiso.",
+    "altri": [
+      "Santa Eleonora di Provenza",
+      "San Paterio di Brescia",
+      "Beata Maria Enrichetta Dominici"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale della lingua madre",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata nazionale del Braille",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Giorno dell'immigrazione italiana in Brasile",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-21-1947",
+      "anno": 1947,
+      "titolo": "La foto in un minuto",
+      "testo": "A New York Edwin Land presenta la Polaroid, la prima macchina fotografica istantanea: la foto esce sviluppata in sessanta secondi.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Polaroid",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore mostra una macchina che stampa la foto in un minuto."
+    },
+    {
+      "id": "02-21-1804",
+      "anno": 1804,
+      "titolo": "La prima locomotiva",
+      "testo": "In Galles la locomotiva a vapore di Richard Trevithick traina per la prima volta un treno sulle rotaie, con dieci tonnellate di ferro e settanta passeggeri.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Richard Trevithick",
+      "tono": "leggero",
+      "indizio": "Domani: in Galles una macchina a vapore traina un treno per la prima volta."
+    },
+    {
+      "id": "02-21-1878",
+      "anno": 1878,
+      "titolo": "Il primo elenco telefonico",
+      "testo": "A New Haven, nel Connecticut, viene distribuito il primo elenco telefonico della storia: un solo foglio con cinquanta abbonati e nessun numero.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Elenco telefonico",
+      "tono": "leggero",
+      "indizio": "Domani: esce il primo elenco del telefono: un foglio solo, senza numeri."
+    },
+    {
+      "id": "02-21-1848",
+      "anno": 1848,
+      "titolo": "Il Manifesto del Partito Comunista",
+      "testo": "A Londra esce il Manifesto del Partito Comunista di Marx ed Engels.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Manifesto del Partito Comunista",
+      "tono": "storico",
+      "indizio": "Domani: a Londra esce un opuscolo che cambierà la politica di un secolo."
+    },
+    {
+      "id": "02-21-1925",
+      "anno": 1925,
+      "titolo": "Esce il New Yorker",
+      "testo": "Esce il primo numero del New Yorker: in copertina un dandy con il monocolo che osserva una farfalla.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The New Yorker",
+      "tono": "leggero",
+      "indizio": "Domani: a New York nasce una rivista con un dandy in copertina."
+    },
+    {
+      "id": "02-21-1972",
+      "anno": 1972,
+      "titolo": "Nixon in Cina",
+      "testo": "Richard Nixon arriva a Pechino e stringe la mano a Mao: è la prima visita di un presidente americano nella Cina comunista.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Visita di Nixon in Cina",
+      "tono": "storico",
+      "indizio": "Domani: un presidente americano stringe la mano a Mao."
+    },
+    {
+      "id": "02-21-1995",
+      "anno": 1995,
+      "titolo": "Il Pacifico in mongolfiera",
+      "testo": "Steve Fossett atterra in Canada dopo aver attraversato da solo il Pacifico in pallone, partendo dalla Corea del Sud.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Steve Fossett",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-21-1885",
+      "anno": 1885,
+      "titolo": "Il monumento a Washington",
+      "testo": "Viene inaugurato l'obelisco del Washington Monument, allora la costruzione più alta del mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Washington Monument",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-21-1339",
+      "anno": 1339,
+      "titolo": "Sant'Ambrogio a Parabiago",
+      "testo": "Nella battaglia di Parabiago i Visconti sconfiggono la Compagnia di San Giorgio: la leggenda vuole che sant'Ambrogio sia apparso a cavallo in loro aiuto.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Battaglia di Parabiago",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-21-1918",
+      "anno": 1918,
+      "titolo": "L'ultimo parrocchetto",
+      "testo": "Allo zoo di Cincinnati muore Incas, l'ultimo parrocchetto della Carolina: la specie è estinta.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 2,
+      "wiki": "Conuropsis carolinensis",
+      "tono": "storico"
+    },
+    {
+      "id": "02-21-1916",
+      "anno": 1916,
+      "titolo": "Verdun",
+      "testo": "Comincia la battaglia di Verdun, una delle più lunghe e sanguinose della Grande guerra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Verdun",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Andrés Segovia",
+      "anno": 1893,
+      "chi": "chitarrista classico spagnolo",
+      "wiki": "Andrés Segovia"
+    },
+    {
+      "nome": "W. H. Auden",
+      "anno": 1907,
+      "chi": "poeta anglo-americano",
+      "wiki": "W. H. Auden"
+    },
+    {
+      "nome": "Hubert de Givenchy",
+      "anno": 1927,
+      "chi": "stilista francese",
+      "wiki": "Hubert de Givenchy"
+    },
+    {
+      "nome": "Nina Simone",
+      "anno": 1933,
+      "chi": "cantante e pianista statunitense",
+      "wiki": "Nina Simone"
+    },
+    {
+      "nome": "Alan Rickman",
+      "anno": 1946,
+      "chi": "attore britannico",
+      "wiki": "Alan Rickman"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "Perché non posso vederla subito?",
+      "testo": "L'idea della Polaroid venne a Land in vacanza, nel 1943, quando la figlia di tre anni gli chiese perché non potesse vedere subito la foto che le aveva appena scattato."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Una scommessa sul vapore",
+      "testo": "Trevithick fece il suo viaggio per una scommessa di cinquecento ghinee fra due proprietari di ferriere. La locomotiva era così pesante che spaccò le rotaie di ghisa."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "La lingua della mamma",
+      "testo": "La giornata della lingua madre ricorda il 21 febbraio 1952, quando a Dacca, nell'attuale Bangladesh, studenti scesi in piazza per difendere la loro lingua bengalese furono uccisi dalla polizia."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Proletari di tutti i paesi, unitevi!",
+      "autore": "Karl Marx e Friedrich Engels",
+      "fonte": "Manifesto del Partito Comunista"
+    },
+    {
+      "testo": "Paese che vai, usanza che trovi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "La lingua batte dove il dente duole.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Anticu i dissi tutti giusti.",
+      "regione": "Calabria",
+      "traduzione": "I detti degli antichi sono tutti giusti.",
+      "spiegazione": "La saggezza dei nonni, chiusa nei proverbi, non sbaglia.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "Desgrazia del can fortunna del loff.",
+      "regione": "Lombardia",
+      "traduzione": "Disgrazia del cane, fortuna del lupo.",
+      "spiegazione": "Quello che per uno è una disgrazia per un altro è un'occasione.",
+      "fonte": "Wikiquote, Proverbi brianzoli"
+    }
+  ],
+  "prima_pagina": null
+}

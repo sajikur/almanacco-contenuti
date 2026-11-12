@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "giorno": "02-18",
+  "santo": {
+    "nome": "Beato Angelico",
+    "nota": "Fra Giovanni da Fiesole, domenicano e pittore del Quattrocento, autore degli affreschi del convento di San Marco a Firenze. Giovanni Paolo II lo ha proclamato patrono degli artisti.",
+    "altri": [
+      "Santa Geltrude Comensoli",
+      "San Simeone di Gerusalemme",
+      "Santa Costanza di Vercelli"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-18-1930",
+      "anno": 1930,
+      "titolo": "La scoperta di Plutone",
+      "testo": "All'osservatorio Lowell, in Arizona, il giovane Clyde Tombaugh, confrontando due lastre fotografiche, trova un puntino che si sposta: è Plutone.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Plutone (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: un giovane astronomo trova un puntino che si muove fra le stelle."
+    },
+    {
+      "id": "02-18-2021",
+      "anno": 2021,
+      "titolo": "Perseverance su Marte",
+      "testo": "Il rover Perseverance della NASA atterra nel cratere Jezero, su Marte: con lui c'è il piccolo elicottero Ingenuity, che farà il primo volo su un altro pianeta.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Perseverance (rover)",
+      "tono": "leggero",
+      "indizio": "Domani: un robot atterra su Marte portando con sé un piccolo elicottero."
+    },
+    {
+      "id": "02-18-1911",
+      "anno": 1911,
+      "titolo": "La prima posta aerea",
+      "testo": "In India il pilota francese Henri Pequet trasporta seimilacinquecento lettere da Allahabad a Naini: è il primo volo ufficiale di posta aerea.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Posta aerea",
+      "tono": "leggero",
+      "indizio": "Domani: un aereo porta per la prima volta le lettere per posta."
+    },
+    {
+      "id": "02-18-1885",
+      "anno": 1885,
+      "titolo": "Huckleberry Finn",
+      "testo": "Negli Stati Uniti esce Le avventure di Huckleberry Finn di Mark Twain: Hemingway dirà che tutta la letteratura americana viene da questo libro.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Le avventure di Huckleberry Finn",
+      "tono": "leggero",
+      "indizio": "Domani: un ragazzo e uno schiavo fuggiasco scendono il Mississippi su una zattera."
+    },
+    {
+      "id": "02-18-1925",
+      "anno": 1925,
+      "titolo": "Nasce la Treccani",
+      "testo": "L'industriale Giovanni Treccani fonda l'Istituto che pubblicherà l'Enciclopedia Italiana.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Istituto della Enciclopedia Italiana",
+      "tono": "leggero",
+      "indizio": "Domani: un industriale finanzia la grande enciclopedia degli italiani."
+    },
+    {
+      "id": "02-18-1743",
+      "anno": 1743,
+      "titolo": "Il patto di Anna Maria Luisa",
+      "testo": "Muore a Firenze Anna Maria Luisa de' Medici, l'ultima della famiglia: grazie al suo testamento i tesori dei Medici sono rimasti tutti a Firenze.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Anna Maria Luisa de' Medici",
+      "tono": "storico",
+      "indizio": "Domani: muore l'ultima dei Medici, che ha lasciato a Firenze tutti i suoi tesori."
+    },
+    {
+      "id": "02-18-1978",
+      "anno": 1978,
+      "titolo": "Il primo Ironman",
+      "testo": "Alle Hawaii quindici atleti partecipano al primo Ironman: quasi quattro chilometri a nuoto, centottanta in bicicletta e una maratona.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Ironman Hawaii",
+      "tono": "leggero",
+      "indizio": "Domani: quindici atleti inventano la gara più massacrante del mondo."
+    },
+    {
+      "id": "02-18-1229",
+      "anno": 1229,
+      "titolo": "Gerusalemme senza battaglia",
+      "testo": "Federico II firma con il sultano al-Kamil la pace di Giaffa: ottiene Gerusalemme, Betlemme e Nazaret senza combattere.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Sesta crociata",
+      "tono": "storico",
+      "indizio": "Domani: un imperatore ottiene Gerusalemme con la diplomazia."
+    },
+    {
+      "id": "02-18-1861",
+      "anno": 1861,
+      "titolo": "Il primo Parlamento italiano",
+      "testo": "A Torino Vittorio Emanuele II apre la prima seduta del Parlamento che proclamerà il Regno d'Italia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Proclamazione del Regno d'Italia",
+      "tono": "storico"
+    },
+    {
+      "id": "02-18-1977",
+      "anno": 1977,
+      "titolo": "L'Enterprise in groppa",
+      "testo": "Lo Shuttle Enterprise vola per la prima volta, agganciato sul dorso di un Boeing 747.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Space Shuttle Enterprise",
+      "tono": "leggero",
+      "indizio": "Domani: una navetta spaziale vola in groppa a un aereo di linea."
+    },
+    {
+      "id": "02-18-1995",
+      "anno": 1995,
+      "titolo": "Moratti compra l'Inter",
+      "testo": "Massimo Moratti diventa presidente dell'Inter, la squadra che era stata del padre Angelo.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Massimo Moratti",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-18-1943",
+      "anno": 1943,
+      "titolo": "La Rosa Bianca",
+      "testo": "A Monaco vengono arrestati i fratelli Hans e Sophie Scholl, della Rosa Bianca, mentre lanciano volantini contro il nazismo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rosa Bianca",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Alessandro Volta",
+      "anno": 1745,
+      "chi": "fisico comasco, inventore della pila",
+      "wiki": "Alessandro Volta"
+    },
+    {
+      "nome": "Enzo Ferrari",
+      "anno": 1898,
+      "chi": "fondatore della casa di Maranello",
+      "wiki": "Enzo Ferrari"
+    },
+    {
+      "nome": "Fabrizio De André",
+      "anno": 1940,
+      "chi": "cantautore genovese",
+      "wiki": "Fabrizio De André"
+    },
+    {
+      "nome": "John Travolta",
+      "anno": 1954,
+      "chi": "attore statunitense",
+      "wiki": "John Travolta"
+    },
+    {
+      "nome": "Roberto Baggio",
+      "anno": 1967,
+      "chi": "calciatore, il Divin Codino",
+      "wiki": "Roberto Baggio"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "spazio",
+      "titolo": "Una ragazzina dà il nome",
+      "testo": "Il nome Plutone, il dio degli inferi, lo propose Venetia Burney, una ragazzina di undici anni di Oxford. Piacque anche perché le prime due lettere sono le iniziali di Percival Lowell, fondatore dell'osservatorio."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il patto di famiglia",
+      "testo": "Nel suo patto di famiglia Anna Maria Luisa lasciò tutte le collezioni dei Medici alla Toscana, a una condizione: che nulla uscisse mai da Firenze. Per questo Uffizi e Palazzo Pitti sono ancora pieni."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "La pila di Volta",
+      "testo": "Alessandro Volta, nato oggi, costruì la prima pila nel 1799 impilando dischi di zinco e di rame separati da panni imbevuti di acqua salata. Da lui prende il nome il volt."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Bene, allora andrò all'inferno.",
+      "autore": "Mark Twain",
+      "fonte": "Le avventure di Huckleberry Finn"
+    },
+    {
+      "testo": "La macchina migliore è quella che deve ancora essere costruita.",
+      "autore": "attribuita a Enzo Ferrari",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Chi dipinge Cristo deve vivere con Cristo.",
+      "autore": "attribuita al Beato Angelico",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi s' pruwed' a temp' magna a bon'ora.",
+      "regione": "Lazio",
+      "traduzione": "Chi provvede in tempo mangia di buon'ora.",
+      "spiegazione": "Chi si organizza per tempo non resta mai senza.",
+      "fonte": "Wikiquote, Proverbi alatrensi"
+    },
+    {
+      "testo": "Il brāv miedi no l'ha pōre a scorteā.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Il bravo medico non ha paura di scorticare.",
+      "spiegazione": "Chi vuole davvero aiutare non teme di essere duro quando serve.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

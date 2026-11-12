@@ -1,0 +1,224 @@
+{
+  "schema": 1,
+  "giorno": "02-14",
+  "santo": {
+    "nome": "San Valentino",
+    "nota": "Vescovo di Terni martire nel III secolo, secondo la tradizione. Da secoli è il patrono degli innamorati: le sue reliquie sono nella basilica di Terni. Oggi si festeggiano anche Cirillo e Metodio, patroni d'Europa.",
+    "altri": [
+      "Santi Cirillo e Metodio",
+      "Sant'Antonino di Sorrento",
+      "San Vitale di Spoleto"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa degli innamorati",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-14-1876",
+      "anno": 1876,
+      "titolo": "Il brevetto del telefono",
+      "testo": "Alexander Graham Bell deposita a Washington il brevetto del telefono. Poche ore dopo arriva all'ufficio anche Elisha Gray, con un'invenzione simile.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Telefono",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore deposita un brevetto e batte di poche ore il suo rivale."
+    },
+    {
+      "id": "02-14-1946",
+      "anno": 1946,
+      "titolo": "Ecco ENIAC",
+      "testo": "All'università della Pennsylvania viene presentato ENIAC, il primo grande calcolatore elettronico: pesa trenta tonnellate e occupa una stanza intera.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "ENIAC",
+      "tono": "leggero",
+      "indizio": "Domani: viene presentato un computer che occupa una stanza intera."
+    },
+    {
+      "id": "02-14-1895",
+      "anno": 1895,
+      "titolo": "L'importanza di chiamarsi Ernesto",
+      "testo": "A Londra debutta la commedia di Oscar Wilde L'importanza di chiamarsi Ernesto: un trionfo di battute e di equivoci.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "L'importanza di chiamarsi Ernesto",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra va in scena una commedia sull'importanza di un nome."
+    },
+    {
+      "id": "02-14-2005",
+      "anno": 2005,
+      "titolo": "Nasce YouTube",
+      "testo": "Tre ex dipendenti di PayPal registrano il dominio youtube.com: il primo video, due mesi dopo, è un ragazzo davanti agli elefanti dello zoo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "YouTube",
+      "tono": "leggero",
+      "indizio": "Domani: tre giovani registrano il nome di un sito per condividere video."
+    },
+    {
+      "id": "02-14-1989",
+      "anno": 1989,
+      "titolo": "Il primo satellite GPS",
+      "testo": "Gli Stati Uniti lanciano il primo dei ventiquattro satelliti del sistema GPS, oggi in ogni telefono.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Global Positioning System",
+      "tono": "leggero",
+      "indizio": "Domani: parte il primo satellite del navigatore che oggi abbiamo in tasca."
+    },
+    {
+      "id": "02-14-842",
+      "anno": 842,
+      "titolo": "I giuramenti di Strasburgo",
+      "testo": "Ludovico il Germanico e Carlo il Calvo si alleano con un giuramento pronunciato in antico francese e antico tedesco: è il più antico testo in francese.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Giuramenti di Strasburgo",
+      "tono": "storico"
+    },
+    {
+      "id": "02-14-1849",
+      "anno": 1849,
+      "titolo": "Il primo presidente in foto",
+      "testo": "James Polk è il primo presidente degli Stati Uniti fotografato durante il suo mandato.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "James Knox Polk",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-14-1924",
+      "anno": 1924,
+      "titolo": "Nasce IBM",
+      "testo": "La Computing-Tabulating-Recording Company, erede della macchina di Hollerith, prende il nome International Business Machines.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "IBM",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-14-2003",
+      "anno": 2003,
+      "titolo": "Muore la pecora Dolly",
+      "testo": "Muore Dolly, il primo mammifero clonato da una cellula adulta: sarà imbalsamata ed esposta al museo di Edimburgo.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Pecora Dolly",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-14-1779",
+      "anno": 1779,
+      "titolo": "La morte di Cook",
+      "testo": "Alle Hawaii il capitano James Cook viene ucciso dagli indigeni durante uno scontro sulla spiaggia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "James Cook",
+      "tono": "tragico"
+    },
+    {
+      "id": "02-14-1929b",
+      "anno": 1929,
+      "titolo": "La strage di San Valentino",
+      "testo": "A Chicago gli uomini di Al Capone, travestiti da poliziotti, uccidono sette membri di una banda rivale.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Strage di San Valentino",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Frederick Douglass",
+      "anno": 1818,
+      "chi": "scrittore e abolizionista, ex schiavo",
+      "wiki": "Frederick Douglass"
+    },
+    {
+      "nome": "Jack Benny",
+      "anno": 1894,
+      "chi": "comico statunitense",
+      "wiki": "Jack Benny"
+    },
+    {
+      "nome": "Carl Bernstein",
+      "anno": 1944,
+      "chi": "giornalista del caso Watergate",
+      "wiki": "Carl Bernstein"
+    },
+    {
+      "nome": "Michael Bloomberg",
+      "anno": 1942,
+      "chi": "imprenditore e sindaco di New York",
+      "wiki": "Michael Bloomberg"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "Gli uccelli di Chaucer",
+      "testo": "Il legame fra San Valentino e gli innamorati compare per la prima volta in una poesia di Geoffrey Chaucer del Trecento: il giorno di San Valentino gli uccelli scelgono il compagno."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Ernesto e onesto",
+      "testo": "In inglese il titolo della commedia di Wilde gioca sul nome Ernest e sull'aggettivo earnest, «serio, onesto». In italiano il gioco di parole va perduto."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Cirillo e l'alfabeto",
+      "testo": "Il cirillico non lo inventò san Cirillo: lui creò il glagolitico. L'alfabeto che porta il suo nome nacque poco dopo, dai suoi discepoli, in suo onore."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "So resistere a tutto, tranne che alle tentazioni.",
+      "autore": "Oscar Wilde",
+      "fonte": "Il ventaglio di Lady Windermere"
+    },
+    {
+      "testo": "Per San Valentino, la primavera sta vicino.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Mr. Watson, venga qui, ho bisogno di lei.",
+      "autore": "Alexander Graham Bell",
+      "fonte": "prima telefonata, 1876"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Per San Valenten tutte j arie is giru an maren.",
+      "regione": "Piemonte",
+      "traduzione": "Per San Valentino tutte le arie si girano verso il mare.",
+      "spiegazione": "A metà febbraio i venti cambiano e portano l'aria più mite dal mare: si sente la primavera.",
+      "fonte": "Wikiquote, Proverbi paretesi"
+    },
+    {
+      "testo": "'A bona parola mògne, 'a trista pògne.",
+      "regione": "Campania",
+      "traduzione": "La buona parola munge, la cattiva punge.",
+      "spiegazione": "Con la gentilezza si ottiene tutto, con la cattiveria solo ferite.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

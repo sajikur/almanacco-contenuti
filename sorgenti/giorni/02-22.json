@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "giorno": "02-22",
+  "santo": {
+    "nome": "Cattedra di San Pietro",
+    "nota": "Festa antica che celebra il ruolo di Pietro come guida della Chiesa. Nella basilica vaticana la «cattedra» è racchiusa nel grande monumento di bronzo del Bernini.",
+    "altri": [
+      "Santa Margherita da Cortona",
+      "San Massimiano di Ravenna",
+      "San Papia di Ierapoli"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale del pensiero degli scout e delle guide",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-22-1931",
+      "anno": 1931,
+      "titolo": "Il varo dell'Amerigo Vespucci",
+      "testo": "Nei cantieri di Castellammare di Stabia viene varata l'Amerigo Vespucci, il veliero scuola della Marina militare: diventerà «la nave più bella del mondo».",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Amerigo Vespucci (veliero)",
+      "tono": "leggero",
+      "indizio": "Domani: in Campania scende in mare il veliero più elegante del mondo."
+    },
+    {
+      "id": "02-22-1980",
+      "anno": 1980,
+      "titolo": "Il miracolo sul ghiaccio",
+      "testo": "Alle Olimpiadi di Lake Placid una squadra di studenti universitari americani batte la fortissima Unione Sovietica di hockey su ghiaccio, 4 a 3.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Miracolo sul ghiaccio",
+      "tono": "leggero",
+      "indizio": "Domani: un gruppo di studenti batte la squadra più forte del mondo."
+    },
+    {
+      "id": "02-22-1997",
+      "anno": 1997,
+      "titolo": "La pecora Dolly",
+      "testo": "In Scozia gli scienziati del Roslin Institute annunciano Dolly, la prima pecora clonata da una cellula adulta.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Pecora Dolly",
+      "tono": "leggero",
+      "indizio": "Domani: in Scozia gli scienziati presentano una pecora molto speciale."
+    },
+    {
+      "id": "02-22-2017",
+      "anno": 2017,
+      "titolo": "I sette pianeti di TRAPPIST-1",
+      "testo": "La NASA annuncia che attorno a una piccola stella a quaranta anni luce girano sette pianeti grandi come la Terra, alcuni forse con acqua.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "TRAPPIST-1",
+      "tono": "leggero",
+      "indizio": "Domani: gli astronomi trovano sette Terre attorno a una stella vicina."
+    },
+    {
+      "id": "02-22-1495",
+      "anno": 1495,
+      "titolo": "Carlo VIII a Napoli",
+      "testo": "Il re di Francia Carlo VIII entra a Napoli senza combattere: la sua discesa in Italia apre un secolo di guerre.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Discesa di Carlo VIII in Italia",
+      "tono": "storico"
+    },
+    {
+      "id": "02-22-1993",
+      "anno": 1993,
+      "titolo": "Pablo Honey",
+      "testo": "Esce Pablo Honey, il primo album dei Radiohead, con il singolo Creep.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Pablo Honey",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-22-2021",
+      "anno": 2021,
+      "titolo": "I Daft Punk si sciolgono",
+      "testo": "Con un video intitolato Epilogue, i Daft Punk annunciano la fine del duo dopo ventotto anni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Daft Punk",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-22-1848",
+      "anno": 1848,
+      "titolo": "La rivoluzione di febbraio",
+      "testo": "A Parigi scoppia la rivoluzione che in tre giorni rovescerà re Luigi Filippo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rivoluzione francese del 1848",
+      "tono": "storico"
+    },
+    {
+      "id": "02-22-2021b",
+      "anno": 2021,
+      "titolo": "Luca Attanasio",
+      "testo": "In Congo un agguato a un convoglio umanitario uccide l'ambasciatore italiano Luca Attanasio e il carabiniere Vittorio Iacovacci.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Luca Attanasio",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "George Washington",
+      "anno": 1732,
+      "chi": "primo presidente degli Stati Uniti",
+      "wiki": "George Washington"
+    },
+    {
+      "nome": "Arthur Schopenhauer",
+      "anno": 1788,
+      "chi": "filosofo tedesco",
+      "wiki": "Arthur Schopenhauer"
+    },
+    {
+      "nome": "Heinrich Hertz",
+      "anno": 1857,
+      "chi": "fisico tedesco delle onde radio",
+      "wiki": "Heinrich Hertz"
+    },
+    {
+      "nome": "Robert Baden-Powell",
+      "anno": 1857,
+      "chi": "fondatore dello scautismo",
+      "wiki": "Robert Baden-Powell"
+    },
+    {
+      "nome": "Giulietta Masina",
+      "anno": 1921,
+      "chi": "attrice, la Gelsomina della Strada",
+      "wiki": "Giulietta Masina"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "La nave più bella del mondo",
+      "testo": "Nel 1962 la portaerei americana Independence incrociò nel Mediterraneo l'Amerigo Vespucci e le chiese con i segnali luminosi chi fosse. Alla risposta replicò: «Siete la nave più bella del mondo»."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "Lo stesso compleanno",
+      "testo": "Il fondatore degli scout, Robert Baden-Powell, e sua moglie Olave, capo delle guide, erano nati entrambi il 22 febbraio. Per questo oggi scout e guide di tutto il mondo si pensano a vicenda."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Hertz, nato oggi",
+      "testo": "Heinrich Hertz dimostrò che le onde elettromagnetiche esistono davvero. Dal suo nome viene l'hertz, l'unità di misura della frequenza: quella delle radio e dei processori."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Cercate di lasciare questo mondo un po' migliore di come lo avete trovato.",
+      "autore": "Robert Baden-Powell",
+      "fonte": "ultimo messaggio agli scout"
+    },
+    {
+      "testo": "Il talento colpisce un bersaglio che nessun altro può colpire; il genio colpisce un bersaglio che nessun altro può vedere.",
+      "autore": "Arthur Schopenhauer",
+      "fonte": "Il mondo come volontà e rappresentazione"
+    },
+    {
+      "testo": "Tu sei Pietro, e su questa pietra edificherò la mia Chiesa.",
+      "autore": "Vangelo di Matteo",
+      "fonte": "16,18"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A borsa pinn-a a fâ da passaporto.",
+      "regione": "Liguria",
+      "traduzione": "La borsa piena fa da passaporto.",
+      "spiegazione": "Con i soldi si aprono tutte le porte.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Ad ogni santo la sua candela.",
+      "regione": "Toscana",
+      "traduzione": "A ogni santo la sua candela.",
+      "spiegazione": "A ciascuno bisogna dare quello che gli spetta, senza dimenticare nessuno.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "giorno": "02-19",
+  "santo": {
+    "nome": "San Corrado Confalonieri",
+    "nota": "Nobile piacentino del Trecento: durante una caccia provocò per errore un incendio e, per riparare, lasciò tutto e si fece eremita. Visse a Noto, in Sicilia, di cui è il patrono.",
+    "altri": [
+      "San Barbato di Benevento",
+      "San Mansueto Savelli",
+      "San Proclo di Bisignano"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-19-1878",
+      "anno": 1878,
+      "titolo": "Il brevetto del fonografo",
+      "testo": "Thomas Edison ottiene il brevetto del fonografo, la prima macchina capace di registrare la voce e di farla riascoltare: fra tutte le sue invenzioni, era la sua preferita.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Fonografo",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore brevetta la macchina che fa parlare un cilindro."
+    },
+    {
+      "id": "02-19-1674",
+      "anno": 1674,
+      "titolo": "New York prende il nome",
+      "testo": "Con il trattato di Westminster gli olandesi cedono definitivamente agli inglesi Nuova Amsterdam, che diventa per sempre New York.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Nuova Amsterdam",
+      "tono": "leggero",
+      "indizio": "Domani: una città olandese cambia padrone e prende il nome che conosciamo."
+    },
+    {
+      "id": "02-19-1797",
+      "anno": 1797,
+      "titolo": "Il trattato di Tolentino",
+      "testo": "Napoleone impone a papa Pio VI il trattato di Tolentino: lo Stato pontificio deve cedere territori, denaro e un centinaio di capolavori d'arte, portati al Louvre.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Trattato di Tolentino",
+      "tono": "storico",
+      "indizio": "Domani: un generale francese si porta a Parigi cento capolavori italiani."
+    },
+    {
+      "id": "02-19-1861",
+      "anno": 1861,
+      "titolo": "Finisce la servitù in Russia",
+      "testo": "Secondo il calendario russo dell'epoca, lo zar Alessandro II firma il manifesto che libera i servi della gleba: più di venti milioni di contadini non sono più legati alla terra del padrone.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Riforma dell'emancipazione dei servi della gleba",
+      "tono": "storico"
+    },
+    {
+      "id": "02-19-1945",
+      "anno": 1945,
+      "titolo": "Lo sbarco a Iwo Jima",
+      "testo": "Trentamila marines americani sbarcano sull'isola vulcanica di Iwo Jima, nel Pacifico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Iwo Jima",
+      "tono": "storico"
+    },
+    {
+      "id": "02-19-2002",
+      "anno": 2002,
+      "titolo": "La mappa di Marte",
+      "testo": "La sonda Mars Odyssey comincia a mappare la superficie di Marte: troverà grandi quantità di ghiaccio sotto il suolo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 2,
+      "wiki": "2001 Mars Odyssey",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-19-1881",
+      "anno": 1881,
+      "titolo": "Il Kansas a secco",
+      "testo": "Il Kansas è il primo Stato americano a vietare tutte le bevande alcoliche.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Proibizionismo",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-19-1937",
+      "anno": 1937,
+      "titolo": "La strage di Addis Abeba",
+      "testo": "Dopo un attentato al viceré Graziani, le truppe e i civili italiani si scatenano per tre giorni contro la popolazione di Addis Abeba.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Strage di Addis Abeba",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Niccolò Copernico",
+      "anno": 1473,
+      "chi": "astronomo polacco del sistema eliocentrico",
+      "wiki": "Niccolò Copernico"
+    },
+    {
+      "nome": "Luigi Boccherini",
+      "anno": 1743,
+      "chi": "compositore e violoncellista lucchese",
+      "wiki": "Luigi Boccherini"
+    },
+    {
+      "nome": "Carson McCullers",
+      "anno": 1917,
+      "chi": "scrittrice statunitense",
+      "wiki": "Carson McCullers"
+    },
+    {
+      "nome": "Smokey Robinson",
+      "anno": 1940,
+      "chi": "cantante statunitense del soul",
+      "wiki": "Smokey Robinson"
+    },
+    {
+      "nome": "Massimo Troisi",
+      "anno": 1953,
+      "chi": "attore e regista napoletano",
+      "wiki": "Massimo Troisi"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Il libro sul letto di morte",
+      "testo": "Secondo la tradizione Copernico, nato oggi, ricevette la prima copia stampata del suo libro sul moto della Terra attorno al Sole il giorno stesso della sua morte, nel 1543."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Ricomincio da tre",
+      "testo": "Massimo Troisi, nato oggi a San Giorgio a Cremano, intitolò il suo primo film Ricomincio da tre: perché, spiegava, qualcosa nella vita l'aveva già fatto, quindi non ricominciava da zero."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Mary aveva un agnellino",
+      "testo": "Le prime parole registrate dal fonografo furono una filastrocca per bambini, cantata da Edison stesso. Quando la macchina gliela ripeté, raccontò, rimase senza parole."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Ricomincio da tre.",
+      "autore": "Massimo Troisi",
+      "fonte": "titolo del film, 1981"
+    },
+    {
+      "testo": "Chi si accontenta gode.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Ride bene chi ride ultimo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Carni fa carni, pani fa panza, e vinu fa danza.",
+      "regione": "Sicilia",
+      "traduzione": "La carne fa carne, il pane fa pancia e il vino fa ballare.",
+      "spiegazione": "Ogni cibo ha il suo effetto: il vino, in particolare, mette allegria.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "A basta 'n soris për fesse n'amis.",
+      "regione": "Piemonte",
+      "traduzione": "Basta un sorriso per farsi un amico.",
+      "spiegazione": "La gentilezza è il modo più semplice per conquistare le persone.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    }
+  ],
+  "prima_pagina": null
+}

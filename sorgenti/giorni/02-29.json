@@ -1,0 +1,190 @@
+{
+  "schema": 1,
+  "giorno": "02-29",
+  "santo": {
+    "nome": "Sant'Ilario papa",
+    "nota": "Nato in Sardegna, fu papa dal 461 al 468. Da legato papale era scampato al «brigantaggio di Efeso», un concilio finito in rissa, nascondendosi in una cappella. Si festeggia solo negli anni bisestili.",
+    "altri": [
+      "Sant'Osvaldo di Worcester",
+      "Sant'Augusto Chapdelaine",
+      "Beata Antonia da Firenze"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno bisestile",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-29-1504",
+      "anno": 1504,
+      "titolo": "Colombo e l'eclissi",
+      "testo": "Bloccato in Giamaica e senza viveri, Cristoforo Colombo sa da un almanacco che quella notte ci sarà un'eclissi di Luna: annuncia agli indigeni che il suo Dio oscurerà la Luna se non lo aiuteranno. Il trucco funziona.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Cristoforo Colombo",
+      "tono": "leggero",
+      "indizio": "Domani: un navigatore genovese usa un almanacco per spaventare un intero popolo."
+    },
+    {
+      "id": "02-29-1940",
+      "anno": 1940,
+      "titolo": "L'Oscar di Hattie McDaniel",
+      "testo": "Hattie McDaniel vince l'Oscar come attrice non protagonista per Via col vento: è la prima afroamericana a ricevere il premio.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Hattie McDaniel",
+      "tono": "leggero",
+      "indizio": "Domani: un'attrice afroamericana vince per la prima volta l'Oscar."
+    },
+    {
+      "id": "02-29-1712",
+      "anno": 1712,
+      "titolo": "Il 30 febbraio",
+      "testo": "Per tornare al calendario giuliano dopo un pasticcio di anni, la Svezia aggiunge un giorno: dopo il 29 febbraio 1712 viene il 30 febbraio, l'unico della storia.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "30 febbraio",
+      "tono": "leggero",
+      "indizio": "Domani: un Paese vive un giorno che non esiste in nessun altro calendario."
+    },
+    {
+      "id": "02-29-1880",
+      "anno": 1880,
+      "titolo": "Si incontrano sotto il Gottardo",
+      "testo": "Le squadre di minatori partite dalla Svizzera e dall'Italia si incontrano sotto il San Gottardo: la galleria ferroviaria è forata da parte a parte, con uno scarto di pochi centimetri.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Galleria ferroviaria del San Gottardo",
+      "tono": "leggero",
+      "indizio": "Domani: due squadre di minatori si incontrano sotto una montagna."
+    },
+    {
+      "id": "02-29-1692",
+      "anno": 1692,
+      "titolo": "Salem",
+      "testo": "A Salem, nel Massachusetts, vengono spiccati i primi mandati d'arresto contro tre donne accusate di stregoneria.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Processo alle streghe di Salem",
+      "tono": "storico"
+    },
+    {
+      "id": "02-29-1944",
+      "anno": 1944,
+      "titolo": "Le isole dell'Ammiragliato",
+      "testo": "Le truppe del generale MacArthur sbarcano sulle isole dell'Ammiragliato, nel Pacifico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Isole dell'Ammiragliato",
+      "tono": "storico"
+    },
+    {
+      "id": "02-29-2004",
+      "anno": 2004,
+      "titolo": "Aristide lascia Haiti",
+      "testo": "Una rivolta costringe il presidente di Haiti Jean-Bertrand Aristide a lasciare il Paese.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Jean-Bertrand Aristide",
+      "tono": "storico"
+    },
+    {
+      "id": "02-29-1960",
+      "anno": 1960,
+      "titolo": "Il terremoto di Agadir",
+      "testo": "Un terremoto distrugge la città marocchina di Agadir.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto di Agadir del 1960",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Papa Paolo III",
+      "anno": 1468,
+      "chi": "Alessandro Farnese, il papa del Concilio di Trento",
+      "wiki": "Papa Paolo III"
+    },
+    {
+      "nome": "Gioachino Rossini",
+      "anno": 1792,
+      "chi": "compositore pesarese del Barbiere di Siviglia",
+      "wiki": "Gioachino Rossini"
+    },
+    {
+      "nome": "Herman Hollerith",
+      "anno": 1860,
+      "chi": "inventore della macchina a schede perforate",
+      "wiki": "Herman Hollerith"
+    },
+    {
+      "nome": "Michèle Morgan",
+      "anno": 1920,
+      "chi": "attrice francese",
+      "wiki": "Michèle Morgan"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Diciotto compleanni",
+      "testo": "Gioachino Rossini, nato il 29 febbraio, in settantasei anni di vita festeggiò il compleanno nel giorno giusto solo diciotto volte: il 1800, infatti, non fu bisestile."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "Il giorno delle proposte",
+      "testo": "In Irlanda e in Scozia la tradizione vuole che il 29 febbraio sia la donna a chiedere all'uomo di sposarla. Chi rifiuta, secondo l'usanza, deve pagare un paio di guanti."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Perché esiste",
+      "testo": "L'anno solare dura circa 365 giorni e sei ore. Il 29 febbraio recupera quelle ore ogni quattro anni; e per correggere il piccolo avanzo, gli anni di fine secolo sono bisestili solo se divisibili per quattrocento."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Datemi la nota della lavandaia, e io la metterò in musica.",
+      "autore": "attribuita a Gioachino Rossini",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Ogni morte di papa.",
+      "autore": "Modo di dire",
+      "fonte": "per le cose che capitano di rado"
+    },
+    {
+      "testo": "Chi ha tempo non aspetti tempo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Qui comporat sa farina est cegu ad un oju, qui comporat su pane ad ambos.",
+      "regione": "Sardegna",
+      "traduzione": "Chi compra la farina è cieco da un occhio, chi compra il pane da tutti e due.",
+      "spiegazione": "Chi non sa farsi le cose da sé paga di più: meglio comprare la materia prima e lavorarla.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Vine ca zompa, pane ca canta, furmaggio ca chiagne.",
+      "regione": "Molise",
+      "traduzione": "Vino che salta, pane che canta, formaggio che piange.",
+      "spiegazione": "Le regole della buona tavola: il vino frizzante, il pane croccante che scricchiola, il formaggio che trasuda.",
+      "fonte": "Wikiquote, Proverbi molisani"
+    }
+  ],
+  "prima_pagina": null
+}

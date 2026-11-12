@@ -1,0 +1,213 @@
+{
+  "schema": 1,
+  "giorno": "02-27",
+  "santo": {
+    "nome": "San Gabriele dell'Addolorata",
+    "nota": "Francesco Possenti, ragazzo di Assisi amante delle feste e del teatro, si fece passionista e morì a ventitré anni a Isola del Gran Sasso. È il patrono della gioventù e dell'Abruzzo.",
+    "altri": [
+      "San Gregorio di Narek",
+      "San Baldomero di Lione",
+      "Beato Emanuele di Cremona"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-27-1996",
+      "anno": 1996,
+      "titolo": "Nascono i Pokémon",
+      "testo": "In Giappone escono per il Game Boy Pokémon Rosso e Pokémon Verde: catturare i mostriciattoli diventerà un fenomeno mondiale.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Pokémon Rosso e Verde",
+      "tono": "leggero",
+      "indizio": "Domani: in Giappone escono due giochi per catturare piccoli mostri tascabili."
+    },
+    {
+      "id": "02-27-1940",
+      "anno": 1940,
+      "titolo": "Il carbonio 14",
+      "testo": "In California Martin Kamen e Sam Ruben scoprono il carbonio 14: qualche anno dopo servirà a datare fossili, mummie e reperti archeologici.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Carbonio-14",
+      "tono": "leggero",
+      "indizio": "Domani: due chimici scoprono l'orologio nascosto in ogni essere vivente."
+    },
+    {
+      "id": "02-27-380",
+      "anno": 380,
+      "titolo": "L'editto di Tessalonica",
+      "testo": "Gli imperatori Teodosio, Graziano e Valentiniano II proclamano il cristianesimo religione ufficiale dell'impero romano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Editto di Tessalonica",
+      "tono": "storico",
+      "indizio": "Domani: il cristianesimo diventa la religione dell'impero."
+    },
+    {
+      "id": "02-27-2003",
+      "anno": 2003,
+      "titolo": "L'addio ad Alberto Sordi",
+      "testo": "A Roma, in piazza San Giovanni, centinaia di migliaia di persone salutano Alberto Sordi, l'Albertone nazionale.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Alberto Sordi",
+      "tono": "storico",
+      "indizio": "Domani: Roma saluta il suo attore più amato."
+    },
+    {
+      "id": "02-27-1870",
+      "anno": 1870,
+      "titolo": "Il Sol levante sulle navi",
+      "testo": "Per la prima volta le navi mercantili giapponesi issano la bandiera bianca con il disco rosso.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Bandiera del Giappone",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-27-1900",
+      "anno": 1900,
+      "titolo": "Nasce il Partito laburista",
+      "testo": "A Londra sindacati e gruppi socialisti fondano il Comitato per la rappresentanza del lavoro, che diventerà il Partito laburista.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Partito Laburista (Regno Unito)",
+      "tono": "storico"
+    },
+    {
+      "id": "02-27-1933",
+      "anno": 1933,
+      "titolo": "L'incendio del Reichstag",
+      "testo": "A Berlino va a fuoco il palazzo del Parlamento: Hitler lo userà per sospendere le libertà civili.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Incendio del Reichstag",
+      "tono": "storico"
+    },
+    {
+      "id": "02-27-1844",
+      "anno": 1844,
+      "titolo": "La Repubblica Dominicana",
+      "testo": "La Repubblica Dominicana proclama l'indipendenza da Haiti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Repubblica Dominicana",
+      "tono": "storico"
+    },
+    {
+      "id": "02-27-1593",
+      "anno": 1593,
+      "titolo": "Giordano Bruno in carcere",
+      "testo": "Giordano Bruno viene rinchiuso nelle prigioni del Sant'Uffizio a Roma, dove resterà sette anni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Giordano Bruno",
+      "tono": "storico"
+    },
+    {
+      "id": "02-27-1511",
+      "anno": 1511,
+      "titolo": "Il crudele giovedì grasso",
+      "testo": "A Udine, nel giovedì grasso, una rivolta popolare si trasforma in una strage di nobili.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Crudele zobia grassa",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Costantino il Grande",
+      "anno": 272,
+      "chi": "imperatore romano",
+      "wiki": "Costantino il Grande"
+    },
+    {
+      "nome": "Henry Wadsworth Longfellow",
+      "anno": 1807,
+      "chi": "poeta statunitense",
+      "wiki": "Henry Wadsworth Longfellow"
+    },
+    {
+      "nome": "Rudolf Steiner",
+      "anno": 1861,
+      "chi": "filosofo austriaco",
+      "wiki": "Rudolf Steiner"
+    },
+    {
+      "nome": "John Steinbeck",
+      "anno": 1902,
+      "chi": "scrittore statunitense di Furore",
+      "wiki": "John Steinbeck"
+    },
+    {
+      "nome": "Elizabeth Taylor",
+      "anno": 1932,
+      "chi": "attrice britannico-americana",
+      "wiki": "Elizabeth Taylor"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il collezionista di insetti",
+      "testo": "Satoshi Tajiri, l'ideatore dei Pokémon, da bambino collezionava insetti nei prati attorno a Tokyo. Voleva che i ragazzi di città provassero lo stesso piacere di cercare e scambiare."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "L'orologio dei fossili",
+      "testo": "Il carbonio 14 si dimezza in circa cinquemilasettecento anni. Misurando quanto ne resta in un osso o in un pezzo di legno, si capisce da quanto tempo è morto."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "Il santo dei ragazzi",
+      "testo": "Al santuario di San Gabriele, ai piedi del Gran Sasso, ogni anno arrivano due milioni di pellegrini, molti giovani. Per tradizione gli studenti ci vanno cento giorni prima della maturità."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Un viaggio è come una persona: non ce ne sono due uguali.",
+      "autore": "John Steinbeck",
+      "fonte": "Viaggio con Charley"
+    },
+    {
+      "testo": "Il riso abbonda sulla bocca degli stolti.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "A ogni uccello il suo nido è bello.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Trist'a cchi nen dé' niènde, ma chiù ttrist'a cchi nen dé' nisciune.",
+      "regione": "Abruzzo",
+      "traduzione": "Triste chi non ha niente, ma più triste chi non ha nessuno.",
+      "spiegazione": "La vera povertà non è la mancanza di soldi, ma la solitudine.",
+      "fonte": "Wikiquote, Proverbi abruzzesi"
+    },
+    {
+      "testo": "I rīs son la mignestre plui buine e la plui triste.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Il riso è la minestra più buona e la più cattiva.",
+      "spiegazione": "Lo stesso piatto può essere squisito o pessimo: tutto dipende da chi lo prepara.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

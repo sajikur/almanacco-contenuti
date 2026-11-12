@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "giorno": "02-24",
+  "santo": {
+    "nome": "Sant'Etelberto del Kent",
+    "nota": "Re del Kent, accolse nel 597 il monaco Agostino mandato da papa Gregorio Magno e fu il primo re inglese a farsi cristiano. Scrisse anche le prime leggi in lingua inglese.",
+    "altri": [
+      "San Modesto di Treviri",
+      "San Sergio di Cesarea",
+      "Beato Costanzo da Fabriano"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-24-1582",
+      "anno": 1582,
+      "titolo": "Nasce il calendario gregoriano",
+      "testo": "Papa Gregorio XIII firma la bolla Inter gravissimas: per rimettere a posto le stagioni, nell'ottobre di quell'anno si salteranno dieci giorni. È il calendario che usiamo ancora.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Calendario gregoriano",
+      "tono": "leggero",
+      "indizio": "Domani: un papa decide di far sparire dieci giorni dal calendario."
+    },
+    {
+      "id": "02-24-1607",
+      "anno": 1607,
+      "titolo": "L'Orfeo di Monteverdi",
+      "testo": "A Mantova, alla corte dei Gonzaga, va in scena L'Orfeo di Claudio Monteverdi: è considerata la prima grande opera lirica della storia.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "L'Orfeo",
+      "tono": "leggero",
+      "indizio": "Domani: a Mantova nasce il melodramma."
+    },
+    {
+      "id": "02-24-1525",
+      "anno": 1525,
+      "titolo": "La battaglia di Pavia",
+      "testo": "Le truppe di Carlo V sconfiggono i francesi a Pavia e catturano il re Francesco I.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Battaglia di Pavia (1525)",
+      "tono": "storico",
+      "indizio": "Domani: sotto le mura di Pavia un re di Francia finisce prigioniero."
+    },
+    {
+      "id": "02-24-1530",
+      "anno": 1530,
+      "titolo": "Carlo V incoronato a Bologna",
+      "testo": "Nella basilica di San Petronio, a Bologna, papa Clemente VII incorona imperatore Carlo V: è l'ultimo imperatore incoronato da un papa.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Carlo V d'Asburgo",
+      "tono": "storico",
+      "indizio": "Domani: a Bologna un papa incorona per l'ultima volta un imperatore."
+    },
+    {
+      "id": "02-24-1922",
+      "anno": 1922,
+      "titolo": "Enrico IV di Pirandello",
+      "testo": "Al Teatro Manzoni di Milano debutta Enrico IV di Luigi Pirandello: un uomo che dopo una caduta da cavallo crede di essere un imperatore, o finge di crederlo.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Enrico IV (Pirandello)",
+      "tono": "leggero",
+      "indizio": "Domani: a Milano va in scena un uomo che crede di essere un imperatore medievale."
+    },
+    {
+      "id": "02-24-2010",
+      "anno": 2010,
+      "titolo": "Dieci miliardi di canzoni",
+      "testo": "Il negozio online iTunes vende la sua decimiliardesima canzone.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "iTunes Store",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-24-1839",
+      "anno": 1839,
+      "titolo": "La scavatrice a vapore",
+      "testo": "L'americano William Otis brevetta l'escavatore a vapore.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Escavatore",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-24-1981",
+      "anno": 1981,
+      "titolo": "Carlo e Diana",
+      "testo": "Buckingham Palace annuncia il fidanzamento del principe Carlo con Lady Diana Spencer.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Diana Spencer",
+      "tono": "leggero",
+      "indizio": "Domani: un principe e una giovane maestra d'asilo annunciano il fidanzamento."
+    },
+    {
+      "id": "02-24-1917",
+      "anno": 1917,
+      "titolo": "Il telegramma Zimmermann",
+      "testo": "Gli inglesi consegnano agli americani il telegramma intercettato con cui la Germania proponeva al Messico un'alleanza contro gli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Telegramma Zimmermann",
+      "tono": "storico"
+    },
+    {
+      "id": "02-24-1918",
+      "anno": 1918,
+      "titolo": "L'Estonia indipendente",
+      "testo": "L'Estonia proclama la propria indipendenza.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Estonia",
+      "tono": "storico"
+    },
+    {
+      "id": "02-24-2022",
+      "anno": 2022,
+      "titolo": "L'invasione dell'Ucraina",
+      "testo": "Le forze armate russe invadono l'Ucraina.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Invasione russa dell'Ucraina del 2022",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Carlo V d'Asburgo",
+      "anno": 1500,
+      "chi": "imperatore, sul cui regno non tramontava mai il sole",
+      "wiki": "Carlo V d'Asburgo"
+    },
+    {
+      "nome": "Wilhelm Grimm",
+      "anno": 1786,
+      "chi": "raccoglitore di fiabe con il fratello Jacob",
+      "wiki": "Wilhelm Grimm"
+    },
+    {
+      "nome": "Arrigo Boito",
+      "anno": 1842,
+      "chi": "poeta e compositore, librettista di Verdi",
+      "wiki": "Arrigo Boito"
+    },
+    {
+      "nome": "Steve Jobs",
+      "anno": 1955,
+      "chi": "fondatore di Apple",
+      "wiki": "Steve Jobs"
+    },
+    {
+      "nome": "Alain Prost",
+      "anno": 1955,
+      "chi": "pilota francese, quattro volte campione del mondo",
+      "wiki": "Alain Prost"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Il giorno doppio",
+      "testo": "Nel calendario romano, negli anni bisestili, il giorno in più non era il 29 febbraio: si contava due volte il sesto giorno prima delle calende di marzo, cioè il 24 febbraio. Da bis sextus viene la parola «bisestile»."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Due compleanni fortunati",
+      "testo": "Carlo V era nato il 24 febbraio 1500. La vittoria di Pavia arrivò il giorno del suo venticinquesimo compleanno, e l'incoronazione a Bologna il giorno del trentesimo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Orfeo e il melodramma",
+      "testo": "L'Orfeo fu scritto per un pubblico ristretto di accademici, a Mantova. La partitura fu stampata subito, ed è grazie a quella che oggi possiamo ancora rappresentarlo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Di tutto non mi è rimasto che l'onore e la vita, che è salva.",
+      "autore": "Francesco I di Francia",
+      "fonte": "lettera alla madre dopo Pavia, 1525"
+    },
+    {
+      "testo": "Siate affamati, siate folli.",
+      "autore": "Steve Jobs",
+      "fonte": "discorso a Stanford, 2005"
+    },
+    {
+      "testo": "Anno bisesto, anno funesto.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "I bordei s'arfànn d' pezza.",
+      "regione": "Marche",
+      "traduzione": "I bambini si rifanno di pezza.",
+      "spiegazione": "I bambini guariscono presto e si riprendono in fretta da cadute e malanni.",
+      "fonte": "Wikiquote, Proverbi marchigiani"
+    },
+    {
+      "testo": "Nun tantu billi billi, ch'un sulu billi basta.",
+      "regione": "Sicilia",
+      "traduzione": "Non troppe moine: ne basta una sola.",
+      "spiegazione": "Le smancerie esagerate stancano: un po' di affetto, quanto basta, vale di più.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

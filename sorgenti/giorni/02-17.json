@@ -1,0 +1,217 @@
+{
+  "schema": 1,
+  "giorno": "02-17",
+  "santo": {
+    "nome": "Sette Santi Fondatori dei Servi di Maria",
+    "nota": "Sette mercanti fiorentini che nel Duecento lasciarono tutto per ritirarsi sul monte Senario, vicino a Firenze, e fondarono l'ordine dei Servi di Maria.",
+    "altri": [
+      "San Costabile Gentilcore",
+      "San Flaviano di Costantinopoli",
+      "Beata Elisabetta Sanna"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa nazionale del gatto",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Festa della libertà dei Valdesi",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-17-1980",
+      "anno": 1980,
+      "titolo": "L'Everest d'inverno",
+      "testo": "I polacchi Leszek Cichy e Krzysztof Wielicki raggiungono per la prima volta la vetta dell'Everest in pieno inverno, con il vento a duecento all'ora.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Krzysztof Wielicki",
+      "tono": "leggero",
+      "indizio": "Domani: due alpinisti polacchi conquistano l'Everest nel cuore dell'inverno."
+    },
+    {
+      "id": "02-17-1990",
+      "anno": 1990,
+      "titolo": "Nasce la festa del gatto",
+      "testo": "Dopo un referendum fra i lettori della rivista Tuttogatto, l'Italia sceglie il 17 febbraio come giornata dei gatti.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Giornata del gatto",
+      "tono": "leggero",
+      "indizio": "Domani: gli italiani scelgono un giorno tutto per i loro gatti."
+    },
+    {
+      "id": "02-17-1992",
+      "anno": 1992,
+      "titolo": "Comincia Mani pulite",
+      "testo": "A Milano viene arrestato in flagrante Mario Chiesa, presidente del Pio Albergo Trivulzio, mentre intasca una tangente: è l'inizio dell'inchiesta Mani pulite.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Mani pulite",
+      "tono": "storico",
+      "indizio": "Domani: a Milano un arresto apre l'inchiesta che cambierà la politica italiana."
+    },
+    {
+      "id": "02-17-1972",
+      "anno": 1972,
+      "titolo": "Il Maggiolino batte la Ford T",
+      "testo": "Il Maggiolino Volkswagen supera i quindici milioni di esemplari prodotti e toglie alla Ford Model T il record di auto più venduta della storia.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Volkswagen Maggiolino",
+      "tono": "leggero",
+      "indizio": "Domani: un'auto tedesca a forma di scarabeo batte un record vecchio di cinquant'anni."
+    },
+    {
+      "id": "02-17-1848",
+      "anno": 1848,
+      "titolo": "La libertà dei Valdesi",
+      "testo": "Con le lettere patenti di Carlo Alberto i Valdesi ottengono i diritti civili e politici. Nelle valli piemontesi la sera prima si accendono i falò, ancora oggi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Valdesi",
+      "tono": "storico",
+      "indizio": "Domani: nelle valli del Piemonte si accendono i falò per una libertà conquistata."
+    },
+    {
+      "id": "02-17-1996",
+      "anno": 1996,
+      "titolo": "Kasparov si rifà",
+      "testo": "A Filadelfia Garri Kasparov chiude la sfida contro Deep Blue vincendo per 4 a 2. L'anno dopo perderà la rivincita.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Deep Blue",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-17-1952",
+      "anno": 1952,
+      "titolo": "Giuliana Minuzzo",
+      "testo": "A Oslo la vicentina Giuliana Minuzzo vince il bronzo nella discesa libera: è la prima donna italiana a salire sul podio olimpico invernale.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Giuliana Minuzzo",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-17-1965",
+      "anno": 1965,
+      "titolo": "Ranger 8",
+      "testo": "Parte la sonda Ranger 8 che fotograferà il Mare della Tranquillità, dove scenderà l'Apollo 11.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 2,
+      "wiki": "Ranger 8",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-17-2008",
+      "anno": 2008,
+      "titolo": "Il Kosovo indipendente",
+      "testo": "Il Kosovo proclama l'indipendenza dalla Serbia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Kosovo",
+      "tono": "storico"
+    },
+    {
+      "id": "02-17-1600",
+      "anno": 1600,
+      "titolo": "Il rogo di Giordano Bruno",
+      "testo": "In Campo de' Fiori, a Roma, il filosofo Giordano Bruno viene arso vivo come eretico.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Giordano Bruno",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Arcangelo Corelli",
+      "anno": 1653,
+      "chi": "violinista e compositore di Fusignano",
+      "wiki": "Arcangelo Corelli"
+    },
+    {
+      "nome": "René Laennec",
+      "anno": 1781,
+      "chi": "medico francese, inventore dello stetoscopio",
+      "wiki": "René Laennec"
+    },
+    {
+      "nome": "Michael Jordan",
+      "anno": 1963,
+      "chi": "campione di basket dei Chicago Bulls",
+      "wiki": "Michael Jordan"
+    },
+    {
+      "nome": "Ed Sheeran",
+      "anno": 1991,
+      "chi": "cantautore britannico",
+      "wiki": "Ed Sheeran"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Perché proprio il 17",
+      "testo": "Il 17 febbraio fu scelto per i gatti perché febbraio è il mese dell'Acquario, segno degli spiriti liberi, e perché il 17, numero sfortunato, si può leggere come «una vita per sette volte»."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Un rotolo di carta",
+      "testo": "Laennec, nato oggi, inventò lo stetoscopio nel 1816 arrotolando un quaderno: era imbarazzato ad appoggiare l'orecchio sul petto di una giovane paziente."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "La statua di Campo de' Fiori",
+      "testo": "La statua di Giordano Bruno in Campo de' Fiori fu inaugurata nel 1889 ed è rivolta verso il Vaticano. Ogni 17 febbraio vi si depongono fiori."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Forse tremate più voi nel pronunciare questa sentenza che io nell'ascoltarla.",
+      "autore": "Giordano Bruno",
+      "fonte": "1600"
+    },
+    {
+      "testo": "Ho sbagliato più di novemila tiri nella mia carriera. Per questo ho successo.",
+      "autore": "attribuita a Michael Jordan",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Quando il gatto non c'è, i topi ballano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Ad s'abe qui punghet ndeli falat sa matta.",
+      "regione": "Sardegna",
+      "traduzione": "All'ape che punge cade la pancia.",
+      "spiegazione": "Chi fa del male agli altri spesso finisce per farne a se stesso.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "L'avaru è come lu porcu, è bonu quann'è mortu.",
+      "regione": "Umbria",
+      "traduzione": "L'avaro è come il maiale, è buono quando è morto.",
+      "spiegazione": "Dall'avaro non si ricava nulla finché è in vita.",
+      "fonte": "Wikiquote, Proverbi umbri"
+    }
+  ],
+  "prima_pagina": null
+}

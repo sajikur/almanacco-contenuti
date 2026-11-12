@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "giorno": "02-15",
+  "santo": {
+    "nome": "Santi Faustino e Giovita",
+    "nota": "Due fratelli cavalieri di Brescia, martiri nel II secolo, patroni della città. Oggi, per gioco, la loro festa è diventata quella dei single: San Faustino dopo San Valentino.",
+    "altri": [
+      "San Claudio de la Colombière",
+      "Santa Giorgia",
+      "San Sigfrido di Växjö"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa dei single, per San Faustino",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-15-1965",
+      "anno": 1965,
+      "titolo": "La foglia d'acero",
+      "testo": "Il Canada adotta la nuova bandiera bianca e rossa con la foglia d'acero al centro.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Bandiera del Canada",
+      "tono": "leggero",
+      "indizio": "Domani: un Paese adotta una bandiera con una foglia."
+    },
+    {
+      "id": "02-15-1903",
+      "anno": 1903,
+      "titolo": "Il primo orsacchiotto",
+      "testo": "A Brooklyn Morris e Rose Michtom mettono in vetrina un orsetto di pezza dedicato al presidente Theodore Roosevelt, che aveva rifiutato di sparare a un orso legato: nasce il Teddy bear.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Orsacchiotto",
+      "tono": "leggero",
+      "indizio": "Domani: due negozianti di Brooklyn cuciono un orso di pezza e lo dedicano al presidente."
+    },
+    {
+      "id": "02-15-1971",
+      "anno": 1971,
+      "titolo": "La sterlina decimale",
+      "testo": "Il Regno Unito abbandona scellini e pence vecchi: da oggi una sterlina vale cento pence.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Decimal Day",
+      "tono": "leggero",
+      "indizio": "Domani: gli inglesi imparano a contare i soldi in modo nuovo."
+    },
+    {
+      "id": "02-15-1113",
+      "anno": 1113,
+      "titolo": "I Cavalieri di San Giovanni",
+      "testo": "Papa Pasquale II riconosce i Cavalieri ospitalieri di San Giovanni di Gerusalemme: diventeranno i Cavalieri di Malta.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Sovrano militare ordine di Malta",
+      "tono": "storico",
+      "indizio": "Domani: nasce l'ordine cavalleresco che diventerà quello di Malta."
+    },
+    {
+      "id": "02-15-2003",
+      "anno": 2003,
+      "titolo": "Il mondo contro la guerra",
+      "testo": "In centinaia di città si manifesta contro la guerra in Iraq: a Roma sfila la manifestazione più grande del mondo, con milioni di persone.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Manifestazione del 15 febbraio 2003",
+      "tono": "storico",
+      "indizio": "Domani: Roma ospita il corteo più grande del pianeta."
+    },
+    {
+      "id": "02-15-2013",
+      "anno": 2013,
+      "titolo": "Il bolide di Čeljabinsk",
+      "testo": "Un meteorite di una ventina di metri esplode nel cielo di Čeljabinsk, in Russia: l'onda d'urto infrange migliaia di finestre.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Evento di Čeljabinsk",
+      "tono": "storico",
+      "indizio": "Domani: un sasso dallo spazio esplode sopra una città russa."
+    },
+    {
+      "id": "02-15-1764",
+      "anno": 1764,
+      "titolo": "Nasce Saint Louis",
+      "testo": "Due mercanti francesi di pellicce fondano Saint Louis, sul Mississippi.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Saint Louis",
+      "tono": "storico"
+    },
+    {
+      "id": "02-15-1995",
+      "anno": 1995,
+      "titolo": "Arrestato Kevin Mitnick",
+      "testo": "L'FBI arresta Kevin Mitnick, l'hacker più ricercato d'America.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Kevin Mitnick",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-15-1898",
+      "anno": 1898,
+      "titolo": "La corazzata Maine",
+      "testo": "Nel porto dell'Avana esplode la corazzata americana Maine: sarà il pretesto per la guerra contro la Spagna.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "USS Maine (ACR-1)",
+      "tono": "tragico"
+    },
+    {
+      "id": "02-15-1944",
+      "anno": 1944,
+      "titolo": "Il bombardamento di Montecassino",
+      "testo": "I bombardieri alleati distruggono l'abbazia di Montecassino, fondata da san Benedetto.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Cassino",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Galileo Galilei",
+      "anno": 1564,
+      "chi": "scienziato pisano, padre del metodo sperimentale",
+      "wiki": "Galileo Galilei"
+    },
+    {
+      "nome": "Susan B. Anthony",
+      "anno": 1820,
+      "chi": "attivista per il voto alle donne",
+      "wiki": "Susan B. Anthony"
+    },
+    {
+      "nome": "Ernest Shackleton",
+      "anno": 1874,
+      "chi": "esploratore dell'Antartide",
+      "wiki": "Ernest Shackleton"
+    },
+    {
+      "nome": "Totò",
+      "anno": 1898,
+      "chi": "attore napoletano, il principe della risata",
+      "wiki": "Totò"
+    },
+    {
+      "nome": "Matt Groening",
+      "anno": 1954,
+      "chi": "fumettista, creatore dei Simpson",
+      "wiki": "Matt Groening"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il principe dai mille nomi",
+      "testo": "Totò, nato oggi, si chiamava Antonio de Curtis, ma si fece riconoscere una lunga serie di titoli nobiliari: Griffo Focas Flavio Ducas Comneno Porfirogenito Gagliardi, e altri ancora."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una famiglia vera",
+      "testo": "Matt Groening, nato oggi, diede ai Simpson i nomi della sua famiglia: il padre Homer, la madre Margaret, le sorelle Lisa e Maggie. Bart è l'anagramma di brat, «monello»."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Lo stesso giorno di Galileo",
+      "testo": "Galileo nacque a Pisa il 15 febbraio 1564, pochi giorni prima della morte di Michelangelo: per molti fu il passaggio di testimone fra l'arte e la scienza."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Signori si nasce, e io lo nacqui, modestamente!",
+      "autore": "Totò",
+      "fonte": "Signori si nasce, 1960"
+    },
+    {
+      "testo": "Misura ciò che è misurabile, e rendi misurabile ciò che non lo è.",
+      "autore": "attribuita a Galileo Galilei",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Febbraio, febbraiuccio, corto corto e maledettuccio.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "L'è mèi piegàs che scàesas.",
+      "regione": "Lombardia",
+      "traduzione": "È meglio piegarsi che spezzarsi.",
+      "spiegazione": "Davanti alle difficoltà conviene adattarsi un po' piuttosto che rompersi per testardaggine.",
+      "fonte": "Wikiquote, Proverbi camuni"
+    },
+    {
+      "testo": "Â altare sgarrupato nun s'appicciano cannele.",
+      "regione": "Campania",
+      "traduzione": "All'altare diroccato non si accendono candele.",
+      "spiegazione": "Chi è caduto in disgrazia viene presto dimenticato da tutti.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,233 @@
+{
+  "schema": 1,
+  "giorno": "02-20",
+  "santo": {
+    "nome": "Santa Giacinta Marto",
+    "nota": "Uno dei tre pastorelli di Fátima, in Portogallo, che nel 1917 raccontarono di aver visto la Madonna. Morì bambina di malattia nel 1920 ed è fra le più giovani sante non martiri.",
+    "altri": [
+      "San Leone di Catania",
+      "Sant'Eleuterio di Tournai",
+      "Beata Amata d'Assisi"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-20-1943",
+      "anno": 1943,
+      "titolo": "Il vulcano nel campo di mais",
+      "testo": "In Messico, mentre il contadino Dionisio Pulido ara il suo campo, la terra si apre e comincia a fumare: è la nascita del vulcano Parícutin, che in un anno diventerà alto più di trecento metri.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Parícutin",
+      "tono": "leggero",
+      "indizio": "Domani: un contadino messicano vede nascere un vulcano in mezzo al suo campo."
+    },
+    {
+      "id": "02-20-1816",
+      "anno": 1816,
+      "titolo": "Il barbiere di Siviglia",
+      "testo": "Al Teatro Argentina di Roma debutta Il barbiere di Siviglia di Rossini: la prima sera è un disastro di fischi, dalla seconda un trionfo che dura ancora.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Il barbiere di Siviglia (Rossini)",
+      "tono": "leggero",
+      "indizio": "Domani: a Roma va in scena un'opera fischiata la prima sera e amata per sempre."
+    },
+    {
+      "id": "02-20-1909",
+      "anno": 1909,
+      "titolo": "Il Manifesto del Futurismo",
+      "testo": "Sulla prima pagina del quotidiano parigino Le Figaro Filippo Tommaso Marinetti pubblica il Manifesto del Futurismo: velocità, macchine, coraggio, e basta con il passato.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Manifesto del Futurismo",
+      "tono": "leggero",
+      "indizio": "Domani: un poeta italiano pubblica a Parigi un manifesto per la velocità e le macchine."
+    },
+    {
+      "id": "02-20-1962",
+      "anno": 1962,
+      "titolo": "Glenn in orbita",
+      "testo": "John Glenn, a bordo della capsula Friendship 7, compie tre giri attorno alla Terra: è il primo americano in orbita.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Mercury-Atlas 6",
+      "tono": "leggero",
+      "indizio": "Domani: un astronauta americano fa tre volte il giro del mondo in poche ore."
+    },
+    {
+      "id": "02-20-1872",
+      "anno": 1872,
+      "titolo": "Il Metropolitan Museum",
+      "testo": "A New York apre al pubblico il Metropolitan Museum of Art, in un edificio sulla Quinta Strada.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Metropolitan Museum of Art",
+      "tono": "leggero",
+      "indizio": "Domani: a New York apre un museo che diventerà uno dei più grandi del mondo."
+    },
+    {
+      "id": "02-20-1986",
+      "anno": 1986,
+      "titolo": "Comincia la Mir",
+      "testo": "L'Unione Sovietica lancia il primo modulo della stazione spaziale Mir, che resterà in orbita quindici anni.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Mir (stazione spaziale)",
+      "tono": "leggero",
+      "indizio": "Domani: parte il primo pezzo di una casa nello spazio."
+    },
+    {
+      "id": "02-20-1935",
+      "anno": 1935,
+      "titolo": "La prima donna in Antartide",
+      "testo": "La norvegese Caroline Mikkelsen, moglie di un capitano baleniere, è la prima donna a mettere piede sull'Antartide.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Caroline Mikkelsen",
+      "tono": "leggero",
+      "indizio": "Domani: una donna mette per la prima volta piede sul continente di ghiaccio."
+    },
+    {
+      "id": "02-20-1938",
+      "anno": 1938,
+      "titolo": "Il romancio lingua nazionale",
+      "testo": "Con un referendum gli svizzeri riconoscono il romancio, parlato nei Grigioni, come quarta lingua nazionale.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Lingua romancia",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-20-1844",
+      "anno": 1844,
+      "titolo": "L'inno sardo",
+      "testo": "A Cagliari viene eseguito per la prima volta S'hymnu sardu nationale, l'inno del Regno di Sardegna.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "S'hymnu sardu nationale",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-20-1878",
+      "anno": 1878,
+      "titolo": "Leone XIII",
+      "testo": "Il cardinale Gioacchino Pecci viene eletto papa con il nome di Leone XIII: sarà il papa della Rerum novarum.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Papa Leone XIII",
+      "tono": "storico",
+      "indizio": "Domani: Roma ha un nuovo papa."
+    },
+    {
+      "id": "02-20-1958",
+      "anno": 1958,
+      "titolo": "La legge Merlin",
+      "testo": "Viene promulgata la legge Merlin, che chiude le case di tolleranza in Italia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Legge Merlin",
+      "tono": "storico"
+    },
+    {
+      "id": "02-20-1810",
+      "anno": 1810,
+      "titolo": "Andreas Hofer",
+      "testo": "A Mantova i francesi fucilano Andreas Hofer, l'eroe dell'insurrezione tirolese.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Andreas Hofer",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Ansel Adams",
+      "anno": 1902,
+      "chi": "fotografo statunitense dei parchi nazionali",
+      "wiki": "Ansel Adams"
+    },
+    {
+      "nome": "Sidney Poitier",
+      "anno": 1927,
+      "chi": "attore statunitense",
+      "wiki": "Sidney Poitier"
+    },
+    {
+      "nome": "Kurt Cobain",
+      "anno": 1967,
+      "chi": "cantante dei Nirvana",
+      "wiki": "Kurt Cobain"
+    },
+    {
+      "nome": "Rihanna",
+      "anno": 1988,
+      "chi": "cantante delle Barbados",
+      "wiki": "Rihanna"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "La prima sera del Barbiere",
+      "testo": "Alla prima del Barbiere, racconta la cronaca, un gatto entrò in scena, l'attore che faceva Basilio inciampò e sanguinò dal naso, e una chitarra si scordò. Il pubblico, pieno di ammiratori di un rivale, fischiò tutto."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Un vulcano davanti agli occhi",
+      "testo": "Il Parícutin è uno dei pochi vulcani di cui gli scienziati hanno seguito la nascita dal primo giorno. Le sue lave seppellirono due villaggi; della chiesa di San Juan spunta ancora il campanile."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Che Dio ti accompagni",
+      "testo": "Al momento del lancio di Glenn un collega disse alla radio «Godspeed, John Glenn», che Dio ti accompagni. Nel 1998, a settantasette anni, Glenn tornò nello spazio con lo Shuttle."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Largo al factotum della città!",
+      "autore": "Cesare Sterbini",
+      "fonte": "Il barbiere di Siviglia"
+    },
+    {
+      "testo": "Un'automobile ruggente è più bella della Vittoria di Samotracia.",
+      "autore": "Filippo Tommaso Marinetti",
+      "fonte": "Manifesto del Futurismo"
+    },
+    {
+      "testo": "Chi non risica non rosica.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Neu bella senza peccu, neu fea senza tractu.",
+      "regione": "Sardegna",
+      "traduzione": "Nessuna bella senza difetto, nessuna brutta senza grazia.",
+      "spiegazione": "Nessuno è perfetto e nessuno è privo di qualità: bisogna guardare l'insieme.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Addò c'è gguste, nen g'è pperdènze.",
+      "regione": "Abruzzo",
+      "traduzione": "Dove c'è gusto non c'è perdita.",
+      "spiegazione": "Quello che si fa con piacere non pesa mai, anche se costa fatica o denaro.",
+      "fonte": "Wikiquote, Proverbi abruzzesi"
+    }
+  ],
+  "prima_pagina": null
+}

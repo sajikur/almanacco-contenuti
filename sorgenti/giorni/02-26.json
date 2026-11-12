@@ -1,0 +1,213 @@
+{
+  "schema": 1,
+  "giorno": "02-26",
+  "santo": {
+    "nome": "San Porfirio di Gaza",
+    "nota": "Monaco nato a Tessalonica, visse in Egitto e in Palestina e fu vescovo di Gaza all'inizio del V secolo.",
+    "altri": [
+      "Sant'Alessandro di Alessandria",
+      "San Faustiniano di Bologna",
+      "Santa Paola Montal"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-26-1815",
+      "anno": 1815,
+      "titolo": "Napoleone lascia l'Elba",
+      "testo": "Napoleone fugge dall'isola d'Elba con un migliaio di uomini e sbarca in Francia: comincia l'avventura dei Cento giorni, che finirà a Waterloo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Cento giorni",
+      "tono": "storico",
+      "indizio": "Domani: un imperatore in esilio scappa da un'isola toscana."
+    },
+    {
+      "id": "02-26-1909",
+      "anno": 1909,
+      "titolo": "Il primo film a colori",
+      "testo": "A Londra il pubblico vede il primo film a colori della storia, A Visit to the Seaside, girato con il sistema Kinemacolor.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Kinemacolor",
+      "tono": "leggero",
+      "indizio": "Domani: il cinema si tinge per la prima volta di colori."
+    },
+    {
+      "id": "02-26-1991",
+      "anno": 1991,
+      "titolo": "Il primo browser",
+      "testo": "Tim Berners-Lee distribuisce WorldWideWeb, il primo programma per navigare e scrivere pagine sul web, creato al CERN di Ginevra.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "WorldWideWeb",
+      "tono": "leggero",
+      "indizio": "Domani: un informatico del CERN distribuisce il primo programma per navigare sul web."
+    },
+    {
+      "id": "02-26-1606",
+      "anno": 1606,
+      "titolo": "Gli europei in Australia",
+      "testo": "Il navigatore olandese Willem Janszoon sbarca sulla penisola di Capo York: è il primo europeo di cui si abbia notizia a mettere piede in Australia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Willem Janszoon",
+      "tono": "storico",
+      "indizio": "Domani: un navigatore olandese mette piede su un continente sconosciuto."
+    },
+    {
+      "id": "02-26-2006",
+      "anno": 2006,
+      "titolo": "Si chiudono i Giochi di Torino",
+      "testo": "Si chiudono le Olimpiadi invernali di Torino: l'Italia vince cinque ori, fra cui la staffetta di sci di fondo.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "XX Giochi olimpici invernali",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-26-1266",
+      "anno": 1266,
+      "titolo": "La battaglia di Benevento",
+      "testo": "Carlo d'Angiò sconfigge e uccide Manfredi di Svevia: il Regno di Sicilia passa ai francesi. Dante ricorda le sue ossa sotto la «grave mora».",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Benevento",
+      "tono": "storico"
+    },
+    {
+      "id": "02-26-1956",
+      "anno": 1956,
+      "titolo": "La destalinizzazione",
+      "testo": "A Mosca si chiude il XX Congresso del partito, in cui Chruščëv ha denunciato i crimini di Stalin in un discorso segreto.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rapporto segreto",
+      "tono": "storico"
+    },
+    {
+      "id": "02-26-1999",
+      "anno": 1999,
+      "titolo": "Il Pentium III",
+      "testo": "Intel mette in vendita il processore Pentium III.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Pentium III",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-26-1154",
+      "anno": 1154,
+      "titolo": "Muore Ruggero II",
+      "testo": "A Palermo muore Ruggero II, il fondatore del Regno di Sicilia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Ruggero II di Sicilia",
+      "tono": "storico"
+    },
+    {
+      "id": "02-26-1993",
+      "anno": 1993,
+      "titolo": "La bomba al World Trade Center",
+      "testo": "Un'autobomba esplode nel garage sotto la torre nord del World Trade Center di New York.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Attentato al World Trade Center del 1993",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Victor Hugo",
+      "anno": 1802,
+      "chi": "scrittore francese dei Miserabili",
+      "wiki": "Victor Hugo"
+    },
+    {
+      "nome": "Honoré Daumier",
+      "anno": 1808,
+      "chi": "caricaturista francese",
+      "wiki": "Honoré Daumier"
+    },
+    {
+      "nome": "Levi Strauss",
+      "anno": 1829,
+      "chi": "inventore dei jeans",
+      "wiki": "Levi Strauss"
+    },
+    {
+      "nome": "Buffalo Bill",
+      "anno": 1846,
+      "chi": "il re del Far West spettacolo",
+      "wiki": "Buffalo Bill"
+    },
+    {
+      "nome": "Johnny Cash",
+      "anno": 1932,
+      "chi": "cantante country statunitense",
+      "wiki": "Johnny Cash"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "lingua",
+      "titolo": "I jeans di Genova",
+      "testo": "Levi Strauss, nato oggi, fece fortuna con i pantaloni da lavoro di tela blu. La parola jeans viene da Gênes, il nome francese di Genova, il porto da cui partiva quella tela robusta."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "Buffalo Bill contro i butteri",
+      "testo": "Nel 1890 Buffalo Bill portò in Italia il suo spettacolo del Far West. A Roma i butteri della Maremma lo sfidarono a domare i cavalli: secondo la tradizione locale vinsero gli italiani."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "I cento giorni",
+      "testo": "Fra la fuga dall'Elba e il ritorno di Luigi XVIII sul trono passarono in realtà centoundici giorni. Il nome Cento giorni lo inventò il prefetto di Parigi in un discorso al re."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Nulla è più potente di un'idea il cui tempo è giunto.",
+      "autore": "attribuita a Victor Hugo",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Morto un papa se ne fa un altro.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi semina raccoglie.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Con la fam ël pan dur a ven frol.",
+      "regione": "Piemonte",
+      "traduzione": "Con la fame il pane duro diventa friabile.",
+      "spiegazione": "Quando c'è bisogno ci si accontenta di tutto, e anche il poco sembra buono.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "De la cerqua ce nasce la cerquignòla.",
+      "regione": "Lazio",
+      "traduzione": "Dalla quercia nasce la piccola quercia.",
+      "spiegazione": "I figli somigliano ai genitori: dal buon albero nasce buona pianta.",
+      "fonte": "Wikiquote, Proverbi romani"
+    }
+  ],
+  "prima_pagina": null
+}
