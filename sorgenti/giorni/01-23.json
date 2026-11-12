@@ -1,0 +1,232 @@
+{
+  "schema": 1,
+  "giorno": "01-23",
+  "santo": {
+    "nome": "Sant'Emerenziana",
+    "nota": "Giovane romana, sorella di latte di sant'Agnese: secondo la tradizione fu lapidata mentre pregava sulla sua tomba. Il calendario ricorda anche lo sposalizio di Maria e Giuseppe.",
+    "altri": [
+      "Sant'Ildefonso di Toledo",
+      "Sant'Amasio di Teano",
+      "Beata Margherita Molli"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Sposalizio di Maria e Giuseppe",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-23-1932",
+      "anno": 1932,
+      "titolo": "La Settimana Enigmistica",
+      "testo": "Esce il primo numero della Settimana Enigmistica: in copertina un'attrice, nelle pagine cruciverba e rebus. Non ha mai smesso di uscire.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "La Settimana Enigmistica",
+      "tono": "leggero",
+      "indizio": "Domani: esce un giornale di cruciverba che non smetterà più di uscire."
+    },
+    {
+      "id": "01-23-1960",
+      "anno": 1960,
+      "titolo": "In fondo all'oceano",
+      "testo": "Il batiscafo Trieste, costruito in Italia, scende nella fossa delle Marianne fino a quasi undicimila metri con Jacques Piccard e Don Walsh: è il punto più profondo degli oceani.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Trieste (batiscafo)",
+      "tono": "leggero",
+      "indizio": "Domani: un batiscafo nato a Trieste scende nel punto più profondo della Terra."
+    },
+    {
+      "id": "01-23-1719",
+      "anno": 1719,
+      "titolo": "Nasce il Liechtenstein",
+      "testo": "Le contee di Vaduz e Schellenberg diventano il principato del Liechtenstein: una piccola nazione che esiste ancora oggi.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Liechtenstein",
+      "tono": "leggero",
+      "indizio": "Domani: nasce un principato grande come un comune."
+    },
+    {
+      "id": "01-23-1799",
+      "anno": 1799,
+      "titolo": "La Repubblica napoletana",
+      "testo": "Le truppe francesi entrano a Napoli e nasce la Repubblica napoletana: durerà cinque mesi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Repubblica Napoletana (1799)",
+      "tono": "storico",
+      "indizio": "Domani: a Napoli nasce una repubblica destinata a durare pochi mesi."
+    },
+    {
+      "id": "01-23-2003",
+      "anno": 2003,
+      "titolo": "L'ultimo segnale del Pioneer 10",
+      "testo": "La Terra riceve per l'ultima volta un segnale dalla sonda Pioneer 10, partita nel 1972: era a più di dodici miliardi di chilometri.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Pioneer 10",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda lontanissima manda il suo ultimo saluto."
+    },
+    {
+      "id": "01-23-1976",
+      "anno": 1976,
+      "titolo": "Munari a Monte Carlo",
+      "testo": "Sandro Munari, con la Lancia Stratos, vince il Rally di Monte Carlo per la seconda volta di fila.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Sandro Munari",
+      "tono": "leggero",
+      "indizio": "Domani: un pilota italiano domina le strade del Principato di Monaco."
+    },
+    {
+      "id": "01-23-1986",
+      "anno": 1986,
+      "titolo": "La Rock and Roll Hall of Fame",
+      "testo": "Vengono ammessi i primi musicisti nella Rock and Roll Hall of Fame: fra loro Elvis, Chuck Berry, Ray Charles e Buddy Holly.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Rock and Roll Hall of Fame",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-23-1896",
+      "anno": 1896,
+      "titolo": "La radiografia in pubblico",
+      "testo": "A Würzburg Röntgen presenta i raggi X in una conferenza e radiografa davanti a tutti la mano di un anziano anatomista.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Wilhelm Conrad Röntgen",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-23-1978",
+      "anno": 1978,
+      "titolo": "Basta spray",
+      "testo": "La Svezia è il primo Paese a vietare le bombolette spray con i gas che danneggiano lo strato di ozono.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Clorofluorocarburi",
+      "tono": "leggero",
+      "indizio": "Domani: un Paese del Nord dichiara guerra alle bombolette spray."
+    },
+    {
+      "id": "01-23-1933",
+      "anno": 1933,
+      "titolo": "Nasce l'IRI",
+      "testo": "Viene fondato l'Istituto per la ricostruzione industriale, guidato da Alberto Beneduce.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Istituto per la ricostruzione industriale",
+      "tono": "storico"
+    },
+    {
+      "id": "01-23-1556",
+      "anno": 1556,
+      "titolo": "Il terremoto dello Shaanxi",
+      "testo": "Un terremoto colpisce la provincia cinese dello Shaanxi: è uno dei più disastrosi della storia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto dello Shaanxi del 1556",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Stendhal",
+      "anno": 1783,
+      "chi": "scrittore francese, autore del Rosso e il nero",
+      "wiki": "Stendhal"
+    },
+    {
+      "nome": "Édouard Manet",
+      "anno": 1832,
+      "chi": "pittore francese",
+      "wiki": "Édouard Manet"
+    },
+    {
+      "nome": "Django Reinhardt",
+      "anno": 1910,
+      "chi": "chitarrista jazz belga",
+      "wiki": "Django Reinhardt"
+    },
+    {
+      "nome": "Jeanne Moreau",
+      "anno": 1928,
+      "chi": "attrice francese",
+      "wiki": "Jeanne Moreau"
+    },
+    {
+      "nome": "Rutger Hauer",
+      "anno": 1944,
+      "chi": "attore olandese",
+      "wiki": "Rutger Hauer"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Tentativi di imitazione",
+      "testo": "Sotto la testata della Settimana Enigmistica c'è da decenni la stessa frase: vanta innumerevoli tentativi di imitazione. Il giornale non pubblica pubblicità."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La sindrome di Stendhal",
+      "testo": "Stendhal, nato oggi, raccontò di aver avuto un mancamento in Santa Croce, a Firenze, per la troppa bellezza. Da lui prende il nome la sindrome che colpisce alcuni turisti davanti alle opere d'arte."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Due dita",
+      "testo": "Django Reinhardt, nato oggi, perse l'uso di due dita della mano sinistra in un incendio. Inventò una tecnica nuova e divenne uno dei più grandi chitarristi del jazz."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La bellezza non è che la promessa della felicità.",
+      "autore": "Stendhal",
+      "fonte": "Dell'amore"
+    },
+    {
+      "testo": "Chi la fa l'aspetti.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Domandare è lecito, rispondere è cortesia.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Cu lu vinu si mete lu ranu, cu ll'acqua macinannu li mulina.",
+      "regione": "Basilicata",
+      "traduzione": "Con il vino si miete il grano, con l'acqua macinano i mulini.",
+      "spiegazione": "Ogni lavoro ha il suo carburante: il vino dà forza ai mietitori, l'acqua fa girare le macine.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "A ccuóppo cupo poco pepe cape.",
+      "regione": "Campania",
+      "traduzione": "In un cartoccio stretto entra poco pepe.",
+      "spiegazione": "È fatica sprecata cercare di farsi capire da chi non vuole o non può capire.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

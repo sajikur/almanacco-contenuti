@@ -1,0 +1,259 @@
+{
+  "schema": 1,
+  "giorno": "01-26",
+  "santo": {
+    "nome": "Santi Timoteo e Tito",
+    "nota": "I due discepoli più fidati di san Paolo, vescovi di Efeso e di Creta. A ciascuno l'apostolo indirizzò lettere che fanno parte del Nuovo Testamento.",
+    "altri": [
+      "Santa Paola romana",
+      "Sant'Alberico di Cîteaux",
+      "Beato Gabriele Allegra"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Australia Day",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Festa della Repubblica (India)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-26-1926",
+      "anno": 1926,
+      "titolo": "La prima televisione",
+      "testo": "In una soffitta di Londra John Logie Baird mostra a un gruppo di scienziati la prima trasmissione di immagini in movimento: un volto tremolante su uno schermo grande come un francobollo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "John Logie Baird",
+      "tono": "leggero",
+      "indizio": "Domani: in una soffitta di Londra si accende per la prima volta la televisione."
+    },
+    {
+      "id": "01-26-1956",
+      "anno": 1956,
+      "titolo": "Le Olimpiadi di Cortina",
+      "testo": "Si aprono a Cortina d'Ampezzo i primi Giochi olimpici invernali in Italia: sono anche i primi trasmessi in diretta dalla televisione.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "VII Giochi olimpici invernali",
+      "tono": "leggero",
+      "indizio": "Domani: le Dolomiti ospitano per la prima volta le Olimpiadi."
+    },
+    {
+      "id": "01-26-1917",
+      "anno": 1917,
+      "titolo": "M'illumino d'immenso",
+      "testo": "A Santa Maria la Longa, in Friuli, durante la Grande guerra, Giuseppe Ungaretti scrive Mattina, la poesia più breve e famosa della letteratura italiana.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Mattina (Ungaretti)",
+      "tono": "leggero",
+      "indizio": "Domani: un soldato scrive in Friuli una poesia di quattro parole."
+    },
+    {
+      "id": "01-26-1943",
+      "anno": 1943,
+      "titolo": "Nikolajewka",
+      "testo": "Gli alpini della Tridentina sfondano l'accerchiamento sovietico a Nikolajewka: migliaia di soldati italiani riescono a uscire dalla sacca del Don.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Battaglia di Nikolaevka",
+      "tono": "storico",
+      "indizio": "Domani: gli alpini aprono la strada di casa nella neve della Russia."
+    },
+    {
+      "id": "01-26-1788",
+      "anno": 1788,
+      "titolo": "Nasce Sydney",
+      "testo": "Il capitano Arthur Phillip issa la bandiera britannica a Sydney Cove: è il primo insediamento europeo in Australia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Sydney",
+      "tono": "storico",
+      "indizio": "Domani: nasce la prima città europea in Australia."
+    },
+    {
+      "id": "01-26-1988",
+      "anno": 1988,
+      "titolo": "Il Fantasma dell'Opera a Broadway",
+      "testo": "Debutta a Broadway il musical Il fantasma dell'Opera di Andrew Lloyd Webber: diventerà lo spettacolo più longevo della sua storia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The Phantom of the Opera (musical)",
+      "tono": "leggero",
+      "indizio": "Domani: a Broadway debutta un musical che resterà in scena per trentacinque anni."
+    },
+    {
+      "id": "01-26-1970",
+      "anno": 1970,
+      "titolo": "Bridge over Troubled Water",
+      "testo": "Esce l'ultimo album di Simon & Garfunkel, con la canzone che gli dà il titolo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Bridge over Troubled Water",
+      "tono": "leggero",
+      "indizio": "Domani: due amici pubblicano il loro ultimo disco insieme."
+    },
+    {
+      "id": "01-26-1926b",
+      "anno": 1926,
+      "titolo": "Il freddo di Ojmjakon",
+      "testo": "Nel villaggio siberiano di Ojmjakon viene stimata una minima di 71 gradi sotto zero: è il luogo abitato più freddo della Terra.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Ojmjakon",
+      "tono": "leggero",
+      "indizio": "Domani: si misura il freddo più freddo di un luogo abitato."
+    },
+    {
+      "id": "01-26-1911",
+      "anno": 1911,
+      "titolo": "Il primo idrovolante americano",
+      "testo": "Glenn Curtiss decolla dall'acqua nella baia di San Diego con il suo idrovolante.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Glenn Curtiss",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-26-1924b",
+      "anno": 1924,
+      "titolo": "La prima medaglia d'oro sulla neve",
+      "testo": "A Chamonix il pattinatore americano Charles Jewtraw vince i 500 metri: è il primo oro della storia delle Olimpiadi invernali.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Charles Jewtraw",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-26-1994",
+      "anno": 1994,
+      "titolo": "La discesa in campo",
+      "testo": "Silvio Berlusconi annuncia con un videomessaggio la sua entrata in politica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Silvio Berlusconi",
+      "tono": "storico"
+    },
+    {
+      "id": "01-26-1904",
+      "anno": 1904,
+      "titolo": "Brucia la Biblioteca di Torino",
+      "testo": "Un incendio devasta la Biblioteca nazionale universitaria di Torino: vanno perduti migliaia di manoscritti antichi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Biblioteca nazionale universitaria di Torino",
+      "tono": "storico"
+    },
+    {
+      "id": "01-26-1887",
+      "anno": 1887,
+      "titolo": "Dogali",
+      "testo": "In Eritrea le truppe abissine di ras Alula annientano una colonna italiana a Dogali.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Battaglia di Dogali",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Douglas MacArthur",
+      "anno": 1880,
+      "chi": "generale statunitense",
+      "wiki": "Douglas MacArthur"
+    },
+    {
+      "nome": "Paul Newman",
+      "anno": 1925,
+      "chi": "attore statunitense",
+      "wiki": "Paul Newman"
+    },
+    {
+      "nome": "Angela Davis",
+      "anno": 1944,
+      "chi": "attivista e filosofa statunitense",
+      "wiki": "Angela Davis"
+    },
+    {
+      "nome": "Eddie Van Halen",
+      "anno": 1955,
+      "chi": "chitarrista rock",
+      "wiki": "Eddie Van Halen"
+    },
+    {
+      "nome": "Wayne Gretzky",
+      "anno": 1961,
+      "chi": "campione canadese di hockey su ghiaccio",
+      "wiki": "Wayne Gretzky"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il pupazzo Stooky Bill",
+      "testo": "Nei suoi primi esperimenti Baird trasmetteva il volto di un pupazzo da ventriloquo, Stooky Bill: le lampade necessarie scaldavano troppo per una persona. Il primo volto umano fu quello di un fattorino spaventato."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Tridentina avanti!",
+      "testo": "A Nikolajewka il generale Reverberi salì su un carro armato e guidò l'attacco gridando «Tridentina avanti!». Il grido è rimasto nella memoria degli alpini."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Quattro parole",
+      "testo": "La poesia Mattina è fatta di sole quattro parole. Ungaretti la scrisse in trincea, su pezzi di carta di fortuna, nel Friuli della Grande guerra."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Se non hai nemici non hai carattere.",
+      "autore": "attribuita a Paul Newman",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Rosso di sera, bel tempo si spera.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Combatti la buona battaglia della fede.",
+      "autore": "San Paolo",
+      "fonte": "Prima lettera a Timoteo"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A pignatta agguitâ a no bogge mai.",
+      "regione": "Liguria",
+      "traduzione": "La pentola sorvegliata non bolle mai.",
+      "spiegazione": "Chi aspetta con ansia vede il tempo non passare mai.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Fridd'e fame, fan'u bruttu pelame.",
+      "regione": "Basilicata",
+      "traduzione": "Freddo e fame fanno la brutta pelle.",
+      "spiegazione": "Le privazioni lasciano il segno anche sull'aspetto.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

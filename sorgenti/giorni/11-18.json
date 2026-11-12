@@ -66,7 +66,8 @@
       "categoria": "cultura",
       "peso": 3,
       "wiki": "George Bernard Shaw",
-      "tono": "leggero"
+      "tono": "leggero",
+      "indizio": "Domani: uno scrittore irlandese rifiuta un premio in denaro."
     },
     {
       "id": "11-18-1307",
@@ -121,7 +122,8 @@
       "categoria": "cultura",
       "peso": 3,
       "wiki": "William Caxton",
-      "tono": "leggero"
+      "tono": "leggero",
+      "indizio": "Domani: in Inghilterra esce il primo libro stampato."
     },
     {
       "id": "11-18-1959",

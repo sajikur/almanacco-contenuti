@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "giorno": "01-28",
+  "santo": {
+    "nome": "San Tommaso d'Aquino",
+    "nota": "Nato a Roccasecca, nel Lazio, è il più grande teologo del medioevo. I compagni lo chiamavano «bue muto» perché parlava poco. È il patrono degli studenti.",
+    "altri": [
+      "San Giuseppe Freinademetz",
+      "Sant'Emiliano di Trevi",
+      "Beato Bartolomeo da Pisa"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-28-1958",
+      "anno": 1958,
+      "titolo": "Il mattoncino LEGO",
+      "testo": "In Danimarca la LEGO deposita il brevetto del mattoncino con i tubi interni che lo fanno incastrare saldamente: è lo stesso che si usa ancora oggi.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Lego",
+      "tono": "leggero",
+      "indizio": "Domani: in Danimarca si brevetta il mattoncino che incastra tutto."
+    },
+    {
+      "id": "01-28-1887",
+      "anno": 1887,
+      "titolo": "Cominciano la Torre Eiffel",
+      "testo": "A Parigi cominciano gli scavi per le fondamenta della Torre Eiffel: sarà pronta in poco più di due anni.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Torre Eiffel",
+      "tono": "leggero",
+      "indizio": "Domani: a Parigi si comincia a scavare per una torre di ferro che molti odiano."
+    },
+    {
+      "id": "01-28-1887b",
+      "anno": 1887,
+      "titolo": "Fiocchi grandi come piatti",
+      "testo": "A Fort Keogh, nel Montana, un allevatore misura fiocchi di neve larghi trentotto centimetri: è il record mondiale, ancora citato nel Guinness.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Neve",
+      "tono": "leggero",
+      "indizio": "Domani: nel Montana cadono fiocchi di neve grandi come vassoi."
+    },
+    {
+      "id": "01-28-1807",
+      "anno": 1807,
+      "titolo": "La prima strada a gas",
+      "testo": "A Londra Pall Mall è la prima strada al mondo illuminata dai lampioni a gas.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Pall Mall",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra una strada si illumina di notte senza candele."
+    },
+    {
+      "id": "01-28-1982",
+      "anno": 1982,
+      "titolo": "Liberato il generale Dozier",
+      "testo": "A Padova le teste di cuoio della polizia liberano senza sparare un colpo il generale americano James Dozier, rapito dalle Brigate Rosse quarantadue giorni prima.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Sequestro Dozier",
+      "tono": "storico",
+      "indizio": "Domani: a Padova la polizia libera un generale americano senza sparare."
+    },
+    {
+      "id": "01-28-1855",
+      "anno": 1855,
+      "titolo": "Da un oceano all'altro",
+      "testo": "Una locomotiva percorre per la prima volta la ferrovia di Panama, dall'Atlantico al Pacifico.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Ferrovia di Panama",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-28-1077",
+      "anno": 1077,
+      "titolo": "Il perdono di Canossa",
+      "testo": "Papa Gregorio VII toglie la scomunica a Enrico IV, dopo tre giorni di penitenza davanti al castello.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Umiliazione di Canossa",
+      "tono": "storico"
+    },
+    {
+      "id": "01-28-2003",
+      "anno": 2003,
+      "titolo": "Duecento metri in volo",
+      "testo": "Nel salto con gli sci l'austriaca Daniela Iraschko è la prima donna a superare i duecento metri.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Daniela Iraschko-Stolz",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-28-1979",
+      "anno": 1979,
+      "titolo": "Deng negli Stati Uniti",
+      "testo": "Deng Xiaoping è il primo leader della Cina comunista in visita ufficiale negli Stati Uniti; in Texas si mette perfino un cappello da cowboy.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Deng Xiaoping",
+      "tono": "storico",
+      "indizio": "Domani: un leader cinese si mette un cappello da cowboy."
+    },
+    {
+      "id": "01-28-1505",
+      "anno": 1505,
+      "titolo": "Brucia il Fondaco dei Tedeschi",
+      "testo": "A Venezia un incendio distrugge il Fondaco dei Tedeschi, il palazzo dei mercanti tedeschi accanto a Rialto: verrà ricostruito e affrescato da Giorgione e Tiziano.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Fondaco dei Tedeschi",
+      "tono": "storico"
+    },
+    {
+      "id": "01-28-1986",
+      "anno": 1986,
+      "titolo": "Il Challenger",
+      "testo": "Lo Space Shuttle Challenger esplode poco più di un minuto dopo il decollo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Disastro dello Space Shuttle Challenger",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Henry Morton Stanley",
+      "anno": 1841,
+      "chi": "giornalista ed esploratore dell'Africa",
+      "wiki": "Henry Morton Stanley"
+    },
+    {
+      "nome": "Auguste Piccard",
+      "anno": 1884,
+      "chi": "fisico svizzero, pioniere della stratosfera e degli abissi",
+      "wiki": "Auguste Piccard"
+    },
+    {
+      "nome": "Arthur Rubinstein",
+      "anno": 1887,
+      "chi": "pianista polacco",
+      "wiki": "Arthur Rubinstein"
+    },
+    {
+      "nome": "Jackson Pollock",
+      "anno": 1912,
+      "chi": "pittore statunitense",
+      "wiki": "Jackson Pollock"
+    },
+    {
+      "nome": "Elijah Wood",
+      "anno": 1981,
+      "chi": "attore statunitense, il Frodo del cinema",
+      "wiki": "Elijah Wood"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Gioca bene",
+      "testo": "LEGO viene dal danese leg godt, «gioca bene». Con sei mattoncini da otto bottoncini si possono fare più di novecento milioni di combinazioni."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il professor Girasole",
+      "testo": "Auguste Piccard, nato oggi, alto e allampanato, ispirò a Hergé il professor Girasole delle avventure di Tintin."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il dottor Livingstone, suppongo",
+      "testo": "Stanley, nato oggi, ritrovò in Africa l'esploratore David Livingstone, di cui non si avevano notizie da anni. Lo salutò con la frase più compassata della storia."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Temo l'uomo di un solo libro.",
+      "autore": "attribuita a San Tommaso d'Aquino",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Il dottor Livingstone, suppongo?",
+      "autore": "Henry Morton Stanley",
+      "fonte": "1871"
+    },
+    {
+      "testo": "Il gioco è una cosa seria.",
+      "autore": "Detto popolare",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La galina che canta ha fato el vovo.",
+      "regione": "Veneto",
+      "traduzione": "La gallina che canta ha fatto l'uovo.",
+      "spiegazione": "Chi si agita troppo per difendersi spesso è il colpevole.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Quannu l'amicu nun parra a prima vuci, voddiri ca 'u riscussu nun ci piaci.",
+      "regione": "Sicilia",
+      "traduzione": "Quando l'amico non risponde subito, vuol dire che il discorso non gli piace.",
+      "spiegazione": "Un silenzio che si allunga è già una risposta.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

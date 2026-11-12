@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "giorno": "01-24",
+  "santo": {
+    "nome": "San Francesco di Sales",
+    "nota": "Vescovo di Ginevra e dottore della Chiesa del Seicento. Scriveva volantini e li infilava sotto le porte: per questo è il patrono dei giornalisti e degli scrittori.",
+    "altri": [
+      "San Babila di Antiochia",
+      "San Feliciano di Foligno",
+      "Beato Giuseppe Timoteo Giaccardo"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-24-1848",
+      "anno": 1848,
+      "titolo": "L'oro della California",
+      "testo": "Lavorando a una segheria a Sutter's Mill, in California, il carpentiere James Marshall trova pagliuzze d'oro nel canale: comincia la corsa all'oro.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Corsa all'oro californiana",
+      "tono": "leggero",
+      "indizio": "Domani: un carpentiere vede luccicare qualcosa nell'acqua di un canale."
+    },
+    {
+      "id": "01-24-1975",
+      "anno": 1975,
+      "titolo": "Il Köln Concert",
+      "testo": "A Colonia Keith Jarrett improvvisa un concerto per pianoforte solo su uno strumento sbagliato, piccolo e scordato: la registrazione diventerà il disco di piano solo più venduto della storia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "The Köln Concert",
+      "tono": "leggero",
+      "indizio": "Domani: un pianista suona su un pianoforte sbagliato e ne nasce un capolavoro."
+    },
+    {
+      "id": "01-24-1972",
+      "anno": 1972,
+      "titolo": "Il soldato nella giungla",
+      "testo": "Sull'isola di Guam due cacciatori trovano Shōichi Yokoi, soldato giapponese che si nascondeva nella giungla da ventotto anni: non sapeva che la guerra era finita.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Shōichi Yokoi",
+      "tono": "storico",
+      "indizio": "Domani: due cacciatori trovano nella giungla un soldato che combatte una guerra finita da decenni."
+    },
+    {
+      "id": "01-24-1986",
+      "anno": 1986,
+      "titolo": "Voyager 2 da Urano",
+      "testo": "La sonda Voyager 2 passa vicino a Urano: è ancora oggi l'unica ad averlo visitato.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Voyager 2",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda sfiora il pianeta che gira coricato su un fianco."
+    },
+    {
+      "id": "01-24-1984",
+      "anno": 1984,
+      "titolo": "Il Macintosh in vendita",
+      "testo": "Apple mette in vendita il primo Macintosh: alla presentazione si era presentato da solo, con la sua voce sintetica.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Macintosh 128K",
+      "tono": "leggero",
+      "indizio": "Domani: un computer si presenta al pubblico parlando da solo."
+    },
+    {
+      "id": "01-24-1860",
+      "anno": 1860,
+      "titolo": "Garibaldi, sposo per un'ora",
+      "testo": "A Fino Mornasco Garibaldi sposa la giovane marchesina Giuseppina Raimondi: subito dopo la cerimonia riceve una lettera sul passato di lei e la lascia sul posto.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Giuseppe Garibaldi",
+      "tono": "leggero",
+      "indizio": "Domani: un eroe si sposa e lascia la moglie un'ora dopo."
+    },
+    {
+      "id": "01-24-1908",
+      "anno": 1908,
+      "titolo": "Nasce lo scautismo",
+      "testo": "Esce il primo fascicolo di Scouting for Boys di Robert Baden-Powell: da quel libro nasce il movimento scout.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Scautismo",
+      "tono": "leggero",
+      "indizio": "Domani: un generale inglese pubblica un manuale per ragazzi che fonderà un movimento mondiale."
+    },
+    {
+      "id": "01-24-1962",
+      "anno": 1962,
+      "titolo": "Epstein manager dei Beatles",
+      "testo": "Brian Epstein firma il contratto da manager dei Beatles.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Brian Epstein",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-24-41",
+      "anno": 41,
+      "titolo": "Claudio imperatore",
+      "testo": "Dopo l'uccisione di Caligola, i pretoriani acclamano imperatore lo zio Claudio, che si era nascosto dietro una tenda.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Claudio",
+      "tono": "storico"
+    },
+    {
+      "id": "01-24-1859",
+      "anno": 1859,
+      "titolo": "Nasce la Romania",
+      "testo": "Valacchia e Moldavia eleggono lo stesso principe, Alessandro Cuza: è l'inizio della Romania.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Alexandru Ioan Cuza",
+      "tono": "storico"
+    },
+    {
+      "id": "01-24-1979",
+      "anno": 1979,
+      "titolo": "Guido Rossa",
+      "testo": "A Genova le Brigate Rosse uccidono l'operaio e sindacalista Guido Rossa.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Guido Rossa",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Adriano",
+      "anno": 76,
+      "chi": "imperatore romano, costruttore del Pantheon come lo vediamo oggi",
+      "wiki": "Adriano"
+    },
+    {
+      "nome": "Federico il Grande",
+      "anno": 1712,
+      "chi": "re di Prussia",
+      "wiki": "Federico il Grande"
+    },
+    {
+      "nome": "Pierre Beaumarchais",
+      "anno": 1732,
+      "chi": "drammaturgo francese del Barbiere di Siviglia",
+      "wiki": "Pierre Beaumarchais"
+    },
+    {
+      "nome": "Edith Wharton",
+      "anno": 1862,
+      "chi": "scrittrice statunitense",
+      "wiki": "Edith Wharton"
+    },
+    {
+      "nome": "John Belushi",
+      "anno": 1949,
+      "chi": "attore comico statunitense",
+      "wiki": "John Belushi"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Un pianoforte sbagliato",
+      "testo": "Per il concerto di Colonia l'organizzatrice, una ragazza di diciassette anni, aveva chiesto un gran coda. Arrivò per errore un pianoforte da prova, malandato. Jarrett suonò soprattutto nella parte centrale della tastiera, quella che funzionava meglio."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Con molto imbarazzo",
+      "testo": "Tornato in Giappone, Yokoi disse in aeroporto di essere tornato vivo «con molto imbarazzo». In giungla si era cucito i vestiti con le fibre degli alberi."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Chi si arricchì davvero",
+      "testo": "Johann Sutter, il proprietario del terreno dove fu trovato l'oro, finì in rovina: i cercatori invasero le sue terre. Si arricchì invece chi vendeva pale, picconi e jeans."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Si prendono più mosche con un cucchiaio di miele che con un barile d'aceto.",
+      "autore": "attribuita a Francesco di Sales",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Mi affretto a ridere di tutto, per paura di essere costretto a piangerne.",
+      "autore": "Pierre Beaumarchais",
+      "fonte": "Il barbiere di Siviglia"
+    },
+    {
+      "testo": "Non è tutto oro quel che luccica.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi ha denti, non ha pane; e chi ha pane, non ha denti.",
+      "regione": "Toscana",
+      "traduzione": "Chi ha i denti non ha il pane, e chi ha il pane non ha i denti.",
+      "spiegazione": "Spesso chi potrebbe godersi le cose non ne ha i mezzi, e chi ha i mezzi non può più goderle.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Sparagna a farina quannu a tina è china.",
+      "regione": "Calabria",
+      "traduzione": "Risparmia la farina quando la madia è piena.",
+      "spiegazione": "Bisogna essere previdenti quando c'è abbondanza: quando si vede il fondo è troppo tardi.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

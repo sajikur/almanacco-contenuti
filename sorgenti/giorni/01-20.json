@@ -1,0 +1,214 @@
+{
+  "schema": 1,
+  "giorno": "01-20",
+  "santo": {
+    "nome": "San Sebastiano",
+    "nota": "Soldato romano martire del III secolo, raffigurato trafitto dalle frecce. È il patrono della polizia locale e uno dei santi più amati dai pittori.",
+    "altri": [
+      "San Fabiano papa",
+      "Sant'Eutimio il Grande",
+      "Santa Eustochia Calafato"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa della Polizia locale",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-20-1752",
+      "anno": 1752,
+      "titolo": "La prima pietra di Caserta",
+      "testo": "Nel giorno del suo compleanno il re Carlo di Borbone posa la prima pietra della Reggia di Caserta, progettata da Luigi Vanvitelli.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Reggia di Caserta",
+      "tono": "leggero",
+      "indizio": "Domani: un re festeggia il compleanno posando la prima pietra di una reggia gigantesca."
+    },
+    {
+      "id": "01-20-1885",
+      "anno": 1885,
+      "titolo": "Le montagne russe",
+      "testo": "LaMarcus Thompson brevetta le montagne russe: la sua prima, a Coney Island, andava a dieci chilometri all'ora.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Montagne russe",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore americano brevetta il modo di divertirsi facendosi venire il batticuore."
+    },
+    {
+      "id": "01-20-1840",
+      "anno": 1840,
+      "titolo": "La terra di Adelia",
+      "testo": "L'esploratore francese Dumont d'Urville avvista una costa dell'Antartide e la chiama Terra Adelia, come sua moglie Adèle. Anche i pinguini di quella zona prenderanno il suo nome.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Terra Adelia",
+      "tono": "leggero",
+      "indizio": "Domani: un esploratore dedica alla moglie un pezzo di Antartide, e i suoi pinguini."
+    },
+    {
+      "id": "01-20-1986",
+      "anno": 1986,
+      "titolo": "Il tunnel della Manica",
+      "testo": "Francia e Regno Unito annunciano il progetto del tunnel sotto la Manica: sarà inaugurato otto anni dopo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Tunnel della Manica",
+      "tono": "leggero",
+      "indizio": "Domani: Francia e Inghilterra decidono di unirsi con una galleria sotto il mare."
+    },
+    {
+      "id": "01-20-1961",
+      "anno": 1961,
+      "titolo": "Kennedy presidente",
+      "testo": "John F. Kennedy giura come presidente degli Stati Uniti e invita gli americani a chiedersi cosa possono fare per il loro Paese.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "John Fitzgerald Kennedy",
+      "tono": "storico",
+      "indizio": "Domani: giura il presidente più giovane mai eletto."
+    },
+    {
+      "id": "01-20-2009",
+      "anno": 2009,
+      "titolo": "Obama presidente",
+      "testo": "Barack Obama giura come presidente degli Stati Uniti: è il primo afroamericano a ricoprire la carica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Barack Obama",
+      "tono": "storico",
+      "indizio": "Domani: giura il primo presidente afroamericano."
+    },
+    {
+      "id": "01-20-1265",
+      "anno": 1265,
+      "titolo": "Il Parlamento di Montfort",
+      "testo": "A Westminster si riunisce il Parlamento di Simon de Montfort, il primo con rappresentanti delle città: è l'antenato della Camera dei comuni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Parlamento di Montfort",
+      "tono": "storico"
+    },
+    {
+      "id": "01-20-1841",
+      "anno": 1841,
+      "titolo": "Hong Kong ai britannici",
+      "testo": "Con la convenzione di Chuenpi la Cina cede l'isola di Hong Kong al Regno Unito: tornerà cinese nel 1997.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Hong Kong",
+      "tono": "storico"
+    },
+    {
+      "id": "01-20-1964",
+      "anno": 1964,
+      "titolo": "Meet the Beatles",
+      "testo": "Negli Stati Uniti esce Meet the Beatles!, il primo album americano dei Beatles.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Meet the Beatles!",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-20-1942",
+      "anno": 1942,
+      "titolo": "La conferenza di Wannsee",
+      "testo": "In una villa sul lago di Wannsee, a Berlino, i gerarchi nazisti organizzano lo sterminio degli ebrei d'Europa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Conferenza di Wannsee",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "George Burns",
+      "anno": 1896,
+      "chi": "attore comico statunitense",
+      "wiki": "George Burns"
+    },
+    {
+      "nome": "Federico Fellini",
+      "anno": 1920,
+      "chi": "regista riminese della Dolce vita",
+      "wiki": "Federico Fellini"
+    },
+    {
+      "nome": "Buzz Aldrin",
+      "anno": 1930,
+      "chi": "astronauta, secondo uomo sulla Luna",
+      "wiki": "Buzz Aldrin"
+    },
+    {
+      "nome": "David Lynch",
+      "anno": 1946,
+      "chi": "regista statunitense",
+      "wiki": "David Lynch"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "Il santo dei vigili",
+      "testo": "San Sebastiano era un ufficiale della guardia dell'imperatore: per questo è diventato il patrono dei vigili urbani, che oggi festeggiano la loro giornata."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una reggia più grande di Versailles",
+      "testo": "La Reggia di Caserta ha 1200 stanze e un parco lungo tre chilometri. Vanvitelli la volle più grande di Versailles. Il re Carlo, però, non ci abitò mai: partì per la Spagna prima che fosse finita."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il Fellini di Rimini",
+      "testo": "Fellini, nato oggi, prima di fare il regista disegnava caricature e vignette. Molti dei suoi film tornano alla Rimini della sua infanzia, a cominciare da Amarcord, che in romagnolo vuol dire «mi ricordo»."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Non chiedete che cosa il vostro Paese può fare per voi; chiedete che cosa potete fare voi per il vostro Paese.",
+      "autore": "John F. Kennedy",
+      "fonte": "discorso di insediamento, 1961"
+    },
+    {
+      "testo": "Il visionario è l'unico vero realista.",
+      "autore": "attribuita a Federico Fellini",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Chi ha tempo non aspetti tempo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "San Bastian con la viola in man.",
+      "regione": "Veneto",
+      "traduzione": "San Sebastiano con la viola in mano.",
+      "spiegazione": "Il 20 gennaio, nelle giornate miti, compaiono già le prime viole: la primavera comincia a farsi annunciare.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Truncu bogat astula.",
+      "regione": "Sardegna",
+      "traduzione": "Il tronco fa la scheggia.",
+      "spiegazione": "I figli somigliano ai genitori, nel bene e nel male.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

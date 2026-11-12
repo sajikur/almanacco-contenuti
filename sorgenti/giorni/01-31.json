@@ -1,0 +1,243 @@
+{
+  "schema": 1,
+  "giorno": "01-31",
+  "santo": {
+    "nome": "San Giovanni Bosco",
+    "nota": "Sacerdote piemontese dell'Ottocento, fondò a Torino gli oratori e i Salesiani per i ragazzi poveri. Per attirarli faceva giochi di prestigio e acrobazie.",
+    "altri": [
+      "San Geminiano di Modena",
+      "San Giulio d'Orta",
+      "Santa Marcella di Roma"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Terzo dei giorni della merla",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-31-1951",
+      "anno": 1951,
+      "titolo": "Grazie dei fiori",
+      "testo": "Nilla Pizzi vince il primo Festival di Sanremo con Grazie dei fiori: arriva anche seconda, con un'altra canzone.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Grazie dei fiori",
+      "tono": "leggero",
+      "indizio": "Domani: la prima regina della canzone italiana vince con un mazzo di fiori."
+    },
+    {
+      "id": "01-31-1958",
+      "anno": 1958,
+      "titolo": "Explorer 1",
+      "testo": "Gli Stati Uniti mandano in orbita il loro primo satellite, Explorer 1: grazie ai suoi strumenti si scoprono le fasce di Van Allen, cinture di particelle attorno alla Terra.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Explorer 1",
+      "tono": "leggero",
+      "indizio": "Domani: l'America risponde allo Sputnik con un satellite che scopre qualcosa di nuovo."
+    },
+    {
+      "id": "01-31-828",
+      "anno": 828,
+      "titolo": "San Marco arriva a Venezia",
+      "testo": "Secondo la tradizione arriva a Venezia il corpo di san Marco, trafugato ad Alessandria d'Egitto da due mercanti veneziani: da quel giorno il leone alato diventa il simbolo della città.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Basilica di San Marco",
+      "tono": "leggero",
+      "indizio": "Domani: due mercanti portano a casa un santo nascosto sotto la carne di maiale."
+    },
+    {
+      "id": "01-31-1977",
+      "anno": 1977,
+      "titolo": "Il Centre Pompidou",
+      "testo": "A Parigi si inaugura il Centre Pompidou, progettato da Renzo Piano e Richard Rogers, con i tubi colorati all'esterno.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Centre Georges Pompidou",
+      "tono": "leggero",
+      "indizio": "Domani: a Parigi apre un museo che porta i tubi fuori dai muri."
+    },
+    {
+      "id": "01-31-1990",
+      "anno": 1990,
+      "titolo": "McDonald's a Mosca",
+      "testo": "In piazza Puškin apre il primo McDonald's dell'Unione Sovietica: il primo giorno trentamila persone fanno la coda nel gelo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "McDonald's",
+      "tono": "leggero",
+      "indizio": "Domani: a Mosca si fa la coda nel gelo per un panino americano."
+    },
+    {
+      "id": "01-31-1971",
+      "anno": 1971,
+      "titolo": "Parte l'Apollo 14",
+      "testo": "Parte l'Apollo 14: sulla Luna Alan Shepard colpirà due palline da golf con un bastone di fortuna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Apollo 14",
+      "tono": "leggero",
+      "indizio": "Domani: parte una missione lunare con un bastone da golf nascosto a bordo."
+    },
+    {
+      "id": "01-31-1963",
+      "anno": 1963,
+      "titolo": "Il Friuli-Venezia Giulia",
+      "testo": "Viene approvato lo statuto speciale della regione Friuli-Venezia Giulia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Friuli-Venezia Giulia",
+      "tono": "storico",
+      "indizio": "Domani: nasce la regione autonoma più a est d'Italia."
+    },
+    {
+      "id": "01-31-1966",
+      "anno": 1966,
+      "titolo": "Parte Luna 9",
+      "testo": "Parte la sonda sovietica Luna 9: tre giorni dopo sarà la prima a posarsi dolcemente sulla Luna e a mandare foto dalla superficie.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Luna 9",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-31-1892",
+      "anno": 1892,
+      "titolo": "Il trampolino di Holmenkollen",
+      "testo": "A Oslo si inaugura il trampolino di Holmenkollen, il tempio del salto con gli sci.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Holmenkollen",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-31-1943",
+      "anno": 1943,
+      "titolo": "La resa di Stalingrado",
+      "testo": "Il feldmaresciallo Paulus si arrende a Stalingrado: è la svolta della guerra sul fronte orientale.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Stalingrado",
+      "tono": "storico"
+    },
+    {
+      "id": "01-31-2015",
+      "anno": 2015,
+      "titolo": "Mattarella presidente",
+      "testo": "Sergio Mattarella viene eletto dodicesimo presidente della Repubblica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Sergio Mattarella",
+      "tono": "storico"
+    },
+    {
+      "id": "01-31-2020",
+      "anno": 2020,
+      "titolo": "La Brexit",
+      "testo": "A mezzanotte di Bruxelles il Regno Unito esce dall'Unione europea.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Brexit",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Franz Schubert",
+      "anno": 1797,
+      "chi": "compositore austriaco",
+      "wiki": "Franz Schubert"
+    },
+    {
+      "nome": "Mario Lanza",
+      "anno": 1921,
+      "chi": "tenore statunitense di origini molisane e abruzzesi",
+      "wiki": "Mario Lanza"
+    },
+    {
+      "nome": "Norman Mailer",
+      "anno": 1923,
+      "chi": "scrittore statunitense",
+      "wiki": "Norman Mailer"
+    },
+    {
+      "nome": "Philip Glass",
+      "anno": 1937,
+      "chi": "compositore statunitense",
+      "wiki": "Philip Glass"
+    },
+    {
+      "nome": "Justin Timberlake",
+      "anno": 1981,
+      "chi": "cantante statunitense",
+      "wiki": "Justin Timberlake"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Nascosto sotto il maiale",
+      "testo": "Secondo la leggenda, i mercanti Buono da Malamocco e Rustico da Torcello coprirono il corpo di san Marco con la carne di maiale: i doganieri musulmani non vollero toccarla. La scena è nei mosaici della basilica."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Il golf sulla Luna",
+      "testo": "Alan Shepard aveva fatto montare una testa da golf sull'attrezzo per raccogliere i campioni. Disse che la seconda pallina era volata per «miglia e miglia»: in realtà fece una quarantina di metri."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "Il santo saltimbanco",
+      "testo": "Da ragazzo Giovanni Bosco imparò i giochi dei saltimbanchi: camminava sulla corda e faceva prestigi. Li usava per radunare i ragazzi, e alla fine dello spettacolo tutti pregavano con lui."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Basta che siate giovani perché io vi ami assai.",
+      "autore": "San Giovanni Bosco",
+      "fonte": "Il giovane provveduto"
+    },
+    {
+      "testo": "Chi canta prega due volte.",
+      "autore": "attribuita a Sant'Agostino",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Ogni medaglia ha il suo rovescio.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "I renare càcciane 'i riavule ra lu 'nfierne.",
+      "regione": "Basilicata",
+      "traduzione": "I soldi cacciano i diavoli dall'inferno.",
+      "spiegazione": "Con il denaro si ottiene quasi tutto, anche l'impossibile.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "Chi segue il prudente, mai se ne pente.",
+      "regione": "Toscana",
+      "traduzione": "Chi segue il prudente non se ne pente mai.",
+      "spiegazione": "Dare retta a chi è saggio e misurato evita molti guai.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

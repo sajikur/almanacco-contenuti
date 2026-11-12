@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "giorno": "01-21",
+  "santo": {
+    "nome": "Sant'Agnese",
+    "nota": "Giovanissima martire romana del IV secolo. Oggi a Roma si benedicono due agnellini: con la loro lana si tessono i palli che il papa consegna agli arcivescovi.",
+    "altri": [
+      "Sant'Epifanio di Pavia",
+      "San Meinrado di Einsiedeln",
+      "San Publio di Atene"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale dell'abbraccio",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-21-1976",
+      "anno": 1976,
+      "titolo": "Il Concorde in servizio",
+      "testo": "Alla stessa ora decollano due Concorde: uno da Londra per il Bahrein, l'altro da Parigi per Rio de Janeiro. Comincia l'epoca dei voli di linea supersonici.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Concorde",
+      "tono": "leggero",
+      "indizio": "Domani: due aerei decollano insieme da Londra e Parigi più veloci del suono."
+    },
+    {
+      "id": "01-21-1954",
+      "anno": 1954,
+      "titolo": "Il primo sottomarino atomico",
+      "testo": "Negli Stati Uniti viene varato il Nautilus, il primo sottomarino a propulsione nucleare: nel 1958 passerà sotto il Polo Nord.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "USS Nautilus (SSN-571)",
+      "tono": "leggero",
+      "indizio": "Domani: scende in acqua un sottomarino che potrà navigare per mesi senza riemergere."
+    },
+    {
+      "id": "01-21-1911",
+      "anno": 1911,
+      "titolo": "Il primo Rally di Monte Carlo",
+      "testo": "Parte il primo Rally automobilistico di Monte Carlo: i concorrenti arrivano da tutta Europa e vengono giudicati anche per l'eleganza dell'auto.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Rally di Monte Carlo",
+      "tono": "leggero",
+      "indizio": "Domani: comincia una gara d'auto in cui contava anche l'eleganza."
+    },
+    {
+      "id": "01-21-2001",
+      "anno": 2001,
+      "titolo": "Una donna vince la Dakar",
+      "testo": "La tedesca Jutta Kleinschmidt è la prima donna a vincere il rally Parigi-Dakar nella categoria auto.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Jutta Kleinschmidt",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta una donna vince la gara nel deserto."
+    },
+    {
+      "id": "01-21-1921",
+      "anno": 1921,
+      "titolo": "Il Partito Comunista d'Italia",
+      "testo": "A Livorno, al Teatro San Marco, una parte dei socialisti si separa e fonda il Partito Comunista d'Italia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Partito Comunista d'Italia",
+      "tono": "storico"
+    },
+    {
+      "id": "01-21-1899",
+      "anno": 1899,
+      "titolo": "Opel fa automobili",
+      "testo": "L'Opel, che fabbricava macchine da cucire e biciclette, comincia a produrre automobili.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Opel",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-21-1643",
+      "anno": 1643,
+      "titolo": "Tasman a Tonga",
+      "testo": "Il navigatore olandese Abel Tasman è il primo europeo a raggiungere le isole Tonga.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Abel Tasman",
+      "tono": "storico"
+    },
+    {
+      "id": "01-21-1998",
+      "anno": 1998,
+      "titolo": "Il papa a Cuba",
+      "testo": "Giovanni Paolo II arriva a Cuba: è la prima visita di un papa sull'isola.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Papa Giovanni Paolo II",
+      "tono": "storico"
+    },
+    {
+      "id": "01-21-1924",
+      "anno": 1924,
+      "titolo": "Muore Lenin",
+      "testo": "Muore Vladimir Lenin, fondatore dell'Unione Sovietica: il suo corpo verrà imbalsamato ed esposto sulla Piazza Rossa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Lenin",
+      "tono": "storico"
+    },
+    {
+      "id": "01-21-1793",
+      "anno": 1793,
+      "titolo": "Luigi XVI ghigliottinato",
+      "testo": "A Parigi il re Luigi XVI viene ghigliottinato in piazza della Rivoluzione.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Luigi XVI di Francia",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Christian Dior",
+      "anno": 1905,
+      "chi": "stilista francese",
+      "wiki": "Christian Dior"
+    },
+    {
+      "nome": "Telly Savalas",
+      "anno": 1922,
+      "chi": "attore statunitense, il tenente Kojak",
+      "wiki": "Telly Savalas"
+    },
+    {
+      "nome": "Jack Nicklaus",
+      "anno": 1940,
+      "chi": "golfista statunitense",
+      "wiki": "Jack Nicklaus"
+    },
+    {
+      "nome": "Plácido Domingo",
+      "anno": 1941,
+      "chi": "tenore spagnolo",
+      "wiki": "Plácido Domingo"
+    },
+    {
+      "nome": "Geena Davis",
+      "anno": 1956,
+      "chi": "attrice statunitense",
+      "wiki": "Geena Davis"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "Gli agnelli di Sant'Agnese",
+      "testo": "Il nome Agnese ricorda agnus, agnello. Nella basilica di Sant'Agnese fuori le Mura due agnelli vengono benedetti e affidati alle suore, che con la loro lana tessono il pallio degli arcivescovi."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Più veloce del Sole",
+      "testo": "Volando verso ovest a due volte la velocità del suono, il Concorde poteva arrivare a New York, secondo l'orologio, prima di essere partito da Londra."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il New Look",
+      "testo": "Christian Dior, nato oggi, con la collezione del 1947 riportò le gonne lunghe e ampie dopo gli anni della guerra: una giornalista la chiamò «New Look», e il nome restò."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Se mi riposo, arrugginisco.",
+      "autore": "attribuita a Plácido Domingo",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Per Sant'Agnese, la lucertola per la siepe.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Il buongiorno si vede dal mattino.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi puoco ha, caru tene.",
+      "regione": "Calabria",
+      "traduzione": "Chi ha poco tiene caro.",
+      "spiegazione": "Chi possiede poco sa dare valore a ogni cosa.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "Cui che va donge dai mulinārs reste infarināt.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Chi va vicino ai mugnai resta infarinato.",
+      "spiegazione": "Chi frequenta un ambiente ne porta sempre addosso qualcosa.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

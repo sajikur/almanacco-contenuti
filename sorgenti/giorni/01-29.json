@@ -1,0 +1,212 @@
+{
+  "schema": 1,
+  "giorno": "01-29",
+  "santo": {
+    "nome": "San Costanzo di Perugia",
+    "nota": "Primo vescovo di Perugia, martire nel II secolo. A Perugia si dice che chi guarda la sua statua e riceve un occhiolino si sposerà entro l'anno.",
+    "altri": [
+      "San Valerio di Ravenna",
+      "San Gildas",
+      "Beata Villana de' Botti"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Primo dei giorni della merla",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata internazionale del puzzle",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-29-1951",
+      "anno": 1951,
+      "titolo": "Il primo Festival di Sanremo",
+      "testo": "Nel salone delle feste del Casinò di Sanremo comincia il primo Festival della canzone italiana: tre cantanti, venti canzoni, e la radio che trasmette tutto.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Festival di Sanremo 1951",
+      "tono": "leggero",
+      "indizio": "Domani: in un casinò della Riviera comincia una gara di canzoni che diventerà un rito."
+    },
+    {
+      "id": "01-29-1886",
+      "anno": 1886,
+      "titolo": "Il brevetto dell'automobile",
+      "testo": "Karl Benz deposita il brevetto del suo veicolo a motore: un triciclo a benzina, considerato la prima automobile moderna.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Benz Patent-Motorwagen",
+      "tono": "leggero",
+      "indizio": "Domani: un ingegnere tedesco brevetta una carrozza che va da sola."
+    },
+    {
+      "id": "01-29-1845",
+      "anno": 1845,
+      "titolo": "Il corvo",
+      "testo": "Su un giornale di New York esce Il corvo di Edgar Allan Poe: in pochi giorni tutti ripetono il suo «Mai più».",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Il corvo (poesia)",
+      "tono": "leggero",
+      "indizio": "Domani: un uccello nero bussa alla porta di un poeta."
+    },
+    {
+      "id": "01-29-1996",
+      "anno": 1996,
+      "titolo": "Brucia La Fenice",
+      "testo": "Un incendio doloso distrugge il Gran Teatro La Fenice di Venezia: riaprirà, ricostruito «com'era e dov'era», nel 2003.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Teatro La Fenice",
+      "tono": "storico",
+      "indizio": "Domani: un teatro veneziano brucia, ma rinascerà dalle sue ceneri."
+    },
+    {
+      "id": "01-29-1856",
+      "anno": 1856,
+      "titolo": "La Victoria Cross",
+      "testo": "La regina Vittoria istituisce la Victoria Cross, la più alta onorificenza militare britannica: secondo la tradizione le medaglie si ricavano dal bronzo di cannoni presi in Crimea.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Victoria Cross",
+      "tono": "storico"
+    },
+    {
+      "id": "01-29-1781",
+      "anno": 1781,
+      "titolo": "L'Idomeneo",
+      "testo": "A Monaco di Baviera debutta l'Idomeneo di Mozart, che aveva appena compiuto venticinque anni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Idomeneo",
+      "tono": "leggero",
+      "indizio": "Domani: un giovane compositore porta in scena un re di Creta."
+    },
+    {
+      "id": "01-29-1959",
+      "anno": 1959,
+      "titolo": "La bella addormentata",
+      "testo": "Esce negli Stati Uniti La bella addormentata nel bosco della Disney, disegnata ispirandosi agli arazzi medievali.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "La bella addormentata nel bosco (film 1959)",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-29-2022",
+      "anno": 2022,
+      "titolo": "Mattarella rieletto",
+      "testo": "Sergio Mattarella viene rieletto presidente della Repubblica all'ottavo scrutinio.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Sergio Mattarella",
+      "tono": "storico"
+    },
+    {
+      "id": "01-29-1979",
+      "anno": 1979,
+      "titolo": "Emilio Alessandrini",
+      "testo": "A Milano un commando di Prima Linea uccide il magistrato Emilio Alessandrini.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Emilio Alessandrini",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Thomas Paine",
+      "anno": 1737,
+      "chi": "pensatore della rivoluzione americana",
+      "wiki": "Thomas Paine"
+    },
+    {
+      "nome": "Anton Čechov",
+      "anno": 1860,
+      "chi": "scrittore e drammaturgo russo",
+      "wiki": "Anton Čechov"
+    },
+    {
+      "nome": "Romain Rolland",
+      "anno": 1866,
+      "chi": "scrittore francese, premio Nobel",
+      "wiki": "Romain Rolland"
+    },
+    {
+      "nome": "W. C. Fields",
+      "anno": 1880,
+      "chi": "attore comico statunitense",
+      "wiki": "W. C. Fields"
+    },
+    {
+      "nome": "Oprah Winfrey",
+      "anno": 1954,
+      "chi": "conduttrice televisiva statunitense",
+      "wiki": "Oprah Winfrey"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "I giorni della merla",
+      "testo": "Secondo la leggenda, la merla aveva le piume bianche. Per ripararsi dal gran freddo degli ultimi tre giorni di gennaio si nascose in un comignolo e ne uscì tutta nera di fuliggine. Da allora i merli sono neri."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Tre voci per venti canzoni",
+      "testo": "Al primo Sanremo cantavano solo Nilla Pizzi, Achille Togliani e il Duo Fasano. Non c'era la televisione: si ascoltava alla radio, e il pubblico in sala cenava ai tavoli."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "L'occhiolino di San Costanzo",
+      "testo": "A Perugia, la sera della vigilia, le ragazze in cerca di marito guardano la statua di san Costanzo nella sua chiesa: se il santo fa l'occhiolino, le nozze arriveranno entro l'anno."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La brevità è sorella del talento.",
+      "autore": "Anton Čechov",
+      "fonte": "lettera al fratello, 1889"
+    },
+    {
+      "testo": "Disse il corvo: «Mai più».",
+      "autore": "Edgar Allan Poe",
+      "fonte": "Il corvo"
+    },
+    {
+      "testo": "Febbraio, febbraietto, corto e maledetto.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Cunvegno 'e volpe, ramaggio 'e galline.",
+      "regione": "Campania",
+      "traduzione": "Riunione di volpi, disgrazia per le galline.",
+      "spiegazione": "Quando i furbi si mettono d'accordo, a pagare sono sempre gli ingenui.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "S'avaru non faghet bene si non quando morit.",
+      "regione": "Sardegna",
+      "traduzione": "L'avaro fa del bene solo quando muore.",
+      "spiegazione": "Dall'avaro non c'è da aspettarsi nulla finché è in vita.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,197 @@
+{
+  "schema": 1,
+  "giorno": "01-22",
+  "santo": {
+    "nome": "San Vincenzo di Saragozza",
+    "nota": "Diacono spagnolo martire nel 304, fra i santi più venerati della Spagna. È il patrono dei vignaioli.",
+    "altri": [
+      "San Gaudenzio di Novara",
+      "San Vincenzo Pallotti",
+      "Santa Teodolinda"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-22-1506",
+      "anno": 1506,
+      "titolo": "Arrivano le Guardie Svizzere",
+      "testo": "Entrano a Roma, dalla Porta del Popolo, i primi 150 soldati svizzeri chiamati da papa Giulio II: è la nascita della Guardia Svizzera Pontificia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Guardia Svizzera Pontificia",
+      "tono": "leggero",
+      "indizio": "Domani: centocinquanta soldati arrivano a piedi dalla Svizzera per proteggere il papa."
+    },
+    {
+      "id": "01-22-1970",
+      "anno": 1970,
+      "titolo": "Il primo volo del Jumbo",
+      "testo": "Il Boeing 747 della Pan Am fa il suo primo volo di linea, da New York a Londra: per un guasto a un motore parte con sette ore di ritardo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Boeing 747",
+      "tono": "leggero",
+      "indizio": "Domani: il primo aereo gigante parte per Londra, con qualche ora di ritardo."
+    },
+    {
+      "id": "01-22-1984",
+      "anno": 1984,
+      "titolo": "Lo spot del Macintosh",
+      "testo": "Durante il Super Bowl va in onda lo spot «1984» diretto da Ridley Scott, che annuncia l'arrivo del Macintosh: sulla televisione nazionale passa una volta sola, ma diventa leggendario.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "1984 (spot)",
+      "tono": "leggero",
+      "indizio": "Domani: una pubblicità trasmessa una sola volta diventa leggenda."
+    },
+    {
+      "id": "01-22-1911",
+      "anno": 1911,
+      "titolo": "Lo stadio del Genoa",
+      "testo": "A Genova si inaugura lo stadio di Marassi, che dal 1933 si chiamerà Luigi Ferraris: è il più antico stadio italiano ancora in uso.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Stadio Luigi Ferraris",
+      "tono": "leggero",
+      "indizio": "Domani: a Genova apre lo stadio più antico d'Italia ancora in uso."
+    },
+    {
+      "id": "01-22-1944",
+      "anno": 1944,
+      "titolo": "Lo sbarco di Anzio",
+      "testo": "Le truppe alleate sbarcano ad Anzio e Nettuno, alle spalle della linea Gustav.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Sbarco di Anzio",
+      "tono": "storico",
+      "indizio": "Domani: gli Alleati sbarcano sulle spiagge del Lazio."
+    },
+    {
+      "id": "01-22-1439",
+      "anno": 1439,
+      "titolo": "Il concilio a Firenze",
+      "testo": "Il concilio per riunire la Chiesa d'Oriente e d'Occidente si trasferisce da Ferrara a Firenze: con i greci arrivano in città dotti e manoscritti antichi.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Concilio di Basilea-Ferrara-Firenze",
+      "tono": "storico"
+    },
+    {
+      "id": "01-22-1963",
+      "anno": 1963,
+      "titolo": "Il trattato dell'Eliseo",
+      "testo": "De Gaulle e Adenauer firmano il trattato di amicizia fra Francia e Germania Ovest.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Trattato dell'Eliseo",
+      "tono": "storico"
+    },
+    {
+      "id": "01-22-1973",
+      "anno": 1973,
+      "titolo": "Foreman batte Frazier",
+      "testo": "In Giamaica George Foreman mette al tappeto sei volte Joe Frazier e diventa campione del mondo.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "George Foreman",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-22-1905",
+      "anno": 1905,
+      "titolo": "La domenica di sangue",
+      "testo": "A San Pietroburgo i soldati sparano su una folla pacifica che portava una petizione allo zar.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Domenica di sangue (1905)",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Francesco Bacone",
+      "anno": 1561,
+      "chi": "filosofo inglese del metodo scientifico",
+      "wiki": "Francis Bacon (filosofo)"
+    },
+    {
+      "nome": "Lord Byron",
+      "anno": 1788,
+      "chi": "poeta inglese, morto combattendo per la Grecia",
+      "wiki": "Lord Byron"
+    },
+    {
+      "nome": "August Strindberg",
+      "anno": 1849,
+      "chi": "drammaturgo svedese",
+      "wiki": "August Strindberg"
+    },
+    {
+      "nome": "D. W. Griffith",
+      "anno": 1875,
+      "chi": "regista pioniere del cinema americano",
+      "wiki": "D. W. Griffith"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Non l'ha disegnata Michelangelo",
+      "testo": "Si dice spesso che la divisa a strisce delle Guardie Svizzere l'abbia disegnata Michelangelo. È una leggenda: quella di oggi risale a una riforma del 1914."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "Il Genoa più antico",
+      "testo": "Il Genoa, fondato nel 1893, è la più antica squadra di calcio italiana ancora in attività. All'inizio era un club di cricket per inglesi."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Byron nuotatore",
+      "testo": "Lord Byron, nato oggi, era zoppo, ma nuotatore eccellente: nel 1810 attraversò a nuoto lo stretto dei Dardanelli, come nel mito di Leandro."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Sapere è potere.",
+      "autore": "Francesco Bacone",
+      "fonte": "Meditationes sacrae"
+    },
+    {
+      "testo": "La verità è sempre strana, più strana della finzione.",
+      "autore": "Lord Byron",
+      "fonte": "Don Giovanni"
+    },
+    {
+      "testo": "L'appetito vien mangiando.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Picciotti e muli vonu stari suli.",
+      "regione": "Sicilia",
+      "traduzione": "Giovani e muli vogliono stare soli.",
+      "spiegazione": "I ragazzi, come i muli, sono testardi e amano fare di testa loro.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "Andâ in brodo de taggioin.",
+      "regione": "Liguria",
+      "traduzione": "Andare in brodo di tagliolini.",
+      "spiegazione": "Essere felicissimi, sciogliersi dalla contentezza.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    }
+  ],
+  "prima_pagina": null
+}

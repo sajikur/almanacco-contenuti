@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "giorno": "01-27",
+  "santo": {
+    "nome": "Sant'Angela Merici",
+    "nota": "Nata a Desenzano sul Garda nel Quattrocento, fondò a Brescia la Compagnia di Sant'Orsola, dedicata all'educazione delle ragazze.",
+    "altri": [
+      "San Giovanni Crisostomo",
+      "Santa Devota",
+      "San Vitaliano papa"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno della Memoria",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-27-1945",
+      "anno": 1945,
+      "titolo": "Si aprono i cancelli di Auschwitz",
+      "testo": "I soldati dell'Armata Rossa entrano nel campo di Auschwitz e trovano circa settemila prigionieri sopravvissuti. Questa data è stata scelta per il Giorno della Memoria.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Campo di concentramento di Auschwitz",
+      "tono": "storico",
+      "indizio": "Domani: il mondo scopre ciò che non dovrà mai dimenticare."
+    },
+    {
+      "id": "01-27-1880",
+      "anno": 1880,
+      "titolo": "Il brevetto della lampadina",
+      "testo": "Thomas Edison ottiene il brevetto per la sua lampada a incandescenza con il filamento di carbone.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Lampada a incandescenza",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore americano ottiene il brevetto per la luce di casa."
+    },
+    {
+      "id": "01-27-1888",
+      "anno": 1888,
+      "titolo": "Nasce National Geographic",
+      "testo": "A Washington trentatré studiosi fondano la National Geographic Society, «per accrescere e diffondere la conoscenza geografica».",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "National Geographic Society",
+      "tono": "leggero",
+      "indizio": "Domani: trentatré studiosi fondano una società per far conoscere il mondo."
+    },
+    {
+      "id": "01-27-1302",
+      "anno": 1302,
+      "titolo": "Dante condannato",
+      "testo": "A Firenze Dante Alighieri viene condannato per baratteria: non tornerà più nella sua città. In esilio scriverà la Divina Commedia.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Dante Alighieri",
+      "tono": "storico"
+    },
+    {
+      "id": "01-27-1861",
+      "anno": 1861,
+      "titolo": "Le prime elezioni italiane",
+      "testo": "Si vota per il primo Parlamento del nuovo Regno d'Italia: possono votare circa quattrocentomila uomini, meno del due per cento della popolazione.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Elezioni politiche italiane del 1861",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia vota per il suo primo Parlamento."
+    },
+    {
+      "id": "01-27-2010",
+      "anno": 2010,
+      "titolo": "L'iPad",
+      "testo": "Steve Jobs presenta l'iPad: in molti lo prendono in giro, ma inventerà un modo nuovo di leggere e guardare.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "iPad (prima generazione)",
+      "tono": "leggero",
+      "indizio": "Domani: viene presentata una tavoletta che molti prendono in giro."
+    },
+    {
+      "id": "01-27-1077",
+      "anno": 1077,
+      "titolo": "Enrico IV a Canossa",
+      "testo": "L'imperatore Enrico IV attende per tre giorni, a piedi nudi nella neve, davanti al castello di Canossa per ottenere il perdono di papa Gregorio VII.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Umiliazione di Canossa",
+      "tono": "storico"
+    },
+    {
+      "id": "01-27-1186",
+      "anno": 1186,
+      "titolo": "Costanza sposa Enrico VI",
+      "testo": "A Milano Costanza d'Altavilla, erede del Regno di Sicilia, sposa Enrico VI, figlio del Barbarossa: dal matrimonio nascerà Federico II.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Costanza d'Altavilla",
+      "tono": "storico"
+    },
+    {
+      "id": "01-27-1967",
+      "anno": 1967,
+      "titolo": "Il trattato sullo spazio",
+      "testo": "Più di sessanta Paesi firmano il trattato che vieta le armi nucleari nello spazio e impedisce a chiunque di prendersi la Luna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Trattato sullo spazio extra-atmosferico",
+      "tono": "storico"
+    },
+    {
+      "id": "01-27-1973",
+      "anno": 1973,
+      "titolo": "Gli accordi di Parigi",
+      "testo": "Con gli accordi di pace firmati a Parigi gli Stati Uniti escono dalla guerra del Vietnam.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Accordi di pace di Parigi",
+      "tono": "storico"
+    },
+    {
+      "id": "01-27-1901",
+      "anno": 1901,
+      "titolo": "Muore Verdi",
+      "testo": "A Milano muore Giuseppe Verdi: al suo funerale, un mese dopo, la folla canterà il Va' pensiero.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Giuseppe Verdi",
+      "tono": "storico"
+    },
+    {
+      "id": "01-27-1967b",
+      "anno": 1967,
+      "titolo": "L'incendio dell'Apollo 1",
+      "testo": "Durante una prova a terra un incendio nella capsula dell'Apollo 1 uccide i tre astronauti.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 2,
+      "wiki": "Apollo 1",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Wolfgang Amadeus Mozart",
+      "anno": 1756,
+      "chi": "compositore austriaco",
+      "wiki": "Wolfgang Amadeus Mozart"
+    },
+    {
+      "nome": "Lewis Carroll",
+      "anno": 1832,
+      "chi": "scrittore inglese di Alice nel Paese delle Meraviglie",
+      "wiki": "Lewis Carroll"
+    },
+    {
+      "nome": "Jerome Kern",
+      "anno": 1885,
+      "chi": "compositore statunitense di musical",
+      "wiki": "Jerome Kern"
+    },
+    {
+      "nome": "Mikhail Baryshnikov",
+      "anno": 1948,
+      "chi": "ballerino russo",
+      "wiki": "Mikhail Baryshnikov"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il nome di Mozart",
+      "testo": "Mozart fu battezzato Joannes Chrysostomus Wolfgangus Theophilus: i primi due nomi perché era nato nel giorno di san Giovanni Crisostomo. Theophilus, in latino, diventa Amadeus."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Lo pseudonimo di Carroll",
+      "testo": "Lewis Carroll si chiamava Charles Lutwidge Dodgson. Tradusse i suoi due nomi in latino, li invertì e li ritradusse in inglese: ne uscì Lewis Carroll."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "La cornice gialla",
+      "testo": "La celebre cornice gialla della rivista National Geographic comparve nel 1910. Oggi è il simbolo della società in tutto il mondo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "È avvenuto, quindi può accadere di nuovo.",
+      "autore": "Primo Levi",
+      "fonte": "I sommersi e i salvati"
+    },
+    {
+      "testo": "Comincia dal principio, va' avanti fino alla fine, poi fermati.",
+      "autore": "Lewis Carroll",
+      "fonte": "Alice nel Paese delle Meraviglie"
+    },
+    {
+      "testo": "Nel mezzo del cammin di nostra vita.",
+      "autore": "Dante Alighieri",
+      "fonte": "Inferno, canto I"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Pacenzia 'nci voli a li burraschi, ca 'u meli non si mangia senza muschi.",
+      "regione": "Calabria",
+      "traduzione": "Ci vuole pazienza nelle burrasche, perché il miele non si mangia senza mosche.",
+      "spiegazione": "Anche le cose buone della vita arrivano con qualche fastidio: serve pazienza.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "La speranće, je il rimiedi dai disperās.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "La speranza è il rimedio dei disperati.",
+      "spiegazione": "Quando tutto sembra perduto resta la speranza.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

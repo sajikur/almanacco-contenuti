@@ -78,7 +78,8 @@
       "categoria": "tecnologia",
       "peso": 3,
       "wiki": "Fonografo",
-      "tono": "leggero"
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta una voce viene registrata e riascoltata."
     },
     {
       "id": "12-06-1877b",
@@ -89,7 +90,8 @@
       "categoria": "cultura",
       "peso": 3,
       "wiki": "The Washington Post",
-      "tono": "leggero"
+      "tono": "leggero",
+      "indizio": "Domani: a Washington nasce un giornale che farà cadere un presidente."
     },
     {
       "id": "12-06-1884",

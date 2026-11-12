@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "giorno": "01-30",
+  "santo": {
+    "nome": "Santa Giacinta Marescotti",
+    "nota": "Nobile di Vignanello costretta a farsi suora a Viterbo, dopo una giovinezza spensierata cambiò vita e si dedicò ai poveri e ai carcerati.",
+    "altri": [
+      "Santa Martina",
+      "Sant'Armentario di Pavia",
+      "Santa Savina"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Fiera di Sant'Orso ad Aosta",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Secondo dei giorni della merla",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-30-1969",
+      "anno": 1969,
+      "titolo": "I Beatles sul tetto",
+      "testo": "Sul tetto della Apple, a Londra, i Beatles suonano per quarantadue minuti: sarà la loro ultima esibizione dal vivo, interrotta dalla polizia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Concerto sul tetto dei Beatles",
+      "tono": "leggero",
+      "indizio": "Domani: quattro musicisti salgono su un tetto di Londra per l'ultimo concerto."
+    },
+    {
+      "id": "01-30-1847",
+      "anno": 1847,
+      "titolo": "Nasce San Francisco",
+      "testo": "Il villaggio californiano di Yerba Buena cambia nome e diventa San Francisco.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "San Francisco",
+      "tono": "leggero",
+      "indizio": "Domani: un villaggio californiano cambia nome e prende quello di un santo italiano."
+    },
+    {
+      "id": "01-30-1996",
+      "anno": 1996,
+      "titolo": "La cometa Hyakutake",
+      "testo": "Il giapponese Yuji Hyakutake, astronomo dilettante, scopre con un binocolo la cometa che porterà il suo nome: due mesi dopo sarà una delle più luminose del secolo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "C/1996 B2 (Hyakutake)",
+      "tono": "leggero",
+      "indizio": "Domani: un astrofilo giapponese trova una cometa con un binocolo."
+    },
+    {
+      "id": "01-30-1790",
+      "anno": 1790,
+      "titolo": "La prima scialuppa di salvataggio",
+      "testo": "Sul fiume Tyne, in Inghilterra, viene provata la prima barca costruita apposta per salvare i naufraghi.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Scialuppa di salvataggio",
+      "tono": "leggero",
+      "indizio": "Domani: in Inghilterra si prova una barca costruita per salvare vite."
+    },
+    {
+      "id": "01-30-1933",
+      "anno": 1933,
+      "titolo": "Il cavaliere solitario",
+      "testo": "Alla radio americana debutta The Lone Ranger, il cavaliere mascherato: andrà in onda per quasi tremila puntate.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Lone Ranger",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-30-1703",
+      "anno": 1703,
+      "titolo": "I quarantasette rōnin",
+      "testo": "In Giappone quarantasette samurai rimasti senza padrone vendicano il loro signore: la loro storia diventerà la leggenda nazionale della fedeltà.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Quarantasette rōnin",
+      "tono": "storico"
+    },
+    {
+      "id": "01-30-1862",
+      "anno": 1862,
+      "titolo": "La corazzata Monitor",
+      "testo": "Negli Stati Uniti viene varata la Monitor, una corazzata con la torretta girevole.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "USS Monitor",
+      "tono": "storico"
+    },
+    {
+      "id": "01-30-1661",
+      "anno": 1661,
+      "titolo": "La condanna di un morto",
+      "testo": "A Londra, dopo il ritorno della monarchia, il corpo di Oliver Cromwell, morto da più di due anni, viene riesumato e «giustiziato».",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Oliver Cromwell",
+      "tono": "storico"
+    },
+    {
+      "id": "01-30-1994",
+      "anno": 1994,
+      "titolo": "Il gran maestro più giovane",
+      "testo": "L'ungherese Péter Lékó diventa a quattordici anni il più giovane gran maestro di scacchi dell'epoca.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Péter Lékó",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-30-1948",
+      "anno": 1948,
+      "titolo": "L'assassinio di Gandhi",
+      "testo": "A Nuova Delhi Mahatma Gandhi viene ucciso da un estremista indù.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Mahatma Gandhi",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Franklin Delano Roosevelt",
+      "anno": 1882,
+      "chi": "presidente degli Stati Uniti, eletto quattro volte",
+      "wiki": "Franklin Delano Roosevelt"
+    },
+    {
+      "nome": "Gene Hackman",
+      "anno": 1930,
+      "chi": "attore statunitense",
+      "wiki": "Gene Hackman"
+    },
+    {
+      "nome": "Vanessa Redgrave",
+      "anno": 1937,
+      "chi": "attrice britannica",
+      "wiki": "Vanessa Redgrave"
+    },
+    {
+      "nome": "Phil Collins",
+      "anno": 1951,
+      "chi": "musicista britannico",
+      "wiki": "Phil Collins"
+    },
+    {
+      "nome": "Christian Bale",
+      "anno": 1974,
+      "chi": "attore britannico",
+      "wiki": "Christian Bale"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Superare l'audizione",
+      "testo": "Alla fine del concerto sul tetto John Lennon ringraziò e scherzò: sperava che il gruppo avesse superato l'audizione."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "La fiera di mille anni",
+      "testo": "Ad Aosta la Fiera di Sant'Orso, dedicata all'artigianato in legno, si tiene da più di mille anni negli ultimi giorni di gennaio. Si vendono sculture, attrezzi e le tipiche grolle."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Il binocolo giusto",
+      "testo": "Hyakutake aveva già scoperto un'altra cometa poche settimane prima, sempre con lo stesso binocolo dalla campagna giapponese. La seconda passò vicinissima alla Terra."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "L'unica cosa di cui dobbiamo aver paura è la paura stessa.",
+      "autore": "Franklin Delano Roosevelt",
+      "fonte": "discorso di insediamento, 1933"
+    },
+    {
+      "testo": "Spero che abbiamo superato l'audizione.",
+      "autore": "John Lennon",
+      "fonte": "sul tetto della Apple, 1969"
+    },
+    {
+      "testo": "Chi la dura la vince.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Adaxo barbé, che l'ægua a s'ascäda.",
+      "regione": "Liguria",
+      "traduzione": "Piano, barbiere, che l'acqua si scalda.",
+      "spiegazione": "Bisogna procedere con calma, altrimenti la situazione si fa pericolosa.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Né tanto doce, ch'ogn'uno te zuca, né tanto amaro, ch'ognuno te sputa.",
+      "regione": "Campania",
+      "traduzione": "Né troppo dolce da farti succhiare da tutti, né troppo amaro da farti sputare.",
+      "spiegazione": "Bisogna essere buoni senza farsi sfruttare, e decisi senza farsi odiare.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,231 @@
+{
+  "schema": 1,
+  "giorno": "01-25",
+  "santo": {
+    "nome": "Conversione di San Paolo",
+    "nota": "Il giorno in cui Saulo di Tarso, sulla strada di Damasco, fu accecato da una luce e divenne Paolo, l'apostolo delle genti. Chiude la Settimana per l'unità dei cristiani.",
+    "altri": [
+      "Sant'Anania di Damasco",
+      "Santa Matrona di Capua",
+      "Beato Enrico Suso"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Burns Night (Scozia)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "01-25-1924",
+      "anno": 1924,
+      "titolo": "Le prime Olimpiadi invernali",
+      "testo": "A Chamonix, ai piedi del Monte Bianco, si aprono i primi Giochi olimpici invernali: sedici nazioni, meno di trecento atleti, quasi tutti uomini.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "I Giochi olimpici invernali",
+      "tono": "leggero",
+      "indizio": "Domani: sotto il Monte Bianco comincia la prima Olimpiade sulla neve."
+    },
+    {
+      "id": "01-25-1890",
+      "anno": 1890,
+      "titolo": "Il giro del mondo in 72 giorni",
+      "testo": "La giornalista americana Nellie Bly torna a New York dopo aver fatto il giro del mondo in 72 giorni: batte il record immaginario di Phileas Fogg.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Nellie Bly",
+      "tono": "leggero",
+      "indizio": "Domani: una giornalista batte il record di un personaggio di Jules Verne."
+    },
+    {
+      "id": "01-25-1817",
+      "anno": 1817,
+      "titolo": "La Cenerentola",
+      "testo": "Al Teatro Valle di Roma debutta La Cenerentola di Gioachino Rossini, scritta in poco più di tre settimane. Nella sua versione non c'è la fata ma un saggio filosofo.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "La Cenerentola",
+      "tono": "leggero",
+      "indizio": "Domani: a Roma va in scena una Cenerentola senza fata e senza scarpetta di cristallo."
+    },
+    {
+      "id": "01-25-1858",
+      "anno": 1858,
+      "titolo": "La marcia nuziale",
+      "testo": "Alle nozze della figlia della regina Vittoria si suona la marcia nuziale di Mendelssohn: da allora diventa la musica dei matrimoni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Marcia nuziale (Mendelssohn)",
+      "tono": "leggero",
+      "indizio": "Domani: una principessa si sposa con una musica che accompagnerà milioni di spose."
+    },
+    {
+      "id": "01-25-1959",
+      "anno": 1959,
+      "titolo": "Giovanni XXIII annuncia il Concilio",
+      "testo": "Nella basilica di San Paolo fuori le Mura Giovanni XXIII annuncia a sorpresa un concilio ecumenico: sarà il Vaticano II.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Concilio Vaticano II",
+      "tono": "storico",
+      "indizio": "Domani: un papa anziano sorprende tutti annunciando un concilio."
+    },
+    {
+      "id": "01-25-1961",
+      "anno": 1961,
+      "titolo": "La carica dei 101",
+      "testo": "Esce negli Stati Uniti La carica dei cento e uno della Disney, con la perfida Crudelia De Mon.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "La carica dei cento e uno",
+      "tono": "leggero",
+      "indizio": "Domani: al cinema arrivano novantanove cuccioli dalmata e una cattiva indimenticabile."
+    },
+    {
+      "id": "01-25-1554",
+      "anno": 1554,
+      "titolo": "Nasce San Paolo del Brasile",
+      "testo": "Alcuni gesuiti fondano una missione sull'altopiano brasiliano, nel giorno della conversione di san Paolo: diventerà San Paolo, una delle città più grandi del mondo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "San Paolo (Brasile)",
+      "tono": "storico"
+    },
+    {
+      "id": "01-25-1820",
+      "anno": 1820,
+      "titolo": "Il Gabinetto Vieusseux",
+      "testo": "A Firenze Giovan Pietro Vieusseux apre il suo gabinetto di lettura, dove passeranno Leopardi, Manzoni e Stendhal.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Gabinetto Vieusseux",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-25-1964",
+      "anno": 1964,
+      "titolo": "Nasce la Nike",
+      "testo": "Phil Knight e il suo allenatore Bill Bowerman fondano la Blue Ribbon Sports, che diventerà Nike.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Nike",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-25-1995",
+      "anno": 1995,
+      "titolo": "Il razzo norvegese",
+      "testo": "Un razzo scientifico lanciato dalla Norvegia per studiare l'aurora boreale viene scambiato dai radar russi per un missile: per la prima volta la valigetta nucleare viene aperta davanti a Eltsin.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Incidente del razzo norvegese",
+      "tono": "storico"
+    },
+    {
+      "id": "01-25-1983",
+      "anno": 1983,
+      "titolo": "Giangiacomo Ciaccio Montalto",
+      "testo": "La mafia uccide a Valderice il magistrato Giangiacomo Ciaccio Montalto.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Giangiacomo Ciaccio Montalto",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Robert Burns",
+      "anno": 1759,
+      "chi": "poeta nazionale scozzese",
+      "wiki": "Robert Burns"
+    },
+    {
+      "nome": "William Somerset Maugham",
+      "anno": 1874,
+      "chi": "scrittore britannico",
+      "wiki": "William Somerset Maugham"
+    },
+    {
+      "nome": "Virginia Woolf",
+      "anno": 1882,
+      "chi": "scrittrice britannica",
+      "wiki": "Virginia Woolf"
+    },
+    {
+      "nome": "Eusébio",
+      "anno": 1942,
+      "chi": "calciatore portoghese, la «pantera nera»",
+      "wiki": "Eusébio"
+    },
+    {
+      "nome": "Alicia Keys",
+      "anno": 1981,
+      "chi": "cantante statunitense",
+      "wiki": "Alicia Keys"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Più veloce di Phileas Fogg",
+      "testo": "Nellie Bly viaggiò con un solo bagaglio a mano. In Francia fece una deviazione per incontrare Jules Verne, che le augurò buona fortuna."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "La notte di Burns",
+      "testo": "Ogni 25 gennaio gli scozzesi celebrano il poeta Robert Burns con una cena a base di haggis, accompagnata dalle cornamuse e dalla lettura delle sue poesie."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il filosofo al posto della fata",
+      "testo": "Per la Cenerentola Rossini e il librettista Ferretti tolsero la magia: niente fata, niente zucca, e al posto della scarpetta un braccialetto."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Una donna deve avere soldi e una stanza tutta per sé se vuole scrivere.",
+      "autore": "Virginia Woolf",
+      "fonte": "Una stanza tutta per sé"
+    },
+    {
+      "testo": "La carità è paziente, è benigna.",
+      "autore": "San Paolo",
+      "fonte": "Prima lettera ai Corinzi"
+    },
+    {
+      "testo": "Chi va al mulino s'infarina.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Se canta cùcchiti e se nun canta strìchiti.",
+      "regione": "Sicilia",
+      "traduzione": "Se la fortuna canta, va' a dormire; se non canta, rotolati per terra.",
+      "spiegazione": "Quando la sorte è favorevole tutto va da sé; quando non lo è, puoi agitarti quanto vuoi.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "Dai sa die qui prestas has unu inimigu de pius.",
+      "regione": "Sardegna",
+      "traduzione": "Dal giorno in cui presti denaro hai un nemico in più.",
+      "spiegazione": "Prestare soldi rovina spesso le amicizie.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

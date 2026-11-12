@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "giorno": "01-19",
+  "santo": {
+    "nome": "Santi Mario, Marta, Audiface e Abaco",
+    "nota": "Una famiglia di nobili persiani venuti a Roma in pellegrinaggio nel III secolo: secondo la tradizione furono martirizzati per aver sepolto i cristiani uccisi.",
+    "altri": [
+      "San Bassiano di Lodi",
+      "San Macario il Grande",
+      "San Catello di Castellammare"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "01-19-1853",
+      "anno": 1853,
+      "titolo": "La prima del Trovatore",
+      "testo": "Al Teatro Apollo di Roma debutta Il trovatore di Giuseppe Verdi: il pubblico, nonostante il Tevere in piena, riempie la sala e chiede il bis.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Il trovatore",
+      "tono": "leggero",
+      "indizio": "Domani: a Roma va in scena un'opera con un coro di zingari che battono sulle incudini."
+    },
+    {
+      "id": "01-19-1915",
+      "anno": 1915,
+      "titolo": "La luce al neon",
+      "testo": "Il francese Georges Claude ottiene il brevetto americano per il tubo luminoso al neon: le insegne colorate conquisteranno le città.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Lampada al neon",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore francese accende le insegne colorate delle città."
+    },
+    {
+      "id": "01-19-1935",
+      "anno": 1935,
+      "titolo": "I primi slip",
+      "testo": "A Chicago la ditta Coopers mette in vendita i primi slip maschili, i «Jockey»: nonostante una bufera di neve vanno esauriti in pochi giorni.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Jockey International",
+      "tono": "leggero",
+      "indizio": "Domani: in pieno inverno, a Chicago, va a ruba un capo di biancheria nuovo."
+    },
+    {
+      "id": "01-19-1925",
+      "anno": 1925,
+      "titolo": "La corsa del siero",
+      "testo": "A Nome, in Alaska, il medico lancia l'allarme per un'epidemia di difterite: il siero arriverà con una staffetta di cani da slitta, fra cui il famoso Balto.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Corsa del siero di Nome",
+      "tono": "leggero",
+      "indizio": "Domani: in Alaska comincia una corsa di cani da slitta per salvare dei bambini."
+    },
+    {
+      "id": "01-19-1983",
+      "anno": 1983,
+      "titolo": "L'Apple Lisa",
+      "testo": "Apple presenta Lisa, uno dei primi computer con le finestre sullo schermo e il mouse: costa quasi diecimila dollari e venderà poco.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Apple Lisa",
+      "tono": "leggero",
+      "indizio": "Domani: Apple presenta un computer con il mouse che porta il nome di una bambina."
+    },
+    {
+      "id": "01-19-1977",
+      "anno": 1977,
+      "titolo": "Neve a Miami",
+      "testo": "Per la prima e unica volta nella storia registrata nevica a Miami, in Florida.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Miami",
+      "tono": "leggero",
+      "indizio": "Domani: nevica dove non dovrebbe nevicare mai."
+    },
+    {
+      "id": "01-19-1883",
+      "anno": 1883,
+      "titolo": "La luce con i fili",
+      "testo": "A Roselle, nel New Jersey, Edison accende il primo impianto di illuminazione elettrica con i cavi sospesi sui pali.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Thomas Edison",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-19-1829",
+      "anno": 1829,
+      "titolo": "Il Faust a teatro",
+      "testo": "A Braunschweig va in scena per la prima volta il Faust di Goethe.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Faust (Goethe)",
+      "tono": "leggero",
+      "indizio": "Domani: un sapiente vende l'anima al diavolo, a teatro."
+    },
+    {
+      "id": "01-19-1937",
+      "anno": 1937,
+      "titolo": "Hughes vola da costa a costa",
+      "testo": "Howard Hughes vola da Los Angeles a New York in sette ore e mezza, un record.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Howard Hughes",
+      "tono": "leggero"
+    },
+    {
+      "id": "01-19-1966",
+      "anno": 1966,
+      "titolo": "Indira Gandhi",
+      "testo": "Indira Gandhi viene scelta per guidare il governo indiano: è la prima donna primo ministro dell'India.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Indira Gandhi",
+      "tono": "storico"
+    },
+    {
+      "id": "01-19-2000",
+      "anno": 2000,
+      "titolo": "Muore Craxi",
+      "testo": "Ad Hammamet, in Tunisia, muore Bettino Craxi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Bettino Craxi",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "James Watt",
+      "anno": 1736,
+      "chi": "ingegnere scozzese della macchina a vapore",
+      "wiki": "James Watt"
+    },
+    {
+      "nome": "Edgar Allan Poe",
+      "anno": 1809,
+      "chi": "scrittore statunitense, padre del racconto poliziesco",
+      "wiki": "Edgar Allan Poe"
+    },
+    {
+      "nome": "Paul Cézanne",
+      "anno": 1839,
+      "chi": "pittore francese",
+      "wiki": "Paul Cézanne"
+    },
+    {
+      "nome": "Janis Joplin",
+      "anno": 1943,
+      "chi": "cantante statunitense",
+      "wiki": "Janis Joplin"
+    },
+    {
+      "nome": "Dolly Parton",
+      "anno": 1946,
+      "chi": "cantante country statunitense",
+      "wiki": "Dolly Parton"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il primo detective",
+      "testo": "Edgar Allan Poe, nato oggi, inventò il racconto poliziesco con I delitti della Rue Morgue, nel 1841: il suo investigatore Dupin è il nonno di Sherlock Holmes."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "La statua di Balto",
+      "testo": "A Central Park, a New York, c'è una statua di Balto, il cane che guidò l'ultimo tratto della staffetta del siero. Fu inaugurata quando lui era ancora vivo."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Una unità di misura",
+      "testo": "Dal nome di James Watt viene il watt, l'unità di misura della potenza: è scritto su ogni lampadina."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tutto ciò che vediamo o sembriamo non è che un sogno dentro un sogno.",
+      "autore": "Edgar Allan Poe",
+      "fonte": "Un sogno dentro un sogno"
+    },
+    {
+      "testo": "Voglio stupire Parigi con una mela.",
+      "autore": "attribuita a Paul Cézanne",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Chi va piano va sano e va lontano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi tròppo vo' magnà s'affòca.",
+      "regione": "Campania",
+      "traduzione": "Chi vuole mangiare troppo si strozza.",
+      "spiegazione": "L'avidità si paga: chi vuole tutto rischia di non godersi niente.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "Chi non semina non ricoglie.",
+      "regione": "Toscana",
+      "traduzione": "Chi non semina non raccoglie.",
+      "spiegazione": "Senza impegno non ci sono risultati.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}
