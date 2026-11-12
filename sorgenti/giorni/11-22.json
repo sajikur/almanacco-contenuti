@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "giorno": "11-22",
+  "santo": {
+    "nome": "Santa Cecilia",
+    "nota": "Martire romana dei primi secoli, è la patrona della musica e dei musicisti: secondo la leggenda, nel giorno delle nozze cantava a Dio nel suo cuore.",
+    "altri": [
+      "San Benigno di Milano",
+      "Santi Filemone e Appia",
+      "Beata Giovanna di Montefalco"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno dell'indipendenza (Libano)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-22-1928",
+      "anno": 1928,
+      "titolo": "Il Bolero di Ravel",
+      "testo": "All'Opéra di Parigi va in scena per la prima volta il Bolero di Maurice Ravel: una sola melodia ripetuta, che cresce piano piano fino all'esplosione finale.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Boléro (Ravel)",
+      "tono": "leggero",
+      "indizio": "Domani: a Parigi debutta una musica che ripete sempre lo stesso motivo, e conquista tutti."
+    },
+    {
+      "id": "11-22-1995",
+      "anno": 1995,
+      "titolo": "Toy Story",
+      "testo": "Esce negli Stati Uniti Toy Story, il primo lungometraggio realizzato interamente in computer grafica.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Toy Story - Il mondo dei giocattoli",
+      "tono": "leggero",
+      "indizio": "Domani: dei giocattoli prendono vita, e il cinema d'animazione cambia per sempre."
+    },
+    {
+      "id": "11-22-1977",
+      "anno": 1977,
+      "titolo": "Londra-New York in Concorde",
+      "testo": "British Airways inaugura i voli regolari del Concorde fra Londra e New York: poco più di tre ore e mezza per attraversare l'Atlantico.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Concorde",
+      "tono": "leggero",
+      "indizio": "Domani: si attraversa l'Atlantico più veloci del suono."
+    },
+    {
+      "id": "11-22-1220",
+      "anno": 1220,
+      "titolo": "Federico II imperatore",
+      "testo": "A Roma papa Onorio III incorona imperatore Federico II di Svevia, lo «stupor mundi» cresciuto a Palermo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Federico II di Svevia",
+      "tono": "storico"
+    },
+    {
+      "id": "11-22-1718",
+      "anno": 1718,
+      "titolo": "La fine di Barbanera",
+      "testo": "Al largo della Carolina del Nord la marina britannica abborda la nave di Edward Teach, il pirata Barbanera, che muore nello scontro.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Barbanera",
+      "tono": "storico"
+    },
+    {
+      "id": "11-22-1869",
+      "anno": 1869,
+      "titolo": "Varata la Cutty Sark",
+      "testo": "In Scozia scende in mare il veliero Cutty Sark, uno degli ultimi e più veloci clipper del commercio del tè. Oggi è un museo a Greenwich.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Cutty Sark",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-22-1968",
+      "anno": 1968,
+      "titolo": "L'Album bianco",
+      "testo": "I Beatles pubblicano il doppio album The Beatles, per tutti l'Album bianco per la copertina senza immagini.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "The Beatles (album)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-22-1986",
+      "anno": 1986,
+      "titolo": "Tyson campione a vent'anni",
+      "testo": "Mike Tyson batte Trevor Berbick e diventa, a vent'anni, il più giovane campione del mondo dei pesi massimi.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Mike Tyson",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-22-2005",
+      "anno": 2005,
+      "titolo": "Merkel cancelliera",
+      "testo": "Angela Merkel diventa la prima donna cancelliera della Germania: resterà in carica sedici anni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Angela Merkel",
+      "tono": "storico"
+    },
+    {
+      "id": "11-22-1963",
+      "anno": 1963,
+      "titolo": "Dallas",
+      "testo": "A Dallas viene assassinato il presidente degli Stati Uniti John F. Kennedy; Lyndon B. Johnson giura come suo successore.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Assassinio di John Fitzgerald Kennedy",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-22-1990",
+      "anno": 1990,
+      "titolo": "Thatcher lascia",
+      "testo": "Margaret Thatcher annuncia le dimissioni da primo ministro britannico dopo undici anni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Margaret Thatcher",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "George Eliot",
+      "anno": 1819,
+      "chi": "scrittrice inglese, autrice di Middlemarch",
+      "wiki": "George Eliot"
+    },
+    {
+      "nome": "Charles de Gaulle",
+      "anno": 1890,
+      "chi": "generale e presidente della Francia",
+      "wiki": "Charles de Gaulle"
+    },
+    {
+      "nome": "Benjamin Britten",
+      "anno": 1913,
+      "chi": "compositore inglese, nato proprio nel giorno di santa Cecilia",
+      "wiki": "Benjamin Britten"
+    },
+    {
+      "nome": "Boris Becker",
+      "anno": 1967,
+      "chi": "tennista tedesco, vinse Wimbledon a diciassette anni",
+      "wiki": "Boris Becker"
+    },
+    {
+      "nome": "Scarlett Johansson",
+      "anno": 1984,
+      "chi": "attrice statunitense",
+      "wiki": "Scarlett Johansson"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Un esperimento d'orchestra",
+      "testo": "Ravel considerava il Bolero più un esercizio di orchestrazione che una vera composizione: la stessa melodia passa da uno strumento all'altro, sempre più forte, per circa un quarto d'ora."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Buzz come Aldrin",
+      "testo": "Il nome di Buzz Lightyear, l'astronauta di Toy Story, è un omaggio a Buzz Aldrin, il secondo uomo a camminare sulla Luna."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Perché Cecilia suona l'organo",
+      "testo": "Un'antica antifona diceva che, mentre suonavano gli strumenti delle nozze, Cecilia cantava a Dio nel suo cuore. Col tempo quel «cantare» fu preso alla lettera, e Cecilia diventò la patrona della musica, spesso dipinta all'organo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Se la musica è il cibo dell'amore, continuate a suonare.",
+      "autore": "William Shakespeare",
+      "fonte": "La dodicesima notte"
+    },
+    {
+      "testo": "Chi canta prega due volte.",
+      "autore": "detto attribuito a sant'Agostino",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Canta che ti passa.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Sos maccos et pizzinnos narant sa veridade.",
+      "regione": "Sardegna",
+      "traduzione": "I matti e i bambini dicono la verità.",
+      "spiegazione": "Chi non ha filtri dice le cose come stanno.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Il mèle si fa leccare perché è dolce.",
+      "regione": "Toscana",
+      "traduzione": "Il miele si fa leccare perché è dolce.",
+      "spiegazione": "Chi vuole essere amato deve comportarsi con dolcezza.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

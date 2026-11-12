@@ -1,0 +1,217 @@
+{
+  "schema": 1,
+  "giorno": "11-25",
+  "santo": {
+    "nome": "Santa Caterina d'Alessandria",
+    "nota": "Giovane colta e martire del IV secolo, patrona dei filosofi e degli studenti. È raffigurata con una ruota dentata, lo strumento del suo martirio.",
+    "altri": [
+      "Sant'Audenzio di Milano",
+      "San Mercurio di Cesarea",
+      "San Pietro I di Alessandria"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale per l'eliminazione della violenza contro le donne",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-25-1952",
+      "anno": 1952,
+      "titolo": "Trappola per topi",
+      "testo": "Debutta a Londra Trappola per topi di Agatha Christie: da allora non ha mai smesso di andare in scena, ed è lo spettacolo teatrale più longevo del mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Trappola per topi",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra si alza un sipario che non è più calato."
+    },
+    {
+      "id": "11-25-1915",
+      "anno": 1915,
+      "titolo": "Le equazioni della gravità",
+      "testo": "Albert Einstein presenta all'Accademia prussiana delle scienze le equazioni di campo della relatività generale: la gravità diventa una curvatura dello spazio-tempo.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Relatività generale",
+      "tono": "leggero",
+      "indizio": "Domani: la gravità smette di essere una forza e diventa una curva."
+    },
+    {
+      "id": "11-25-1984",
+      "anno": 1984,
+      "titolo": "Band Aid",
+      "testo": "A Londra 36 musicisti britannici e irlandesi registrano in un giorno Do They Know It's Christmas?, per aiutare l'Etiopia colpita dalla carestia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Band Aid",
+      "tono": "leggero",
+      "indizio": "Domani: trentasei popstar registrano insieme una canzone di Natale per l'Africa."
+    },
+    {
+      "id": "11-25-1940",
+      "anno": 1940,
+      "titolo": "Arriva Picchiarello",
+      "testo": "Nel cartone animato Knock Knock esordisce Woody Woodpecker, in Italia Picchiarello, con la sua risata inconfondibile.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Picchiarello",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-25-1783",
+      "anno": 1783,
+      "titolo": "Gli inglesi lasciano New York",
+      "testo": "Le ultime truppe britanniche lasciano New York: la guerra d'indipendenza americana è davvero finita.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Guerra d'indipendenza americana",
+      "tono": "storico"
+    },
+    {
+      "id": "11-25-1992",
+      "anno": 1992,
+      "titolo": "Due Stati invece di uno",
+      "testo": "Il Parlamento federale vota la divisione pacifica della Cecoslovacchia in Repubblica Ceca e Slovacchia, dal 1° gennaio 1993.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Dissoluzione della Cecoslovacchia",
+      "tono": "storico"
+    },
+    {
+      "id": "11-25-2020",
+      "anno": 2020,
+      "titolo": "Addio a Maradona",
+      "testo": "Muore in Argentina Diego Armando Maradona, il campione che portò due scudetti al Napoli.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Diego Armando Maradona",
+      "tono": "storico"
+    },
+    {
+      "id": "11-25-1976",
+      "anno": 1976,
+      "titolo": "L'ultimo valzer",
+      "testo": "The Band tiene il suo concerto d'addio a San Francisco, con tanti ospiti: Martin Scorsese lo filma nel documentario L'ultimo valzer.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "L'ultimo valzer",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-25-1343",
+      "anno": 1343,
+      "titolo": "Il maremoto di Napoli",
+      "testo": "Un terremoto e un maremoto colpiscono la costa di Napoli; Francesco Petrarca, che si trovava in città, lo racconta in una lettera.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Maremoto di Napoli del 1343",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-25-1120",
+      "anno": 1120,
+      "titolo": "Il naufragio della Nave Bianca",
+      "testo": "Nella Manica affonda la Nave Bianca: muore l'unico figlio maschio legittimo del re Enrico I d'Inghilterra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Naufragio della Nave Bianca",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Lope de Vega",
+      "anno": 1562,
+      "chi": "drammaturgo spagnolo del Siglo de Oro",
+      "wiki": "Lope de Vega"
+    },
+    {
+      "nome": "Andrew Carnegie",
+      "anno": 1835,
+      "chi": "industriale e filantropo scozzese-americano",
+      "wiki": "Andrew Carnegie"
+    },
+    {
+      "nome": "Karl Benz",
+      "anno": 1844,
+      "chi": "ingegnere tedesco, costruì la prima automobile",
+      "wiki": "Karl Benz"
+    },
+    {
+      "nome": "Giovanni XXIII",
+      "anno": 1881,
+      "chi": "papa, il «papa buono», nato a Sotto il Monte",
+      "wiki": "Giovanni XXIII"
+    },
+    {
+      "nome": "Joe DiMaggio",
+      "anno": 1914,
+      "chi": "campione di baseball statunitense",
+      "wiki": "Joe DiMaggio"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Non dite l'assassino",
+      "testo": "Alla fine di ogni replica di Trappola per topi il pubblico viene invitato a non rivelare il finale. La regola dura da oltre settant'anni."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "La ruota di Caterina",
+      "testo": "Per via della ruota del martirio, in inglese una girandola pirotecnica si chiama Catherine wheel, la ruota di Caterina."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il primo viaggio in auto",
+      "testo": "Nel 1888 Bertha Benz, moglie di Karl, prese di nascosto l'automobile del marito e percorse con i figli più di cento chilometri: il primo lungo viaggio in auto della storia, per dimostrare che funzionava."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Date una carezza ai vostri bambini e dite: questa è la carezza del Papa.",
+      "autore": "Giovanni XXIII",
+      "fonte": "Discorso della luna, 1962"
+    },
+    {
+      "testo": "Pace non trovo, et non ò da far guerra.",
+      "autore": "Francesco Petrarca",
+      "fonte": "Canzoniere"
+    },
+    {
+      "testo": "L'unione fa la forza.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi spua sempre miel, ga sconto 'l fiel.",
+      "regione": "Veneto",
+      "traduzione": "Chi sputa sempre miele tiene nascosto il fiele.",
+      "spiegazione": "Diffida di chi è sempre troppo dolce: spesso nasconde qualcosa.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Càliti juncu ca passa la china.",
+      "regione": "Sicilia",
+      "traduzione": "Piegati, giunco, che passa la piena.",
+      "spiegazione": "Davanti alla tempesta è meglio piegarsi un po' che spezzarsi.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

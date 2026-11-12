@@ -1,0 +1,206 @@
+{
+  "schema": 1,
+  "giorno": "11-24",
+  "santo": {
+    "nome": "Sant'Andrea Dũng Lạc e compagni",
+    "nota": "La Chiesa ricorda 117 martiri del Vietnam, sacerdoti e laici, uccisi fra il XVII e il XIX secolo.",
+    "altri": [
+      "San Crisogono di Aquileia",
+      "Sant'Alberto di Lovanio",
+      "Santa Firmina di Amelia"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "11-24-1859",
+      "anno": 1859,
+      "titolo": "L'origine delle specie",
+      "testo": "Charles Darwin pubblica L'origine delle specie: la teoria dell'evoluzione per selezione naturale. La prima tiratura va esaurita nel giro di un giorno.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "L'origine delle specie",
+      "tono": "leggero",
+      "indizio": "Domani: esce un libro che cambia il modo di guardare ogni essere vivente."
+    },
+    {
+      "id": "11-24-1974",
+      "anno": 1974,
+      "titolo": "Ciao, Lucy",
+      "testo": "In Etiopia il paleontologo Donald Johanson trova lo scheletro di un ominide vissuto circa 3,2 milioni di anni fa. La chiameranno Lucy.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Lucy (paleoantropologia)",
+      "tono": "leggero",
+      "indizio": "Domani: in Etiopia salta fuori una bisnonna di tre milioni di anni."
+    },
+    {
+      "id": "11-24-1971",
+      "anno": 1971,
+      "titolo": "Il mistero di D. B. Cooper",
+      "testo": "Un uomo che si fa chiamare D. B. Cooper dirotta un aereo negli Stati Uniti, ottiene 200.000 dollari di riscatto e si lancia col paracadute nella notte. Non sarà mai trovato.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "D. B. Cooper",
+      "tono": "leggero",
+      "indizio": "Domani: un dirottatore salta da un aereo nella notte e sparisce per sempre."
+    },
+    {
+      "id": "11-24-1642",
+      "anno": 1642,
+      "titolo": "Abel Tasman trova la Tasmania",
+      "testo": "Il navigatore olandese Abel Tasman avvista un'isola a sud dell'Australia: oggi porta il suo nome.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Abel Tasman",
+      "tono": "storico"
+    },
+    {
+      "id": "11-24-1639",
+      "anno": 1639,
+      "titolo": "Il transito di Venere",
+      "testo": "L'astronomo inglese Jeremiah Horrocks osserva per primo il passaggio di Venere davanti al Sole, che aveva previsto lui stesso.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Jeremiah Horrocks",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-24-1951",
+      "anno": 1951,
+      "titolo": "Arriva Audrey",
+      "testo": "Debutta a Broadway la commedia Gigi, con una giovane Audrey Hepburn scelta dalla scrittrice Colette in persona.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Audrey Hepburn",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-24-2014",
+      "anno": 2014,
+      "titolo": "Le viti di Pantelleria all'UNESCO",
+      "testo": "La coltivazione della vite ad alberello di Pantelleria, da cui nasce lo zibibbo, entra nel patrimonio immateriale dell'umanità.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Pantelleria",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-24-1991",
+      "anno": 1991,
+      "titolo": "Addio a Freddie Mercury",
+      "testo": "Muore a Londra Freddie Mercury, voce dei Queen, un giorno dopo aver reso nota la sua malattia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Freddie Mercury",
+      "tono": "storico"
+    },
+    {
+      "id": "11-24-1969",
+      "anno": 1969,
+      "titolo": "L'Apollo 12 torna a casa",
+      "testo": "La capsula dell'Apollo 12 ammara nel Pacifico: si chiude la seconda missione umana sulla Luna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 2,
+      "wiki": "Apollo 12",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-24-1998",
+      "anno": 1998,
+      "titolo": "AOL compra Netscape",
+      "testo": "America Online annuncia l'acquisto di Netscape, il browser che aveva fatto conoscere il web a milioni di persone.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Netscape",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Baruch Spinoza",
+      "anno": 1632,
+      "chi": "filosofo olandese",
+      "wiki": "Baruch Spinoza"
+    },
+    {
+      "nome": "Laurence Sterne",
+      "anno": 1713,
+      "chi": "scrittore inglese, autore di Tristram Shandy",
+      "wiki": "Laurence Sterne"
+    },
+    {
+      "nome": "Carlo Collodi",
+      "anno": 1826,
+      "chi": "scrittore fiorentino, papà di Pinocchio",
+      "wiki": "Carlo Collodi"
+    },
+    {
+      "nome": "Henri de Toulouse-Lautrec",
+      "anno": 1864,
+      "chi": "pittore francese dei manifesti di Montmartre",
+      "wiki": "Henri de Toulouse-Lautrec"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Lucy in the Sky",
+      "testo": "Lo scheletro fu chiamato Lucy perché la sera della scoperta, all'accampamento, si ascoltava a tutto volume Lucy in the Sky with Diamonds dei Beatles."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Collodi, un paese",
+      "testo": "Carlo Lorenzini prese lo pseudonimo da Collodi, il paese in provincia di Pistoia da cui veniva la madre. Pinocchio uscì a puntate dal 1881 sul Giornale per i bambini."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "La parola che Darwin non usò",
+      "testo": "Nella prima edizione dell'Origine delle specie la parola evoluzione non compare. Però l'ultima parola del libro è evolved, «evoluto»."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "C'era una volta... Un re! diranno subito i miei piccoli lettori. No, ragazzi, avete sbagliato. C'era una volta un pezzo di legno.",
+      "autore": "Carlo Collodi",
+      "fonte": "Le avventure di Pinocchio"
+    },
+    {
+      "testo": "Non ridere, non piangere, non detestare, ma comprendere.",
+      "autore": "Baruch Spinoza",
+      "fonte": "Trattato politico"
+    },
+    {
+      "testo": "C'è grandiosità in questa concezione della vita.",
+      "autore": "Charles Darwin",
+      "fonte": "L'origine delle specie"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La legora senza corr la se ciappa tutt i or.",
+      "regione": "Lombardia",
+      "traduzione": "La lepre, senza correre, si prende a tutte le ore.",
+      "spiegazione": "Con la pazienza si ottiene quello che si vuole, senza affannarsi.",
+      "fonte": "Wikiquote, Proverbi milanesi"
+    },
+    {
+      "testo": "Pur' lu pis' cchiù trist' cu la paciénz' arrivént ligg'.",
+      "regione": "Basilicata",
+      "traduzione": "Anche il peso più duro, con la pazienza, diventa leggero.",
+      "spiegazione": "La pazienza alleggerisce anche le fatiche più grandi.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

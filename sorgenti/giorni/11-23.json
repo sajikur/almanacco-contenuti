@@ -1,0 +1,210 @@
+{
+  "schema": 1,
+  "giorno": "11-23",
+  "santo": {
+    "nome": "San Clemente I",
+    "nota": "Terzo successore di Pietro, vescovo di Roma alla fine del I secolo. La sua lettera ai cristiani di Corinto è uno dei più antichi scritti cristiani dopo il Nuovo Testamento.",
+    "altri": [
+      "San Colombano di Bobbio",
+      "Sant'Anfilochio di Iconio",
+      "San Gregorio II di Agrigento"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata di Fibonacci",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-23-1890",
+      "anno": 1890,
+      "titolo": "Il primo jukebox",
+      "testo": "Al Palais Royale Saloon di San Francisco viene installato il primo jukebox: un fonografo a monete con quattro tubi di ascolto, senza altoparlante.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Jukebox",
+      "tono": "leggero",
+      "indizio": "Domani: in un saloon di San Francisco si mette una moneta per ascoltare una canzone."
+    },
+    {
+      "id": "11-23-1963",
+      "anno": 1963,
+      "titolo": "Doctor Who",
+      "testo": "Va in onda sulla BBC il primo episodio di Doctor Who: oggi è la serie di fantascienza più longeva della televisione.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Doctor Who",
+      "tono": "leggero",
+      "indizio": "Domani: la televisione britannica parte per un viaggio nel tempo che dura ancora."
+    },
+    {
+      "id": "11-23-1936",
+      "anno": 1936,
+      "titolo": "Esce Life",
+      "testo": "Esce il primo numero della rivista americana Life, che farà del fotogiornalismo il suo marchio.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Life (rivista)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-23-1654",
+      "anno": 1654,
+      "titolo": "La notte di fuoco di Pascal",
+      "testo": "Il matematico Blaise Pascal vive un'esperienza mistica e la annota su un foglio, il Memoriale, che terrà cucito nella giacca per il resto della vita.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Blaise Pascal",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-23-1644",
+      "anno": 1644,
+      "titolo": "Milton difende la stampa",
+      "testo": "John Milton pubblica l'Areopagitica, uno dei primi e più famosi scritti in difesa della libertà di stampa.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Areopagitica",
+      "tono": "storico"
+    },
+    {
+      "id": "11-23-1971",
+      "anno": 1971,
+      "titolo": "La Cina all'ONU",
+      "testo": "La Repubblica Popolare Cinese prende il seggio della Cina alle Nazioni Unite e nel Consiglio di sicurezza.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Cina e Nazioni Unite",
+      "tono": "storico"
+    },
+    {
+      "id": "11-23-1890b",
+      "anno": 1890,
+      "titolo": "Guglielmina regina",
+      "testo": "Muore Guglielmo III dei Paesi Bassi senza figli maschi: la corona passa alla figlia Guglielmina, di dieci anni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Guglielmina dei Paesi Bassi",
+      "tono": "storico"
+    },
+    {
+      "id": "11-23-1248",
+      "anno": 1248,
+      "titolo": "Siviglia cristiana",
+      "testo": "Ferdinando III di Castiglia conquista Siviglia, una delle grandi tappe della Reconquista.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Siviglia",
+      "tono": "storico"
+    },
+    {
+      "id": "11-23-1980",
+      "anno": 1980,
+      "titolo": "Il terremoto dell'Irpinia",
+      "testo": "Una scossa di magnitudo 6,9 colpisce Campania e Basilicata: circa 3.000 morti e decine di paesi distrutti.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Terremoto dell'Irpinia del 1980",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-23-1825",
+      "anno": 1825,
+      "titolo": "Targhini e Montanari",
+      "testo": "A Roma, in piazza del Popolo, vengono ghigliottinati i carbonari Angelo Targhini e Leonida Montanari: una lapide li ricorda ancora oggi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Angelo Targhini",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Manuel de Falla",
+      "anno": 1876,
+      "chi": "compositore spagnolo",
+      "wiki": "Manuel de Falla"
+    },
+    {
+      "nome": "Boris Karloff",
+      "anno": 1887,
+      "chi": "attore britannico, il mostro di Frankenstein del cinema",
+      "wiki": "Boris Karloff"
+    },
+    {
+      "nome": "Harpo Marx",
+      "anno": 1888,
+      "chi": "attore comico, il fratello Marx muto con l'arpa",
+      "wiki": "Harpo Marx"
+    },
+    {
+      "nome": "Miley Cyrus",
+      "anno": 1992,
+      "chi": "cantante e attrice statunitense",
+      "wiki": "Miley Cyrus"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Perché oggi è il giorno di Fibonacci",
+      "testo": "Scritta all'americana, la data di oggi è 11/23: 1, 1, 2, 3, i primi numeri della successione di Fibonacci. Leonardo Fibonacci, pisano, con il Liber Abaci del 1202 fece conoscere in Europa le cifre arabe che usiamo ancora."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Più grande dentro che fuori",
+      "testo": "La macchina del tempo del Doctor Who, il TARDIS, ha l'aspetto di una vecchia cabina della polizia londinese ma dentro è enorme. Il nome sta per Time And Relative Dimension In Space."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Da dove viene jukebox",
+      "testo": "Juke viene probabilmente dalla lingua gullah degli afroamericani del Sud degli Stati Uniti, dove indicava qualcosa di chiassoso: i juke joint erano i locali dove si ballava."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "A San Clemente l'inverno mette un dente.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Uccidere un buon libro è quasi come uccidere un uomo.",
+      "autore": "John Milton",
+      "fonte": "Areopagitica"
+    },
+    {
+      "testo": "Chi ha tempo non aspetti tempo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Acqua passata 'un macina mulinu.",
+      "regione": "Calabria",
+      "traduzione": "L'acqua passata non macina il mulino.",
+      "spiegazione": "Quel che è successo è successo: inutile rimuginarci sopra.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "Chi ben særa, ben arve'.",
+      "regione": "Liguria",
+      "traduzione": "Chi chiude bene, apre bene.",
+      "spiegazione": "Chi fa le cose con cura all'inizio trova tutto in ordine dopo.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    }
+  ],
+  "prima_pagina": null
+}

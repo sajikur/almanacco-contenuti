@@ -1,0 +1,214 @@
+{
+  "schema": 1,
+  "giorno": "11-29",
+  "santo": {
+    "nome": "San Francesco Antonio Fasani",
+    "nota": "Frate francescano di Lucera, nel Settecento, chiamato «Padre Maestro»: dedicò la vita ai poveri e ai carcerati della sua città.",
+    "altri": [
+      "San Saturnino di Tolosa",
+      "Sant'Illuminata di Todi",
+      "San Brendano di Birr"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "11-29-1899",
+      "anno": 1899,
+      "titolo": "Nasce il Barcellona",
+      "testo": "Lo svizzero Joan Gamper e un gruppo di appassionati fondano il Futbol Club Barcelona.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Futbol Club Barcelona",
+      "tono": "leggero",
+      "indizio": "Domani: un annuncio sul giornale riunisce i fondatori di una squadra leggendaria."
+    },
+    {
+      "id": "11-29-1223",
+      "anno": 1223,
+      "titolo": "La Regola di Francesco",
+      "testo": "Papa Onorio III approva la Regola definitiva di san Francesco d'Assisi per i frati minori.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Regola francescana",
+      "tono": "storico",
+      "indizio": "Domani: un papa approva le regole di vita di un frate di Assisi."
+    },
+    {
+      "id": "11-29-1975",
+      "anno": 1975,
+      "titolo": "Micro-soft",
+      "testo": "In una lettera a Paul Allen, Bill Gates usa per la prima volta il nome Micro-soft, con il trattino.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Microsoft",
+      "tono": "leggero",
+      "indizio": "Domani: in una lettera compare per la prima volta il nome di un colosso, ancora con il trattino."
+    },
+    {
+      "id": "11-29-1929",
+      "anno": 1929,
+      "titolo": "Sopra il Polo Sud",
+      "testo": "L'americano Richard Byrd annuncia di aver sorvolato per primo il Polo Sud in aereo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Richard Evelyn Byrd",
+      "tono": "leggero",
+      "indizio": "Domani: un aereo sorvola per la prima volta il fondo del mondo."
+    },
+    {
+      "id": "11-29-1944",
+      "anno": 1944,
+      "titolo": "Il cuore dei bambini blu",
+      "testo": "A Baltimora il chirurgo Alfred Blalock opera per la prima volta un bambino con la tetralogia di Fallot, con una tecnica messa a punto dal suo assistente Vivien Thomas, che non era nemmeno laureato.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Vivien Thomas",
+      "tono": "leggero",
+      "indizio": "Domani: un assistente senza laurea inventa l'operazione che salva i «bambini blu»."
+    },
+    {
+      "id": "11-29-1961",
+      "anno": 1961,
+      "titolo": "Lo scimpanzé Enos in orbita",
+      "testo": "Con la Mercury-Atlas 5 lo scimpanzé Enos compie due orbite attorno alla Terra e torna sano: prova generale per il volo di John Glenn.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Enos (scimpanzé)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-29-1947",
+      "anno": 1947,
+      "titolo": "La partizione della Palestina",
+      "testo": "L'Assemblea dell'ONU vota il piano di divisione della Palestina in due Stati, uno ebraico e uno arabo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Piano di partizione della Palestina",
+      "tono": "storico"
+    },
+    {
+      "id": "11-29-1847",
+      "anno": 1847,
+      "titolo": "La fusione perfetta",
+      "testo": "Il Regno di Sardegna diventa uno Stato unitario: l'isola perde la sua autonomia e la carica di viceré.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Fusione perfetta",
+      "tono": "storico"
+    },
+    {
+      "id": "11-29-1890",
+      "anno": 1890,
+      "titolo": "La costituzione Meiji",
+      "testo": "In Giappone entra in vigore la costituzione Meiji e si riunisce il primo Parlamento.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Costituzione Meiji",
+      "tono": "storico"
+    },
+    {
+      "id": "11-29-1732",
+      "anno": 1732,
+      "titolo": "Trema l'Irpinia",
+      "testo": "Un forte terremoto colpisce l'Irpinia e causa migliaia di vittime.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto dell'Irpinia del 1732",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Gaetano Donizetti",
+      "anno": 1797,
+      "chi": "compositore bergamasco, autore dell'Elisir d'amore",
+      "wiki": "Gaetano Donizetti"
+    },
+    {
+      "nome": "Christian Doppler",
+      "anno": 1803,
+      "chi": "fisico austriaco, quello dell'effetto Doppler",
+      "wiki": "Christian Doppler"
+    },
+    {
+      "nome": "Louisa May Alcott",
+      "anno": 1832,
+      "chi": "scrittrice statunitense, autrice di Piccole donne",
+      "wiki": "Louisa May Alcott"
+    },
+    {
+      "nome": "C. S. Lewis",
+      "anno": 1898,
+      "chi": "scrittore britannico, autore delle Cronache di Narnia",
+      "wiki": "C. S. Lewis"
+    },
+    {
+      "nome": "Jacques Chirac",
+      "anno": 1932,
+      "chi": "presidente della Francia",
+      "wiki": "Jacques Chirac"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Cercasi giocatori",
+      "testo": "Joan Gamper trovò i compagni per fondare il Barcellona con un piccolo annuncio sul giornale sportivo Los Deportes, nell'ottobre del 1899."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Micro più soft",
+      "testo": "Microsoft unisce microcomputer e software. Il trattino del primo nome sparì presto, già nel 1976."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "L'effetto Doppler in strada",
+      "testo": "La sirena di un'ambulanza sembra più acuta mentre si avvicina e più grave mentre si allontana: è l'effetto descritto da Christian Doppler, nato oggi."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Una furtiva lagrima negli occhi suoi spuntò.",
+      "autore": "Felice Romani, per Gaetano Donizetti",
+      "fonte": "L'elisir d'amore"
+    },
+    {
+      "testo": "Laudato si', mi' Signore, per sora nostra madre Terra.",
+      "autore": "San Francesco d'Assisi",
+      "fonte": "Cantico delle creature"
+    },
+    {
+      "testo": "Chi fa da sé fa per tre.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi no ga cuor per le bestie, no lo ga gnanca per i cristiani.",
+      "regione": "Veneto",
+      "traduzione": "Chi non ha cuore per gli animali non lo ha nemmeno per le persone.",
+      "spiegazione": "Il modo in cui trattiamo gli animali dice molto di noi.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Cu mangia fa muddichi.",
+      "regione": "Sicilia",
+      "traduzione": "Chi mangia fa briciole.",
+      "spiegazione": "Chi fa qualcosa sbaglia ogni tanto: solo chi non fa nulla non sbaglia mai.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

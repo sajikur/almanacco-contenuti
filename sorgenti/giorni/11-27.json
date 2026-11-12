@@ -1,0 +1,189 @@
+{
+  "schema": 1,
+  "giorno": "11-27",
+  "santo": {
+    "nome": "Beata Vergine della Medaglia miracolosa",
+    "nota": "Si ricorda l'apparizione della Madonna a santa Caterina Labouré, nel 1830 a Parigi, in rue du Bac: da qui nasce la Medaglia miracolosa.",
+    "altri": [
+      "Sant'Apollinare di Montecassino",
+      "San Giacomo l'Interciso",
+      "San Virgilio di Salisburgo"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "11-27-1895",
+      "anno": 1895,
+      "titolo": "Il testamento di Nobel",
+      "testo": "A Parigi Alfred Nobel firma il testamento con cui lascia gran parte della sua fortuna per creare i premi che portano il suo nome.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Premio Nobel",
+      "tono": "leggero",
+      "indizio": "Domani: l'inventore della dinamite decide di lasciare tutto a chi fa del bene all'umanità."
+    },
+    {
+      "id": "11-27-1095",
+      "anno": 1095,
+      "titolo": "Si parte per la crociata",
+      "testo": "Al Concilio di Clermont papa Urbano II chiama i cristiani d'Europa alla Prima crociata.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Prima crociata",
+      "tono": "storico",
+      "indizio": "Domani: un papa, in Francia, chiama l'Europa a mettersi in cammino verso Gerusalemme."
+    },
+    {
+      "id": "11-27-1990",
+      "anno": 1990,
+      "titolo": "L'Italia entra in Schengen",
+      "testo": "L'Italia firma l'accordo di Schengen: è il primo passo verso un'Europa senza controlli alle frontiere interne.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Accordi di Schengen",
+      "tono": "storico"
+    },
+    {
+      "id": "11-27-1971",
+      "anno": 1971,
+      "titolo": "Un oggetto umano tocca Marte",
+      "testo": "La sonda sovietica Mars 2 raggiunge Marte: il suo modulo di discesa si schianta sulla superficie, primo oggetto costruito dall'uomo a toccare il pianeta.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Mars 2",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-27-1941",
+      "anno": 1941,
+      "titolo": "La resa di Gondar",
+      "testo": "In Etiopia si arrende Gondar, ultimo presidio italiano: finisce l'Africa Orientale Italiana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Gondar",
+      "tono": "storico"
+    },
+    {
+      "id": "11-27-1830",
+      "anno": 1830,
+      "titolo": "La Medaglia miracolosa",
+      "testo": "Secondo il racconto di santa Caterina Labouré, la Madonna le appare a Parigi e le chiede di far coniare una medaglia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Medaglia miracolosa",
+      "tono": "storico"
+    },
+    {
+      "id": "11-27-1998",
+      "anno": 1998,
+      "titolo": "Esce il Dreamcast",
+      "testo": "Sega lancia in Giappone il Dreamcast, una console avanti sui tempi: fu la prima con un modem per giocare online.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Dreamcast",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-27-1703",
+      "anno": 1703,
+      "titolo": "Il faro spazzato via",
+      "testo": "La Grande tempesta distrugge il primo faro di Eddystone, al largo di Plymouth: il suo costruttore era all'interno.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Faro di Eddystone",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Anders Celsius",
+      "anno": 1701,
+      "chi": "astronomo svedese, quello dei gradi",
+      "wiki": "Anders Celsius"
+    },
+    {
+      "nome": "Chaim Weizmann",
+      "anno": 1874,
+      "chi": "chimico e primo presidente di Israele",
+      "wiki": "Chaim Weizmann"
+    },
+    {
+      "nome": "Bruce Lee",
+      "anno": 1940,
+      "chi": "attore e maestro di arti marziali",
+      "wiki": "Bruce Lee"
+    },
+    {
+      "nome": "Jimi Hendrix",
+      "anno": 1942,
+      "chi": "chitarrista statunitense",
+      "wiki": "Jimi Hendrix"
+    },
+    {
+      "nome": "Kathryn Bigelow",
+      "anno": 1951,
+      "chi": "regista, prima donna premio Oscar per la regia",
+      "wiki": "Kathryn Bigelow"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Il Nobel della pace si consegna a Oslo",
+      "testo": "Nobel volle che il premio per la pace fosse assegnato da un comitato norvegese: per questo si consegna a Oslo, mentre tutti gli altri a Stoccolma."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "I gradi al contrario",
+      "testo": "Nella scala originale di Celsius l'acqua bolliva a 0 gradi e gelava a 100. Fu rovesciata dopo la sua morte, diventando quella che usiamo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una chitarra capovolta",
+      "testo": "Jimi Hendrix era mancino ma suonava spesso chitarre per destrorsi, girate al contrario e con le corde invertite."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Nulla nasce dal nulla.",
+      "autore": "Lucrezio",
+      "fonte": "De rerum natura"
+    },
+    {
+      "testo": "Dio lo vuole!",
+      "autore": "grido della Prima crociata",
+      "fonte": "Concilio di Clermont, 1095"
+    },
+    {
+      "testo": "Rosso di sera, bel tempo si spera.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Quie samunat sa conca ad s'ainu, perdet trabagliu et sabone.",
+      "regione": "Sardegna",
+      "traduzione": "Chi insapona la testa all'asino perde fatica e sapone.",
+      "spiegazione": "È inutile sprecare fatica con chi non vuole capire.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Ogni sparagnu è guadagnu.",
+      "regione": "Calabria",
+      "traduzione": "Ogni risparmio è un guadagno.",
+      "spiegazione": "Anche i piccoli risparmi, messi insieme, valgono come un guadagno.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "giorno": "11-21",
+  "santo": {
+    "nome": "Presentazione della Beata Vergine Maria",
+    "nota": "La Chiesa ricorda Maria bambina presentata al Tempio. A Venezia è la festa della Madonna della Salute: si attraversa il Canal Grande su un ponte votivo di barche, in ricordo della fine della peste del 1630.",
+    "altri": [
+      "San Gelasio I papa",
+      "San Mauro di Cesena",
+      "San Liberale di Embrun"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata nazionale degli alberi",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Giornata mondiale della televisione",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-21-1783",
+      "anno": 1783,
+      "titolo": "Si vola!",
+      "testo": "A Parigi Jean-François Pilâtre de Rozier e il marchese d'Arlandes compiono il primo volo umano libero su una mongolfiera dei fratelli Montgolfier: circa 25 minuti sopra la città.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Fratelli Montgolfier",
+      "tono": "leggero",
+      "indizio": "Domani: due uomini si staccano da terra, per la prima volta, sopra Parigi."
+    },
+    {
+      "id": "11-21-1905",
+      "anno": 1905,
+      "titolo": "Nasce E=mc²",
+      "testo": "Sugli Annalen der Physik esce l'articolo di Albert Einstein che lega massa ed energia: è da qui che nasce la formula più famosa della fisica.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Equivalenza massa-energia",
+      "tono": "leggero",
+      "indizio": "Domani: esce un articolo di tre pagine che contiene la formula più famosa del mondo."
+    },
+    {
+      "id": "11-21-1877",
+      "anno": 1877,
+      "titolo": "Edison annuncia il fonografo",
+      "testo": "Thomas Edison annuncia l'invenzione del fonografo, la prima macchina capace di registrare la voce e di riascoltarla.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Fonografo",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta una macchina impara a ripetere la voce umana."
+    },
+    {
+      "id": "11-21-1676",
+      "anno": 1676,
+      "titolo": "Quanto corre la luce",
+      "testo": "All'Accademia delle scienze di Parigi l'astronomo danese Ole Rømer presenta la prima misura della velocità della luce, ottenuta osservando le lune di Giove.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Ole Rømer",
+      "tono": "leggero",
+      "indizio": "Domani: un astronomo scopre che la luce non arriva subito."
+    },
+    {
+      "id": "11-21-1969",
+      "anno": 1969,
+      "titolo": "Due computer si parlano",
+      "testo": "Viene stabilito il primo collegamento permanente della rete ARPANET, fra l'Università della California a Los Angeles e lo Stanford Research Institute: è l'antenata di Internet.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "ARPANET",
+      "tono": "leggero",
+      "indizio": "Domani: due computer lontani si collegano: è il seme di Internet."
+    },
+    {
+      "id": "11-21-1964",
+      "anno": 1964,
+      "titolo": "Il ponte di Verrazzano",
+      "testo": "A New York apre il ponte di Verrazzano, allora il ponte sospeso più lungo del mondo. Porta il nome del navigatore toscano Giovanni da Verrazzano, primo europeo a entrare nella baia.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Ponte di Verrazzano",
+      "tono": "leggero",
+      "indizio": "Domani: a New York si inaugura un ponte che porta il nome di un navigatore toscano."
+    },
+    {
+      "id": "11-21-1620",
+      "anno": 1620,
+      "titolo": "Il patto del Mayflower",
+      "testo": "Prima di sbarcare, i coloni del Mayflower firmano un accordo per governarsi da sé: il Mayflower Compact.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Mayflower Compact",
+      "tono": "storico"
+    },
+    {
+      "id": "11-21-1975",
+      "anno": 1975,
+      "titolo": "A Night at the Opera",
+      "testo": "I Queen pubblicano l'album A Night at the Opera, quello di Bohemian Rhapsody.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "A Night at the Opera (Queen)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-21-1953",
+      "anno": 1953,
+      "titolo": "L'uomo di Piltdown era un falso",
+      "testo": "Il Museo di storia naturale di Londra annuncia che il cranio dell'uomo di Piltdown, presentato nel 1912 come un antenato dell'uomo, era un falso costruito ad arte.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Uomo di Piltdown",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-21-1916",
+      "anno": 1916,
+      "titolo": "Muore Francesco Giuseppe",
+      "testo": "Muore a Vienna l'imperatore Francesco Giuseppe, dopo 68 anni di regno: due anni dopo l'Impero austro-ungarico non esisterà più.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Francesco Giuseppe d'Austria",
+      "tono": "storico"
+    },
+    {
+      "id": "11-21-1916b",
+      "anno": 1916,
+      "titolo": "Affonda la Britannic",
+      "testo": "Nell'Egeo la nave ospedale Britannic, gemella del Titanic, urta una mina e affonda in meno di un'ora.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "HMHS Britannic",
+      "tono": "tragico"
+    },
+    {
+      "id": "11-21-1934",
+      "anno": 1934,
+      "titolo": "Ella all'Apollo",
+      "testo": "A diciassette anni Ella Fitzgerald vince la serata dei dilettanti all'Apollo Theater di Harlem: è l'inizio di una carriera leggendaria.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Ella Fitzgerald",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Voltaire",
+      "anno": 1694,
+      "chi": "filosofo e scrittore francese, autore di Candido",
+      "wiki": "Voltaire"
+    },
+    {
+      "nome": "René Magritte",
+      "anno": 1898,
+      "chi": "pittore surrealista belga",
+      "wiki": "René Magritte"
+    },
+    {
+      "nome": "Goldie Hawn",
+      "anno": 1945,
+      "chi": "attrice statunitense",
+      "wiki": "Goldie Hawn"
+    },
+    {
+      "nome": "Björk",
+      "anno": 1965,
+      "chi": "cantante islandese",
+      "wiki": "Björk"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "I primi passeggeri: una pecora, un'anatra e un gallo",
+      "testo": "Due mesi prima del volo umano, a Versailles, i Montgolfier fecero salire in mongolfiera tre animali per vedere se si sopravviveva lassù. Atterrarono tutti sani."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Scrivere il suono",
+      "testo": "Fonografo viene dal greco phōnḗ, «voce, suono», e gráphein, «scrivere». Le prime parole registrate da Edison furono una filastrocca per bambini, Mary had a little lamb."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un albero per ogni bambino",
+      "testo": "Per la legge italiana sugli spazi verdi del 2013, i comuni più grandi devono piantare un albero per ogni bambino nato o adottato."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Bisogna coltivare il nostro giardino.",
+      "autore": "Voltaire",
+      "fonte": "Candido, ultima riga"
+    },
+    {
+      "testo": "Il libro della natura è scritto in lingua matematica.",
+      "autore": "Galileo Galilei",
+      "fonte": "dal Saggiatore"
+    },
+    {
+      "testo": "A buon intenditor poche parole.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Gialine viere fās bon brūt.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Gallina vecchia fa buon brodo.",
+      "spiegazione": "L'esperienza degli anni ha il suo valore, anche in cucina.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "'O pesce fete d' 'a capa.",
+      "regione": "Campania",
+      "traduzione": "Il pesce puzza dalla testa.",
+      "spiegazione": "Quando qualcosa non va, il problema di solito comincia da chi comanda.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

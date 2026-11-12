@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "giorno": "11-30",
+  "santo": {
+    "nome": "Sant'Andrea apostolo",
+    "nota": "Fratello di Pietro e pescatore di Galilea, fu il primo chiamato da Gesù. È il patrono della Scozia e viene ricordato con la croce a X del suo martirio.",
+    "altri": [
+      "San Galgano",
+      "San Mirocle di Milano",
+      "San Cutberto Mayne"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa della Toscana",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Festa di Sant'Andrea (Scozia)",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Festa nazionale delle Barbados",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-30-1786",
+      "anno": 1786,
+      "titolo": "La Toscana abolisce la pena di morte",
+      "testo": "Il granduca Pietro Leopoldo cancella la pena di morte e la tortura: la Toscana è il primo Stato al mondo a farlo. Oggi è la Festa della Toscana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Abolizione della pena di morte in Toscana",
+      "tono": "storico",
+      "indizio": "Domani: un piccolo Stato italiano fa per primo al mondo una scelta coraggiosa."
+    },
+    {
+      "id": "11-30-1872",
+      "anno": 1872,
+      "titolo": "La prima partita fra nazionali",
+      "testo": "A Glasgow Scozia e Inghilterra giocano la prima partita internazionale di calcio della storia: finisce 0-0, davanti a circa quattromila spettatori.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Scozia-Inghilterra 1872",
+      "tono": "leggero",
+      "indizio": "Domani: due nazionali si sfidano per la prima volta, e nessuno segna."
+    },
+    {
+      "id": "11-30-1982",
+      "anno": 1982,
+      "titolo": "Thriller",
+      "testo": "Esce Thriller di Michael Jackson: diventerà l'album più venduto di tutti i tempi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Thriller (album)",
+      "tono": "leggero",
+      "indizio": "Domani: esce il disco più venduto della storia."
+    },
+    {
+      "id": "11-30-1954",
+      "anno": 1954,
+      "titolo": "Colpita da un meteorite",
+      "testo": "In Alabama un meteorite di circa quattro chili sfonda il tetto di una casa e colpisce sul fianco Ann Hodges, che riposava sul divano: è la prima persona di cui sia documentato un ferimento da meteorite.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Meteorite di Sylacauga",
+      "tono": "leggero",
+      "indizio": "Domani: una signora fa un sonnellino sul divano, e le cade addosso un pezzo di cielo."
+    },
+    {
+      "id": "11-30-1979",
+      "anno": 1979,
+      "titolo": "The Wall",
+      "testo": "I Pink Floyd pubblicano The Wall, l'album di Another Brick in the Wall.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "The Wall",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-30-1941",
+      "anno": 1941,
+      "titolo": "Il jet italiano",
+      "testo": "Il Campini-Caproni, il primo aereo a getto costruito in Italia, compie il volo ufficiale da Milano a Roma.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Caproni Campini N.1",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-30-1936",
+      "anno": 1936,
+      "titolo": "Brucia il Crystal Palace",
+      "testo": "A Londra un incendio distrugge il Crystal Palace, il palazzo di vetro e ferro costruito per l'Esposizione universale del 1851.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Crystal Palace",
+      "tono": "storico"
+    },
+    {
+      "id": "11-30-1886",
+      "anno": 1886,
+      "titolo": "Le Folies Bergère",
+      "testo": "A Parigi le Folies Bergère mettono in scena il loro primo spettacolo di rivista.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Folies Bergère",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-30-1966",
+      "anno": 1966,
+      "titolo": "Barbados indipendente",
+      "testo": "Le Barbados diventano indipendenti dal Regno Unito; nel 2021, nello stesso giorno, diventeranno una repubblica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Barbados",
+      "tono": "storico"
+    },
+    {
+      "id": "11-30-1939",
+      "anno": 1939,
+      "titolo": "La guerra d'inverno",
+      "testo": "L'Unione Sovietica invade la Finlandia: comincia la guerra d'inverno.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Guerra d'inverno",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Andrea Palladio",
+      "anno": 1508,
+      "chi": "architetto padovano delle ville venete",
+      "wiki": "Andrea Palladio"
+    },
+    {
+      "nome": "Jonathan Swift",
+      "anno": 1667,
+      "chi": "scrittore irlandese, autore dei Viaggi di Gulliver",
+      "wiki": "Jonathan Swift"
+    },
+    {
+      "nome": "Mark Twain",
+      "anno": 1835,
+      "chi": "scrittore statunitense, autore di Tom Sawyer",
+      "wiki": "Mark Twain"
+    },
+    {
+      "nome": "Winston Churchill",
+      "anno": 1874,
+      "chi": "statista britannico e premio Nobel per la letteratura",
+      "wiki": "Winston Churchill"
+    },
+    {
+      "nome": "Lucy Maud Montgomery",
+      "anno": 1874,
+      "chi": "scrittrice canadese, autrice di Anna dai capelli rossi",
+      "wiki": "Lucy Maud Montgomery"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Bruciate le forche",
+      "testo": "Dopo la riforma di Pietro Leopoldo, in Toscana furono distrutti i patiboli e gli strumenti di tortura. Il codice, chiamato Leopoldina, fu studiato in tutta Europa."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Segna due!",
+      "testo": "Mark Twain era il grido dei marinai dei battelli del Mississippi: «segna due», cioè due braccia d'acqua, profondità sicura per navigare. Samuel Clemens, che aveva fatto il pilota di battelli, lo scelse come pseudonimo."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Palladio, un soprannome",
+      "testo": "Andrea Palladio si chiamava Andrea di Pietro della Gondola. Il nome Palladio, ispirato a Pallade Atena, glielo diede il suo mentore, l'umanista vicentino Gian Giorgio Trissino."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La notizia della mia morte è un'esagerazione.",
+      "autore": "Mark Twain",
+      "fonte": "1897"
+    },
+    {
+      "testo": "Non ho nulla da offrire se non sangue, fatica, lacrime e sudore.",
+      "autore": "Winston Churchill",
+      "fonte": "discorso del 13 maggio 1940"
+    },
+    {
+      "testo": "Ogni medaglia ha il suo rovescio.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La volp lāsse il pel, ma il vīzi no.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "La volpe lascia il pelo, ma non il vizio.",
+      "spiegazione": "Si può cambiare aspetto, ma le cattive abitudini restano.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Guaie e maccarune se magnane caure.",
+      "regione": "Campania",
+      "traduzione": "Guai e maccheroni si mangiano caldi.",
+      "spiegazione": "I problemi vanno affrontati subito, come la pasta va mangiata appena pronta.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

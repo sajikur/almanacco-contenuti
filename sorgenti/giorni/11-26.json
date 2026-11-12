@@ -1,0 +1,203 @@
+{
+  "schema": 1,
+  "giorno": "11-26",
+  "santo": {
+    "nome": "San Leonardo da Porto Maurizio",
+    "nota": "Frate francescano ligure del Settecento, grande predicatore: fece erigere la Via Crucis all'interno del Colosseo.",
+    "altri": [
+      "San Bellino di Padova",
+      "San Silvestro Guzzolini",
+      "Sant'Umile da Bisignano"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "11-26-1922",
+      "anno": 1922,
+      "titolo": "Cose meravigliose",
+      "testo": "Nella Valle dei Re Howard Carter apre uno spiraglio nella tomba di Tutankhamon e, alla luce di una candela, vede per primo dopo tremila anni gli ori del faraone.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Tutankhamon",
+      "tono": "leggero",
+      "indizio": "Domani: una candela illumina un tesoro rimasto al buio per tremila anni."
+    },
+    {
+      "id": "11-26-1864",
+      "anno": 1864,
+      "titolo": "Il regalo di Lewis Carroll",
+      "testo": "Lewis Carroll manda alla piccola Alice Liddell il manoscritto illustrato a mano di Alice nel Paese delle Meraviglie, la storia che le aveva raccontato in barca.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Alice nel Paese delle Meraviglie",
+      "tono": "leggero",
+      "indizio": "Domani: una bambina riceve in regalo il libro che la renderà immortale."
+    },
+    {
+      "id": "11-26-1942",
+      "anno": 1942,
+      "titolo": "Casablanca",
+      "testo": "A New York va in scena la prima di Casablanca, con Humphrey Bogart e Ingrid Bergman.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Casablanca (film)",
+      "tono": "leggero",
+      "indizio": "Domani: debutta un film che tutti citano, ambientato in un bar del Marocco."
+    },
+    {
+      "id": "11-26-1917",
+      "anno": 1917,
+      "titolo": "Il Piave tiene",
+      "testo": "Si chiude la prima battaglia del Piave: l'esercito italiano ha fermato l'avanzata austro-tedesca dopo Caporetto.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Prima battaglia del Piave",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia tira un sospiro di sollievo lungo un fiume veneto."
+    },
+    {
+      "id": "11-26-1996",
+      "anno": 1996,
+      "titolo": "Del Piero a Tokyo",
+      "testo": "La Juventus vince a Tokyo la Coppa Intercontinentale battendo 1-0 il River Plate, con un gol di Alessandro Del Piero.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Coppa Intercontinentale 1996",
+      "tono": "leggero",
+      "indizio": "Domani: a Tokyo un gol italiano vale il titolo di campioni del mondo."
+    },
+    {
+      "id": "11-26-2003",
+      "anno": 2003,
+      "titolo": "L'ultimo volo del Concorde",
+      "testo": "Il Concorde vola per l'ultima volta e atterra a Filton, in Inghilterra, dove era stato costruito.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Concorde",
+      "tono": "leggero",
+      "indizio": "Domani: l'aereo più veloce del suono atterra per l'ultima volta."
+    },
+    {
+      "id": "11-26-1965",
+      "anno": 1965,
+      "titolo": "La Francia nello spazio",
+      "testo": "Dal Sahara la Francia lancia il satellite Astérix: è la terza nazione a mandare un satellite in orbita con un razzo proprio.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Astérix (satellite)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-26-2011",
+      "anno": 2011,
+      "titolo": "Parte Curiosity",
+      "testo": "Da Cape Canaveral parte il rover Curiosity: atterrerà su Marte l'agosto seguente.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Curiosity (rover)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-26-1922b",
+      "anno": 1922,
+      "titolo": "Il colore al cinema",
+      "testo": "Esce The Toll of the Sea, uno dei primi film a colori distribuiti con il Technicolor a due colori.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Technicolor",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-26-1461",
+      "anno": 1461,
+      "titolo": "Trema L'Aquila",
+      "testo": "Un violento terremoto colpisce L'Aquila e i paesi vicini.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto dell'Aquila del 1461",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Ferdinand de Saussure",
+      "anno": 1857,
+      "chi": "linguista svizzero, padre della linguistica moderna",
+      "wiki": "Ferdinand de Saussure"
+    },
+    {
+      "nome": "Charles M. Schulz",
+      "anno": 1922,
+      "chi": "fumettista statunitense, creatore dei Peanuts e di Snoopy",
+      "wiki": "Charles M. Schulz"
+    },
+    {
+      "nome": "Tina Turner",
+      "anno": 1939,
+      "chi": "cantante statunitense",
+      "wiki": "Tina Turner"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "«Vedo cose meravigliose»",
+      "testo": "Quando lord Carnarvon gli chiese se vedesse qualcosa, Carter, con la candela davanti alla fessura, rispose: «Sì, cose meravigliose». La tomba fu aperta ufficialmente solo mesi dopo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Tutto a mano per cinquant'anni",
+      "testo": "Charles Schulz disegnò da solo ogni striscia dei Peanuts per quasi cinquant'anni, senza assistenti: circa 18.000 strisce."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Casablanca a Burbank",
+      "testo": "Casablanca, che in spagnolo vuol dire «casa bianca», fu girato quasi tutto negli studi Warner in California: nessuno degli attori andò in Marocco."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Comincia dal principio, e va' avanti finché non arrivi alla fine: poi fermati.",
+      "autore": "Lewis Carroll",
+      "fonte": "Alice nel Paese delle Meraviglie"
+    },
+    {
+      "testo": "Il tempo divora ogni cosa (Tempus edax rerum).",
+      "autore": "Ovidio",
+      "fonte": "Metamorfosi"
+    },
+    {
+      "testo": "Tanto va la gatta al lardo che ci lascia lo zampino.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Val plui un ucel in man che cent par ajar.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Vale più un uccello in mano che cento per aria.",
+      "spiegazione": "Meglio una cosa sicura oggi che tante promesse per domani.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Pe' n'aceno 'e sale se perde 'a menesta.",
+      "regione": "Campania",
+      "traduzione": "Per un granello di sale si rovina la minestra.",
+      "spiegazione": "Basta un piccolo errore per guastare un lavoro fatto bene.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

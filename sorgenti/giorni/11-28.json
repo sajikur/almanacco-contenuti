@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "giorno": "11-28",
+  "santo": {
+    "nome": "San Giacomo della Marca",
+    "nota": "Frate francescano del Quattrocento, instancabile predicatore in tutta Europa e promotore dei Monti di Pietà, i primi istituti di credito per i poveri.",
+    "altri": [
+      "Santa Teodora di Rossano",
+      "San Sostene",
+      "Santo Stefano il Giovane"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa dell'indipendenza (Albania)",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-28-1520",
+      "anno": 1520,
+      "titolo": "Il mare Pacifico",
+      "testo": "Dopo settimane di navigazione nello stretto che porterà il suo nome, Ferdinando Magellano sbuca in un oceano tanto calmo da chiamarlo Pacifico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Ferdinando Magellano",
+      "tono": "leggero",
+      "indizio": "Domani: una flotta esce da uno stretto e trova un oceano tranquillo, che battezza così."
+    },
+    {
+      "id": "11-28-1660",
+      "anno": 1660,
+      "titolo": "Nasce la Royal Society",
+      "testo": "Dopo una conferenza al Gresham College di Londra dodici studiosi decidono di fondare la società che diventerà la Royal Society, una delle più antiche accademie scientifiche.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Royal Society",
+      "tono": "leggero",
+      "indizio": "Domani: dodici studiosi di Londra fondano un club che farà la storia della scienza."
+    },
+    {
+      "id": "11-28-1919",
+      "anno": 1919,
+      "titolo": "Una donna ai Comuni",
+      "testo": "Nancy Astor diventa la prima donna a sedere alla Camera dei Comuni britannica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Nancy Astor",
+      "tono": "storico",
+      "indizio": "Domani: una donna, per la prima volta, prende posto nel Parlamento di Londra."
+    },
+    {
+      "id": "11-28-1964",
+      "anno": 1964,
+      "titolo": "Mariner 4 verso Marte",
+      "testo": "Parte la sonda Mariner 4: l'anno dopo invierà le prime fotografie ravvicinate di Marte.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Mariner 4",
+      "tono": "leggero",
+      "indizio": "Domani: parte la sonda che ci mostrerà da vicino il pianeta rosso."
+    },
+    {
+      "id": "11-28-1895",
+      "anno": 1895,
+      "titolo": "La prima corsa d'auto americana",
+      "testo": "Si corre la prima gara automobilistica degli Stati Uniti, da Chicago a Evanston e ritorno, nella neve: vince Frank Duryea in circa dieci ore.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Frank Duryea",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-28-1909",
+      "anno": 1909,
+      "titolo": "Il Terzo di Rachmaninov",
+      "testo": "Sergej Rachmaninov esegue per la prima volta il suo Concerto per pianoforte n. 3, uno dei più difficili del repertorio.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Concerto per pianoforte n. 3 (Rachmaninov)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-28-1582",
+      "anno": 1582,
+      "titolo": "Il matrimonio di Shakespeare",
+      "testo": "Il diciottenne William Shakespeare e Anne Hathaway ottengono il permesso di sposarsi.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Anne Hathaway (moglie di Shakespeare)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-28-1912",
+      "anno": 1912,
+      "titolo": "L'Albania indipendente",
+      "testo": "A Valona Ismail Qemali proclama l'indipendenza dell'Albania dall'Impero ottomano.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Dichiarazione d'indipendenza dell'Albania",
+      "tono": "storico"
+    },
+    {
+      "id": "11-28-1943",
+      "anno": 1943,
+      "titolo": "La conferenza di Teheran",
+      "testo": "Roosevelt, Churchill e Stalin si incontrano per la prima volta tutti e tre insieme, a Teheran.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Conferenza di Teheran",
+      "tono": "storico"
+    },
+    {
+      "id": "11-28-1994",
+      "anno": 1994,
+      "titolo": "La Norvegia dice no",
+      "testo": "Con un referendum i norvegesi rifiutano per la seconda volta di entrare nell'Unione europea.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Norvegia e Unione europea",
+      "tono": "storico"
+    },
+    {
+      "id": "11-28-2016",
+      "anno": 2016,
+      "titolo": "La tragedia della Chapecoense",
+      "testo": "Vicino a Medellín precipita l'aereo che portava la squadra brasiliana della Chapecoense alla finale di Coppa Sudamericana.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Volo LaMia 2933",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Jean-Baptiste Lully",
+      "anno": 1632,
+      "chi": "compositore italiano alla corte di Luigi XIV, nato a Firenze",
+      "wiki": "Jean-Baptiste Lully"
+    },
+    {
+      "nome": "William Blake",
+      "anno": 1757,
+      "chi": "poeta e pittore inglese",
+      "wiki": "William Blake"
+    },
+    {
+      "nome": "Friedrich Engels",
+      "anno": 1820,
+      "chi": "filosofo tedesco",
+      "wiki": "Friedrich Engels"
+    },
+    {
+      "nome": "Alberto Moravia",
+      "anno": 1907,
+      "chi": "scrittore romano, autore degli Indifferenti",
+      "wiki": "Alberto Moravia"
+    },
+    {
+      "nome": "Claude Lévi-Strauss",
+      "anno": 1908,
+      "chi": "antropologo francese",
+      "wiki": "Claude Lévi-Strauss"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Lo raccontò un vicentino",
+      "testo": "Gran parte di ciò che sappiamo del viaggio di Magellano lo dobbiamo ad Antonio Pigafetta, di Vicenza, che tenne un diario e fu tra i pochi a tornare a casa."
+    },
+    {
+      "categoria": "lingua",
+      "titolo": "Moravia era un cognome di famiglia",
+      "testo": "Alberto Moravia si chiamava Alberto Pincherle: prese lo pseudonimo dal cognome della nonna paterna."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Sulla parola di nessuno",
+      "testo": "Il motto della Royal Society è Nullius in verba, «sulla parola di nessuno»: in scienza non si crede a qualcosa solo perché lo dice qualcuno, bisogna dimostrarlo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Vedere un mondo in un granello di sabbia.",
+      "autore": "William Blake",
+      "fonte": "Auguries of Innocence"
+    },
+    {
+      "testo": "Sulla parola di nessuno (Nullius in verba).",
+      "autore": "Motto della Royal Society",
+      "fonte": "1660"
+    },
+    {
+      "testo": "Chi non risica non rosica.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi dorme d'agosto, dorme a suo costo.",
+      "regione": "Toscana",
+      "traduzione": "Chi dorme d'agosto dorme a sue spese.",
+      "spiegazione": "Chi si riposa quando c'è da lavorare ne pagherà le conseguenze.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Nun fruscià quanne aie; nun dire quanne saie.",
+      "regione": "Basilicata",
+      "traduzione": "Non sperperare quando hai; non dire quando sai.",
+      "spiegazione": "Prudenza con i soldi e con le parole: non sprecare né gli uni né le altre.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

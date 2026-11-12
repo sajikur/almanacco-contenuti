@@ -1,0 +1,231 @@
+{
+  "schema": 1,
+  "giorno": "11-20",
+  "santo": {
+    "nome": "Sant'Edmondo, re e martire",
+    "nota": "Re dell'Anglia orientale nel IX secolo, ucciso dai vichinghi. Prima di san Giorgio era considerato il patrono dell'Inghilterra.",
+    "altri": [
+      "San Gregorio il Decapolita",
+      "San Basilio di Antiochia",
+      "San José Sánchez del Río"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale per i diritti dell'infanzia e dell'adolescenza",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "11-20-1985",
+      "anno": 1985,
+      "titolo": "Arriva Windows",
+      "testo": "Microsoft mette in vendita Windows 1.0, la prima versione del sistema con le finestre. Era poco più di un'aggiunta grafica al vecchio MS-DOS, ma il nome è rimasto.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Windows 1.0",
+      "tono": "leggero",
+      "indizio": "Domani: una finestra si apre sugli schermi di mezzo mondo."
+    },
+    {
+      "id": "11-20-1820",
+      "anno": 1820,
+      "titolo": "La balena che ispirò Moby Dick",
+      "testo": "Nel Pacifico un capodoglio sperona e affonda la baleniera americana Essex. Il racconto dei pochi superstiti ispirerà Herman Melville per Moby Dick.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Essex (baleniera)",
+      "tono": "storico",
+      "indizio": "Domani: una balena si vendica, e da un naufragio nascerà un romanzo."
+    },
+    {
+      "id": "11-20-1947",
+      "anno": 1947,
+      "titolo": "Nozze reali a Westminster",
+      "testo": "La principessa Elisabetta sposa il tenente Philip Mountbatten nell'abbazia di Westminster. Cinque anni dopo sarà regina.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Elisabetta II del Regno Unito",
+      "tono": "leggero",
+      "indizio": "Domani: una principessa dice sì, e un giorno sarà regina per settant'anni."
+    },
+    {
+      "id": "11-20-1998",
+      "anno": 1998,
+      "titolo": "Il primo mattone della Stazione spaziale",
+      "testo": "Dal Kazakistan parte Zarja, il primo modulo della Stazione spaziale internazionale. Da allora la stazione è cresciuta pezzo dopo pezzo in orbita.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Zarja (modulo ISS)",
+      "tono": "leggero",
+      "indizio": "Domani: in orbita si posa il primo mattone di una casa nello spazio."
+    },
+    {
+      "id": "11-20-1945",
+      "anno": 1945,
+      "titolo": "Si apre il processo di Norimberga",
+      "testo": "Comincia il processo di Norimberga contro i principali capi nazisti: per la prima volta un tribunale internazionale giudica crimini contro l'umanità.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Processo di Norimberga",
+      "tono": "storico",
+      "indizio": "Domani: per la prima volta un tribunale internazionale giudica i capi di un regime."
+    },
+    {
+      "id": "11-20-1989",
+      "anno": 1989,
+      "titolo": "I diritti dei bambini",
+      "testo": "L'Assemblea dell'ONU approva la Convenzione sui diritti dell'infanzia, il trattato sui diritti umani ratificato dal maggior numero di Paesi.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Convenzione sui diritti dell'infanzia e dell'adolescenza",
+      "tono": "storico",
+      "indizio": "Domani: il mondo mette per iscritto i diritti dei più piccoli."
+    },
+    {
+      "id": "11-20-1492",
+      "anno": 1492,
+      "titolo": "Ferrara accoglie gli esuli",
+      "testo": "Il duca Ercole I d'Este accoglie a Ferrara gli ebrei cacciati dalla Spagna: la città diventerà uno dei centri della cultura ebraica italiana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Storia degli ebrei a Ferrara",
+      "tono": "storico"
+    },
+    {
+      "id": "11-20-2007",
+      "anno": 2007,
+      "titolo": "La grotta della lupa?",
+      "testo": "A Roma viene annunciato il ritrovamento, sotto il Palatino, di una grotta decorata che potrebbe essere il Lupercale, dove secondo la leggenda la lupa allattò Romolo e Remo.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Lupercale",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-20-1962",
+      "anno": 1962,
+      "titolo": "Finisce la crisi di Cuba",
+      "testo": "Kennedy revoca il blocco navale attorno a Cuba: si chiude la crisi dei missili, il momento in cui la guerra fredda fu più vicina a diventare nucleare.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Crisi dei missili di Cuba",
+      "tono": "storico"
+    },
+    {
+      "id": "11-20-1966",
+      "anno": 1966,
+      "titolo": "Willkommen a Broadway",
+      "testo": "Debutta a New York il musical Cabaret, ambientato nella Berlino dei primi anni Trenta.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Cabaret (musical)",
+      "tono": "leggero"
+    },
+    {
+      "id": "11-20-2004",
+      "anno": 2004,
+      "titolo": "Il castello errante",
+      "testo": "Esce in Giappone Il castello errante di Howl di Hayao Miyazaki, tratto da un romanzo di Diana Wynne Jones.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Il castello errante di Howl",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Selma Lagerlöf",
+      "anno": 1858,
+      "chi": "scrittrice svedese, prima donna premio Nobel per la letteratura",
+      "wiki": "Selma Lagerlöf"
+    },
+    {
+      "nome": "Edwin Hubble",
+      "anno": 1889,
+      "chi": "astronomo statunitense, scoprì che l'universo si espande",
+      "wiki": "Edwin Hubble"
+    },
+    {
+      "nome": "Gene Tierney",
+      "anno": 1920,
+      "chi": "attrice statunitense, protagonista di Vertigine",
+      "wiki": "Gene Tierney"
+    },
+    {
+      "nome": "Benoît Mandelbrot",
+      "anno": 1924,
+      "chi": "matematico, padre dei frattali",
+      "wiki": "Benoît Mandelbrot"
+    },
+    {
+      "nome": "Joe Biden",
+      "anno": 1942,
+      "chi": "46º presidente degli Stati Uniti",
+      "wiki": "Joe Biden"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Le galassie scappano",
+      "testo": "Edwin Hubble, nato oggi, dimostrò che le galassie si allontanano da noi tanto più velocemente quanto più sono lontane: l'universo si sta espandendo. Il telescopio spaziale porta il suo nome."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Finestre che non si sovrapponevano",
+      "testo": "Nel primo Windows le finestre non potevano stare una sopra l'altra: si affiancavano come piastrelle. Le finestre sovrapposte arrivarono solo con la versione successiva."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il racconto di Owen Chase",
+      "testo": "Il primo ufficiale della Essex, Owen Chase, scrisse un resoconto del naufragio. Melville ne lesse una copia da giovane marinaio e la annotò a margine."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Conosci te stesso.",
+      "autore": "Iscrizione del tempio di Apollo a Delfi",
+      "fonte": "massima greca"
+    },
+    {
+      "testo": "Il tempo è galantuomo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Sbagliare è umano (Errare humanum est).",
+      "autore": "Proverbio latino",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Poco xe megio che gnente.",
+      "regione": "Veneto",
+      "traduzione": "Poco è meglio di niente.",
+      "spiegazione": "Meglio accontentarsi di qualcosa che restare a mani vuote.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Cu' ha lingua passa 'u mari.",
+      "regione": "Sicilia",
+      "traduzione": "Chi ha lingua passa il mare.",
+      "spiegazione": "Chi sa parlare e chiedere trova sempre la strada, anche oltre il mare.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}
