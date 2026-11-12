@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "giorno": "02-02",
+  "santo": {
+    "nome": "Presentazione del Signore",
+    "nota": "È la Candelora: quaranta giorni dopo Natale Maria e Giuseppe presentano Gesù al Tempio. In chiesa si benedicono le candele, e da questa festa la tradizione popolare trae il pronostico sulla fine dell'inverno.",
+    "altri": [
+      "Santa Caterina de' Ricci",
+      "San Lorenzo di Canterbury",
+      "Santa Giovanna di Lestonnac"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Candelora",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giorno della marmotta (Stati Uniti e Canada)",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata mondiale delle zone umide",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-02-1709",
+      "anno": 1709,
+      "titolo": "Il vero Robinson Crusoe",
+      "testo": "Sull'isola deserta di Más a Tierra, al largo del Cile, viene ritrovato il marinaio scozzese Alexander Selkirk, vissuto da solo per più di quattro anni: la sua storia ispirerà Robinson Crusoe.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Alexander Selkirk",
+      "tono": "leggero",
+      "indizio": "Domani: una nave trova su un'isola deserta un uomo vestito di pelli di capra."
+    },
+    {
+      "id": "02-02-1914",
+      "anno": 1914,
+      "titolo": "Charlot al cinema",
+      "testo": "Negli Stati Uniti esce Per guadagnarsi la vita, il primo film di Charlie Chaplin: il personaggio di Charlot arriverà pochi giorni dopo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Charlie Chaplin",
+      "tono": "leggero",
+      "indizio": "Domani: un giovane comico inglese debutta al cinema."
+    },
+    {
+      "id": "02-02-1925",
+      "anno": 1925,
+      "titolo": "Balto arriva a Nome",
+      "testo": "Dopo cinque giorni e mezzo di staffetta nella bufera, la slitta guidata dal cane Balto porta a Nome, in Alaska, il siero contro la difterite.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Balto",
+      "tono": "leggero",
+      "indizio": "Domani: un cane da slitta arriva in Alaska con il siero che salva una città."
+    },
+    {
+      "id": "02-02-1536",
+      "anno": 1536,
+      "titolo": "Nasce Buenos Aires",
+      "testo": "Il conquistatore spagnolo Pedro de Mendoza fonda sul Río de la Plata la prima Buenos Aires.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Buenos Aires",
+      "tono": "storico",
+      "indizio": "Domani: sulle rive di un grande fiume nasce una città che parlerà mezzo italiano."
+    },
+    {
+      "id": "02-02-1990",
+      "anno": 1990,
+      "titolo": "De Klerk e Mandela",
+      "testo": "Il presidente sudafricano de Klerk annuncia la legalizzazione dell'ANC e la liberazione di Nelson Mandela: è l'inizio della fine dell'apartheid.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Frederik de Klerk",
+      "tono": "storico",
+      "indizio": "Domani: il Sudafrica annuncia che Mandela tornerà libero."
+    },
+    {
+      "id": "02-02-1971",
+      "anno": 1971,
+      "titolo": "La convenzione di Ramsar",
+      "testo": "Nella città iraniana di Ramsar viene firmata la convenzione per proteggere le zone umide: paludi, lagune e torbiere. Per questo oggi è la loro giornata mondiale.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Convenzione di Ramsar",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-02-1935",
+      "anno": 1935,
+      "titolo": "La macchina della verità",
+      "testo": "Nel Wisconsin Leonard Keeler usa per la prima volta in un processo il poligrafo, la «macchina della verità».",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Poligrafo",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-02-1940",
+      "anno": 1940,
+      "titolo": "Sinatra con Dorsey",
+      "testo": "Frank Sinatra canta per la prima volta con l'orchestra di Tommy Dorsey.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Frank Sinatra",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-02-1924",
+      "anno": 1924,
+      "titolo": "Nasce la FIS",
+      "testo": "A Chamonix, durante le prime Olimpiadi invernali, nasce la Federazione internazionale sci.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Federazione Internazionale Sci",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-02-962",
+      "anno": 962,
+      "titolo": "Ottone I imperatore",
+      "testo": "A Roma papa Giovanni XII incorona Ottone I di Sassonia imperatore: nasce il Sacro Romano Impero germanico.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Ottone I di Sassonia",
+      "tono": "storico"
+    },
+    {
+      "id": "02-02-1703",
+      "anno": 1703,
+      "titolo": "Il terremoto dell'Aquila",
+      "testo": "Un fortissimo terremoto distrugge L'Aquila.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto dell'Aquila del 1703",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "James Joyce",
+      "anno": 1882,
+      "chi": "scrittore irlandese dell'Ulisse",
+      "wiki": "James Joyce"
+    },
+    {
+      "nome": "Jascha Heifetz",
+      "anno": 1901,
+      "chi": "violinista lituano-americano",
+      "wiki": "Jascha Heifetz"
+    },
+    {
+      "nome": "Ayn Rand",
+      "anno": 1905,
+      "chi": "scrittrice russo-americana",
+      "wiki": "Ayn Rand"
+    },
+    {
+      "nome": "Farrah Fawcett",
+      "anno": 1947,
+      "chi": "attrice statunitense",
+      "wiki": "Farrah Fawcett"
+    },
+    {
+      "nome": "Shakira",
+      "anno": 1977,
+      "chi": "cantante colombiana",
+      "wiki": "Shakira"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "La marmotta e la Candelora",
+      "testo": "In America oggi si guarda la marmotta di Punxsutawney: se vede la sua ombra, l'inverno durerà altre sei settimane. È la stessa idea dei proverbi italiani della Candelora, che con il sole promettono altro freddo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "L'Ulisse per il compleanno",
+      "testo": "James Joyce, nato oggi, volle che l'Ulisse uscisse proprio il giorno del suo quarantesimo compleanno, il 2 febbraio 1922. La tipografia di Digione fece in tempo per un soffio."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Gatti contro topi",
+      "testo": "Selkirk raccontò che sull'isola i topi gli rosicchiavano i piedi di notte. Addomesticò allora i gatti selvatici, lasciati lì dai marinai, che dormivano con lui a centinaia."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Gli errori sono i portali della scoperta.",
+      "autore": "James Joyce",
+      "fonte": "Ulisse"
+    },
+    {
+      "testo": "Per la Candelora, dall'inverno siamo fora; ma se piove o tira vento, nell'inverno siamo dentro.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Una giornata senza ridere è una giornata sprecata.",
+      "autore": "attribuita a Charlie Chaplin",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A la Candlera n'ora 'ntera, mesa a la matin, mesa a la seira.",
+      "regione": "Piemonte",
+      "traduzione": "Alla Candelora un'ora intera, metà al mattino, metà alla sera.",
+      "spiegazione": "A inizio febbraio le giornate si sono già allungate di un'ora rispetto al solstizio: mezz'ora di luce in più al mattino, mezza alla sera.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "Ceriola nevegarola, de l'inverno semo fora; Ceriola solarola, ne l'inverno semo ancora.",
+      "regione": "Veneto",
+      "traduzione": "Se nevica alla Candelora l'inverno è finito; se c'è il sole, siamo ancora nell'inverno.",
+      "spiegazione": "Il pronostico veneto della Candelora: paradossalmente il bel tempo del 2 febbraio annuncia altro freddo.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    }
+  ],
+  "prima_pagina": null
+}

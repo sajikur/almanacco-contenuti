@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "giorno": "02-06",
+  "santo": {
+    "nome": "San Paolo Miki e compagni",
+    "nota": "Ventisei cristiani, fra cui il gesuita giapponese Paolo Miki, crocifissi a Nagasaki nel 1597. Oggi si ricorda anche santa Dorotea, patrona dei giardinieri.",
+    "altri": [
+      "Santa Dorotea",
+      "San Guarino di Palestrina",
+      "Sant'Amando di Maastricht"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Waitangi Day (Nuova Zelanda)",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giorno nazionale dei Sami",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-06-1952",
+      "anno": 1952,
+      "titolo": "Elisabetta regina",
+      "testo": "Alla morte di Giorgio VI la figlia Elisabetta, in viaggio in Kenya, diventa regina: si dice che sia salita su un albero principessa e ne sia scesa regina.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Elisabetta II del Regno Unito",
+      "tono": "storico",
+      "indizio": "Domani: una principessa in viaggio in Africa diventa regina senza saperlo."
+    },
+    {
+      "id": "02-06-2018",
+      "anno": 2018,
+      "titolo": "Un'auto nello spazio",
+      "testo": "Parte per la prima volta il razzo Falcon Heavy: come carico porta un'automobile sportiva rossa, con un manichino in tuta spaziale al volante, che ancora oggi gira attorno al Sole.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Falcon Heavy",
+      "tono": "leggero",
+      "indizio": "Domani: un'automobile rossa parte per lo spazio con un manichino alla guida."
+    },
+    {
+      "id": "02-06-1658",
+      "anno": 1658,
+      "titolo": "L'esercito sul mare ghiacciato",
+      "testo": "Carlo X di Svezia porta il suo esercito a piedi, di notte, sul mare ghiacciato del Grande Belt e coglie di sorpresa i danesi.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Marcia sui Belt",
+      "tono": "storico",
+      "indizio": "Domani: un re fa camminare un esercito sul mare."
+    },
+    {
+      "id": "02-06-1819",
+      "anno": 1819,
+      "titolo": "Nasce Singapore",
+      "testo": "Thomas Stamford Raffles firma il trattato che fa di Singapore una base britannica: un villaggio di pescatori diventa una delle città più ricche del mondo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Singapore",
+      "tono": "storico",
+      "indizio": "Domani: un villaggio di pescatori comincia a diventare una metropoli."
+    },
+    {
+      "id": "02-06-1822",
+      "anno": 1822,
+      "titolo": "Le mie prigioni",
+      "testo": "L'imperatore d'Austria trasforma in carcere duro la condanna a morte di Silvio Pellico e Piero Maroncelli: Pellico racconterà quegli anni allo Spielberg nelle Mie prigioni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Silvio Pellico",
+      "tono": "storico",
+      "indizio": "Domani: due patrioti italiani sfuggono al patibolo e finiscono allo Spielberg."
+    },
+    {
+      "id": "02-06-1840",
+      "anno": 1840,
+      "titolo": "Il trattato di Waitangi",
+      "testo": "I capi maori e la corona britannica firmano il trattato di Waitangi, atto di nascita della Nuova Zelanda.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Trattato di Waitangi",
+      "tono": "storico"
+    },
+    {
+      "id": "02-06-1975",
+      "anno": 1975,
+      "titolo": "Il furto di Urbino",
+      "testo": "Dal Palazzo Ducale di Urbino vengono rubate la Muta di Raffaello e due capolavori di Piero della Francesca: saranno ritrovati un anno dopo in Svizzera.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Galleria nazionale delle Marche",
+      "tono": "storico",
+      "indizio": "Domani: dal palazzo di Urbino spariscono tre capolavori del Rinascimento."
+    },
+    {
+      "id": "02-06-1922",
+      "anno": 1922,
+      "titolo": "Pio XI",
+      "testo": "Il cardinale milanese Achille Ratti, alpinista provetto, viene eletto papa con il nome di Pio XI.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Papa Pio XI",
+      "tono": "storico"
+    },
+    {
+      "id": "02-06-1778",
+      "anno": 1778,
+      "titolo": "La Francia con l'America",
+      "testo": "A Parigi la Francia firma un trattato di alleanza con gli Stati Uniti: è fra i primi Paesi a riconoscerli.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Trattato di alleanza franco-americana",
+      "tono": "storico"
+    },
+    {
+      "id": "02-06-1853",
+      "anno": 1853,
+      "titolo": "L'insurrezione di Milano",
+      "testo": "A Milano scoppia un'insurrezione mazziniana contro gli austriaci, soffocata in un giorno.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Moti di Milano del 1853",
+      "tono": "storico"
+    },
+    {
+      "id": "02-06-1958",
+      "anno": 1958,
+      "titolo": "Il disastro di Monaco",
+      "testo": "All'aeroporto di Monaco di Baviera si schianta l'aereo del Manchester United di ritorno da Belgrado.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Disastro aereo di Monaco di Baviera",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Babe Ruth",
+      "anno": 1895,
+      "chi": "leggenda del baseball americano",
+      "wiki": "Babe Ruth"
+    },
+    {
+      "nome": "Ronald Reagan",
+      "anno": 1911,
+      "chi": "attore e presidente degli Stati Uniti",
+      "wiki": "Ronald Reagan"
+    },
+    {
+      "nome": "Zsa Zsa Gabor",
+      "anno": 1917,
+      "chi": "attrice ungherese-americana",
+      "wiki": "Zsa Zsa Gabor"
+    },
+    {
+      "nome": "François Truffaut",
+      "anno": 1932,
+      "chi": "regista francese",
+      "wiki": "François Truffaut"
+    },
+    {
+      "nome": "Bob Marley",
+      "anno": 1945,
+      "chi": "musicista giamaicano del reggae",
+      "wiki": "Bob Marley"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "spazio",
+      "titolo": "Niente panico",
+      "testo": "Sul cruscotto dell'auto lanciata nello spazio c'è la scritta Don't panic, omaggio alla Guida galattica per gli autostoppisti. Lo stereo, finché ha avuto batteria, suonava Space Oddity di David Bowie."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Sull'albero",
+      "testo": "Quando morì il padre, Elisabetta era al Treetops, un albergo costruito fra i rami di un fico in Kenya. Lo scrittore Jim Corbett annotò che vi era salita principessa e scesa regina."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il papa alpinista",
+      "testo": "Da giovane Pio XI aveva scalato il Monte Rosa dalla parete di Macugnaga e il Monte Bianco: per tutti fu il «papa alpinista»."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Un solo amore, un solo cuore.",
+      "autore": "Bob Marley",
+      "fonte": "One Love"
+    },
+    {
+      "testo": "Chi ha fatto il male, faccia la penitenza.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Anno di neve, anno di bene.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi rubba ccià la robba, chi lavora ccià la gobba.",
+      "regione": "Umbria",
+      "traduzione": "Chi ruba ha la roba, chi lavora la gobba.",
+      "spiegazione": "Amara constatazione: spesso chi imbroglia si arricchisce, mentre chi lavora onestamente si spezza la schiena.",
+      "fonte": "Wikiquote, Proverbi umbri"
+    },
+    {
+      "testo": "Monte cu monte nu se contra mai; omu cu omu, ci nu osce, crai.",
+      "regione": "Puglia",
+      "traduzione": "Monte con monte non s'incontra mai; uomo con uomo, se non oggi, domani.",
+      "spiegazione": "Le strade delle persone prima o poi si incrociano: meglio non lasciarsi male.",
+      "fonte": "Wikiquote, Proverbi leccesi"
+    }
+  ],
+  "prima_pagina": null
+}

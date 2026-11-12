@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "giorno": "02-04",
+  "santo": {
+    "nome": "San Giuseppe da Leonessa",
+    "nota": "Frate cappuccino umbro del Cinquecento, predicatore instancabile: andò perfino a Costantinopoli ad assistere gli schiavi cristiani.",
+    "altri": [
+      "Santa Giovanna di Valois",
+      "San Rabano Mauro",
+      "San Gilberto di Sempringham"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Madonna del Fuoco, patrona di Forlì",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Giornata mondiale contro il cancro",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-04-2004",
+      "anno": 2004,
+      "titolo": "Nasce Facebook",
+      "testo": "Uno studente di Harvard, Mark Zuckerberg, mette online TheFacebook: all'inizio possono iscriversi solo gli studenti della sua università.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Facebook",
+      "tono": "leggero",
+      "indizio": "Domani: uno studente di Harvard mette online un annuario degli studenti."
+    },
+    {
+      "id": "02-04-1977",
+      "anno": 1977,
+      "titolo": "Rumours",
+      "testo": "Esce Rumours dei Fleetwood Mac, registrato mentre le coppie del gruppo si lasciavano: diventerà uno degli album più venduti di sempre.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Rumours (Fleetwood Mac)",
+      "tono": "leggero",
+      "indizio": "Domani: una band in crisi sentimentale pubblica un disco da quaranta milioni di copie."
+    },
+    {
+      "id": "02-04-1789",
+      "anno": 1789,
+      "titolo": "Washington presidente",
+      "testo": "George Washington viene eletto all'unanimità primo presidente degli Stati Uniti: è l'unico presidente mai eletto con tutti i voti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "George Washington",
+      "tono": "storico",
+      "indizio": "Domani: l'America elegge il suo primo presidente, con tutti i voti."
+    },
+    {
+      "id": "02-04-1857",
+      "anno": 1857,
+      "titolo": "L'uomo di Neanderthal",
+      "testo": "Lo studioso tedesco Hermann Schaaffhausen presenta le ossa trovate in una cava della valle di Neander: sono di un uomo diverso da noi.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Uomo di Neanderthal",
+      "tono": "leggero",
+      "indizio": "Domani: in una cava tedesca escono le ossa di un nostro lontano cugino."
+    },
+    {
+      "id": "02-04-1859",
+      "anno": 1859,
+      "titolo": "Il Codice Sinaitico",
+      "testo": "Nel monastero di Santa Caterina, sul Sinai, lo studioso Konstantin von Tischendorf ritrova il Codice Sinaitico, una delle più antiche Bibbie complete.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Codice Sinaitico",
+      "tono": "leggero",
+      "indizio": "Domani: in un monastero del Sinai riemerge una delle Bibbie più antiche."
+    },
+    {
+      "id": "02-04-1948",
+      "anno": 1948,
+      "titolo": "Nino Bibbia",
+      "testo": "A Sankt Moritz il valtellinese Nino Bibbia vince lo skeleton: è il primo campione olimpico italiano dei Giochi invernali.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Nino Bibbia",
+      "tono": "leggero",
+      "indizio": "Domani: un fruttivendolo valtellinese vince la prima medaglia d'oro italiana sulla neve."
+    },
+    {
+      "id": "02-04-1862",
+      "anno": 1862,
+      "titolo": "Nasce Bacardi",
+      "testo": "A Santiago di Cuba Facundo Bacardí fonda la distilleria di rum con il pipistrello nel marchio.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Bacardi",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-04-1508",
+      "anno": 1508,
+      "titolo": "Imperatore a Trento",
+      "testo": "Venezia sbarra la strada verso Roma a Massimiliano d'Asburgo: lui si fa proclamare imperatore nel duomo di Trento.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Massimiliano I d'Asburgo",
+      "tono": "storico"
+    },
+    {
+      "id": "02-04-1794",
+      "anno": 1794,
+      "titolo": "Abolita la schiavitù",
+      "testo": "La Convenzione nazionale francese abolisce la schiavitù in tutte le colonie.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Abolizione della schiavitù",
+      "tono": "storico"
+    },
+    {
+      "id": "02-04-1970",
+      "anno": 1970,
+      "titolo": "Nasce Pryp'jat'",
+      "testo": "In Ucraina cominciano i lavori della città di Pryp'jat', costruita per gli operai della centrale di Černobyl': sarà abbandonata sedici anni dopo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Pryp'jat'",
+      "tono": "storico"
+    },
+    {
+      "id": "02-04-1169",
+      "anno": 1169,
+      "titolo": "Il terremoto di Catania",
+      "testo": "Un violento terremoto colpisce la Sicilia orientale e distrugge Catania.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto della Sicilia orientale del 1169",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Charles Lindbergh",
+      "anno": 1902,
+      "chi": "aviatore statunitense, primo a sorvolare l'Atlantico da solo",
+      "wiki": "Charles Lindbergh"
+    },
+    {
+      "nome": "Rosa Parks",
+      "anno": 1913,
+      "chi": "attivista per i diritti civili",
+      "wiki": "Rosa Parks"
+    },
+    {
+      "nome": "Betty Friedan",
+      "anno": 1921,
+      "chi": "scrittrice e femminista statunitense",
+      "wiki": "Betty Friedan"
+    },
+    {
+      "nome": "Alice Cooper",
+      "anno": 1948,
+      "chi": "rocker statunitense",
+      "wiki": "Alice Cooper"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "The Facebook",
+      "testo": "All'inizio il sito si chiamava TheFacebook, come gli annuari con le foto degli studenti. Il «The» sparì solo nel 2005, su consiglio di Sean Parker, il fondatore di Napster."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "Il fruttivendolo campione",
+      "testo": "Nino Bibbia, nato in Valtellina, a Sankt Moritz gestiva un negozio di frutta e verdura. Scese sulla pista del Cresta, ghiaccio puro e curve a strapiombo, per più di cinquant'anni."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una Bibbia divisa in quattro",
+      "testo": "Oggi le pagine del Codice Sinaitico sono divise fra Londra, Lipsia, San Pietroburgo e il monastero del Sinai. Si possono sfogliare tutte insieme online."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Ero solo stanca di cedere.",
+      "autore": "Rosa Parks",
+      "fonte": "autobiografia"
+    },
+    {
+      "testo": "Chi non risica non rosica.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Febbraio corto, peggio di un turco.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "L'aqua la fa mêl, e' ven e' fa cantê.",
+      "regione": "Emilia-Romagna",
+      "traduzione": "L'acqua fa male, il vino fa cantare.",
+      "spiegazione": "Un elogio scherzoso del vino, tipico delle osterie romagnole.",
+      "fonte": "Wikiquote, Proverbi romagnoli"
+    },
+    {
+      "testo": "Chi dha faidi dha pensada.",
+      "regione": "Sardegna",
+      "traduzione": "Chi l'ha fatta l'ha studiata.",
+      "spiegazione": "Dietro una cattiva azione c'è spesso un piano preparato con cura.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

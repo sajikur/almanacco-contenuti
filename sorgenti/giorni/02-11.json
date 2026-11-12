@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "giorno": "02-11",
+  "santo": {
+    "nome": "Beata Vergine Maria di Lourdes",
+    "nota": "L'11 febbraio 1858 la quattordicenne Bernadette Soubirous vide per la prima volta «una signora» nella grotta di Massabielle, a Lourdes. Dal 1993 oggi è la Giornata mondiale del malato.",
+    "altri": [
+      "San Pasquale I papa",
+      "San Castrense di Sessa",
+      "San Secondino"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Anniversario dei Patti Lateranensi",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Giornata mondiale del malato",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata internazionale delle donne e delle ragazze nella scienza",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-11-1990",
+      "anno": 1990,
+      "titolo": "Mandela libero",
+      "testo": "Dopo ventisette anni di prigione Nelson Mandela esce dal carcere di Victor Verster, mano nella mano con la moglie Winnie, con il pugno alzato.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Nelson Mandela",
+      "tono": "storico",
+      "indizio": "Domani: dopo ventisette anni un uomo esce di prigione con il pugno alzato."
+    },
+    {
+      "id": "02-11-2016",
+      "anno": 2016,
+      "titolo": "Le onde gravitazionali",
+      "testo": "Gli scienziati di LIGO e Virgo annunciano di aver captato per la prima volta le onde gravitazionali previste da Einstein: venivano dalla fusione di due buchi neri.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Onda gravitazionale",
+      "tono": "leggero",
+      "indizio": "Domani: gli scienziati sentono per la prima volta lo spazio che vibra."
+    },
+    {
+      "id": "02-11-1929",
+      "anno": 1929,
+      "titolo": "I Patti Lateranensi",
+      "testo": "Nel palazzo del Laterano il cardinale Gasparri e Mussolini firmano i Patti che chiudono la «questione romana»: nasce lo Stato della Città del Vaticano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Patti Lateranensi",
+      "tono": "storico",
+      "indizio": "Domani: nasce lo Stato più piccolo del mondo."
+    },
+    {
+      "id": "02-11-2013",
+      "anno": 2013,
+      "titolo": "Benedetto XVI rinuncia",
+      "testo": "Durante un concistoro, parlando in latino, Benedetto XVI annuncia che lascerà il pontificato: non succedeva da secoli. A capirlo per prima è una giornalista che sa il latino.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Rinuncia di papa Benedetto XVI",
+      "tono": "storico",
+      "indizio": "Domani: un papa annuncia in latino che lascerà il suo incarico."
+    },
+    {
+      "id": "02-11-1963",
+      "anno": 1963,
+      "titolo": "Please Please Me in un giorno",
+      "testo": "Agli studi di Abbey Road i Beatles registrano quasi tutto il loro primo album in una sola giornata, finendo a notte con Twist and Shout.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Please Please Me",
+      "tono": "leggero",
+      "indizio": "Domani: quattro ragazzi registrano un album intero in un giorno solo."
+    },
+    {
+      "id": "02-11-1858",
+      "anno": 1858,
+      "titolo": "La prima apparizione",
+      "testo": "A Lourdes, nella grotta di Massabielle, Bernadette Soubirous racconta di aver visto una signora vestita di bianco.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Apparizioni di Lourdes",
+      "tono": "storico",
+      "indizio": "Domani: una ragazza dei Pirenei vede una signora in una grotta."
+    },
+    {
+      "id": "02-11-1967",
+      "anno": 1967,
+      "titolo": "Centocinquanta metri in volo",
+      "testo": "A Oberstdorf il norvegese Lars Grini è il primo saltatore con gli sci a superare i centocinquanta metri.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Lars Grini",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-11-1843",
+      "anno": 1843,
+      "titolo": "I Lombardi alla prima crociata",
+      "testo": "Alla Scala debutta I Lombardi alla prima crociata di Verdi, un anno dopo il Nabucco.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "I Lombardi alla prima crociata",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-11-1752",
+      "anno": 1752,
+      "titolo": "Il primo ospedale americano",
+      "testo": "A Filadelfia apre il Pennsylvania Hospital, il primo ospedale degli Stati Uniti, voluto da Benjamin Franklin.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Pennsylvania Hospital",
+      "tono": "storico"
+    },
+    {
+      "id": "02-11-1848",
+      "anno": 1848,
+      "titolo": "La costituzione di Napoli",
+      "testo": "Ferdinando II promulga la costituzione del Regno delle Due Sicilie, dopo la rivolta di Palermo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Costituzione del Regno delle Due Sicilie",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Thomas Edison",
+      "anno": 1847,
+      "chi": "inventore statunitense della lampadina e del fonografo",
+      "wiki": "Thomas Edison"
+    },
+    {
+      "nome": "Mary Quant",
+      "anno": 1930,
+      "chi": "stilista inglese della minigonna",
+      "wiki": "Mary Quant"
+    },
+    {
+      "nome": "Burt Reynolds",
+      "anno": 1936,
+      "chi": "attore statunitense",
+      "wiki": "Burt Reynolds"
+    },
+    {
+      "nome": "Jennifer Aniston",
+      "anno": 1969,
+      "chi": "attrice statunitense",
+      "wiki": "Jennifer Aniston"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "La notizia in latino",
+      "testo": "Benedetto XVI annunciò le dimissioni in latino, davanti ai cardinali. La giornalista dell'ANSA Giovanna Chirri capì il senso delle parole e diede la notizia al mondo per prima."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Un'onda più piccola di un protone",
+      "testo": "Gli strumenti di LIGO misurarono un allungamento di quattro chilometri di tubo pari a una frazione minuscola di un protone. Il segnale, trasformato in suono, è un breve «cip»."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Twist and Shout alla fine",
+      "testo": "Lennon cantò Twist and Shout per ultima perché aveva il raffreddore e quella canzone gli avrebbe distrutto la voce. Bastò una sola ripresa."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Sembra sempre impossibile, finché non viene fatto.",
+      "autore": "attribuita a Nelson Mandela",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Non ho fallito: ho solo trovato diecimila modi che non funzionano.",
+      "autore": "attribuita a Thomas Edison",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Io non sono incaricata di farvelo credere, ma di dirvelo.",
+      "autore": "Bernadette Soubirous",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La nev' ié la farin' r' i camp'.",
+      "regione": "Basilicata",
+      "traduzione": "La neve è la farina dei campi.",
+      "spiegazione": "La neve protegge e nutre la terra: un inverno nevoso promette un buon raccolto.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "Chi non vole vene a le vestie non vole vene mancu ali cristiani.",
+      "regione": "Marche",
+      "traduzione": "Chi non vuole bene alle bestie non vuole bene neanche alle persone.",
+      "spiegazione": "Il modo in cui si trattano gli animali dice molto del cuore di una persona.",
+      "fonte": "Wikiquote, Proverbi marchigiani"
+    }
+  ],
+  "prima_pagina": null
+}

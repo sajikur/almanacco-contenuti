@@ -1,0 +1,225 @@
+{
+  "schema": 1,
+  "giorno": "02-07",
+  "santo": {
+    "nome": "Sant'Egidio Maria da Taranto",
+    "nota": "Frate laico francescano del Settecento, visse a Napoli facendo il questuante: per la sua carità i napoletani lo chiamavano «il consolatore di Napoli».",
+    "altri": [
+      "San Riccardo del Wessex",
+      "San Massimo di Nola",
+      "San Lorenzo Maiorano"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa nazionale di Grenada",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-07-1984",
+      "anno": 1984,
+      "titolo": "Liberi nello spazio",
+      "testo": "Bruce McCandless si allontana dallo Shuttle senza nessun cavo, spinto da uno zaino a getti di gas: per la prima volta un uomo vola libero nello spazio, come un satellite umano.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Bruce McCandless II",
+      "tono": "leggero",
+      "indizio": "Domani: un astronauta si stacca dalla navetta e vola da solo, senza fili."
+    },
+    {
+      "id": "02-07-1964",
+      "anno": 1964,
+      "titolo": "I Beatles in America",
+      "testo": "All'aeroporto di New York, appena ribattezzato Kennedy, atterrano i Beatles: li aspettano tremila ragazzi urlanti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Beatlemania",
+      "tono": "leggero",
+      "indizio": "Domani: quattro ragazzi di Liverpool atterrano a New York fra le urla di migliaia di fan."
+    },
+    {
+      "id": "02-07-1914",
+      "anno": 1914,
+      "titolo": "Nasce Charlot",
+      "testo": "Esce Charlot si distingue: per la prima volta Chaplin indossa bombetta, bastone, baffetti e scarpe enormi. Il vagabondo Charlot è nato.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Charlot",
+      "tono": "leggero",
+      "indizio": "Domani: un comico indossa bombetta, bastone e scarpe enormi."
+    },
+    {
+      "id": "02-07-1971",
+      "anno": 1971,
+      "titolo": "Votano le svizzere",
+      "testo": "Con un referendum gli uomini svizzeri concedono alle donne il diritto di voto nelle elezioni federali.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Suffragio femminile in Svizzera",
+      "tono": "storico",
+      "indizio": "Domani: in Svizzera le donne conquistano finalmente il voto."
+    },
+    {
+      "id": "02-07-1992",
+      "anno": 1992,
+      "titolo": "Il trattato di Maastricht",
+      "testo": "Dodici Paesi firmano a Maastricht il trattato che fa nascere l'Unione europea e prepara la moneta unica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Trattato di Maastricht",
+      "tono": "storico",
+      "indizio": "Domani: in una città olandese nasce l'Unione europea."
+    },
+    {
+      "id": "02-07-1497",
+      "anno": 1497,
+      "titolo": "Il falò delle vanità",
+      "testo": "A Firenze, in piazza della Signoria, i seguaci di Savonarola bruciano specchi, gioielli, carte da gioco, libri e dipinti considerati peccaminosi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Falò delle vanità",
+      "tono": "storico",
+      "indizio": "Domani: a Firenze si accende un rogo di specchi, gioielli e quadri."
+    },
+    {
+      "id": "02-07-2008",
+      "anno": 2008,
+      "titolo": "Il laboratorio Columbus",
+      "testo": "Parte lo Shuttle che porta alla Stazione spaziale internazionale Columbus, il laboratorio europeo costruito in gran parte a Torino.",
+      "ambito": "italia",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Columbus (ISS)",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-07-1882",
+      "anno": 1882,
+      "titolo": "L'ultimo incontro a mani nude",
+      "testo": "Nel Mississippi John L. Sullivan batte Paddy Ryan nell'ultimo incontro per il titolo dei pesi massimi combattuto senza guantoni.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "John L. Sullivan",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-07-1985",
+      "anno": 1985,
+      "titolo": "New York, New York",
+      "testo": "La canzone di Sinatra New York, New York diventa ufficialmente l'inno della città.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Theme from New York, New York",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-07-1904",
+      "anno": 1904,
+      "titolo": "L'incendio di Baltimora",
+      "testo": "Un incendio distrugge in trenta ore più di millecinquecento edifici del centro di Baltimora.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Grande incendio di Baltimora",
+      "tono": "storico"
+    },
+    {
+      "id": "02-07-1945",
+      "anno": 1945,
+      "titolo": "L'eccidio di Porzûs",
+      "testo": "Nelle malghe di Porzûs, in Friuli, un gruppo di partigiani comunisti uccide i partigiani della brigata Osoppo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Eccidio di Porzûs",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Tommaso Moro",
+      "anno": 1478,
+      "chi": "umanista inglese, autore di Utopia, santo",
+      "wiki": "Tommaso Moro"
+    },
+    {
+      "nome": "Charles Dickens",
+      "anno": 1812,
+      "chi": "scrittore inglese di Oliver Twist e del Canto di Natale",
+      "wiki": "Charles Dickens"
+    },
+    {
+      "nome": "Laura Ingalls Wilder",
+      "anno": 1867,
+      "chi": "scrittrice della Casa nella prateria",
+      "wiki": "Laura Ingalls Wilder"
+    },
+    {
+      "nome": "Sinclair Lewis",
+      "anno": 1885,
+      "chi": "scrittore statunitense, premio Nobel",
+      "wiki": "Sinclair Lewis"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Botticelli e il falò",
+      "testo": "Secondo il Vasari, anche Sandro Botticelli, diventato seguace di Savonarola, gettò nel falò delle vanità alcuni dei suoi dipinti di soggetto profano."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "La foto più bella",
+      "testo": "La foto di McCandless solo nel vuoto, con la Terra azzurra alle spalle, è una delle immagini più famose dell'esplorazione spaziale. Si allontanò fino a quasi cento metri dallo Shuttle."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Dickens a puntate",
+      "testo": "Quasi tutti i romanzi di Dickens, nato oggi, uscirono a puntate mensili. A New York, si racconta, la folla aspettava al porto le navi con l'ultimo fascicolo per sapere la fine della storia."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Era il migliore dei tempi, era il peggiore dei tempi.",
+      "autore": "Charles Dickens",
+      "fonte": "Racconto di due città"
+    },
+    {
+      "testo": "Febbraio, febbraietto, corto e maledetto.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Tra il dire e il fare c'è di mezzo il mare.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Dal det al fat ai é un gran trat.",
+      "regione": "Emilia-Romagna",
+      "traduzione": "Dal detto al fatto c'è un gran tratto.",
+      "spiegazione": "Promettere è facile, mantenere molto meno.",
+      "fonte": "Wikiquote, Proverbi bolognesi"
+    },
+    {
+      "testo": "A frevaru la notti cu lu juornu, vannu a paru.",
+      "regione": "Calabria",
+      "traduzione": "A febbraio la notte e il giorno vanno di pari passo.",
+      "spiegazione": "In febbraio le giornate si allungano fino a pareggiare quasi le notti: la primavera si avvicina.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

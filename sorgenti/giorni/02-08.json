@@ -1,0 +1,218 @@
+{
+  "schema": 1,
+  "giorno": "02-08",
+  "santo": {
+    "nome": "Santa Giuseppina Bakhita",
+    "nota": "Nata in Sudan, rapita da bambina e venduta come schiava, arrivò in Italia e diventò suora canossiana a Schio. Il suo nome significa «fortunata». Oggi si prega contro la tratta delle persone.",
+    "altri": [
+      "San Girolamo Emiliani",
+      "Sant'Onorato di Milano",
+      "Santo Stefano di Grandmont"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale di preghiera contro la tratta di persone",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-08-1865",
+      "anno": 1865,
+      "titolo": "Mendel e i piselli",
+      "testo": "A Brno il monaco agostiniano Gregor Mendel presenta i risultati di otto anni di esperimenti sui piselli dell'orto del convento: sono le leggi dell'ereditarietà. Per trentacinque anni quasi nessuno ci fa caso.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Gregor Mendel",
+      "tono": "leggero",
+      "indizio": "Domani: un monaco presenta le sue scoperte sui piselli dell'orto, e nessuno se ne accorge."
+    },
+    {
+      "id": "02-08-1848",
+      "anno": 1848,
+      "titolo": "Lo Statuto Albertino",
+      "testo": "Con un proclama Carlo Alberto annuncia ai sudditi del Regno di Sardegna la concessione dello Statuto: sarà la carta fondamentale dell'Italia unita fino al 1948.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Statuto Albertino",
+      "tono": "storico",
+      "indizio": "Domani: un re piemontese concede una costituzione che durerà un secolo."
+    },
+    {
+      "id": "02-08-1971",
+      "anno": 1971,
+      "titolo": "Nasce il Nasdaq",
+      "testo": "Comincia le contrattazioni il Nasdaq, la prima borsa completamente elettronica, senza grida né cartellini.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "NASDAQ",
+      "tono": "leggero",
+      "indizio": "Domani: nasce una borsa dove non si grida, perché è tutta nei computer."
+    },
+    {
+      "id": "02-08-2006",
+      "anno": 2006,
+      "titolo": "Laura Pausini e il Grammy",
+      "testo": "Laura Pausini vince un Grammy per il miglior album pop latino: è la prima cantante italiana a riceverlo.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Laura Pausini",
+      "tono": "leggero",
+      "indizio": "Domani: una cantante romagnola vince il premio più importante della musica americana."
+    },
+    {
+      "id": "02-08-1848b",
+      "anno": 1848,
+      "titolo": "Gli studenti di Padova",
+      "testo": "A Padova gli studenti dell'università si scontrano con i soldati austriaci: il Caffè Pedrocchi e l'ateneo portano ancora i segni di quella giornata.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Moti di Padova",
+      "tono": "storico"
+    },
+    {
+      "id": "02-08-1974",
+      "anno": 1974,
+      "titolo": "Ottantaquattro giorni in orbita",
+      "testo": "Tornano sulla Terra gli astronauti dell'ultima missione sullo Skylab, dopo un record di ottantaquattro giorni nello spazio.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Skylab 4",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-08-1922",
+      "anno": 1922,
+      "titolo": "La radio alla Casa Bianca",
+      "testo": "Il presidente Warren Harding fa installare la prima radio alla Casa Bianca.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Warren G. Harding",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-08-1984",
+      "anno": 1984,
+      "titolo": "Le Olimpiadi di Sarajevo",
+      "testo": "Si aprono a Sarajevo, in Jugoslavia, i Giochi olimpici invernali: pochi anni dopo la città sarà assediata.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "XIV Giochi olimpici invernali",
+      "tono": "storico"
+    },
+    {
+      "id": "02-08-1807",
+      "anno": 1807,
+      "titolo": "La battaglia di Eylau",
+      "testo": "Nella neve della Prussia orientale Napoleone affronta i russi a Eylau: una delle battaglie più sanguinose e incerte delle sue guerre.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Battaglia di Eylau",
+      "tono": "storico"
+    },
+    {
+      "id": "02-08-1587",
+      "anno": 1587,
+      "titolo": "Maria Stuarda",
+      "testo": "Nel castello di Fotheringhay viene decapitata Maria Stuarda, regina di Scozia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Maria Stuarda",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "John Ruskin",
+      "anno": 1819,
+      "chi": "critico d'arte inglese, innamorato di Venezia",
+      "wiki": "John Ruskin"
+    },
+    {
+      "nome": "Jules Verne",
+      "anno": 1828,
+      "chi": "scrittore francese dei Viaggi straordinari",
+      "wiki": "Jules Verne"
+    },
+    {
+      "nome": "Dmitrij Mendeleev",
+      "anno": 1834,
+      "chi": "chimico russo della tavola periodica",
+      "wiki": "Dmitrij Mendeleev"
+    },
+    {
+      "nome": "James Dean",
+      "anno": 1931,
+      "chi": "attore statunitense",
+      "wiki": "James Dean"
+    },
+    {
+      "nome": "John Williams",
+      "anno": 1932,
+      "chi": "compositore delle musiche di Guerre stellari",
+      "wiki": "John Williams"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Ventottomila piante",
+      "testo": "Mendel coltivò e controllò circa ventottomila piante di piselli, contando forme e colori dei semi. Solo nel 1900 tre scienziati riscoprirono il suo lavoro e capirono che aveva ragione."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Bakhita la fortunata",
+      "testo": "Bakhita, rapita a nove anni, aveva dimenticato per lo spavento il suo vero nome: Bakhita, «fortunata», glielo diedero i rapitori. È la patrona del Sudan."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Verne alla scrivania",
+      "testo": "Jules Verne, nato oggi, scrisse più di sessanta romanzi senza quasi mai viaggiare: si documentava leggendo riviste scientifiche e prendendo migliaia di appunti."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tutto ciò che un uomo è in grado di immaginare, altri uomini saranno in grado di realizzarlo.",
+      "autore": "attribuita a Jules Verne",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Se incontrassi quei negrieri che mi hanno rapita, mi inginocchierei a baciare loro le mani.",
+      "autore": "Santa Giuseppina Bakhita",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Il buon giorno si vede dal mattino.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Ël can ëd doi padron a meuir ëd fam.",
+      "regione": "Piemonte",
+      "traduzione": "Il cane di due padroni muore di fame.",
+      "spiegazione": "Chi deve rispondere a troppi capi finisce per non essere servito da nessuno.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "Beatu cui cu li ricchizzi havi ciriveddu.",
+      "regione": "Sicilia",
+      "traduzione": "Beato chi insieme alle ricchezze ha anche il cervello.",
+      "spiegazione": "I soldi da soli non bastano: serve il giudizio per usarli bene.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

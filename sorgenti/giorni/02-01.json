@@ -1,0 +1,231 @@
+{
+  "schema": 1,
+  "giorno": "02-01",
+  "santo": {
+    "nome": "Sant'Orso di Aosta",
+    "nota": "Sacerdote vissuto ad Aosta fra il V e il VI secolo, protettore dei poveri. Secondo la tradizione intagliava sandali di legno da regalare: da lui nasce la Fiera di Sant'Orso.",
+    "altri": [
+      "Santa Brigida d'Irlanda",
+      "San Severo di Ravenna",
+      "Santa Verdiana"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Imbolc, antica festa celtica di inizio primavera",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-01-1896",
+      "anno": 1896,
+      "titolo": "La prima della Bohème",
+      "testo": "Al Teatro Regio di Torino, diretta dal giovane Arturo Toscanini, debutta La bohème di Puccini: la critica è tiepida, il pubblico se ne innamora.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "La bohème",
+      "tono": "leggero",
+      "indizio": "Domani: a Torino debutta la storia di quattro artisti squattrinati in una soffitta di Parigi."
+    },
+    {
+      "id": "02-01-1977",
+      "anno": 1977,
+      "titolo": "La Rai a colori",
+      "testo": "Comincia ufficialmente la programmazione a colori della Rai: l'Italia è fra gli ultimi Paesi d'Europa a lasciare il bianco e nero.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Rai",
+      "tono": "leggero",
+      "indizio": "Domani: la televisione italiana si colora."
+    },
+    {
+      "id": "02-01-1958",
+      "anno": 1958,
+      "titolo": "Nel blu dipinto di blu",
+      "testo": "Domenico Modugno e Johnny Dorelli vincono il Festival di Sanremo con Nel blu dipinto di blu: la canzone farà il giro del mondo come Volare.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Nel blu dipinto di blu",
+      "tono": "leggero",
+      "indizio": "Domani: a Sanremo vince una canzone che fa volare il mondo intero."
+    },
+    {
+      "id": "02-01-1945",
+      "anno": 1945,
+      "titolo": "Il voto alle donne",
+      "testo": "Viene emanato il decreto che concede il diritto di voto alle donne italiane: lo useranno per la prima volta nel 1946.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Suffragio femminile in Italia",
+      "tono": "storico",
+      "indizio": "Domani: le donne italiane conquistano il voto."
+    },
+    {
+      "id": "02-01-1918",
+      "anno": 1918,
+      "titolo": "Il giorno che in Russia non c'è",
+      "testo": "La Russia adotta il calendario gregoriano: dopo il 31 gennaio 1918 si passa direttamente al 14 febbraio. Il 1° febbraio, quell'anno, lì non esiste.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Calendario gregoriano",
+      "tono": "leggero",
+      "indizio": "Domani: un intero Paese salta due settimane di calendario."
+    },
+    {
+      "id": "02-01-1893",
+      "anno": 1893,
+      "titolo": "Manon Lescaut",
+      "testo": "Sempre al Regio di Torino debutta Manon Lescaut, il primo grande successo di Puccini.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Manon Lescaut (Puccini)",
+      "tono": "leggero",
+      "indizio": "Domani: un giovane compositore lucchese trova il successo a Torino."
+    },
+    {
+      "id": "02-01-1898",
+      "anno": 1898,
+      "titolo": "La prima assicurazione auto",
+      "testo": "Negli Stati Uniti la Travelers emette la prima polizza di assicurazione per un'automobile, a un medico di Buffalo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Assicurazione",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-01-1913",
+      "anno": 1913,
+      "titolo": "Il Grand Central Terminal",
+      "testo": "A New York, nella notte fra il 1° e il 2 febbraio, apre il Grand Central Terminal, con la volta azzurra dipinta di costellazioni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Grand Central Terminal",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-01-1982",
+      "anno": 1982,
+      "titolo": "Nasce Radio Deejay",
+      "testo": "A Milano Claudio Cecchetto fonda Radio Deejay.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Radio Deejay",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-01-1910",
+      "anno": 1910,
+      "titolo": "Nasce la Nocerina",
+      "testo": "A Nocera Inferiore viene fondata la squadra di calcio della Nocerina.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Associazione Sportiva Giovanile Nocerina",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-01-2003",
+      "anno": 2003,
+      "titolo": "Il Columbia",
+      "testo": "Lo Space Shuttle Columbia si disintegra al rientro nell'atmosfera sopra il Texas.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Disastro dello Space Shuttle Columbia",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Victor Herbert",
+      "anno": 1859,
+      "chi": "compositore irlandese-americano",
+      "wiki": "Victor Herbert"
+    },
+    {
+      "nome": "John Ford",
+      "anno": 1894,
+      "chi": "regista statunitense dei western",
+      "wiki": "John Ford"
+    },
+    {
+      "nome": "Clark Gable",
+      "anno": 1901,
+      "chi": "attore statunitense di Via col vento",
+      "wiki": "Clark Gable"
+    },
+    {
+      "nome": "Langston Hughes",
+      "anno": 1901,
+      "chi": "poeta statunitense",
+      "wiki": "Langston Hughes"
+    },
+    {
+      "nome": "Boris El'cin",
+      "anno": 1931,
+      "chi": "primo presidente della Russia",
+      "wiki": "Boris El'cin"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Volare e i Grammy",
+      "testo": "Nel blu dipinto di blu vinse nel 1959 i primi Grammy della storia come disco e canzone dell'anno: è ancora oggi l'unica canzone in italiano a esserci riuscita."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il direttore ventottenne",
+      "testo": "Alla prima della Bohème Arturo Toscanini aveva ventotto anni. Diresse l'opera anche cinquant'anni dopo, alla radio americana, per l'anniversario."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "I sandali di Sant'Orso",
+      "testo": "Secondo la tradizione Sant'Orso intagliava sandali di legno per i poveri. Ancora oggi la fiera di fine gennaio ad Aosta è dedicata all'artigianato in legno."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Che gelida manina, se la lasci riscaldar.",
+      "autore": "Luigi Illica e Giuseppe Giacosa",
+      "fonte": "La bohème"
+    },
+    {
+      "testo": "Le bugie hanno le gambe corte.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi ben comincia è a metà dell'opera.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chell' ch' n'n uè cu 'n'ann' uè cu 'n'ora.",
+      "regione": "Lazio",
+      "traduzione": "Quel che non viene in un anno viene in un'ora.",
+      "spiegazione": "Le cose a lungo attese possono arrivare all'improvviso: basta saper aspettare.",
+      "fonte": "Wikiquote, Proverbi alatrensi"
+    },
+    {
+      "testo": "Dé tìmbe o tìmbe.",
+      "regione": "Puglia",
+      "traduzione": "Dai tempo al tempo.",
+      "spiegazione": "Ogni cosa ha bisogno del suo tempo: forzare non serve.",
+      "fonte": "Wikiquote, Proverbi gravinesi"
+    }
+  ],
+  "prima_pagina": null
+}

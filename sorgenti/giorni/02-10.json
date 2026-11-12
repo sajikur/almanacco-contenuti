@@ -1,0 +1,204 @@
+{
+  "schema": 1,
+  "giorno": "02-10",
+  "santo": {
+    "nome": "Santa Scolastica",
+    "nota": "Sorella gemella di san Benedetto, secondo la tradizione. Con una preghiera scatenò un temporale per trattenere il fratello a parlare con lei un'ultima notte. È la patrona delle monache benedettine.",
+    "altri": [
+      "San Guglielmo di Malavalle",
+      "San Silvano di Terracina",
+      "Beata Chiara da Rimini"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno del ricordo",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-10-2006",
+      "anno": 2006,
+      "titolo": "Le Olimpiadi di Torino",
+      "testo": "Allo stadio Olimpico di Torino si aprono i XX Giochi olimpici invernali: Luciano Pavarotti canta Nessun dorma nella sua ultima esibizione in pubblico.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "XX Giochi olimpici invernali",
+      "tono": "leggero",
+      "indizio": "Domani: Torino accende la fiaccola olimpica e un grande tenore canta per l'ultima volta."
+    },
+    {
+      "id": "02-10-1996",
+      "anno": 1996,
+      "titolo": "Deep Blue batte Kasparov",
+      "testo": "A Filadelfia il computer IBM Deep Blue batte per la prima volta il campione del mondo di scacchi Garri Kasparov, in una partita a cadenza normale.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Deep Blue",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta un computer batte il campione del mondo di scacchi."
+    },
+    {
+      "id": "02-10-1918",
+      "anno": 1918,
+      "titolo": "La beffa di Buccari",
+      "testo": "Nella notte tre piccoli motoscafi armati con Gabriele D'Annunzio, Costanzo Ciano e Luigi Rizzo entrano nella baia di Buccari, lanciano siluri e lasciano tre bottiglie con un messaggio di scherno per gli austriaci.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Beffa di Buccari",
+      "tono": "storico",
+      "indizio": "Domani: tre motoscafi italiani entrano in un porto nemico e lasciano un messaggio in bottiglia."
+    },
+    {
+      "id": "02-10-1942",
+      "anno": 1942,
+      "titolo": "Il primo disco d'oro",
+      "testo": "Glenn Miller riceve il primo disco d'oro della storia, per il milione di copie di Chattanooga Choo Choo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Disco d'oro",
+      "tono": "leggero",
+      "indizio": "Domani: un direttore d'orchestra riceve il primo disco d'oro della storia."
+    },
+    {
+      "id": "02-10-1840",
+      "anno": 1840,
+      "titolo": "Vittoria in bianco",
+      "testo": "La regina Vittoria sposa il principe Alberto con un abito bianco: da allora le spose di tutto il mondo la imiteranno.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Abito da sposa",
+      "tono": "leggero",
+      "indizio": "Domani: una regina si sposa in bianco e inventa una moda per tutte le spose."
+    },
+    {
+      "id": "02-10-1947",
+      "anno": 1947,
+      "titolo": "Il trattato di Parigi",
+      "testo": "L'Italia firma a Parigi il trattato di pace: perde l'Istria, Fiume e Zara. Oggi è il Giorno del ricordo delle foibe e dell'esodo giuliano-dalmata.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Trattato di Parigi fra l'Italia e le potenze alleate",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia firma una pace dura che costringe all'esilio migliaia di istriani."
+    },
+    {
+      "id": "02-10-1986",
+      "anno": 1986,
+      "titolo": "Il maxiprocesso",
+      "testo": "Nell'aula bunker dell'Ucciardone, a Palermo, comincia il maxiprocesso a Cosa nostra, con 475 imputati: è il frutto del lavoro di Falcone e Borsellino.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Maxiprocesso di Palermo",
+      "tono": "storico",
+      "indizio": "Domani: a Palermo comincia il più grande processo alla mafia."
+    },
+    {
+      "id": "02-10-1962",
+      "anno": 1962,
+      "titolo": "Il ponte delle spie",
+      "testo": "Sul ponte di Glienicke, fra Berlino e Potsdam, il pilota americano Francis Gary Powers viene scambiato con la spia sovietica Rudolf Abel.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Ponte di Glienicke",
+      "tono": "storico"
+    },
+    {
+      "id": "02-10-1863",
+      "anno": 1863,
+      "titolo": "L'estintore",
+      "testo": "L'americano Alanson Crane brevetta un estintore.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Estintore",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Boris Pasternak",
+      "anno": 1890,
+      "chi": "scrittore russo del Dottor Živago",
+      "wiki": "Boris Pasternak"
+    },
+    {
+      "nome": "Jimmy Durante",
+      "anno": 1893,
+      "chi": "attore comico statunitense",
+      "wiki": "Jimmy Durante"
+    },
+    {
+      "nome": "Bertolt Brecht",
+      "anno": 1898,
+      "chi": "drammaturgo tedesco",
+      "wiki": "Bertolt Brecht"
+    },
+    {
+      "nome": "Mark Spitz",
+      "anno": 1950,
+      "chi": "nuotatore statunitense, sette ori olimpici",
+      "wiki": "Mark Spitz"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Memento audere semper",
+      "testo": "Dopo la beffa di Buccari D'Annunzio sciolse la sigla MAS dei motoscafi in Memento audere semper, «ricordati di osare sempre». Diventò il motto dei mezzi d'assalto della Marina."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "La pioggia di Scolastica",
+      "testo": "Secondo san Gregorio Magno, Scolastica voleva che il fratello restasse con lei a parlare di Dio. Benedetto rifiutava; lei pregò e scoppiò un temporale così forte che lui non poté ripartire. Morì tre giorni dopo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il Dottor Živago in Italia",
+      "testo": "Il dottor Živago di Pasternak, nato oggi, fu pubblicato per la prima volta al mondo in Italia, da Feltrinelli, nel 1957: in Unione Sovietica era vietato."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Memento audere semper.",
+      "autore": "Gabriele D'Annunzio",
+      "fonte": "motto del 1918"
+    },
+    {
+      "testo": "Sventurata la terra che ha bisogno di eroi.",
+      "autore": "Bertolt Brecht",
+      "fonte": "Vita di Galileo"
+    },
+    {
+      "testo": "Nessun dorma!",
+      "autore": "Giuseppe Adami e Renato Simoni",
+      "fonte": "Turandot"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Cui che ben vīv, ben mūr.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Chi vive bene muore bene.",
+      "spiegazione": "Una vita onesta e serena prepara a una fine in pace.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Un'accettata nun atterra una cerqua.",
+      "regione": "Lazio",
+      "traduzione": "Un colpo d'accetta non abbatte una quercia.",
+      "spiegazione": "Le grandi imprese richiedono pazienza e costanza: non si ottengono con un solo sforzo.",
+      "fonte": "Wikiquote, Proverbi romani"
+    }
+  ],
+  "prima_pagina": null
+}

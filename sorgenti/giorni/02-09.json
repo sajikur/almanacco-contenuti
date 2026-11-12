@@ -1,0 +1,215 @@
+{
+  "schema": 1,
+  "giorno": "02-09",
+  "santo": {
+    "nome": "Sant'Apollonia",
+    "nota": "Anziana diaconessa di Alessandria d'Egitto, martire nel III secolo: prima di ucciderla le strapparono tutti i denti. Per questo è la patrona dei dentisti e si invoca contro il mal di denti.",
+    "altri": [
+      "San Sabino di Canosa",
+      "San Rinaldo di Nocera Umbra",
+      "Beata Anna Katharina Emmerick"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-09-1964",
+      "anno": 1964,
+      "titolo": "I Beatles all'Ed Sullivan Show",
+      "testo": "I Beatles suonano in diretta all'Ed Sullivan Show: li guardano più di settanta milioni di americani.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "The Ed Sullivan Show",
+      "tono": "leggero",
+      "indizio": "Domani: settanta milioni di americani accendono la televisione per quattro ragazzi inglesi."
+    },
+    {
+      "id": "02-09-1893",
+      "anno": 1893,
+      "titolo": "Falstaff",
+      "testo": "Alla Scala debutta Falstaff, l'ultima opera di Giuseppe Verdi, una commedia scritta a quasi ottant'anni: finisce con una fuga corale in cui tutto il mondo è burla.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Falstaff (Verdi)",
+      "tono": "leggero",
+      "indizio": "Domani: un compositore quasi ottantenne saluta il pubblico con una risata."
+    },
+    {
+      "id": "02-09-1895",
+      "anno": 1895,
+      "titolo": "Nasce la pallavolo",
+      "testo": "In una palestra di Holyoke, nel Massachusetts, l'insegnante William Morgan inventa un gioco meno faticoso del basket: lo chiama mintonette, diventerà la pallavolo.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Pallavolo",
+      "tono": "leggero",
+      "indizio": "Domani: un insegnante americano inventa un gioco con una rete e un pallone."
+    },
+    {
+      "id": "02-09-1955",
+      "anno": 1955,
+      "titolo": "La prima metropolitana d'Italia",
+      "testo": "Il presidente Luigi Einaudi inaugura a Roma la prima linea di metropolitana italiana, fra la stazione Termini e l'EUR.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Linea B della metropolitana di Roma",
+      "tono": "leggero",
+      "indizio": "Domani: Roma inaugura il primo treno sotterraneo d'Italia."
+    },
+    {
+      "id": "02-09-1849",
+      "anno": 1849,
+      "titolo": "La Repubblica Romana",
+      "testo": "Dopo la fuga di Pio IX, l'Assemblea costituente proclama a Roma la Repubblica Romana: la guideranno Mazzini, Saffi e Armellini.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Repubblica Romana (1849)",
+      "tono": "storico",
+      "indizio": "Domani: a Roma, partito il papa, nasce una repubblica."
+    },
+    {
+      "id": "02-09-1986",
+      "anno": 1986,
+      "titolo": "La cometa di Halley",
+      "testo": "La cometa di Halley passa nel punto più vicino al Sole: tornerà nel 2061.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Cometa di Halley",
+      "tono": "leggero",
+      "indizio": "Domani: una cometa che passa ogni settantasei anni arriva al suo punto più vicino al Sole."
+    },
+    {
+      "id": "02-09-1900",
+      "anno": 1900,
+      "titolo": "Nasce la Coppa Davis",
+      "testo": "Lo studente americano Dwight Davis mette in palio una coppa d'argento per una sfida di tennis fra nazioni: è la Coppa Davis.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Coppa Davis",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-09-1942",
+      "anno": 1942,
+      "titolo": "L'ora di guerra",
+      "testo": "Negli Stati Uniti entra in vigore l'ora legale per tutto l'anno, per risparmiare energia durante la guerra.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 2,
+      "wiki": "Ora legale",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-09-1111",
+      "anno": 1111,
+      "titolo": "Il patto di Sutri",
+      "testo": "L'imperatore Enrico V e papa Pasquale II firmano il patto di Sutri sulle investiture dei vescovi: durerà pochissimo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Patto di Sutri",
+      "tono": "storico"
+    },
+    {
+      "id": "02-09-1619",
+      "anno": 1619,
+      "titolo": "Giulio Cesare Vanini",
+      "testo": "A Tolosa il filosofo salentino Giulio Cesare Vanini viene arso vivo con l'accusa di ateismo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Giulio Cesare Vanini",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Alban Berg",
+      "anno": 1885,
+      "chi": "compositore austriaco",
+      "wiki": "Alban Berg"
+    },
+    {
+      "nome": "Carmen Miranda",
+      "anno": 1909,
+      "chi": "cantante e attrice brasiliana",
+      "wiki": "Carmen Miranda"
+    },
+    {
+      "nome": "Carole King",
+      "anno": 1942,
+      "chi": "cantautrice statunitense",
+      "wiki": "Carole King"
+    },
+    {
+      "nome": "Joe Pesci",
+      "anno": 1943,
+      "chi": "attore statunitense",
+      "wiki": "Joe Pesci"
+    },
+    {
+      "nome": "Mia Farrow",
+      "anno": 1945,
+      "chi": "attrice statunitense",
+      "wiki": "Mia Farrow"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "sport",
+      "titolo": "Mintonette",
+      "testo": "Morgan voleva uno sport adatto agli uomini d'affari della palestra, meno violento del basket. All'inizio non c'era limite di tocchi e la rete era alta quanto un uomo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Tutto nel mondo è burla",
+      "testo": "Il Falstaff si chiude con una fuga a dieci voci sulle parole «Tutto nel mondo è burla». Verdi la scrisse a ottant'anni, dopo una vita di tragedie in musica."
+    },
+    {
+      "categoria": "tradizioni",
+      "titolo": "La patrona dei dentisti",
+      "testo": "Sant'Apollonia è raffigurata con una tenaglia che stringe un dente. Nel medioevo si invocava contro il mal di denti con formule e piccoli amuleti."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tutto nel mondo è burla. L'uom è nato burlone.",
+      "autore": "Arrigo Boito",
+      "fonte": "Falstaff"
+    },
+    {
+      "testo": "Ridi che ti passa.",
+      "autore": "Proverbio",
+      "fonte": "modo di dire"
+    },
+    {
+      "testo": "Chi ha denti non ha pane.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Frevâ o cûrto e l'è pezo che un tûrco.",
+      "regione": "Liguria",
+      "traduzione": "Febbraio il corto è peggio di un turco.",
+      "spiegazione": "Febbraio è il mese più breve, ma il suo freddo può essere il più cattivo dell'anno.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Acqua lontana non spegne il fuoco.",
+      "regione": "Toscana",
+      "traduzione": "L'acqua lontana non spegne il fuoco.",
+      "spiegazione": "Un aiuto troppo distante non serve: nel bisogno contano quelli vicini.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

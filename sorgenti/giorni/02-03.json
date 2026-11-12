@@ -1,0 +1,230 @@
+{
+  "schema": 1,
+  "giorno": "02-03",
+  "santo": {
+    "nome": "San Biagio",
+    "nota": "Vescovo di Sebaste, in Armenia, martire nel IV secolo. Secondo la tradizione salvò un bambino che soffocava per una lisca di pesce: per questo è il protettore della gola, e oggi si benedicono le gole con due candele incrociate.",
+    "altri": [
+      "Sant'Oscar di Brema",
+      "Sant'Anna profetessa",
+      "San Simeone il Vecchio"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "02-03-1957",
+      "anno": 1957,
+      "titolo": "Comincia Carosello",
+      "testo": "Alle 20:50 va in onda la prima puntata di Carosello: dieci minuti di scenette che citano il prodotto solo alla fine. Durerà vent'anni.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Carosello",
+      "tono": "leggero",
+      "indizio": "Domani: la Rai inventa un modo di fare pubblicità che manderà a letto i bambini italiani."
+    },
+    {
+      "id": "02-03-1966",
+      "anno": 1966,
+      "titolo": "Luna 9 sulla Luna",
+      "testo": "La sonda sovietica Luna 9 è la prima a posarsi dolcemente sulla Luna e a trasmettere fotografie dalla superficie.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Luna 9",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda si posa sulla Luna e scatta le prime foto da terra."
+    },
+    {
+      "id": "02-03-1488",
+      "anno": 1488,
+      "titolo": "Oltre il Capo di Buona Speranza",
+      "testo": "Il navigatore portoghese Bartolomeu Dias, dopo aver doppiato la punta dell'Africa, sbarca nella baia di Mossel: la via delle Indie è aperta.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Bartolomeu Dias",
+      "tono": "storico",
+      "indizio": "Domani: un navigatore portoghese gira attorno all'Africa."
+    },
+    {
+      "id": "02-03-1986",
+      "anno": 1986,
+      "titolo": "Nasce la Pixar",
+      "testo": "Steve Jobs compra la divisione grafica di Lucasfilm e fonda la Pixar: nove anni dopo farà Toy Story, il primo film tutto al computer.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Pixar",
+      "tono": "leggero",
+      "indizio": "Domani: nasce lo studio che farà il primo film d'animazione tutto al computer."
+    },
+    {
+      "id": "02-03-1871",
+      "anno": 1871,
+      "titolo": "Roma capitale",
+      "testo": "Viene promulgata la legge che trasferisce la capitale d'Italia da Firenze a Roma.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Roma Capitale",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia sposta la capitale nella Città eterna."
+    },
+    {
+      "id": "02-03-1815",
+      "anno": 1815,
+      "titolo": "Il primo caseificio svizzero",
+      "testo": "A Kiesen, nel cantone di Berna, apre il primo caseificio industriale della Svizzera.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Formaggio",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-03-1972",
+      "anno": 1972,
+      "titolo": "Le Olimpiadi di Sapporo",
+      "testo": "A Sapporo si aprono le prime Olimpiadi invernali in Asia.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "XI Giochi olimpici invernali",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-03-1831",
+      "anno": 1831,
+      "titolo": "Ciro Menotti",
+      "testo": "A Modena il duca Francesco IV fa arrestare Ciro Menotti e i patrioti riuniti nella sua casa.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Ciro Menotti",
+      "tono": "storico"
+    },
+    {
+      "id": "02-03-2011",
+      "anno": 2011,
+      "titolo": "Finiscono gli indirizzi",
+      "testo": "Vengono assegnati gli ultimi blocchi di indirizzi Internet del vecchio sistema IPv4: quattro miliardi non bastano più.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "IPv4",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-03-1991",
+      "anno": 1991,
+      "titolo": "Finisce il PCI",
+      "testo": "A Rimini il Partito Comunista Italiano si scioglie: nasce il Partito Democratico della Sinistra.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Partito Comunista Italiano",
+      "tono": "storico"
+    },
+    {
+      "id": "02-03-1959",
+      "anno": 1959,
+      "titolo": "Il giorno in cui morì la musica",
+      "testo": "Un piccolo aereo precipita nell'Iowa: muoiono Buddy Holly, Ritchie Valens e The Big Bopper.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "The Day the Music Died",
+      "tono": "tragico"
+    },
+    {
+      "id": "02-03-1998b",
+      "anno": 1998,
+      "titolo": "La funivia del Cermis",
+      "testo": "Un aereo militare americano trancia il cavo della funivia del Cermis, in Val di Fiemme.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Strage del Cermis",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Felix Mendelssohn",
+      "anno": 1809,
+      "chi": "compositore tedesco",
+      "wiki": "Felix Mendelssohn"
+    },
+    {
+      "nome": "Gertrude Stein",
+      "anno": 1874,
+      "chi": "scrittrice statunitense",
+      "wiki": "Gertrude Stein"
+    },
+    {
+      "nome": "Norman Rockwell",
+      "anno": 1894,
+      "chi": "illustratore statunitense",
+      "wiki": "Norman Rockwell"
+    },
+    {
+      "nome": "Alvar Aalto",
+      "anno": 1898,
+      "chi": "architetto finlandese",
+      "wiki": "Alvar Aalto"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "Il panettone di San Biagio",
+      "testo": "A Milano si conserva una fetta di panettone di Natale per mangiarla il 3 febbraio: secondo la tradizione protegge la gola e il raffreddore per tutto l'anno."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Lo scoop degli inglesi",
+      "testo": "Le prime foto di Luna 9 furono intercettate dal radiotelescopio inglese di Jodrell Bank e pubblicate dai giornali britannici prima ancora che le diffondessero i sovietici."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Un gigante dopo Carosello",
+      "testo": "In vent'anni Carosello mandò in onda più di settemila puntate. Ci lavorarono anche registi del grande cinema, e nacquero personaggi come Calimero e Carmencita."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "San Biagio benedice la gola e il naso.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Una rondine non fa primavera.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi va piano va sano e va lontano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A San Biase, 'o sole p' 'e case: 'o tristo n'esce, 'o bbuono trase.",
+      "regione": "Campania",
+      "traduzione": "A San Biagio il sole entra nelle case: il brutto tempo esce, il buono entra.",
+      "spiegazione": "Ai primi di febbraio il sole torna a scaldare le case: il peggio dell'inverno è passato.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "Ogne ccas' tèn' nu peng' rett'.",
+      "regione": "Abruzzo",
+      "traduzione": "Ogni casa ha una tegola rotta.",
+      "spiegazione": "Nessuna famiglia è perfetta: ognuno ha i suoi piccoli guai.",
+      "fonte": "Wikiquote, Proverbi abruzzesi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,251 @@
+{
+  "schema": 1,
+  "giorno": "02-05",
+  "santo": {
+    "nome": "Sant'Agata",
+    "nota": "Giovane catanese martire nel III secolo, patrona di Catania. La sua festa, con le candelore e i devoti vestiti di bianco, è fra le più grandi feste religiose del mondo.",
+    "altri": [
+      "Sant'Ingenuino di Sabiona",
+      "Sant'Avito di Vienne",
+      "Beata Elisabetta Canori Mora"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata nazionale contro lo spreco alimentare",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Festa di Sant'Agata a San Marino",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "World Nutella Day",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "02-05-1887",
+      "anno": 1887,
+      "titolo": "La prima dell'Otello",
+      "testo": "Alla Scala debutta l'Otello di Giuseppe Verdi, su libretto di Arrigo Boito: Verdi, che non scriveva un'opera da sedici anni, viene acclamato fino all'alba.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Otello (Verdi)",
+      "tono": "leggero",
+      "indizio": "Domani: un compositore settantenne torna in scena dopo sedici anni di silenzio."
+    },
+    {
+      "id": "02-05-1936",
+      "anno": 1936,
+      "titolo": "Tempi moderni",
+      "testo": "A New York esce Tempi moderni di Charlie Chaplin: alla fine, per la prima volta, si sente la voce di Charlot, che canta una canzone in una lingua inventata.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Tempi moderni",
+      "tono": "leggero",
+      "indizio": "Domani: Charlot fa sentire per la prima volta la sua voce, in una lingua che non esiste."
+    },
+    {
+      "id": "02-05-1985",
+      "anno": 1985,
+      "titolo": "Pace fra Roma e Cartagine",
+      "testo": "I sindaci di Roma e di Cartagine firmano un trattato di amicizia: la terza guerra punica, mai chiusa formalmente, finisce dopo più di duemilacento anni.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Terza guerra punica",
+      "tono": "leggero",
+      "indizio": "Domani: due sindaci firmano la pace di una guerra finita da più di duemila anni."
+    },
+    {
+      "id": "02-05-2000",
+      "anno": 2000,
+      "titolo": "L'Italia nel Sei Nazioni",
+      "testo": "Al Flaminio di Roma la Nazionale di rugby debutta nel torneo delle Sei Nazioni e batte la Scozia, campione in carica, 34 a 20.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Sei Nazioni 2000",
+      "tono": "leggero",
+      "indizio": "Domani: l'Italia del rugby entra nel grande torneo e vince subito."
+    },
+    {
+      "id": "02-05-1950",
+      "anno": 1950,
+      "titolo": "La prima partita in TV",
+      "testo": "Juventus-Milan, finita 1-7, è la prima partita di Serie A trasmessa in televisione: la vedono solo i pochi apparecchi della zona di Torino.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Juventus-Milan 1-7",
+      "tono": "leggero",
+      "indizio": "Domani: la prima partita di Serie A in televisione finisce con un punteggio da tennis."
+    },
+    {
+      "id": "02-05-1740",
+      "anno": 1740,
+      "titolo": "San Marino libera",
+      "testo": "Papa Clemente XII restituisce l'indipendenza a San Marino, occupata dal cardinale Alberoni: per i sammarinesi oggi è festa.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "San Marino",
+      "tono": "storico",
+      "indizio": "Domani: la più antica repubblica del mondo torna libera."
+    },
+    {
+      "id": "02-05-1919",
+      "anno": 1919,
+      "titolo": "Nasce la United Artists",
+      "testo": "Chaplin, Mary Pickford, Douglas Fairbanks e David W. Griffith fondano la United Artists: gli attori si fanno produttori di se stessi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "United Artists",
+      "tono": "leggero",
+      "indizio": "Domani: quattro divi di Hollywood decidono di fare a meno dei produttori."
+    },
+    {
+      "id": "02-05-1924",
+      "anno": 1924,
+      "titolo": "I sei bip di Greenwich",
+      "testo": "La BBC trasmette per la prima volta il segnale orario dell'osservatorio di Greenwich, i famosi sei «bip».",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Greenwich Time Signal",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-05-1997",
+      "anno": 1997,
+      "titolo": "Nasce MAME",
+      "testo": "L'informatico italiano Nicola Salmoria pubblica la prima versione di MAME, il programma che fa rivivere sul computer i vecchi videogiochi da bar.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "MAME",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-05-1958",
+      "anno": 1958,
+      "titolo": "La bomba perduta",
+      "testo": "Dopo una collisione in volo, un bombardiere americano sgancia una bomba atomica al largo di Savannah, in Georgia: non verrà mai ritrovata.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Incidente di Tybee Island",
+      "tono": "storico"
+    },
+    {
+      "id": "02-05-1922",
+      "anno": 1922,
+      "titolo": "Il Reader's Digest",
+      "testo": "Esce il primo numero del Reader's Digest, che in Italia diventerà Selezione.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Reader's Digest",
+      "tono": "leggero"
+    },
+    {
+      "id": "02-05-1783",
+      "anno": 1783,
+      "titolo": "Il terremoto della Calabria",
+      "testo": "Comincia la sequenza di terremoti che devasta la Calabria meridionale e Messina.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto della Calabria meridionale del 1783",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Robert Peel",
+      "anno": 1788,
+      "chi": "primo ministro britannico, fondatore della polizia moderna",
+      "wiki": "Robert Peel"
+    },
+    {
+      "nome": "John Boyd Dunlop",
+      "anno": 1840,
+      "chi": "inventore scozzese della gomma con la camera d'aria",
+      "wiki": "John Boyd Dunlop"
+    },
+    {
+      "nome": "William S. Burroughs",
+      "anno": 1914,
+      "chi": "scrittore statunitense",
+      "wiki": "William S. Burroughs"
+    },
+    {
+      "nome": "Hank Aaron",
+      "anno": 1934,
+      "chi": "campione statunitense di baseball",
+      "wiki": "Hank Aaron"
+    },
+    {
+      "nome": "Cristiano Ronaldo",
+      "anno": 1985,
+      "chi": "calciatore portoghese",
+      "wiki": "Cristiano Ronaldo"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tradizioni",
+      "titolo": "Le candelore",
+      "testo": "Alla festa di Sant'Agata sfilano le candelore, grandi ceri scolpiti e dorati portati a spalla dalle corporazioni dei mestieri. Le pasticcerie preparano le «minne di Sant'Agata», dolci a forma di seno."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La canzone senza senso",
+      "testo": "Nel finale di Tempi moderni Charlot perde il foglietto con le parole della canzone e improvvisa in un miscuglio di italiano, francese e parole inventate. È la sua prima battuta sonora."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il pneumatico di Dunlop",
+      "testo": "John Boyd Dunlop, nato oggi, era un veterinario. Inventò la camera d'aria per rendere più comodo il triciclo del figlio."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Esultate! L'orgoglio musulman sepolto è in mar.",
+      "autore": "Arrigo Boito",
+      "fonte": "Otello"
+    },
+    {
+      "testo": "Una giornata senza un sorriso è una giornata persa.",
+      "autore": "attribuita a Charlie Chaplin",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Chi disprezza compra.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La furmicula affanna la stati pri nu patiri lu 'nvernu.",
+      "regione": "Sicilia",
+      "traduzione": "La formica si affanna d'estate per non soffrire d'inverno.",
+      "spiegazione": "Chi è previdente nei tempi buoni non soffre in quelli cattivi.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "Pa, vi e sòche, e se 'l völ fiocà che 'l fiòche.",
+      "regione": "Lombardia",
+      "traduzione": "Pane, vino e ceppi da ardere: e se vuole nevicare, nevichi.",
+      "spiegazione": "Con la dispensa piena e la legna in casa l'inverno non fa paura.",
+      "fonte": "Wikiquote, Proverbi bergamaschi"
+    }
+  ],
+  "prima_pagina": null
+}
