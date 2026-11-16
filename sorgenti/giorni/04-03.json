@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "giorno": "04-03",
+  "santo": {
+    "nome": "San Luigi Scrosoppi",
+    "nota": "Sacerdote di Udine dell'Ottocento, fondò le Suore della Provvidenza per accogliere le bambine orfane e povere. È uno dei santi del Friuli.",
+    "altri": [
+      "San Riccardo di Chichester",
+      "San Sisto I papa",
+      "San Giuseppe l'Innografo"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Fieste de Patrie dal Friûl, festa del popolo friulano",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-03-1860",
+      "anno": 1860,
+      "titolo": "Il Pony Express",
+      "testo": "Da St. Joseph, nel Missouri, parte il primo cavaliere del Pony Express: la posta arriverà in California in dieci giorni, cambiando cavallo ogni venti chilometri circa.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Pony Express",
+      "tono": "leggero",
+      "indizio": "Domani: parte di galoppo la posta più veloce del Far West."
+    },
+    {
+      "id": "04-03-1896",
+      "anno": 1896,
+      "titolo": "Esce la Gazzetta dello Sport",
+      "testo": "A Milano esce il primo numero della Gazzetta dello Sport, stampato su carta verde. Diventerà rosa nel 1899.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "La Gazzetta dello Sport",
+      "tono": "leggero",
+      "indizio": "Domani: a Milano esce un giornale tutto dedicato allo sport."
+    },
+    {
+      "id": "04-03-1973",
+      "anno": 1973,
+      "titolo": "La prima telefonata col cellulare",
+      "testo": "In una strada di New York l'ingegnere della Motorola Martin Cooper fa la prima chiamata da un telefono cellulare portatile. Chiama il suo rivale ai Bell Labs.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Martin Cooper",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta qualcuno telefona camminando per strada."
+    },
+    {
+      "id": "04-03-1961",
+      "anno": 1961,
+      "titolo": "Il Gronchi rosa",
+      "testo": "Esce il francobollo per il viaggio del presidente Gronchi in Sud America: la carta del Perù ha i confini sbagliati. Viene ritirato subito e diventa il francobollo italiano più ricercato.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Gronchi rosa",
+      "tono": "leggero",
+      "indizio": "Domani: esce un francobollo sbagliato che varrà una fortuna."
+    },
+    {
+      "id": "04-03-1077",
+      "anno": 1077,
+      "titolo": "La Patria del Friuli",
+      "testo": "L'imperatore Enrico IV concede al patriarca di Aquileia il governo del Friuli: nasce lo stato della Patria del Friuli, che durerà fino al 1420.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Patria del Friuli",
+      "tono": "storico",
+      "indizio": "Domani: nasce lo stato del Friuli."
+    },
+    {
+      "id": "04-03-1885",
+      "anno": 1885,
+      "titolo": "Il motore di Daimler",
+      "testo": "Gottlieb Daimler brevetta un motore a scoppio veloce e leggero, adatto ai veicoli.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Gottlieb Daimler",
+      "tono": "leggero",
+      "indizio": "Domani: viene brevettato un motore leggero per i veicoli."
+    },
+    {
+      "id": "04-03-1975",
+      "anno": 1975,
+      "titolo": "Fischer rinuncia",
+      "testo": "Bobby Fischer rifiuta di difendere il titolo mondiale di scacchi: Anatolij Karpov diventa campione senza giocare.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Bobby Fischer",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-03-2003",
+      "anno": 2003,
+      "titolo": "Il MOSE",
+      "testo": "Il governo approva il progetto del MOSE, le paratoie mobili che proteggono Venezia dall'acqua alta.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "MOSE",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-03-2010",
+      "anno": 2010,
+      "titolo": "Arriva l'iPad",
+      "testo": "Negli Stati Uniti comincia la vendita dell'iPad.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "iPad",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-03-1968",
+      "anno": 1968,
+      "titolo": "La cima della montagna",
+      "testo": "A Memphis Martin Luther King pronuncia il suo ultimo discorso: dice di aver visto la terra promessa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "I've Been to the Mountaintop",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Washington Irving",
+      "anno": 1783,
+      "chi": "scrittore statunitense",
+      "wiki": "Washington Irving"
+    },
+    {
+      "nome": "Doris Day",
+      "anno": 1922,
+      "chi": "attrice e cantante",
+      "wiki": "Doris Day"
+    },
+    {
+      "nome": "Marlon Brando",
+      "anno": 1924,
+      "chi": "attore statunitense",
+      "wiki": "Marlon Brando"
+    },
+    {
+      "nome": "Jane Goodall",
+      "anno": 1934,
+      "chi": "etologa degli scimpanzé",
+      "wiki": "Jane Goodall"
+    },
+    {
+      "nome": "Eddie Murphy",
+      "anno": 1961,
+      "chi": "attore comico",
+      "wiki": "Eddie Murphy"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "sport",
+      "titolo": "Verde, poi rosa",
+      "testo": "La Gazzetta dello Sport uscì su carta verde, poi bianca e dal 1899 rosa. Il rosa diventò anche il colore della maglia del primo in classifica al Giro d'Italia."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Diciotto mesi",
+      "testo": "Il Pony Express durò solo diciotto mesi: nel 1861 il telegrafo arrivò da costa a costa e i messaggi viaggiarono in pochi minuti invece che in dieci giorni."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Un mattone da un chilo",
+      "testo": "Il primo cellulare di Cooper pesava più di un chilo, era lungo una ventina di centimetri e la batteria durava circa mezz'ora di conversazione."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Ho visto la terra promessa.",
+      "autore": "Martin Luther King",
+      "fonte": "Memphis, 1968"
+    },
+    {
+      "testo": "Aprile non ti scoprire, maggio va adagio.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Chi va al mulino s'infarina.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "L'ūv no l'ha di insegnā alla gialline.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "L'uovo non deve insegnare alla gallina.",
+      "spiegazione": "I giovani non dovrebbero pretendere di insegnare a chi ha più esperienza.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "A casa do 'mpiso nun parlà 'e corda.",
+      "regione": "Campania",
+      "traduzione": "A casa dell'impiccato non parlare di corda.",
+      "spiegazione": "Non toccare gli argomenti dolorosi con chi ne ha sofferto.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

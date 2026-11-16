@@ -1,0 +1,220 @@
+{
+  "schema": 1,
+  "giorno": "04-18",
+  "santo": {
+    "nome": "San Galdino",
+    "nota": "Arcivescovo di Milano nel XII secolo, guidò la ricostruzione della città distrutta dal Barbarossa e sostenne la Lega lombarda. Morì mentre predicava dal pulpito. È compatrono di Milano.",
+    "altri": [
+      "Sant'Eusebio di Fano",
+      "San Calogero di Brescia",
+      "Beata Savina Petrilli"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno dell'invenzione in Giappone",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-18-1506",
+      "anno": 1506,
+      "titolo": "La prima pietra di San Pietro",
+      "testo": "Papa Giulio II posa la prima pietra della nuova basilica di San Pietro, progettata da Bramante. Per finirla ci vorranno centoventi anni e Michelangelo.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Basilica di San Pietro in Vaticano",
+      "tono": "leggero",
+      "indizio": "Domani: un papa posa la prima pietra della chiesa più grande del mondo."
+    },
+    {
+      "id": "04-18-1938",
+      "anno": 1938,
+      "titolo": "Arriva Superman",
+      "testo": "Esce in edicola il primo numero di Action Comics, con Superman che solleva un'automobile in copertina. Lo avevano inventato due ragazzi di Cleveland.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Superman",
+      "tono": "leggero",
+      "indizio": "Domani: in edicola arriva un eroe che vola con il mantello rosso."
+    },
+    {
+      "id": "04-18-1775",
+      "anno": 1775,
+      "titolo": "La cavalcata di Paul Revere",
+      "testo": "Nella notte l'argentiere Paul Revere galoppa da Boston a Lexington per avvisare i coloni che le truppe inglesi stanno arrivando.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Paul Revere",
+      "tono": "storico",
+      "indizio": "Domani: un argentiere galoppa nella notte per dare l'allarme."
+    },
+    {
+      "id": "04-18-1934",
+      "anno": 1934,
+      "titolo": "La prima lavanderia a gettoni",
+      "testo": "A Fort Worth, in Texas, apre la prima lavanderia self-service: si chiama washateria e le lavatrici si noleggiano a ore.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Lavanderia self-service",
+      "tono": "leggero",
+      "indizio": "Domani: apre in Texas la prima lavanderia dove si lava da sé."
+    },
+    {
+      "id": "04-18-1948",
+      "anno": 1948,
+      "titolo": "Le prime elezioni della Repubblica",
+      "testo": "Gli italiani votano per il primo Parlamento della Repubblica: l'affluenza supera il novantadue per cento.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Elezioni politiche in Italia del 1948",
+      "tono": "storico",
+      "indizio": "Domani: gli italiani votano per il primo Parlamento della Repubblica."
+    },
+    {
+      "id": "04-18-1951",
+      "anno": 1951,
+      "titolo": "Nasce la CECA",
+      "testo": "A Parigi sei paesi, tra cui l'Italia, firmano il trattato che mette in comune carbone e acciaio: è il primo passo dell'Europa unita.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Comunità europea del carbone e dell'acciaio",
+      "tono": "storico",
+      "indizio": "Domani: sei paesi mettono insieme il carbone e l'acciaio."
+    },
+    {
+      "id": "04-18-1972",
+      "anno": 1972,
+      "titolo": "Nasce Roland",
+      "testo": "A Osaka nasce la Roland, che costruirà sintetizzatori e drum machine usati in tutta la musica pop.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Roland Corporation",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-18-1916",
+      "anno": 1916,
+      "titolo": "Il Col di Lana",
+      "testo": "Gli italiani fanno saltare con una mina la cima del Col di Lana, sulle Dolomiti, tenuta dagli austriaci.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Col di Lana",
+      "tono": "storico"
+    },
+    {
+      "id": "04-18-1980",
+      "anno": 1980,
+      "titolo": "Lo Zimbabwe",
+      "testo": "La Rhodesia diventa indipendente con il nome di Zimbabwe.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Zimbabwe",
+      "tono": "storico"
+    },
+    {
+      "id": "04-18-1906",
+      "anno": 1906,
+      "titolo": "Il terremoto di San Francisco",
+      "testo": "All'alba un fortissimo terremoto e gli incendi che seguono distruggono gran parte di San Francisco.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto di San Francisco del 1906",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Lucrezia Borgia",
+      "anno": 1480,
+      "chi": "duchessa di Ferrara",
+      "wiki": "Lucrezia Borgia"
+    },
+    {
+      "nome": "Franz von Suppé",
+      "anno": 1819,
+      "chi": "compositore di operette",
+      "wiki": "Franz von Suppé"
+    },
+    {
+      "nome": "Clarence Darrow",
+      "anno": 1857,
+      "chi": "avvocato statunitense",
+      "wiki": "Clarence Darrow"
+    },
+    {
+      "nome": "Leopold Stokowski",
+      "anno": 1882,
+      "chi": "direttore d'orchestra",
+      "wiki": "Leopold Stokowski"
+    },
+    {
+      "nome": "Hayley Mills",
+      "anno": 1946,
+      "chi": "attrice inglese",
+      "wiki": "Hayley Mills"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Centotrenta dollari",
+      "testo": "Jerry Siegel e Joe Shuster, i due ragazzi di Cleveland che inventarono Superman, vendettero tutti i diritti all'editore per centotrenta dollari. Una copia del primo numero oggi vale milioni."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Una lanterna, due lanterne",
+      "testo": "Il segnale per Paul Revere era una lanterna sul campanile della Old North Church se gli inglesi venivano per terra, due se arrivavano per mare: ne accesero due."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Centoventi anni di cantiere",
+      "testo": "La basilica di San Pietro fu consacrata nel 1626, centoventi anni dopo la prima pietra. Ci lavorarono Bramante, Raffaello, Michelangelo, Maderno e Bernini."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Uno se per terra, due se per mare.",
+      "autore": "Henry Wadsworth Longfellow",
+      "fonte": "La cavalcata di Paul Revere"
+    },
+    {
+      "testo": "Roma non fu fatta in un giorno.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi fa da sé fa per tre.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi comanda fa legg.",
+      "regione": "Lombardia",
+      "traduzione": "Chi comanda fa la legge.",
+      "spiegazione": "Chi ha il potere piega le regole a suo favore.",
+      "fonte": "Wikiquote, Proverbi brianzoli"
+    },
+    {
+      "testo": "Lu stracciusu passa pe' puzzulusu.",
+      "regione": "Umbria",
+      "traduzione": "Lo straccione passa per puzzolente.",
+      "spiegazione": "Chi si presenta male viene giudicato peggio di quel che è: l'apparenza conta.",
+      "fonte": "Wikiquote, Proverbi umbri"
+    }
+  ],
+  "prima_pagina": null
+}

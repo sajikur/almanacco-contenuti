@@ -1,0 +1,261 @@
+{
+  "schema": 1,
+  "giorno": "04-25",
+  "santo": {
+    "nome": "San Marco evangelista",
+    "nota": "Discepolo di san Pietro, scrisse il più antico dei quattro Vangeli. Nel IX secolo due mercanti veneziani portarono il suo corpo da Alessandria a Venezia, nascosto sotto la carne di maiale: da allora il leone di San Marco è il simbolo della città.",
+    "altri": [
+      "Santa Franca da Vitalta",
+      "San Giovanni Battista Piamarta",
+      "Beato Mario Borzaga"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa della Liberazione",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Festa di San Marco e del bocolo a Venezia",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Festa della libertà in Portogallo",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-25-1945",
+      "anno": 1945,
+      "titolo": "La Liberazione",
+      "testo": "Il Comitato di liberazione nazionale dell'Alta Italia proclama l'insurrezione generale: Milano, Torino e Genova si liberano dall'occupazione nazifascista.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Festa della Liberazione",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia del Nord si solleva per la libertà."
+    },
+    {
+      "id": "04-25-1926",
+      "anno": 1926,
+      "titolo": "La Turandot",
+      "testo": "Alla Scala debutta la Turandot di Giacomo Puccini, rimasta incompiuta per la sua morte. Toscanini posa la bacchetta a metà del terzo atto e si rivolge al pubblico.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Turandot",
+      "tono": "leggero",
+      "indizio": "Domani: alla Scala debutta l'ultima opera di Puccini, che lui non ha potuto finire."
+    },
+    {
+      "id": "04-25-1953",
+      "anno": 1953,
+      "titolo": "La doppia elica",
+      "testo": "Sulla rivista Nature James Watson e Francis Crick descrivono in una sola pagina la struttura del DNA: una doppia elica, come una scala a chiocciola.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "DNA",
+      "tono": "leggero",
+      "indizio": "Domani: due scienziati descrivono in una pagina la forma della vita."
+    },
+    {
+      "id": "04-25-1719",
+      "anno": 1719,
+      "titolo": "Robinson Crusoe",
+      "testo": "A Londra esce Robinson Crusoe di Daniel Defoe, presentato come il racconto vero di un naufrago rimasto ventotto anni su un'isola deserta.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Robinson Crusoe",
+      "tono": "leggero",
+      "indizio": "Domani: esce la storia di un naufrago su un'isola deserta."
+    },
+    {
+      "id": "04-25-1507",
+      "anno": 1507,
+      "titolo": "Il nome America",
+      "testo": "A Saint-Dié, nei Vosgi, esce il libro di Martin Waldseemüller con la carta del mondo in cui il Nuovo Mondo si chiama per la prima volta America.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Mappa di Waldseemüller",
+      "tono": "leggero",
+      "indizio": "Domani: una carta geografica dà per la prima volta un nome al Nuovo Mondo."
+    },
+    {
+      "id": "04-25-1859",
+      "anno": 1859,
+      "titolo": "Si comincia il canale di Suez",
+      "testo": "A Porto Said Ferdinand de Lesseps dà il primo colpo di piccone al canale di Suez, che unirà il Mediterraneo al Mar Rosso.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Canale di Suez",
+      "tono": "leggero",
+      "indizio": "Domani: comincia lo scavo del canale tra due mari."
+    },
+    {
+      "id": "04-25-1900",
+      "anno": 1900,
+      "titolo": "Il record del Polo",
+      "testo": "Umberto Cagni, della spedizione del Duca degli Abruzzi, arriva con le slitte a 86 gradi e 34 primi di latitudine: nessuno si era mai spinto così a nord.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Spedizione della Stella Polare",
+      "tono": "storico",
+      "indizio": "Domani: una spedizione italiana arriva più a nord di chiunque altro."
+    },
+    {
+      "id": "04-25-1961",
+      "anno": 1961,
+      "titolo": "Il circuito integrato",
+      "testo": "Robert Noyce ottiene il brevetto del circuito integrato su silicio: è il seme di tutti i chip dei computer.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Circuito integrato",
+      "tono": "leggero",
+      "indizio": "Domani: viene brevettato il chip."
+    },
+    {
+      "id": "04-25-1974",
+      "anno": 1974,
+      "titolo": "La rivoluzione dei garofani",
+      "testo": "In Portogallo un colpo di stato quasi senza spari mette fine alla dittatura: la gente infila garofani nelle canne dei fucili dei soldati.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Rivoluzione dei garofani",
+      "tono": "storico",
+      "indizio": "Domani: in Portogallo i soldati mettono fiori nei fucili."
+    },
+    {
+      "id": "04-25-1945b",
+      "anno": 1945,
+      "titolo": "L'incontro sull'Elba",
+      "testo": "A Torgau, sull'Elba, i soldati americani e sovietici si incontrano e si stringono la mano.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Elba Day",
+      "tono": "storico",
+      "indizio": "Domani: due eserciti si stringono la mano su un fiume tedesco."
+    },
+    {
+      "id": "04-25-2005",
+      "anno": 2005,
+      "titolo": "L'obelisco torna ad Axum",
+      "testo": "L'ultima parte dell'obelisco di Axum, portato a Roma nel 1937, torna in Etiopia.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Obelisco di Axum",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-25-1983",
+      "anno": 1983,
+      "titolo": "Oltre Plutone",
+      "testo": "La sonda Pioneer 10 supera l'orbita di Plutone.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Pioneer 10",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda supera l'orbita di Plutone."
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Oliver Cromwell",
+      "anno": 1599,
+      "chi": "Lord protettore d'Inghilterra",
+      "wiki": "Oliver Cromwell"
+    },
+    {
+      "nome": "Guglielmo Marconi",
+      "anno": 1874,
+      "chi": "inventore della radio",
+      "wiki": "Guglielmo Marconi"
+    },
+    {
+      "nome": "Wolfgang Pauli",
+      "anno": 1900,
+      "chi": "fisico, premio Nobel",
+      "wiki": "Wolfgang Pauli"
+    },
+    {
+      "nome": "Ella Fitzgerald",
+      "anno": 1917,
+      "chi": "la First Lady del jazz",
+      "wiki": "Ella Fitzgerald"
+    },
+    {
+      "nome": "Al Pacino",
+      "anno": 1940,
+      "chi": "attore",
+      "wiki": "Al Pacino"
+    },
+    {
+      "nome": "Johan Cruijff",
+      "anno": 1947,
+      "chi": "calciatore olandese",
+      "wiki": "Johan Cruijff"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Il bocolo",
+      "testo": "A Venezia il 25 aprile gli uomini regalano alle donne amate un bocciolo di rosa rossa, il bocolo. La leggenda parla di un trovatore ferito a morte che, prima di morire, colorò una rosa con il suo sangue per la sua amata."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Qui finisce l'opera",
+      "testo": "Alla prima della Turandot, alla morte di Liù, Toscanini si fermò, si voltò verso il pubblico e disse: «Qui finisce l'opera, perché a questo punto il maestro è morto». Il finale scritto da Franco Alfano si suonò dalla sera dopo."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Non è sfuggito",
+      "testo": "L'articolo sul DNA era lungo poco più di novecento parole. Una frase finale, detta con modestia, annunciava che quella forma suggeriva come il DNA potesse copiarsi: era la chiave dell'ereditarietà."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Pax tibi, Marce, evangelista meus.",
+      "autore": "Motto del leone di San Marco",
+      "fonte": "Venezia"
+    },
+    {
+      "testo": "Qui finisce l'opera, perché a questo punto il maestro è morto.",
+      "autore": "Arturo Toscanini",
+      "fonte": "prima della Turandot, 1926"
+    },
+    {
+      "testo": "Ognuno raccoglie quel che semina.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A le dòne e a le scale no se ghe gira mai le spale.",
+      "regione": "Trentino-Alto Adige",
+      "traduzione": "Alle donne e alle scale non si voltano mai le spalle.",
+      "spiegazione": "Scherzoso consiglio di prudenza: le scale possono farti cadere, le donne sorprenderti.",
+      "fonte": "Wikiquote, Proverbi trentini"
+    },
+    {
+      "testo": "Marso suto e april bagnà beato 'l contadin che à semená.",
+      "regione": "Veneto",
+      "traduzione": "Marzo asciutto e aprile bagnato, beato il contadino che ha seminato.",
+      "spiegazione": "Il raccolto è buono se a marzo non piove troppo e ad aprile piove abbastanza.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    }
+  ],
+  "prima_pagina": null
+}

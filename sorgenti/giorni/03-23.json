@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "giorno": "03-23",
+  "santo": {
+    "nome": "San Turibio de Mogrovejo",
+    "nota": "Giurista spagnolo, fu nominato arcivescovo di Lima quando non era ancora prete. Percorse a piedi e a cavallo il Perù per anni, imparò le lingue indigene e difese gli indios dai soprusi.",
+    "altri": [
+      "Santa Rebecca Ar-Rayès",
+      "San Giuseppe Oriol",
+      "Sant'Ottone Frangipane"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata meteorologica mondiale",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-23-1839",
+      "anno": 1839,
+      "titolo": "Nasce l'OK",
+      "testo": "Il Boston Morning Post usa per la prima volta la sigla O.K., per scherzo, come abbreviazione storpiata di all correct, «tutto giusto». Diventerà la parola più usata del pianeta.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "OK",
+      "tono": "leggero",
+      "indizio": "Domani: un giornale di Boston usa per scherzo due lettere che diventeranno universali."
+    },
+    {
+      "id": "03-23-1857",
+      "anno": 1857,
+      "titolo": "Il primo ascensore",
+      "testo": "Nel grande magazzino Haughwout di New York Elisha Otis installa il primo ascensore per passeggeri con freno di sicurezza.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Otis Elevator Company",
+      "tono": "leggero",
+      "indizio": "Domani: a New York si sale per la prima volta in ascensore."
+    },
+    {
+      "id": "03-23-1965",
+      "anno": 1965,
+      "titolo": "Gemini 3",
+      "testo": "Gus Grissom e John Young volano sulla Gemini 3, la prima navicella americana con due uomini a bordo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Gemini 3",
+      "tono": "leggero",
+      "indizio": "Domani: due astronauti partono, e uno ha un panino nascosto in tasca."
+    },
+    {
+      "id": "03-23-1848",
+      "anno": 1848,
+      "titolo": "La prima guerra d'indipendenza",
+      "testo": "Carlo Alberto dichiara guerra all'Austria: comincia la prima guerra d'indipendenza.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Prima guerra d'indipendenza italiana",
+      "tono": "storico",
+      "indizio": "Domani: il re di Sardegna dichiara guerra all'Austria."
+    },
+    {
+      "id": "03-23-1989",
+      "anno": 1989,
+      "titolo": "La fusione fredda",
+      "testo": "Due chimici dell'Università dello Utah annunciano di aver ottenuto la fusione nucleare in un barattolo, a temperatura ambiente. Nessuno riuscirà a ripetere l'esperimento.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Fusione fredda",
+      "tono": "leggero",
+      "indizio": "Domani: due chimici annunciano una scoperta che nessuno riuscirà a ripetere."
+    },
+    {
+      "id": "03-23-2001",
+      "anno": 2001,
+      "titolo": "La fine della Mir",
+      "testo": "Dopo quindici anni in orbita la stazione spaziale russa Mir viene fatta cadere nel Pacifico meridionale.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Mir (stazione spaziale)",
+      "tono": "leggero",
+      "indizio": "Domani: una stazione spaziale finisce in fondo all'oceano."
+    },
+    {
+      "id": "03-23-1868",
+      "anno": 1868,
+      "titolo": "L'Università della California",
+      "testo": "A Oakland nasce l'Università della California, che si trasferirà poi a Berkeley.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Università della California",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-23-1775",
+      "anno": 1775,
+      "titolo": "Libertà o morte",
+      "testo": "In Virginia Patrick Henry chiama i coloni alle armi contro l'Inghilterra con un discorso rimasto celebre.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Patrick Henry",
+      "tono": "storico"
+    },
+    {
+      "id": "03-23-752",
+      "anno": 752,
+      "titolo": "Il papa che non conta",
+      "testo": "Muore il papa appena eletto Stefano, prima di essere consacrato: per questo non è nell'elenco ufficiale, e da allora la numerazione dei papi Stefano è un pasticcio.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Papa Stefano (752)",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-23-1983",
+      "anno": 1983,
+      "titolo": "Guerre stellari",
+      "testo": "Ronald Reagan propone uno scudo spaziale contro i missili: i giornali lo chiamano subito Star Wars.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Strategic Defense Initiative",
+      "tono": "storico",
+      "indizio": "Domani: un presidente propone uno scudo spaziale contro i missili."
+    },
+    {
+      "id": "03-23-1919",
+      "anno": 1919,
+      "titolo": "Piazza San Sepolcro",
+      "testo": "A Milano Mussolini fonda i Fasci di combattimento.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Fasci italiani di combattimento",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Pierre-Simon Laplace",
+      "anno": 1749,
+      "chi": "matematico e astronomo francese",
+      "wiki": "Pierre-Simon Laplace"
+    },
+    {
+      "nome": "Emmy Noether",
+      "anno": 1882,
+      "chi": "matematica tedesca",
+      "wiki": "Emmy Noether"
+    },
+    {
+      "nome": "Akira Kurosawa",
+      "anno": 1910,
+      "chi": "regista giapponese",
+      "wiki": "Akira Kurosawa"
+    },
+    {
+      "nome": "Wernher von Braun",
+      "anno": 1912,
+      "chi": "ingegnere del razzo Saturn V",
+      "wiki": "Wernher von Braun"
+    },
+    {
+      "nome": "Ugo Tognazzi",
+      "anno": 1922,
+      "chi": "attore cremonese",
+      "wiki": "Ugo Tognazzi"
+    },
+    {
+      "nome": "Roger Bannister",
+      "anno": 1929,
+      "chi": "primo a correre il miglio sotto i quattro minuti",
+      "wiki": "Roger Bannister"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Oll korrect",
+      "testo": "Nel 1839 a Boston andavano di moda le sigle di parole scritte male apposta. OK stava per oll korrect, cioè all correct scritto in modo sgrammaticato. Tutte le altre sigle sono sparite: lei è rimasta."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Il panino di contrabbando",
+      "testo": "Sulla Gemini 3 John Young portò di nascosto un panino al manzo e lo offrì a Grissom. Le briciole che volavano nella cabina preoccuparono la NASA e i due furono rimproverati dal Congresso."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "La dimostrazione con la corda",
+      "testo": "Otis aveva presentato il suo freno a una fiera di New York: salì su una piattaforma e fece tagliare la fune davanti al pubblico. La piattaforma si fermò dopo pochi centimetri."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Datemi la libertà o datemi la morte!",
+      "autore": "Patrick Henry",
+      "fonte": "discorso, 1775"
+    },
+    {
+      "testo": "Sire, non ho avuto bisogno di questa ipotesi.",
+      "autore": "attribuita a Pierre-Simon Laplace",
+      "fonte": "risposta a Napoleone"
+    },
+    {
+      "testo": "Rosso di sera, bel tempo si spera.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A cavallo magro Dio manna mosche.",
+      "regione": "Campania",
+      "traduzione": "A cavallo magro Dio manda le mosche.",
+      "spiegazione": "Le disgrazie colpiscono sempre chi è già in difficoltà.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "Ël mercant c'a sà nen conté 'd busìe ch'a sara botega.",
+      "regione": "Piemonte",
+      "traduzione": "Il mercante che non sa dire bugie chiuda bottega.",
+      "spiegazione": "Ironia sul commercio: per vendere bisogna saper esagerare un po' le qualità della merce.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    }
+  ],
+  "prima_pagina": null
+}

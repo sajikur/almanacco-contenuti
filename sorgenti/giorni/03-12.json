@@ -1,0 +1,244 @@
+{
+  "schema": 1,
+  "giorno": "03-12",
+  "santo": {
+    "nome": "San Luigi Orione",
+    "nota": "Sacerdote piemontese di Pontecurone, allievo di don Bosco, fondò la Piccola opera della Divina Provvidenza. Nel terremoto di Messina e in quello della Marsica corse a soccorrere gli orfani.",
+    "altri": [
+      "Santa Fina da San Gimignano",
+      "San Massimiliano di Tebessa",
+      "Sant'Innocenzo I papa"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa nazionale di Mauritius",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-12-1610",
+      "anno": 1610,
+      "titolo": "Il Sidereus Nuncius",
+      "testo": "A Venezia Galileo pubblica il Sidereus Nuncius: racconta di aver visto con il cannocchiale le montagne della Luna, migliaia di stelle nuove e quattro lune intorno a Giove.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Sidereus Nuncius",
+      "tono": "leggero",
+      "indizio": "Domani: Galileo racconta al mondo che cosa ha visto nel cannocchiale."
+    },
+    {
+      "id": "03-12-1989",
+      "anno": 1989,
+      "titolo": "La proposta del Web",
+      "testo": "Al CERN di Ginevra Tim Berners-Lee consegna al suo capo la proposta di un sistema di documenti collegati tra loro: è la nascita del World Wide Web.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "World Wide Web",
+      "tono": "leggero",
+      "indizio": "Domani: al CERN un ricercatore propone un sistema che diventerà il Web."
+    },
+    {
+      "id": "03-12-1930",
+      "anno": 1930,
+      "titolo": "La marcia del sale",
+      "testo": "Gandhi parte da Ahmedabad a piedi con settantotto compagni: in ventiquattro giorni arriverà al mare per raccogliere il sale, sfidando il monopolio britannico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Marcia del sale",
+      "tono": "storico",
+      "indizio": "Domani: un uomo magro con un bastone parte a piedi verso il mare."
+    },
+    {
+      "id": "03-12-1894",
+      "anno": 1894,
+      "titolo": "La Coca-Cola in bottiglia",
+      "testo": "A Vicksburg, nel Mississippi, il negoziante Joseph Biedenharn imbottiglia per la prima volta la Coca-Cola, che fino ad allora si vendeva solo al bancone.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Coca-Cola",
+      "tono": "leggero",
+      "indizio": "Domani: una bibita di Atlanta finisce per la prima volta in bottiglia."
+    },
+    {
+      "id": "03-12-1912",
+      "anno": 1912,
+      "titolo": "Nascono le Girl Scout",
+      "testo": "A Savannah, in Georgia, Juliette Gordon Low riunisce diciotto ragazze: nascono le Girl Scouts americane.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Girl Scouts of the USA",
+      "tono": "leggero",
+      "indizio": "Domani: in Georgia nasce il primo gruppo di scout ragazze d'America."
+    },
+    {
+      "id": "03-12-1913",
+      "anno": 1913,
+      "titolo": "Il nome di Canberra",
+      "testo": "Si posa la prima pietra della nuova capitale australiana e se ne annuncia il nome: Canberra.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Canberra",
+      "tono": "leggero",
+      "indizio": "Domani: l'Australia dà il nome alla sua nuova capitale."
+    },
+    {
+      "id": "03-12-1968",
+      "anno": 1968,
+      "titolo": "Mauritius indipendente",
+      "testo": "L'isola di Mauritius diventa indipendente dal Regno Unito.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Mauritius",
+      "tono": "storico"
+    },
+    {
+      "id": "03-12-1977",
+      "anno": 1977,
+      "titolo": "Radio Alice",
+      "testo": "A Bologna i carabinieri chiudono Radio Alice, la radio libera del movimento studentesco.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Radio Alice",
+      "tono": "storico",
+      "indizio": "Domani: a Bologna si spegne una radio libera."
+    },
+    {
+      "id": "03-12-1088",
+      "anno": 1088,
+      "titolo": "Urbano II",
+      "testo": "Viene eletto papa Urbano II, che bandirà la prima crociata.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Papa Urbano II",
+      "tono": "storico",
+      "indizio": "Domani: viene eletto il papa della prima crociata."
+    },
+    {
+      "id": "03-12-2013",
+      "anno": 2013,
+      "titolo": "Il conclave",
+      "testo": "Nella Cappella Sistina comincia il conclave che il giorno dopo eleggerà papa Francesco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Conclave del 2013",
+      "tono": "storico"
+    },
+    {
+      "id": "03-12-1999",
+      "anno": 1999,
+      "titolo": "La NATO a est",
+      "testo": "Polonia, Ungheria e Repubblica Ceca entrano nella NATO.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Allargamento della NATO",
+      "tono": "storico"
+    },
+    {
+      "id": "03-12-1909",
+      "anno": 1909,
+      "titolo": "Joe Petrosino",
+      "testo": "A Palermo la mafia uccide il poliziotto italoamericano Joe Petrosino.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Joe Petrosino",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Gabriele D'Annunzio",
+      "anno": 1863,
+      "chi": "poeta e scrittore",
+      "wiki": "Gabriele D'Annunzio"
+    },
+    {
+      "nome": "Gianni Agnelli",
+      "anno": 1921,
+      "chi": "industriale, presidente della Fiat",
+      "wiki": "Gianni Agnelli"
+    },
+    {
+      "nome": "Jack Kerouac",
+      "anno": 1922,
+      "chi": "scrittore della beat generation",
+      "wiki": "Jack Kerouac"
+    },
+    {
+      "nome": "Liza Minnelli",
+      "anno": 1946,
+      "chi": "attrice e cantante",
+      "wiki": "Liza Minnelli"
+    },
+    {
+      "nome": "James Taylor",
+      "anno": 1948,
+      "chi": "cantautore statunitense",
+      "wiki": "James Taylor"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "tecnologia",
+      "titolo": "Vago ma interessante",
+      "testo": "Sul primo foglio della proposta di Berners-Lee il suo capo, Mike Sendall, scrisse a matita: «Vago, ma interessante». Quel foglio è conservato al CERN."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Le parole di D'Annunzio",
+      "testo": "D'Annunzio, nato oggi, inventò parole che usiamo ogni giorno: tramezzino, al posto del sandwich, e scudetto. Diede anche il nome ai grandi magazzini La Rinascente."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Le viole di Santa Fina",
+      "testo": "A San Gimignano, alla morte di santa Fina, si racconta che sulle torri fiorirono viole gialle fuori stagione. Ancora oggi in primavera le violacciocche sulle mura si chiamano viole di Santa Fina."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Eppur si muove.",
+      "autore": "attribuita a Galileo Galilei",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Memento audere semper.",
+      "autore": "Gabriele D'Annunzio",
+      "fonte": "motto, 1918"
+    },
+    {
+      "testo": "A ogni uccello il suo nido è bello.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A voler che il carro non cigoli, bisogna ugner le ruote.",
+      "regione": "Toscana",
+      "traduzione": "Se vuoi che il carro non cigoli, bisogna ungere le ruote.",
+      "spiegazione": "Per far andare bene le cose, a volte bisogna oliare gli ingranaggi: con gentilezze, regali o qualche spesa.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Qui arribbat quando hat, mandigat quando queret.",
+      "regione": "Sardegna",
+      "traduzione": "Chi mette da parte quando ha, mangia quando vuole.",
+      "spiegazione": "Chi risparmia nei tempi buoni non soffre in quelli cattivi.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

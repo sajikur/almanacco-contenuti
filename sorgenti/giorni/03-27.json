@@ -1,0 +1,231 @@
+{
+  "schema": 1,
+  "giorno": "03-27",
+  "santo": {
+    "nome": "San Ruperto di Salisburgo",
+    "nota": "Vescovo franco del VII secolo, rifondò la città di Salisburgo sulle rovine romane di Iuvavum e ne riaprì le miniere di sale. È il patrono di Salisburgo e viene raffigurato con un barile di sale.",
+    "altri": [
+      "Beato Francesco Faà di Bruno",
+      "San Giovanni di Licopoli",
+      "Sant'Augusta di Serravalle"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale del teatro",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-27-1861",
+      "anno": 1861,
+      "titolo": "Roma capitale",
+      "testo": "A Torino il Parlamento proclama Roma capitale d'Italia, dopo un discorso di Cavour: Roma però è ancora del papa, e lo resterà per altri nove anni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Roma capitale",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia dichiara capitale una città che non possiede ancora."
+    },
+    {
+      "id": "03-27-1975",
+      "anno": 1975,
+      "titolo": "Fantozzi",
+      "testo": "Esce al cinema Fantozzi di Luciano Salce, con Paolo Villaggio nella parte del ragioniere sfortunato che diventerà una maschera italiana.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Fantozzi (film)",
+      "tono": "leggero",
+      "indizio": "Domani: arriva al cinema il ragioniere più sfortunato d'Italia."
+    },
+    {
+      "id": "03-27-1513",
+      "anno": 1513,
+      "titolo": "Ponce de León vede la Florida",
+      "testo": "L'esploratore spagnolo Juan Ponce de León avvista una terra fiorita e la chiama Florida, pensando che sia un'isola.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Juan Ponce de León",
+      "tono": "storico",
+      "indizio": "Domani: un esploratore spagnolo vede una costa fiorita."
+    },
+    {
+      "id": "03-27-1871",
+      "anno": 1871,
+      "titolo": "Il primo incontro di rugby tra nazioni",
+      "testo": "A Edimburgo si gioca la prima partita internazionale di rugby della storia: la Scozia batte l'Inghilterra.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Scozia-Inghilterra 1871",
+      "tono": "leggero",
+      "indizio": "Domani: si gioca la prima partita di rugby tra due nazionali."
+    },
+    {
+      "id": "03-27-1933",
+      "anno": 1933,
+      "titolo": "Il polietilene",
+      "testo": "Nei laboratori della ICI, in Inghilterra, due chimici trovano per caso una cera bianca in fondo a un recipiente: è il polietilene, la plastica dei sacchetti.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Polietilene",
+      "tono": "leggero",
+      "indizio": "Domani: in un laboratorio inglese spunta per caso la plastica dei sacchetti."
+    },
+    {
+      "id": "03-27-1886",
+      "anno": 1886,
+      "titolo": "L'Inno dei lavoratori",
+      "testo": "A Milano si canta per la prima volta in pubblico l'Inno dei lavoratori con le parole di Filippo Turati.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Inno dei lavoratori",
+      "tono": "storico",
+      "indizio": "Domani: a Milano si canta per la prima volta un inno per i lavoratori."
+    },
+    {
+      "id": "03-27-1855",
+      "anno": 1855,
+      "titolo": "Il cherosene",
+      "testo": "Il canadese Abraham Gesner brevetta il cherosene, che sostituirà l'olio di balena nelle lampade.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Cherosene",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-27-1969",
+      "anno": 1969,
+      "titolo": "Parte Mariner 7",
+      "testo": "La NASA lancia la sonda Mariner 7, che sorvolerà Marte.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Mariner 7",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-27-2020",
+      "anno": 2020,
+      "titolo": "La piazza vuota",
+      "testo": "Sotto la pioggia, in una piazza San Pietro deserta per la pandemia, papa Francesco prega da solo e impartisce la benedizione Urbi et Orbi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Pandemia di COVID-19 in Italia",
+      "tono": "storico"
+    },
+    {
+      "id": "03-27-1958",
+      "anno": 1958,
+      "titolo": "Chruščëv al governo",
+      "testo": "Nikita Chruščëv diventa capo del governo sovietico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Nikita Chruščëv",
+      "tono": "storico"
+    },
+    {
+      "id": "03-27-1977",
+      "anno": 1977,
+      "titolo": "Tenerife",
+      "testo": "Due Jumbo si scontrano sulla pista dell'aeroporto di Tenerife: è il più grave incidente aereo della storia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Disastro aereo di Tenerife",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Wilhelm Röntgen",
+      "anno": 1845,
+      "chi": "fisico, scopritore dei raggi X",
+      "wiki": "Wilhelm Röntgen"
+    },
+    {
+      "nome": "Ludwig Mies van der Rohe",
+      "anno": 1886,
+      "chi": "architetto",
+      "wiki": "Ludwig Mies van der Rohe"
+    },
+    {
+      "nome": "Gloria Swanson",
+      "anno": 1899,
+      "chi": "diva del cinema muto",
+      "wiki": "Gloria Swanson"
+    },
+    {
+      "nome": "Sarah Vaughan",
+      "anno": 1924,
+      "chi": "cantante jazz",
+      "wiki": "Sarah Vaughan"
+    },
+    {
+      "nome": "Quentin Tarantino",
+      "anno": 1963,
+      "chi": "regista statunitense",
+      "wiki": "Quentin Tarantino"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il ragionier Ugo",
+      "testo": "Fantozzi nacque come personaggio dei racconti di Paolo Villaggio, prima alla radio e poi in un libro del 1971. Il suo nome è entrato nel vocabolario: fantozziano vuol dire goffo, sfortunato, vessato."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "La mano di Anna",
+      "testo": "La prima radiografia famosa di Röntgen, nato oggi, mostra la mano di sua moglie Anna Bertha con l'anello. Quando la vide lei disse, si racconta: «Ho visto la mia morte»."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "La plastica per sbaglio",
+      "testo": "Il polietilene nacque da un esperimento andato storto, per una piccola perdita di ossigeno. Ci vollero due anni per capire come rifarlo apposta."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tutto il mondo è un palcoscenico.",
+      "autore": "William Shakespeare",
+      "fonte": "Come vi piace"
+    },
+    {
+      "testo": "Meno è più.",
+      "autore": "Ludwig Mies van der Rohe",
+      "fonte": "motto"
+    },
+    {
+      "testo": "Roma è la sola città d'Italia che non abbia memorie esclusivamente municipali.",
+      "autore": "Camillo Benso di Cavour",
+      "fonte": "discorso, 1861"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A la domènnega dai oliv tucc i usei fann ol sò nid.",
+      "regione": "Lombardia",
+      "traduzione": "Alla domenica degli ulivi tutti gli uccelli fanno il nido.",
+      "spiegazione": "Per la domenica delle Palme, a fine marzo o in aprile, la primavera è arrivata e gli uccelli nidificano.",
+      "fonte": "Wikiquote, Proverbi brianzoli"
+    },
+    {
+      "testo": "L'amore n' vvò le bbellezze; l'appetite n' vvò la salze.",
+      "regione": "Abruzzo",
+      "traduzione": "L'amore non vuole bellezze, l'appetito non vuole salse.",
+      "spiegazione": "Chi ama non guarda all'aspetto, come chi ha fame non guarda al condimento.",
+      "fonte": "Wikiquote, Proverbi abruzzesi"
+    }
+  ],
+  "prima_pagina": null
+}

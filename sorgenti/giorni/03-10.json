@@ -1,0 +1,237 @@
+{
+  "schema": 1,
+  "giorno": "03-10",
+  "santo": {
+    "nome": "San Simplicio",
+    "nota": "Papa nato a Tivoli, guidò la Chiesa negli anni in cui, nel 476, cadde l'Impero romano d'Occidente. Fece costruire a Roma la chiesa di Santo Stefano Rotondo.",
+    "altri": [
+      "Santa Maria Eugenia di Gesù",
+      "San John Ogilvie",
+      "Beato Giovanni dalle Celle"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Mario Day: in inglese MAR10 si legge Mario",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-10-1876",
+      "anno": 1876,
+      "titolo": "Signor Watson, venga qui",
+      "testo": "Bell parla nel suo apparecchio e il suo assistente Thomas Watson, nella stanza accanto, sente la sua voce: è la prima telefonata della storia.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Alexander Graham Bell",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta una voce passa da una stanza all'altra lungo un filo."
+    },
+    {
+      "id": "03-10-1302",
+      "anno": 1302,
+      "titolo": "Dante condannato al rogo",
+      "testo": "Firenze condanna Dante Alighieri, già in esilio, a essere bruciato vivo se tornerà in città: non ci tornerà mai più.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Dante Alighieri",
+      "tono": "storico",
+      "indizio": "Domani: Firenze condanna il suo più grande poeta."
+    },
+    {
+      "id": "03-10-1891",
+      "anno": 1891,
+      "titolo": "Il becchino e il telefono",
+      "testo": "Almon Strowger, impresario di pompe funebri di Kansas City, brevetta la prima centrale telefonica automatica: era convinto che la centralinista dirottasse le chiamate al suo concorrente.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Almon Strowger",
+      "tono": "leggero",
+      "indizio": "Domani: un becchino arrabbiato inventa la centrale telefonica automatica."
+    },
+    {
+      "id": "03-10-1977",
+      "anno": 1977,
+      "titolo": "Gli anelli di Urano",
+      "testo": "Osservando Urano mentre passa davanti a una stella, gli astronomi del Kuiper Airborne Observatory scoprono che anche Urano ha gli anelli.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Anelli di Urano",
+      "tono": "leggero",
+      "indizio": "Domani: si scopre che anche un altro pianeta ha gli anelli."
+    },
+    {
+      "id": "03-10-1975",
+      "anno": 1975,
+      "titolo": "La prima radio libera",
+      "testo": "A Milano comincia a trasmettere Radio Milano International, considerata la prima radio libera italiana.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Radio Milano International",
+      "tono": "leggero",
+      "indizio": "Domani: a Milano accende i microfoni la prima radio libera."
+    },
+    {
+      "id": "03-10-1831",
+      "anno": 1831,
+      "titolo": "La Legione straniera",
+      "testo": "Il re Luigi Filippo fonda la Legione straniera francese.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Legione straniera",
+      "tono": "storico",
+      "indizio": "Domani: nasce il corpo militare più leggendario di Francia."
+    },
+    {
+      "id": "03-10--241",
+      "anno": -241,
+      "titolo": "Le isole Egadi",
+      "testo": "Al largo delle Egadi la flotta romana di Lutazio Catulo sconfigge quella cartaginese: finisce la prima guerra punica e la Sicilia diventa romana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Battaglia delle Egadi",
+      "tono": "storico",
+      "indizio": "Domani: al largo di Trapani si decide la prima guerra punica."
+    },
+    {
+      "id": "03-10-1906",
+      "anno": 1906,
+      "titolo": "Piccadilly Circus",
+      "testo": "Si apre la stazione della metropolitana di Piccadilly Circus a Londra.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Piccadilly Circus (metropolitana di Londra)",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-10-2006",
+      "anno": 2006,
+      "titolo": "Le Paralimpiadi di Torino",
+      "testo": "A Torino si aprono i IX Giochi paralimpici invernali.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "IX Giochi paralimpici invernali",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-10-2006b",
+      "anno": 2006,
+      "titolo": "Arriva su Marte",
+      "testo": "La sonda Mars Reconnaissance Orbiter entra in orbita intorno a Marte.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Mars Reconnaissance Orbiter",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-10-1821",
+      "anno": 1821,
+      "titolo": "Il tricolore ad Alessandria",
+      "testo": "Durante i moti piemontesi, nella cittadella di Alessandria si issa il tricolore.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Moti del 1820-1821",
+      "tono": "storico"
+    },
+    {
+      "id": "03-10-1948",
+      "anno": 1948,
+      "titolo": "Placido Rizzotto",
+      "testo": "A Corleone la mafia uccide il sindacalista Placido Rizzotto.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Placido Rizzotto",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Marcello Malpighi",
+      "anno": 1628,
+      "chi": "medico, scopritore dei capillari",
+      "wiki": "Marcello Malpighi"
+    },
+    {
+      "nome": "Pablo de Sarasate",
+      "anno": 1844,
+      "chi": "violinista spagnolo",
+      "wiki": "Pablo de Sarasate"
+    },
+    {
+      "nome": "Chuck Norris",
+      "anno": 1940,
+      "chi": "attore statunitense",
+      "wiki": "Chuck Norris"
+    },
+    {
+      "nome": "Sharon Stone",
+      "anno": 1958,
+      "chi": "attrice statunitense",
+      "wiki": "Sharon Stone"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "La giornata di Mario",
+      "testo": "Scritto in inglese, il 10 marzo è MAR10: sembra la parola Mario. Per questo Nintendo lo festeggia come il giorno di Super Mario, e per chi si chiama Mario è un onomastico in più."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Malpighi e i capillari",
+      "testo": "Marcello Malpighi, nato oggi vicino a Bologna, osservando al microscopio il polmone di una rana vide per primo i capillari: era l'anello mancante della circolazione del sangue descritta da Harvey."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il sale dell'esilio",
+      "testo": "Dante visse l'esilio passando da una corte all'altra, a Verona, in Lunigiana, a Ravenna. Firenze ha revocato simbolicamente la sua condanna solo nel 2008."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Signor Watson, venga qui, voglio vederla.",
+      "autore": "Alexander Graham Bell",
+      "fonte": "prima telefonata, 1876"
+    },
+    {
+      "testo": "Tu proverai sì come sa di sale lo pane altrui.",
+      "autore": "Dante Alighieri",
+      "fonte": "Paradiso, XVII"
+    },
+    {
+      "testo": "Marzo tinge, aprile dipinge.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi ccià la mojie bella sempre canta e chi ccià pochi quatrini sempre conta.",
+      "regione": "Umbria",
+      "traduzione": "Chi ha la moglie bella canta sempre e chi ha pochi soldi conta sempre.",
+      "spiegazione": "Ognuno ha il suo modo di passare il tempo: chi è felice canta, chi è al verde fa i conti.",
+      "fonte": "Wikiquote, Proverbi umbri"
+    },
+    {
+      "testo": "A' cci crerə, Dijə pruvvetə.",
+      "regione": "Puglia",
+      "traduzione": "A chi crede, Dio provvede.",
+      "spiegazione": "Chi ha fede trova sempre un aiuto.",
+      "fonte": "Wikiquote, Proverbi tarantini"
+    }
+  ],
+  "prima_pagina": null
+}

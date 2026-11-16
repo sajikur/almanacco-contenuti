@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "giorno": "03-07",
+  "santo": {
+    "nome": "Sante Perpetua e Felicita",
+    "nota": "Una giovane nobile e la sua schiava, martirizzate insieme a Cartagine nel 203. Il diario di Perpetua, scritto in carcere, è uno dei più antichi testi scritti da una donna cristiana.",
+    "altri": [
+      "San Gaudioso di Brescia",
+      "Santa Teresa Margherita Redi",
+      "San Paolo il Semplice"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "03-07-1876",
+      "anno": 1876,
+      "titolo": "Il brevetto del telefono",
+      "testo": "Alexander Graham Bell ottiene il brevetto del telefono. Elisha Gray aveva depositato una richiesta simile lo stesso giorno di febbraio, poche ore dopo di lui.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Telefono",
+      "tono": "leggero",
+      "indizio": "Domani: un insegnante per sordi ottiene il brevetto di una macchina che trasmette la voce."
+    },
+    {
+      "id": "03-07-1912",
+      "anno": 1912,
+      "titolo": "Il Polo Sud",
+      "testo": "Da Hobart, in Tasmania, Roald Amundsen telegrafa al mondo di aver raggiunto il Polo Sud, a dicembre, prima dell'inglese Scott.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Roald Amundsen",
+      "tono": "storico",
+      "indizio": "Domani: un telegramma dalla Tasmania annuncia la conquista del Polo Sud."
+    },
+    {
+      "id": "03-07-1965",
+      "anno": 1965,
+      "titolo": "La messa in italiano",
+      "testo": "Nella prima domenica di Quaresima, in tutte le parrocchie italiane parti della messa si dicono per la prima volta in italiano invece che in latino. Paolo VI celebra in una parrocchia romana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Messa di Paolo VI",
+      "tono": "storico",
+      "indizio": "Domani: in chiesa, per la prima volta, la messa si sente in italiano."
+    },
+    {
+      "id": "03-07-1983",
+      "anno": 1983,
+      "titolo": "Blue Monday",
+      "testo": "I New Order pubblicano Blue Monday, che diventerà il disco a 45 giri da dodici pollici più venduto della storia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Blue Monday (New Order)",
+      "tono": "leggero",
+      "indizio": "Domani: esce un disco la cui copertina costa più del disco stesso."
+    },
+    {
+      "id": "03-07-1985",
+      "anno": 1985,
+      "titolo": "We Are the World",
+      "testo": "Esce We Are the World, cantata da decine di stelle americane per raccogliere fondi contro la carestia in Etiopia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "We Are the World",
+      "tono": "leggero",
+      "indizio": "Domani: decine di cantanti famosi incidono insieme una canzone per l'Africa."
+    },
+    {
+      "id": "03-07-1973",
+      "anno": 1973,
+      "titolo": "La cometa Kohoutek",
+      "testo": "L'astronomo ceco Luboš Kohoutek scopre la cometa che porta il suo nome. Annunciata come la cometa del secolo, a dicembre si vedrà appena.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Cometa Kohoutek",
+      "tono": "leggero",
+      "indizio": "Domani: viene scoperta la cometa del secolo, che deluderà tutti."
+    },
+    {
+      "id": "03-07-1994",
+      "anno": 1994,
+      "titolo": "La parodia è lecita",
+      "testo": "La Corte suprema degli Stati Uniti dà ragione ai 2 Live Crew, che avevano fatto la parodia di Oh, Pretty Woman di Roy Orbison: la parodia è un uso legittimo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Campbell v. Acuff-Rose Music",
+      "tono": "leggero",
+      "indizio": "Domani: un tribunale americano decide che si può fare la parodia di una canzone."
+    },
+    {
+      "id": "03-07-1821",
+      "anno": 1821,
+      "titolo": "Antrodoco",
+      "testo": "Ad Antrodoco, nel Reatino, l'esercito costituzionale napoletano di Guglielmo Pepe viene sconfitto dagli austriaci.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Antrodoco",
+      "tono": "storico"
+    },
+    {
+      "id": "03-07-1945",
+      "anno": 1945,
+      "titolo": "Il ponte di Remagen",
+      "testo": "Le truppe americane trovano ancora intatto il ponte di Remagen e attraversano il Reno.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Ponte di Remagen",
+      "tono": "storico",
+      "indizio": "Domani: un ponte sul Reno resta in piedi, e cambia la guerra."
+    },
+    {
+      "id": "03-07-1965b",
+      "anno": 1965,
+      "titolo": "Il ponte di Selma",
+      "testo": "A Selma, in Alabama, la polizia carica i manifestanti per il diritto di voto dei neri sul ponte Edmund Pettus.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Marce da Selma a Montgomery",
+      "tono": "storico"
+    },
+    {
+      "id": "03-07-1936",
+      "anno": 1936,
+      "titolo": "La Renania",
+      "testo": "Le truppe di Hitler rioccupano la Renania smilitarizzata.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Rimilitarizzazione della Renania",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Joseph Nicéphore Niépce",
+      "anno": 1765,
+      "chi": "inventore della fotografia",
+      "wiki": "Joseph Nicéphore Niépce"
+    },
+    {
+      "nome": "Alessandro Manzoni",
+      "anno": 1785,
+      "chi": "scrittore dei Promessi sposi",
+      "wiki": "Alessandro Manzoni"
+    },
+    {
+      "nome": "Piet Mondrian",
+      "anno": 1872,
+      "chi": "pittore olandese",
+      "wiki": "Piet Mondrian"
+    },
+    {
+      "nome": "Maurice Ravel",
+      "anno": 1875,
+      "chi": "compositore francese del Bolero",
+      "wiki": "Maurice Ravel"
+    },
+    {
+      "nome": "Anna Magnani",
+      "anno": 1908,
+      "chi": "attrice romana",
+      "wiki": "Anna Magnani"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il disco in perdita",
+      "testo": "La copertina di Blue Monday imitava un floppy disk, con fustellature e colori: costava così tanto che la Factory Records perdeva soldi su ogni copia venduta. Più vendeva, più perdeva."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "I panni in Arno",
+      "testo": "Manzoni, nato oggi, riscrisse I promessi sposi per renderne la lingua fiorentina: andò a Firenze, disse, a «risciacquare i panni in Arno». L'edizione definitiva uscì nel 1840."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il Bolero senza musica",
+      "testo": "Ravel, nato oggi, considerava il suo Bolero un esperimento: lo descrisse come un pezzo per orchestra senza musica, una sola melodia ripetuta con un crescendo lungo un quarto d'ora."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Del senno di poi ne son piene le fosse.",
+      "autore": "Alessandro Manzoni",
+      "fonte": "I promessi sposi, cap. XXXIII"
+    },
+    {
+      "testo": "Il buon senso c'era; ma se ne stava nascosto, per paura del senso comune.",
+      "autore": "Alessandro Manzoni",
+      "fonte": "I promessi sposi, cap. XXXII"
+    },
+    {
+      "testo": "Marzo non ha un dì come l'altro.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Andoa che 'l coeur a tira la gambe a porto.",
+      "regione": "Piemonte",
+      "traduzione": "Le gambe portano dove tira il cuore.",
+      "spiegazione": "Si finisce sempre per andare dove si desidera davvero.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "Assai beni balla, cui la fortuna sona.",
+      "regione": "Sicilia",
+      "traduzione": "Balla molto bene colui a cui la fortuna suona.",
+      "spiegazione": "Quando la fortuna ti accompagna, tutto riesce facile.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,232 @@
+{
+  "schema": 1,
+  "giorno": "04-20",
+  "santo": {
+    "nome": "Sant'Agnese di Montepulciano",
+    "nota": "Domenicana toscana del Trecento, entrò in convento a nove anni e a quindici era già badessa. Si racconta che mentre pregava scendesse su di lei una pioggia di manna bianca come la neve.",
+    "altri": [
+      "Sant'Aniceto papa",
+      "Santa Sara di Antiochia",
+      "Beata Chiara Bosatta"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata della lingua cinese",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-20-1303",
+      "anno": 1303,
+      "titolo": "Nasce la Sapienza",
+      "testo": "Con la bolla In supremae praeminentia dignitatis papa Bonifacio VIII fonda a Roma lo Studium Urbis: è l'università che oggi si chiama La Sapienza.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Sapienza - Università di Roma",
+      "tono": "leggero",
+      "indizio": "Domani: un papa fonda l'università di Roma."
+    },
+    {
+      "id": "04-20-1964",
+      "anno": 1964,
+      "titolo": "Il primo vasetto di Nutella",
+      "testo": "Dalla fabbrica Ferrero di Alba esce il primo vasetto di Nutella, la crema di nocciole e cacao nata dalla vecchia pasta gianduja.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Nutella",
+      "tono": "leggero",
+      "indizio": "Domani: da una fabbrica di Alba esce un vasetto che conquisterà il mondo."
+    },
+    {
+      "id": "04-20-1841",
+      "anno": 1841,
+      "titolo": "Il primo giallo",
+      "testo": "Esce I delitti della Rue Morgue di Edgar Allan Poe, considerato il primo racconto poliziesco: l'investigatore è Auguste Dupin, il nonno di Sherlock Holmes.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "I delitti della Rue Morgue",
+      "tono": "leggero",
+      "indizio": "Domani: esce il racconto con cui nasce il giallo."
+    },
+    {
+      "id": "04-20-1862",
+      "anno": 1862,
+      "titolo": "La pastorizzazione",
+      "testo": "Louis Pasteur e Claude Bernard completano il primo esperimento di pastorizzazione: scaldando il liquido si uccidono i microbi senza rovinarlo.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Pastorizzazione",
+      "tono": "leggero",
+      "indizio": "Domani: due scienziati scaldano un liquido e lo rendono sicuro."
+    },
+    {
+      "id": "04-20-1926",
+      "anno": 1926,
+      "titolo": "Il Vitaphone",
+      "testo": "La Warner Bros annuncia il Vitaphone, il sistema per accompagnare i film con il suono registrato su disco: un anno dopo arriverà il primo film parlato.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Vitaphone",
+      "tono": "leggero",
+      "indizio": "Domani: il cinema muto comincia a imparare a parlare."
+    },
+    {
+      "id": "04-20-1992",
+      "anno": 1992,
+      "titolo": "Il concerto per Freddie",
+      "testo": "A Wembley settantamila persone e un miliardo di telespettatori ricordano Freddie Mercury con un grande concerto.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The Freddie Mercury Tribute Concert",
+      "tono": "leggero",
+      "indizio": "Domani: Wembley canta per Freddie Mercury."
+    },
+    {
+      "id": "04-20-1920",
+      "anno": 1920,
+      "titolo": "Le Olimpiadi di Anversa",
+      "testo": "Con i primi incontri si aprono ad Anversa i Giochi della VII Olimpiade: saranno i primi con la bandiera dei cinque cerchi.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Giochi della VII Olimpiade",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-20-1972",
+      "anno": 1972,
+      "titolo": "Apollo 16 sulla Luna",
+      "testo": "Il modulo lunare dell'Apollo 16 si posa sugli altipiani di Descartes.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Apollo 16",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-20-2013",
+      "anno": 2013,
+      "titolo": "Napolitano rieletto",
+      "testo": "Giorgio Napolitano è il primo presidente della Repubblica a essere rieletto.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Elezione del presidente della Repubblica italiana del 2013",
+      "tono": "storico"
+    },
+    {
+      "id": "04-20-1940",
+      "anno": 1940,
+      "titolo": "Il microscopio elettronico",
+      "testo": "La RCA mostra per la prima volta al pubblico americano un microscopio elettronico.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Microscopio elettronico",
+      "tono": "leggero",
+      "indizio": "Domani: si mostra al pubblico un microscopio con gli elettroni."
+    },
+    {
+      "id": "04-20-2010",
+      "anno": 2010,
+      "titolo": "La Deepwater Horizon",
+      "testo": "Esplode la piattaforma petrolifera Deepwater Horizon nel golfo del Messico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Disastro della Deepwater Horizon",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Pietro Aretino",
+      "anno": 1492,
+      "chi": "scrittore e poeta satirico",
+      "wiki": "Pietro Aretino"
+    },
+    {
+      "nome": "Napoleone III",
+      "anno": 1808,
+      "chi": "imperatore dei francesi",
+      "wiki": "Napoleone III"
+    },
+    {
+      "nome": "Joan Miró",
+      "anno": 1893,
+      "chi": "pittore catalano",
+      "wiki": "Joan Miró"
+    },
+    {
+      "nome": "Harold Lloyd",
+      "anno": 1893,
+      "chi": "comico del cinema muto",
+      "wiki": "Harold Lloyd"
+    },
+    {
+      "nome": "Jessica Lange",
+      "anno": 1949,
+      "chi": "attrice statunitense",
+      "wiki": "Jessica Lange"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Dalla Supercrema alla Nutella",
+      "testo": "La crema di Ferrero nacque nel dopoguerra come pasta gianduja da tagliare a fette, perché il cacao era caro e le nocciole delle Langhe no. Poi diventò spalmabile e nel 1964 prese il nome inglese nut, nocciola."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il colpevole",
+      "testo": "Nel racconto di Poe due donne vengono uccise in una stanza chiusa a chiave. Dupin scopre il colpevole: un orangotango scappato a un marinaio. È il primo mistero della camera chiusa."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Harold Lloyd e l'orologio",
+      "testo": "Harold Lloyd, nato oggi, è il comico appeso alle lancette di un orologio in cima a un grattacielo nel film Preferisco l'ascensore. Girò gran parte delle scene pericolose da solo, pur avendo perso due dita in un incidente."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tutto ciò che vediamo o sembriamo non è che un sogno dentro un sogno.",
+      "autore": "Edgar Allan Poe",
+      "fonte": "Un sogno dentro un sogno"
+    },
+    {
+      "testo": "La pazienza è la virtù dei forti.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi ha pane non ha denti, e chi ha denti non ha pane.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Amor e comand a veulo esse soj.",
+      "regione": "Piemonte",
+      "traduzione": "Amore e comando vogliono stare da soli.",
+      "spiegazione": "In amore e nel comando non si accettano rivali: non si possono dividere.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "Ogni malu consizadu est bonu consizadore.",
+      "regione": "Sardegna",
+      "traduzione": "Chi è stato consigliato male diventa un buon consigliere.",
+      "spiegazione": "Chi ha sbagliato per un cattivo consiglio impara e sa poi consigliare bene gli altri.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,213 @@
+{
+  "schema": 1,
+  "giorno": "04-11",
+  "santo": {
+    "nome": "Santa Gemma Galgani",
+    "nota": "Ragazza di Lucca, orfana e malata, visse una vita breve e intensa di preghiera, con esperienze mistiche e le stimmate. Morì a venticinque anni nel 1903.",
+    "altri": [
+      "San Stanislao di Cracovia",
+      "Sant'Antipa di Pergamo",
+      "Beata Elena Guerra"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata nazionale del mare",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Giornata mondiale del Parkinson",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-11-1954",
+      "anno": 1954,
+      "titolo": "Il giorno più noioso",
+      "testo": "Secondo un programma che ha analizzato milioni di fatti storici, l'11 aprile 1954 è il giorno più noioso del Novecento: non successe quasi niente.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "11 aprile",
+      "tono": "leggero",
+      "indizio": "Domani: arriva l'anniversario del giorno più noioso della storia."
+    },
+    {
+      "id": "04-11-1970",
+      "anno": 1970,
+      "titolo": "Parte l'Apollo 13",
+      "testo": "Parte la missione Apollo 13 verso la Luna: due giorni dopo un'esplosione costringerà gli astronauti a un rientro avventuroso.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Apollo 13",
+      "tono": "leggero",
+      "indizio": "Domani: partono tre astronauti per la Luna, ma il viaggio non andrà come previsto."
+    },
+    {
+      "id": "04-11-1961",
+      "anno": 1961,
+      "titolo": "Il debutto di Bob Dylan",
+      "testo": "Al Gerde's Folk City del Greenwich Village Bob Dylan, diciannovenne, suona il suo primo vero ingaggio a New York.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Bob Dylan",
+      "tono": "leggero",
+      "indizio": "Domani: un ragazzo con l'armonica suona per la prima volta in un locale di New York."
+    },
+    {
+      "id": "04-11-1963",
+      "anno": 1963,
+      "titolo": "Pacem in terris",
+      "testo": "Giovanni XXIII pubblica l'enciclica Pacem in terris: è la prima indirizzata non solo ai cattolici, ma a tutti gli uomini di buona volontà.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Pacem in terris",
+      "tono": "storico",
+      "indizio": "Domani: un papa scrive una lettera sulla pace a tutti gli uomini."
+    },
+    {
+      "id": "04-11-1888",
+      "anno": 1888,
+      "titolo": "Il Concertgebouw",
+      "testo": "Ad Amsterdam si inaugura il Concertgebouw, una delle sale da concerto con l'acustica migliore del mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Concertgebouw",
+      "tono": "leggero",
+      "indizio": "Domani: Amsterdam apre una sala da concerto dal suono perfetto."
+    },
+    {
+      "id": "04-11-1814",
+      "anno": 1814,
+      "titolo": "Napoleone all'Elba",
+      "testo": "Con il trattato di Fontainebleau Napoleone rinuncia al trono e riceve il principato dell'isola d'Elba.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Trattato di Fontainebleau (1814)",
+      "tono": "storico",
+      "indizio": "Domani: Napoleone riceve in dono una piccola isola toscana."
+    },
+    {
+      "id": "04-11-1994",
+      "anno": 1994,
+      "titolo": "Supersonic",
+      "testo": "Gli Oasis pubblicano il loro primo singolo, Supersonic.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Supersonic (Oasis)",
+      "tono": "leggero",
+      "indizio": "Domani: esce il primo singolo di una band di Manchester."
+    },
+    {
+      "id": "04-11-2006",
+      "anno": 2006,
+      "titolo": "L'arresto di Provenzano",
+      "testo": "In un casolare vicino a Corleone viene arrestato Bernardo Provenzano, latitante da quarantatré anni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Bernardo Provenzano",
+      "tono": "storico"
+    },
+    {
+      "id": "04-11-1512",
+      "anno": 1512,
+      "titolo": "La battaglia di Ravenna",
+      "testo": "Sotto Ravenna i francesi di Gastone di Foix battono gli spagnoli e il papa, ma il loro giovane comandante muore.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Ravenna (1512)",
+      "tono": "storico"
+    },
+    {
+      "id": "04-11-1713",
+      "anno": 1713,
+      "titolo": "La pace di Utrecht",
+      "testo": "Il trattato di Utrecht mette fine alla guerra di successione spagnola.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Pace di Utrecht",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "James Parkinson",
+      "anno": 1755,
+      "chi": "medico che descrisse la malattia",
+      "wiki": "James Parkinson"
+    },
+    {
+      "nome": "Joel Grey",
+      "anno": 1932,
+      "chi": "attore di Cabaret",
+      "wiki": "Joel Grey"
+    },
+    {
+      "nome": "Jeremy Clarkson",
+      "anno": 1960,
+      "chi": "conduttore televisivo di motori",
+      "wiki": "Jeremy Clarkson"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Che cosa successe",
+      "testo": "Nel giorno più noioso del Novecento ci furono le elezioni in Belgio, nacque un accademico turco e morì un calciatore inglese. Il calcolo lo fece nel 2010 il motore di ricerca True Knowledge, fondato a Cambridge."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Il numero sfortunato",
+      "testo": "L'Apollo 13 partì alle 13.13 ora di Houston e l'incidente avvenne il 13 aprile. I tre astronauti tornarono comunque sani e salvi, usando il modulo lunare come scialuppa."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Il medico del tremito",
+      "testo": "James Parkinson, nato oggi a Londra, descrisse nel 1817 la «paralisi agitante» che oggi porta il suo nome. Per questo la giornata del Parkinson cade il suo compleanno."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il mare non ha taverne.",
+      "autore": "Proverbio",
+      "fonte": "proverbio marinaro"
+    },
+    {
+      "testo": "Il tempo è galantuomo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "L'ozio è il padre dei vizi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Beatu cui pri autru si castiga.",
+      "regione": "Sicilia",
+      "traduzione": "Beato chi impara dagli sbagli degli altri.",
+      "spiegazione": "La lezione migliore è quella che si impara guardando gli errori altrui, senza pagarne il prezzo.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "Pò(g)uere kìe ze more, ke kìe rèste ze kuènzole.",
+      "regione": "Molise",
+      "traduzione": "Povero chi muore, perché chi resta si consola.",
+      "spiegazione": "Il dolore per una perdita col tempo passa: la vita va avanti per chi rimane.",
+      "fonte": "Wikiquote, Proverbi molisani"
+    }
+  ],
+  "prima_pagina": null
+}

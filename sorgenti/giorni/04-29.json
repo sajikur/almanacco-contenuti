@@ -1,0 +1,222 @@
+{
+  "schema": 1,
+  "giorno": "04-29",
+  "santo": {
+    "nome": "Santa Caterina da Siena",
+    "nota": "Figlia di un tintore senese del Trecento, ventiquattresima di venticinque figli. Non studiò, ma dettò centinaia di lettere a papi e re, e convinse il papa a tornare da Avignone a Roma. È patrona d'Italia e d'Europa.",
+    "altri": [
+      "Sant'Ugo di Cluny",
+      "San Severo di Napoli",
+      "Beata Itala Mela"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "04-29-1961",
+      "anno": 1961,
+      "titolo": "Il debutto di Pavarotti",
+      "testo": "Al teatro di Reggio Emilia un tenore modenese di venticinque anni, Luciano Pavarotti, debutta nella parte di Rodolfo nella Bohème.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Luciano Pavarotti",
+      "tono": "leggero",
+      "indizio": "Domani: a Reggio Emilia debutta un giovane tenore modenese."
+    },
+    {
+      "id": "04-29-1429",
+      "anno": 1429,
+      "titolo": "Giovanna d'Arco a Orléans",
+      "testo": "Giovanna d'Arco, diciassettenne, entra nella città di Orléans assediata dagli inglesi: in nove giorni l'assedio sarà tolto.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Assedio di Orléans",
+      "tono": "storico",
+      "indizio": "Domani: una ragazza in armatura entra in una città assediata."
+    },
+    {
+      "id": "04-29-1770",
+      "anno": 1770,
+      "titolo": "Botany Bay",
+      "testo": "James Cook sbarca in Australia in una baia che, per le moltissime piante nuove raccolte dal botanico Joseph Banks, chiamerà Botany Bay.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Botany Bay",
+      "tono": "storico",
+      "indizio": "Domani: il capitano Cook sbarca in Australia in una baia piena di piante sconosciute."
+    },
+    {
+      "id": "04-29-1945",
+      "anno": 1945,
+      "titolo": "La resa di Caserta",
+      "testo": "Nella reggia di Caserta i tedeschi firmano la resa delle loro truppe in Italia, che avrà effetto il 2 maggio.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Resa di Caserta",
+      "tono": "storico",
+      "indizio": "Domani: nella reggia di Caserta si firma la fine della guerra in Italia."
+    },
+    {
+      "id": "04-29-2001",
+      "anno": 2001,
+      "titolo": "Il suono del Big Bang",
+      "testo": "Il gruppo guidato da Paolo de Bernardis presenta i risultati di Boomerang, un telescopio portato da un pallone sopra l'Antartide: l'universo è piatto.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "BOOMERanG",
+      "tono": "leggero",
+      "indizio": "Domani: un telescopio appeso a un pallone sopra l'Antartide misura la forma dell'universo."
+    },
+    {
+      "id": "04-29-2011",
+      "anno": 2011,
+      "titolo": "Il matrimonio di William e Kate",
+      "testo": "Nell'abbazia di Westminster il principe William sposa Kate Middleton, davanti a due miliardi di telespettatori.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Matrimonio del principe William e Catherine Middleton",
+      "tono": "leggero",
+      "indizio": "Domani: Londra si prepara a un matrimonio reale."
+    },
+    {
+      "id": "04-29-1587",
+      "anno": 1587,
+      "titolo": "La barba del re di Spagna",
+      "testo": "Francis Drake entra nel porto di Cadice e brucia decine di navi spagnole pronte per l'invasione dell'Inghilterra: disse di aver bruciato la barba al re di Spagna.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Incursione su Cadice",
+      "tono": "storico",
+      "indizio": "Domani: un corsaro inglese brucia la barba al re di Spagna."
+    },
+    {
+      "id": "04-29-1665",
+      "anno": 1665,
+      "titolo": "Bernini a Parigi",
+      "testo": "Gian Lorenzo Bernini parte da Roma per Parigi, chiamato da Luigi XIV a progettare il Louvre.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Gian Lorenzo Bernini",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-29-1955",
+      "anno": 1955,
+      "titolo": "Gronchi presidente",
+      "testo": "Giovanni Gronchi viene eletto presidente della Repubblica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Giovanni Gronchi",
+      "tono": "storico"
+    },
+    {
+      "id": "04-29-1969",
+      "anno": 1969,
+      "titolo": "La medaglia a Duke Ellington",
+      "testo": "Nel giorno del suo settantesimo compleanno Duke Ellington riceve alla Casa Bianca la medaglia presidenziale della libertà.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Duke Ellington",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Henri Poincaré",
+      "anno": 1854,
+      "chi": "matematico francese",
+      "wiki": "Henri Poincaré"
+    },
+    {
+      "nome": "Kostantinos Kavafis",
+      "anno": 1863,
+      "chi": "poeta greco di Alessandria",
+      "wiki": "Kostantinos Kavafis"
+    },
+    {
+      "nome": "Duke Ellington",
+      "anno": 1899,
+      "chi": "musicista jazz",
+      "wiki": "Duke Ellington"
+    },
+    {
+      "nome": "Michelle Pfeiffer",
+      "anno": 1958,
+      "chi": "attrice",
+      "wiki": "Michelle Pfeiffer"
+    },
+    {
+      "nome": "Andre Agassi",
+      "anno": 1970,
+      "chi": "tennista",
+      "wiki": "Andre Agassi"
+    },
+    {
+      "nome": "Uma Thurman",
+      "anno": 1970,
+      "chi": "attrice",
+      "wiki": "Uma Thurman"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Lettere dettate",
+      "testo": "Caterina imparò a scrivere solo da adulta: le sue quasi quattrocento lettere le dettava ai segretari, a volte tre alla volta, su argomenti diversi."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Dieci giorni sopra l'Antartide",
+      "testo": "Il pallone di Boomerang volò per dieci giorni a quasi quaranta chilometri d'altezza, trascinato in cerchio dai venti intorno al Polo Sud, e tornò vicino al punto di partenza. Da qui il nome."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il tenore e la panetteria",
+      "testo": "Pavarotti era figlio di un fornaio di Modena che cantava da tenore nel coro della città. Prima di debuttare fece il maestro elementare e l'assicuratore."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Se sarete quello che dovete essere, metterete fuoco in tutta Italia.",
+      "autore": "Caterina da Siena",
+      "fonte": "Lettere"
+    },
+    {
+      "testo": "Quando ti metterai in viaggio per Itaca devi augurarti che la strada sia lunga.",
+      "autore": "Kostantinos Kavafis",
+      "fonte": "Itaca"
+    },
+    {
+      "testo": "Chi ben comincia è a metà dell'opera.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi vuole l'amor celato lo tenga bestemmiato.",
+      "regione": "Toscana",
+      "traduzione": "Chi vuole nascondere il proprio amore ne parli male.",
+      "spiegazione": "Il modo migliore per tenere segreto un sentimento è fingere disprezzo per la persona amata.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Cu' si vanta cu la so vucca o è asino o è cucca.",
+      "regione": "Sicilia",
+      "traduzione": "Chi si vanta da sé o è un asino o è una civetta.",
+      "spiegazione": "Chi si loda da solo è uno sciocco o un vanitoso.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

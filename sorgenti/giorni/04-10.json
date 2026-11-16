@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "giorno": "04-10",
+  "santo": {
+    "nome": "Santa Maddalena di Canossa",
+    "nota": "Marchesa veronese, rifiutò il matrimonio e i palazzi di famiglia per dedicarsi alle ragazze povere. Fondò le Figlie della Carità, le Canossiane.",
+    "altri": [
+      "San Fulberto di Chartres",
+      "San Michele dei Santi",
+      "Beato Marco Fantuzzi"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "04-10-2019",
+      "anno": 2019,
+      "titolo": "La foto di un buco nero",
+      "testo": "Viene mostrata la prima immagine di un buco nero, al centro della galassia M87: un anello di luce intorno a un'ombra. Ci sono voluti otto radiotelescopi in tutto il mondo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "M87",
+      "tono": "leggero",
+      "indizio": "Domani: viene mostrata la fotografia di una cosa che non lascia scappare nemmeno la luce."
+    },
+    {
+      "id": "04-10-1912",
+      "anno": 1912,
+      "titolo": "Il Titanic salpa",
+      "testo": "Il Titanic lascia Southampton per il suo primo viaggio verso New York, con più di duemila persone a bordo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "RMS Titanic",
+      "tono": "storico",
+      "indizio": "Domani: una nave inaffondabile salpa per il suo primo viaggio."
+    },
+    {
+      "id": "04-10-1849",
+      "anno": 1849,
+      "titolo": "La spilla da balia",
+      "testo": "Walter Hunt brevetta la spilla di sicurezza, piegando un filo di ferro in tre ore per pagare un debito di quindici dollari. Vende il brevetto per quattrocento.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Spilla da balia",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore piega un filo di ferro per pagare un debito."
+    },
+    {
+      "id": "04-10-1970",
+      "anno": 1970,
+      "titolo": "I Beatles si sciolgono",
+      "testo": "Paul McCartney annuncia di aver lasciato i Beatles: è la fine del gruppo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Scioglimento dei Beatles",
+      "tono": "leggero",
+      "indizio": "Domani: un Beatle annuncia che se ne va."
+    },
+    {
+      "id": "04-10-1710",
+      "anno": 1710,
+      "titolo": "La prima legge sul diritto d'autore",
+      "testo": "In Inghilterra entra in vigore lo Statuto di Anna, la prima legge sul diritto d'autore: protegge i libri per quattordici anni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Statuto di Anna",
+      "tono": "leggero",
+      "indizio": "Domani: entra in vigore la prima legge che protegge gli scrittori."
+    },
+    {
+      "id": "04-10-1971",
+      "anno": 1971,
+      "titolo": "La diplomazia del ping pong",
+      "testo": "La squadra americana di tennis da tavolo entra in Cina: è la prima delegazione americana dopo vent'anni, e apre la strada alla pace tra i due paesi.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Diplomazia del ping pong",
+      "tono": "leggero",
+      "indizio": "Domani: una pallina da ping pong riapre i rapporti tra America e Cina."
+    },
+    {
+      "id": "04-10-1973",
+      "anno": 1973,
+      "titolo": "Il Teatro Regio di Torino",
+      "testo": "Si inaugura il nuovo Teatro Regio di Torino, progettato da Carlo Mollino dopo l'incendio del vecchio teatro nel 1936.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Teatro Regio (Torino)",
+      "tono": "leggero",
+      "indizio": "Domani: Torino riapre il suo teatro d'opera dopo trentasette anni."
+    },
+    {
+      "id": "04-10-1998",
+      "anno": 1998,
+      "titolo": "L'accordo del Venerdì santo",
+      "testo": "A Belfast si firma l'accordo che mette fine a trent'anni di violenze in Irlanda del Nord.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Accordo del Venerdì Santo",
+      "tono": "storico",
+      "indizio": "Domani: a Belfast si firma la pace."
+    },
+    {
+      "id": "04-10-1896",
+      "anno": 1896,
+      "titolo": "La maratona di Spyridon Louis",
+      "testo": "Ad Atene il greco Spyridon Louis vince la prima maratona olimpica.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Spyridon Louis",
+      "tono": "leggero",
+      "indizio": "Domani: un portatore d'acqua vince la prima maratona olimpica."
+    },
+    {
+      "id": "04-10-1500",
+      "anno": 1500,
+      "titolo": "Ludovico il Moro prigioniero",
+      "testo": "A Novara il duca di Milano Ludovico il Moro, travestito da soldato svizzero, viene riconosciuto e consegnato ai francesi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Ludovico Sforza",
+      "tono": "storico"
+    },
+    {
+      "id": "04-10-2003",
+      "anno": 2003,
+      "titolo": "La fine del Concorde",
+      "testo": "Air France e British Airways annunciano che il Concorde smetterà di volare.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Concorde",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-10-1991",
+      "anno": 1991,
+      "titolo": "La Moby Prince",
+      "testo": "Davanti al porto di Livorno il traghetto Moby Prince si scontra con una petroliera e prende fuoco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Disastro del Moby Prince",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Ugo Grozio",
+      "anno": 1583,
+      "chi": "giurista olandese",
+      "wiki": "Ugo Grozio"
+    },
+    {
+      "nome": "Samuel Hahnemann",
+      "anno": 1755,
+      "chi": "medico, inventore dell'omeopatia",
+      "wiki": "Samuel Hahnemann"
+    },
+    {
+      "nome": "Joseph Pulitzer",
+      "anno": 1847,
+      "chi": "editore, fondatore del premio",
+      "wiki": "Joseph Pulitzer"
+    },
+    {
+      "nome": "Max von Sydow",
+      "anno": 1929,
+      "chi": "attore svedese",
+      "wiki": "Max von Sydow"
+    },
+    {
+      "nome": "Omar Sharif",
+      "anno": 1932,
+      "chi": "attore egiziano",
+      "wiki": "Omar Sharif"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "spazio",
+      "titolo": "I dischi in aereo",
+      "testo": "I dati dei radiotelescopi per la foto del buco nero erano così tanti che non si potevano trasmettere via internet: furono registrati su centinaia di dischi rigidi e spediti in aereo."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il soldato svizzero",
+      "testo": "Ludovico il Moro cercò di fuggire da Novara mescolandosi ai mercenari svizzeri, vestito come loro. Qualcuno lo riconobbe: passò il resto della vita prigioniero in Francia."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il premio di un giornalista",
+      "testo": "Joseph Pulitzer, nato oggi in Ungheria, emigrò in America senza un soldo e diventò il re dei giornali. Lasciò il suo patrimonio alla Columbia University per fondare una scuola di giornalismo e un premio."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Esattezza, esattezza, esattezza!",
+      "autore": "Joseph Pulitzer",
+      "fonte": "motto per i suoi giornalisti"
+    },
+    {
+      "testo": "Una mano lava l'altra.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "D'aprile non t'alleggerire.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "April fà ol fior e magg el gh'ha l'onor.",
+      "regione": "Lombardia",
+      "traduzione": "Aprile fa il fiore e maggio ne ha l'onore.",
+      "spiegazione": "Il lavoro lo fa aprile, ma i fiori sbocciano a maggio e il merito va a lui: succede anche tra le persone.",
+      "fonte": "Wikiquote, Proverbi brianzoli"
+    },
+    {
+      "testo": "Il vin l'è bon d'avrīl pūr e mai temprāt.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "In aprile il vino è buono puro, mai annacquato.",
+      "spiegazione": "Ad aprile il vino nuovo è pronto e si beve così com'è.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

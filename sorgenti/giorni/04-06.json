@@ -1,0 +1,244 @@
+{
+  "schema": 1,
+  "giorno": "04-06",
+  "santo": {
+    "nome": "Santa Galla",
+    "nota": "Nobile romana del VI secolo, rimasta vedova giovanissima, rifiutò un nuovo matrimonio e si ritirò in un monastero vicino a San Pietro, dedicandosi ai poveri. Ne parla san Gregorio Magno.",
+    "altri": [
+      "San Pietro da Verona",
+      "Sant'Ireneo di Sirmio",
+      "Beato Michele Rua"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale dello sport per lo sviluppo e la pace",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-06-1327",
+      "anno": 1327,
+      "titolo": "Petrarca vede Laura",
+      "testo": "Nella chiesa di Santa Chiara ad Avignone, il venerdì santo, Francesco Petrarca vede per la prima volta Laura: la canterà per tutta la vita.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Laura (Petrarca)",
+      "tono": "leggero",
+      "indizio": "Domani: in una chiesa di Avignone un poeta vede una donna e se ne innamora per sempre."
+    },
+    {
+      "id": "04-06-1896",
+      "anno": 1896,
+      "titolo": "Le prime Olimpiadi moderne",
+      "testo": "Nello stadio Panathinaiko di Atene si aprono i primi Giochi olimpici dell'era moderna, voluti da Pierre de Coubertin.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Giochi della I Olimpiade",
+      "tono": "leggero",
+      "indizio": "Domani: ad Atene rinascono le Olimpiadi."
+    },
+    {
+      "id": "04-06-1974",
+      "anno": 1974,
+      "titolo": "ABBA e Waterloo",
+      "testo": "A Brighton gli svedesi ABBA vincono l'Eurovision con Waterloo e diventano famosi in tutto il mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "ABBA",
+      "tono": "leggero",
+      "indizio": "Domani: quattro svedesi vincono una gara di canzoni e conquistano il mondo."
+    },
+    {
+      "id": "04-06-1909",
+      "anno": 1909,
+      "titolo": "Il Polo Nord",
+      "testo": "Robert Peary e Matthew Henson annunciano di aver raggiunto il Polo Nord con quattro inuit: la loro impresa sarà sempre discussa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Robert Peary",
+      "tono": "storico",
+      "indizio": "Domani: un gruppo di esploratori dice di essere arrivato in cima al mondo."
+    },
+    {
+      "id": "04-06-1869",
+      "anno": 1869,
+      "titolo": "La celluloide",
+      "testo": "John Wesley Hyatt brevetta un nuovo materiale per fare le palle da biliardo senza avorio: da quegli esperimenti nasce la celluloide, la futura pellicola del cinema.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Celluloide",
+      "tono": "leggero",
+      "indizio": "Domani: per fare palle da biliardo si inventa la futura pellicola del cinema."
+    },
+    {
+      "id": "04-06-1947",
+      "anno": 1947,
+      "titolo": "I primi Tony",
+      "testo": "Al Waldorf-Astoria di New York si consegnano i primi Tony Award, gli Oscar del teatro.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Tony Award",
+      "tono": "leggero",
+      "indizio": "Domani: nascono gli Oscar del teatro."
+    },
+    {
+      "id": "04-06-1965",
+      "anno": 1965,
+      "titolo": "Early Bird",
+      "testo": "Parte Intelsat I, detto Early Bird: è il primo satellite commerciale geostazionario e porta le immagini televisive in diretta tra America ed Europa.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Intelsat I",
+      "tono": "leggero",
+      "indizio": "Domani: parte il satellite che porterà la televisione in diretta oltre l'oceano."
+    },
+    {
+      "id": "04-06-1930",
+      "anno": 1930,
+      "titolo": "Il pugno di sale",
+      "testo": "Sulla spiaggia di Dandi, alla fine della marcia, Gandhi raccoglie un pugno di sale: ha sfidato pacificamente la legge britannica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Marcia del sale",
+      "tono": "storico",
+      "indizio": "Domani: un uomo raccoglie un pugno di sale e sfida un impero."
+    },
+    {
+      "id": "04-06-1520",
+      "anno": 1520,
+      "titolo": "Muore Raffaello",
+      "testo": "A Roma muore Raffaello Sanzio, a trentasette anni, nel giorno del venerdì santo: viene sepolto al Pantheon.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Raffaello Sanzio",
+      "tono": "storico"
+    },
+    {
+      "id": "04-06-1652",
+      "anno": 1652,
+      "titolo": "Nasce Città del Capo",
+      "testo": "L'olandese Jan van Riebeeck fonda una stazione di rifornimento al Capo di Buona Speranza: diventerà Città del Capo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Città del Capo",
+      "tono": "storico"
+    },
+    {
+      "id": "04-06-1865",
+      "anno": 1865,
+      "titolo": "Nasce la BASF",
+      "testo": "A Mannheim nasce la BASF, che produrrà coloranti chimici.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 2,
+      "wiki": "BASF",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-06-2009",
+      "anno": 2009,
+      "titolo": "Il terremoto dell'Aquila",
+      "testo": "Nella notte un terremoto devasta L'Aquila e i paesi intorno.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto dell'Aquila del 2009",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Gustave Moreau",
+      "anno": 1826,
+      "chi": "pittore simbolista francese",
+      "wiki": "Gustave Moreau"
+    },
+    {
+      "nome": "James Watson",
+      "anno": 1928,
+      "chi": "biologo della doppia elica del DNA",
+      "wiki": "James Watson"
+    },
+    {
+      "nome": "André Previn",
+      "anno": 1929,
+      "chi": "direttore d'orchestra e compositore",
+      "wiki": "André Previn"
+    },
+    {
+      "nome": "Merle Haggard",
+      "anno": 1937,
+      "chi": "cantante country",
+      "wiki": "Merle Haggard"
+    },
+    {
+      "nome": "Paul Rudd",
+      "anno": 1969,
+      "chi": "attore statunitense",
+      "wiki": "Paul Rudd"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "sport",
+      "titolo": "Il portatore d'acqua",
+      "testo": "La maratona delle prime Olimpiadi la vinse un greco, Spyridon Louis, un portatore d'acqua. Si racconta che a metà corsa si fermò in un'osteria a bere un bicchiere di vino."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Chi era Laura",
+      "testo": "Non sappiamo con certezza chi fosse la Laura di Petrarca: molti pensano a Laura de Noves, moglie di un nobile di Avignone, che morì di peste esattamente ventun anni dopo, il 6 aprile 1348."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Le palle che scoppiavano",
+      "testo": "Le prime palle da biliardo di celluloide a volte, urtandosi, facevano un piccolo scoppio. Si racconta di un saloon dove a quel rumore tutti misero mano alla pistola."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Benedetto sia 'l giorno, e 'l mese, et l'anno.",
+      "autore": "Francesco Petrarca",
+      "fonte": "Canzoniere, 61"
+    },
+    {
+      "testo": "L'importante non è vincere, ma partecipare.",
+      "autore": "attribuita a Pierre de Coubertin",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Finalmente il Polo!",
+      "autore": "Robert Peary",
+      "fonte": "diario, 1909"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Val pusse' un bon meste' che na bursa de dane'.",
+      "regione": "Lombardia",
+      "traduzione": "Vale più un buon mestiere che una borsa di soldi.",
+      "spiegazione": "I soldi finiscono, un mestiere imparato resta per tutta la vita.",
+      "fonte": "Wikiquote, Proverbi lodigiani"
+    },
+    {
+      "testo": "Dop avé dbù ignún vô dí la sù.",
+      "regione": "Emilia-Romagna",
+      "traduzione": "Dopo aver bevuto ognuno vuol dire la sua.",
+      "spiegazione": "Il vino scioglie la lingua: a fine pranzo tutti diventano esperti di tutto.",
+      "fonte": "Wikiquote, Proverbi romagnoli"
+    }
+  ],
+  "prima_pagina": null
+}

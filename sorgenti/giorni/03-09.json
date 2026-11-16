@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "giorno": "03-09",
+  "santo": {
+    "nome": "Santa Francesca Romana",
+    "nota": "Nobildonna romana del Quattrocento, madre e sposa, curò i poveri e i malati durante peste e carestie e fondò le Oblate di Tor de' Specchi. È compatrona di Roma e patrona degli automobilisti.",
+    "altri": [
+      "San Domenico Savio",
+      "Santa Caterina da Bologna",
+      "Santi Quaranta martiri di Sebaste"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "03-09-1842",
+      "anno": 1842,
+      "titolo": "Il Nabucco",
+      "testo": "Alla Scala di Milano debutta il Nabucco di Giuseppe Verdi: è il primo grande trionfo del compositore, che dopo la morte della moglie e dei due figli e un fiasco pensava di smettere.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Nabucco",
+      "tono": "leggero",
+      "indizio": "Domani: alla Scala debutta l'opera del «Va', pensiero»."
+    },
+    {
+      "id": "03-09-1908",
+      "anno": 1908,
+      "titolo": "Nasce l'Inter",
+      "testo": "Al ristorante L'Orologio di Milano un gruppo di soci usciti dal Milan fonda il Football Club Internazionale, aperto anche ai calciatori stranieri.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Football Club Internazionale Milano",
+      "tono": "leggero",
+      "indizio": "Domani: in un ristorante di Milano nasce una squadra aperta agli stranieri."
+    },
+    {
+      "id": "03-09-1959",
+      "anno": 1959,
+      "titolo": "Nasce Barbie",
+      "testo": "Alla fiera del giocattolo di New York la Mattel presenta Barbie, la prima bambola con l'aspetto di una donna adulta.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Barbie",
+      "tono": "leggero",
+      "indizio": "Domani: alla fiera del giocattolo di New York debutta una bambola diversa da tutte."
+    },
+    {
+      "id": "03-09-1955",
+      "anno": 1955,
+      "titolo": "La Fiat 600",
+      "testo": "Al Salone di Ginevra viene presentata la Fiat 600 di Dante Giacosa: diventerà l'auto del boom economico italiano.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Fiat 600",
+      "tono": "leggero",
+      "indizio": "Domani: a Ginevra debutta l'utilitaria che motorizzerà l'Italia."
+    },
+    {
+      "id": "03-09-1500",
+      "anno": 1500,
+      "titolo": "Cabral parte per le Indie",
+      "testo": "Da Lisbona salpa la flotta di Pedro Álvares Cabral, diretta in India. Allargandosi nell'Atlantico, ad aprile toccherà il Brasile.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Pedro Álvares Cabral",
+      "tono": "storico",
+      "indizio": "Domani: parte da Lisbona una flotta per l'India che scoprirà il Brasile."
+    },
+    {
+      "id": "03-09-1796",
+      "anno": 1796,
+      "titolo": "Napoleone sposa Giuseppina",
+      "testo": "A Parigi Napoleone Bonaparte sposa Giuseppina di Beauharnais: due giorni dopo parte per la campagna d'Italia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Giuseppina di Beauharnais",
+      "tono": "storico",
+      "indizio": "Domani: un generale corso si sposa e parte subito per l'Italia."
+    },
+    {
+      "id": "03-09-2016",
+      "anno": 2016,
+      "titolo": "AlphaGo batte Lee Sedol",
+      "testo": "A Seul il programma AlphaGo di Google DeepMind batte il campione sudcoreano Lee Sedol nella prima partita di go: per la prima volta una macchina batte uno dei più forti giocatori del mondo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "AlphaGo contro Lee Sedol",
+      "tono": "leggero",
+      "indizio": "Domani: un computer sfida un campione di go, il gioco più difficile."
+    },
+    {
+      "id": "03-09-1964",
+      "anno": 1964,
+      "titolo": "La prima Ford Mustang",
+      "testo": "A Dearborn, nel Michigan, esce dalla catena di montaggio la prima Ford Mustang.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Ford Mustang",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-09-1987",
+      "anno": 1987,
+      "titolo": "The Joshua Tree",
+      "testo": "Gli U2 pubblicano The Joshua Tree, l'album che li porterà in cima alle classifiche di tutto il mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "The Joshua Tree",
+      "tono": "leggero",
+      "indizio": "Domani: esce un album che prende il nome da un albero del deserto."
+    },
+    {
+      "id": "03-09-2018",
+      "anno": 2018,
+      "titolo": "L'ultimo NME di carta",
+      "testo": "Esce l'ultimo numero di carta del settimanale musicale inglese NME, dopo sessantasei anni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "NME",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-09-2020",
+      "anno": 2020,
+      "titolo": "L'Italia zona protetta",
+      "testo": "Il governo estende a tutta l'Italia le misure contro il Covid: comincia il lungo isolamento.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Pandemia di COVID-19 in Italia",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Amerigo Vespucci",
+      "anno": 1454,
+      "chi": "navigatore fiorentino che diede il nome all'America",
+      "wiki": "Amerigo Vespucci"
+    },
+    {
+      "nome": "Mickey Spillane",
+      "anno": 1918,
+      "chi": "giallista statunitense",
+      "wiki": "Mickey Spillane"
+    },
+    {
+      "nome": "Jurij Gagarin",
+      "anno": 1934,
+      "chi": "primo uomo nello spazio",
+      "wiki": "Jurij Gagarin"
+    },
+    {
+      "nome": "Bobby Fischer",
+      "anno": 1943,
+      "chi": "campione del mondo di scacchi",
+      "wiki": "Bobby Fischer"
+    },
+    {
+      "nome": "Ornella Muti",
+      "anno": 1955,
+      "chi": "attrice romana",
+      "wiki": "Ornella Muti"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "La patrona dei guidatori",
+      "testo": "Francesca Romana è la patrona degli automobilisti dal 1925: secondo la tradizione, quando usciva di notte, il suo angelo custode le illuminava la strada. Il 9 marzo a Roma si benedicono le auto."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Barbara Millicent Roberts",
+      "testo": "Barbie si chiama in realtà Barbara Millicent Roberts: Ruth Handler, che la inventò, le diede il nome della figlia Barbara. Il fidanzato Ken prese quello del figlio Kenneth."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Perché si chiama America",
+      "testo": "Il cartografo tedesco Martin Waldseemüller, nel 1507, battezzò il Nuovo Mondo con il nome di Amerigo Vespucci, nato oggi, convinto che fosse stato lui a capire che era un continente nuovo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Va', pensiero, sull'ali dorate.",
+      "autore": "Temistocle Solera",
+      "fonte": "Nabucco, 1842"
+    },
+    {
+      "testo": "Vedo la Terra. È così bella!",
+      "autore": "Jurij Gagarin",
+      "fonte": "dallo spazio, 1961"
+    },
+    {
+      "testo": "Chi va piano va sano e va lontano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A àsene vjìecchie, 'mmàste nòve.",
+      "regione": "Abruzzo",
+      "traduzione": "Ad asino vecchio, basto nuovo.",
+      "spiegazione": "Si dice di chi in età avanzata cerca novità o si concede cose da giovane.",
+      "fonte": "Wikiquote, Proverbi abruzzesi"
+    },
+    {
+      "testo": "La vita è comme 'na cipolla: più la sfoglj più te fa piagne!",
+      "regione": "Marche",
+      "traduzione": "La vita è come una cipolla: più la sfogli e più ti fa piangere.",
+      "spiegazione": "Più si va a fondo nelle cose della vita, più si scoprono motivi di dolore: meglio non scavare troppo.",
+      "fonte": "Wikiquote, Proverbi marchigiani"
+    }
+  ],
+  "prima_pagina": null
+}

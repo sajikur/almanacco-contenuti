@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "giorno": "03-28",
+  "santo": {
+    "nome": "Santo Stefano Harding",
+    "nota": "Monaco inglese dell'XI secolo, abate di Cîteaux in Borgogna, scrisse la regola dei cistercensi e accolse san Bernardo con i suoi trenta compagni.",
+    "altri": [
+      "San Gontrano re",
+      "San Cono abate",
+      "San Castore di Tarso"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata dell'Aeronautica militare",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-28-1923",
+      "anno": 1923,
+      "titolo": "Nasce l'Aeronautica",
+      "testo": "Nasce la Regia Aeronautica, la forza aerea italiana indipendente dall'esercito e dalla marina.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Aeronautica Militare",
+      "tono": "storico",
+      "indizio": "Domani: nasce l'arma azzurra."
+    },
+    {
+      "id": "03-28-1910",
+      "anno": 1910,
+      "titolo": "Il primo idrovolante",
+      "testo": "Sullo stagno di Berre, a Martigues, il francese Henri Fabre decolla dall'acqua con il suo idrovolante Le Canard: è il primo volo di un idrovolante.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Henri Fabre",
+      "tono": "leggero",
+      "indizio": "Domani: un aereo si alza in volo dall'acqua."
+    },
+    {
+      "id": "03-28-1776",
+      "anno": 1776,
+      "titolo": "Nasce il Bol'šoj",
+      "testo": "A Mosca il principe Urusov ottiene il permesso di allestire spettacoli: è l'atto di nascita del teatro Bol'šoj.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Teatro Bol'šoj",
+      "tono": "leggero",
+      "indizio": "Domani: a Mosca nasce il teatro del balletto più famoso del mondo."
+    },
+    {
+      "id": "03-28-1868",
+      "anno": 1868,
+      "titolo": "Il giro del mondo della Magenta",
+      "testo": "La corvetta Magenta rientra a Napoli: è la prima nave della marina italiana ad aver fatto il giro del mondo. Porta a casa migliaia di animali e piante per i musei.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Magenta (pirocorvetta)",
+      "tono": "leggero",
+      "indizio": "Domani: una nave italiana torna dal giro del mondo carica di animali."
+    },
+    {
+      "id": "03-28-1964",
+      "anno": 1964,
+      "titolo": "Radio Caroline",
+      "testo": "Da una nave ancorata in acque internazionali al largo dell'Inghilterra comincia a trasmettere Radio Caroline, la radio pirata che suona il rock che la BBC non passa.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Radio Caroline",
+      "tono": "leggero",
+      "indizio": "Domani: da una nave in mare comincia a trasmettere una radio pirata."
+    },
+    {
+      "id": "03-28-1960",
+      "anno": 1960,
+      "titolo": "Il primo cardinale africano",
+      "testo": "Giovanni XXIII nomina cardinale il tanzaniano Laurean Rugambwa, primo cardinale nero dell'era moderna.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Laurean Rugambwa",
+      "tono": "storico"
+    },
+    {
+      "id": "03-28-845",
+      "anno": 845,
+      "titolo": "I vichinghi a Parigi",
+      "testo": "Una flotta vichinga risale la Senna e saccheggia Parigi: il re Carlo il Calvo paga settemila libbre d'argento perché se ne vadano.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Assedio di Parigi (845)",
+      "tono": "storico",
+      "indizio": "Domani: i vichinghi risalgono la Senna fino a Parigi."
+    },
+    {
+      "id": "03-28-1979",
+      "anno": 1979,
+      "titolo": "Three Mile Island",
+      "testo": "Nella centrale nucleare di Three Mile Island, in Pennsylvania, si fonde parzialmente il nocciolo di un reattore.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Incidente di Three Mile Island",
+      "tono": "storico",
+      "indizio": "Domani: in una centrale nucleare americana qualcosa va storto."
+    },
+    {
+      "id": "03-28-1990",
+      "anno": 1990,
+      "titolo": "La medaglia a Jesse Owens",
+      "testo": "Il presidente Bush conferisce a Jesse Owens, alla memoria, la medaglia d'oro del Congresso.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Jesse Owens",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-28-1854",
+      "anno": 1854,
+      "titolo": "La guerra di Crimea",
+      "testo": "Inghilterra e Francia dichiarano guerra alla Russia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Guerra di Crimea",
+      "tono": "storico"
+    },
+    {
+      "id": "03-28-1997",
+      "anno": 1997,
+      "titolo": "La Katër i Radës",
+      "testo": "Nel canale d'Otranto affonda una motovedetta carica di profughi albanesi dopo una collisione con una corvetta italiana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Naufragio della Katër i Radës",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Teresa d'Ávila",
+      "anno": 1515,
+      "chi": "mistica spagnola",
+      "wiki": "Teresa d'Ávila"
+    },
+    {
+      "nome": "Comenio",
+      "anno": 1592,
+      "chi": "pedagogista ceco",
+      "wiki": "Comenio"
+    },
+    {
+      "nome": "Maksim Gor'kij",
+      "anno": 1868,
+      "chi": "scrittore russo",
+      "wiki": "Maksim Gor'kij"
+    },
+    {
+      "nome": "Dirk Bogarde",
+      "anno": 1921,
+      "chi": "attore inglese",
+      "wiki": "Dirk Bogarde"
+    },
+    {
+      "nome": "Mario Vargas Llosa",
+      "anno": 1936,
+      "chi": "scrittore peruviano, premio Nobel",
+      "wiki": "Mario Vargas Llosa"
+    },
+    {
+      "nome": "Lady Gaga",
+      "anno": 1986,
+      "chi": "cantante statunitense",
+      "wiki": "Lady Gaga"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "La radio sulla nave",
+      "testo": "Radio Caroline trasmetteva da una nave ancorata fuori dalle acque territoriali inglesi, dove le leggi britanniche non arrivavano. Si dice che il nome venga da una foto di Caroline Kennedy bambina."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "I tesori della Magenta",
+      "testo": "A bordo della Magenta c'era lo zoologo Enrico Hillyer Giglioli, che durante il viaggio raccolse migliaia di animali, piante e oggetti: molti sono ancora nei musei di Firenze e Torino."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Con il valore fino alle stelle",
+      "testo": "Il motto dell'Aeronautica militare è Virtute siderum tenus, cioè con il valore fino alle stelle. La giornata si celebra il 28 marzo, anniversario della sua fondazione."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Nulla ti turbi, nulla ti spaventi: chi ha Dio non manca di nulla.",
+      "autore": "Teresa d'Ávila",
+      "fonte": "preghiera"
+    },
+    {
+      "testo": "Virtute siderum tenus.",
+      "autore": "Motto dell'Aeronautica militare",
+      "fonte": "Con il valore fino alle stelle"
+    },
+    {
+      "testo": "Chi tardi arriva, male alloggia.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Ma quanne ma' Capracotta ha cacciate le pércoche?",
+      "regione": "Molise",
+      "traduzione": "Ma quando mai Capracotta ha prodotto le pesche?",
+      "spiegazione": "Capracotta è uno dei paesi più alti e freddi del Molise: si dice di chi pretende qualcosa da chi non può darla.",
+      "fonte": "Wikiquote, Proverbi molisani"
+    },
+    {
+      "testo": "Bei in fasse, brutti in strazze.",
+      "regione": "Veneto",
+      "traduzione": "Belli in fasce, brutti negli stracci.",
+      "spiegazione": "Chi da piccolo è bellissimo non è detto che lo resti: l'aspetto cambia con gli anni.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    }
+  ],
+  "prima_pagina": null
+}

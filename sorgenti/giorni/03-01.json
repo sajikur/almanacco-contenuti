@@ -1,0 +1,264 @@
+{
+  "schema": 1,
+  "giorno": "03-01",
+  "santo": {
+    "nome": "Sant'Albino di Vercelli",
+    "nota": "Vescovo di Vercelli nel V secolo. Oggi si festeggia anche san Davide, patrono del Galles, e per l'antica Repubblica di Venezia era Capodanno.",
+    "altri": [
+      "San Davide di Menevia",
+      "San Leoluca di Corleone",
+      "San Felice III papa"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Capodanno veneziano",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Giornata nazionale del Galles",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Mărțișor, festa di inizio primavera in Romania",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-01-1872",
+      "anno": 1872,
+      "titolo": "Il primo parco nazionale",
+      "testo": "Il presidente Ulysses Grant firma la legge che istituisce Yellowstone, il primo parco nazionale del mondo: geyser, bisonti e orsi saranno protetti per sempre.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Parco nazionale di Yellowstone",
+      "tono": "leggero",
+      "indizio": "Domani: nasce il primo parco nazionale del mondo."
+    },
+    {
+      "id": "03-01-1896",
+      "anno": 1896,
+      "titolo": "La radioattività",
+      "testo": "A Parigi Henri Becquerel trova annerita una lastra fotografica rimasta chiusa in un cassetto accanto a un sale di uranio: ha scoperto la radioattività.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Radioattività",
+      "tono": "leggero",
+      "indizio": "Domani: uno scienziato apre un cassetto e trova una lastra annerita dal nulla."
+    },
+    {
+      "id": "03-01-1961",
+      "anno": 1961,
+      "titolo": "Nascono le Frecce Tricolori",
+      "testo": "All'aeroporto di Rivolto, in Friuli, nasce la Pattuglia acrobatica nazionale: le Frecce Tricolori.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Frecce Tricolori",
+      "tono": "leggero",
+      "indizio": "Domani: in Friuli nasce la pattuglia che disegna il tricolore nel cielo."
+    },
+    {
+      "id": "03-01-1873",
+      "anno": 1873,
+      "titolo": "La macchina da scrivere",
+      "testo": "La Remington comincia a produrre la macchina da scrivere di Christopher Sholes, con la tastiera QWERTY che usiamo ancora sui computer.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Macchina per scrivere",
+      "tono": "leggero",
+      "indizio": "Domani: un fabbricante di fucili comincia a produrre macchine da scrivere."
+    },
+    {
+      "id": "03-01-1973",
+      "anno": 1973,
+      "titolo": "The Dark Side of the Moon",
+      "testo": "Esce negli Stati Uniti The Dark Side of the Moon dei Pink Floyd: resterà nella classifica americana per più di novecento settimane.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The Dark Side of the Moon",
+      "tono": "leggero",
+      "indizio": "Domani: esce un disco con un prisma in copertina che non uscirà più dalle classifiche."
+    },
+    {
+      "id": "03-01-1983",
+      "anno": 1983,
+      "titolo": "Lo Swatch",
+      "testo": "A Zurigo viene presentato lo Swatch, l'orologio di plastica che salverà l'industria svizzera degli orologi.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Swatch",
+      "tono": "leggero",
+      "indizio": "Domani: la Svizzera presenta un orologio di plastica colorata."
+    },
+    {
+      "id": "03-01-1966",
+      "anno": 1966,
+      "titolo": "Venera 3 su Venere",
+      "testo": "La sonda sovietica Venera 3 si schianta su Venere: è il primo oggetto costruito dall'uomo a toccare un altro pianeta.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Venera 3",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta un oggetto umano tocca un altro pianeta."
+    },
+    {
+      "id": "03-01-1912",
+      "anno": 1912,
+      "titolo": "Il primo lancio col paracadute",
+      "testo": "Sopra il Missouri il capitano Albert Berry si lancia con il paracadute da un aereo in volo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Paracadute",
+      "tono": "leggero",
+      "indizio": "Domani: un uomo si lancia da un aereo in volo, e atterra sano e salvo."
+    },
+    {
+      "id": "03-01-1963",
+      "anno": 1963,
+      "titolo": "Il Piccolo Coro dell'Antoniano",
+      "testo": "A Bologna Mariele Ventre fonda il Piccolo Coro dell'Antoniano, la voce dello Zecchino d'Oro.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Piccolo Coro dell'Antoniano",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-01-1565",
+      "anno": 1565,
+      "titolo": "Nasce Rio de Janeiro",
+      "testo": "I portoghesi fondano la città di Rio de Janeiro.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rio de Janeiro",
+      "tono": "storico"
+    },
+    {
+      "id": "03-01-1938",
+      "anno": 1938,
+      "titolo": "Nasce Samsung",
+      "testo": "In Corea, a Taegu, nasce una piccola ditta di commercio di frutta secca e pesce: si chiama Samsung.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Samsung",
+      "tono": "leggero",
+      "indizio": "Domani: in Corea apre una piccola ditta di frutta secca che diventerà un colosso."
+    },
+    {
+      "id": "03-01-1968",
+      "anno": 1968,
+      "titolo": "Valle Giulia",
+      "testo": "A Roma, davanti alla facoltà di architettura, studenti e polizia si scontrano: è uno dei simboli del Sessantotto italiano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Valle Giulia",
+      "tono": "storico"
+    },
+    {
+      "id": "03-01-1954",
+      "anno": 1954,
+      "titolo": "La bomba di Bikini",
+      "testo": "Gli Stati Uniti fanno esplodere una bomba all'idrogeno sull'atollo di Bikini: la ricaduta radioattiva colpisce un peschereccio giapponese.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Castle Bravo",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Fryderyk Chopin",
+      "anno": 1810,
+      "chi": "compositore e pianista polacco",
+      "wiki": "Fryderyk Chopin"
+    },
+    {
+      "nome": "Glenn Miller",
+      "anno": 1904,
+      "chi": "direttore d'orchestra swing",
+      "wiki": "Glenn Miller"
+    },
+    {
+      "nome": "David Niven",
+      "anno": 1910,
+      "chi": "attore britannico",
+      "wiki": "David Niven"
+    },
+    {
+      "nome": "Harry Belafonte",
+      "anno": 1927,
+      "chi": "cantante e attore statunitense",
+      "wiki": "Harry Belafonte"
+    },
+    {
+      "nome": "Ron Howard",
+      "anno": 1954,
+      "chi": "attore e regista statunitense",
+      "wiki": "Ron Howard"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "More veneto",
+      "testo": "Nella Repubblica di Venezia l'anno cominciava il 1° marzo. Per questo i documenti di gennaio e febbraio portano la sigla m.v., more veneto: un atto del febbraio 1700 m.v., per noi, è del febbraio 1701."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Una giornata nuvolosa",
+      "testo": "Becquerel voleva esporre al sole l'uranio per un esperimento, ma il cielo di Parigi era coperto. Mise tutto in un cassetto, e lo sviluppo della lastra gli rivelò che l'uranio emetteva raggi da solo."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Perché QWERTY",
+      "testo": "La tastiera QWERTY fu pensata per allontanare le lettere usate più spesso insieme, così che i martelletti delle prime macchine da scrivere non si incastrassero."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La semplicità è il traguardo finale.",
+      "autore": "attribuita a Fryderyk Chopin",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Marzo pazzerello, guarda il sole e prendi l'ombrello.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Chi ben comincia è a metà dell'opera.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Marz al tenz; abril al spenz; chi è d' bona forma, d' Maz al torna.",
+      "regione": "Emilia-Romagna",
+      "traduzione": "Marzo tinge, aprile sbiadisce: chi è in buona forma a maggio ritorna.",
+      "spiegazione": "Il sole di marzo abbronza, la pioggia d'aprile lava via: a maggio si torna come prima.",
+      "fonte": "Wikiquote, Proverbi ferraresi"
+    },
+    {
+      "testo": "La galina negra fa el vovo bianco.",
+      "regione": "Veneto",
+      "traduzione": "La gallina nera fa l'uovo bianco.",
+      "spiegazione": "Non bisogna giudicare dalle apparenze: da chi meno te l'aspetti può venire del bene.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "giorno": "03-15",
+  "santo": {
+    "nome": "Santa Luisa di Marillac",
+    "nota": "Nobildonna parigina del Seicento, rimasta vedova fondò con san Vincenzo de' Paoli le Figlie della Carità, le suore che andavano a curare i poveri nelle loro case. È patrona degli assistenti sociali.",
+    "altri": [
+      "San Zaccaria papa",
+      "San Clemente Maria Hofbauer",
+      "Sant'Artemide Zatti"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Idi di marzo",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata mondiale dei diritti dei consumatori",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Festa nazionale d'Ungheria",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-15--44",
+      "anno": -44,
+      "titolo": "Le Idi di marzo",
+      "testo": "Nella curia di Pompeo, a Roma, un gruppo di senatori guidati da Bruto e Cassio uccide Giulio Cesare a pugnalate.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Assassinio di Giulio Cesare",
+      "tono": "storico",
+      "indizio": "Domani: alle Idi di marzo Roma cambia per sempre."
+    },
+    {
+      "id": "03-15-1985",
+      "anno": 1985,
+      "titolo": "Il primo dominio internet",
+      "testo": "Viene registrato il primo nome di dominio con il suffisso .com: symbolics.com, di un'azienda di computer del Massachusetts.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Symbolics",
+      "tono": "leggero",
+      "indizio": "Domani: nasce il primo indirizzo internet che finisce in .com."
+    },
+    {
+      "id": "03-15-1493",
+      "anno": 1493,
+      "titolo": "Colombo torna a Palos",
+      "testo": "Cristoforo Colombo rientra nel porto di Palos, da dove era partito sette mesi prima, con la notizia delle nuove terre.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Cristoforo Colombo",
+      "tono": "storico",
+      "indizio": "Domani: una caravella torna in Spagna con la notizia di un mondo nuovo."
+    },
+    {
+      "id": "03-15-1906",
+      "anno": 1906,
+      "titolo": "Nasce la Rolls-Royce",
+      "testo": "Charles Rolls e Henry Royce fondano la Rolls-Royce Limited.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Rolls-Royce Limited",
+      "tono": "leggero",
+      "indizio": "Domani: un nobile appassionato di auto e un ingegnere fondano una società."
+    },
+    {
+      "id": "03-15-1956",
+      "anno": 1956,
+      "titolo": "My Fair Lady",
+      "testo": "A Broadway debutta il musical My Fair Lady, con Julie Andrews e Rex Harrison: resterà in scena più di sei anni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "My Fair Lady",
+      "tono": "leggero",
+      "indizio": "Domani: debutta a Broadway la fioraia che impara a parlare bene."
+    },
+    {
+      "id": "03-15-2019",
+      "anno": 2019,
+      "titolo": "Lo sciopero per il clima",
+      "testo": "In più di duemila città del mondo milioni di studenti scendono in piazza con i Fridays for Future.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Fridays for Future",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-15-1917",
+      "anno": 1917,
+      "titolo": "Lo zar abdica",
+      "testo": "Lo zar Nicola II rinuncia al trono: finisce in Russia il dominio dei Romanov.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Nicola II di Russia",
+      "tono": "storico"
+    },
+    {
+      "id": "03-15-1815",
+      "anno": 1815,
+      "titolo": "Murat contro l'Austria",
+      "testo": "Gioacchino Murat, re di Napoli, dichiara guerra all'Austria: pochi giorni dopo, a Rimini, chiamerà gli italiani all'indipendenza.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Guerra austro-napoletana",
+      "tono": "storico"
+    },
+    {
+      "id": "03-15-1972",
+      "anno": 1972,
+      "titolo": "Il Sanyō Shinkansen",
+      "testo": "Apre il primo tratto del Sanyō Shinkansen, il treno veloce giapponese verso Okayama.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "San'yō Shinkansen",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-15-1820",
+      "anno": 1820,
+      "titolo": "Il Maine",
+      "testo": "Il Maine diventa il ventitreesimo stato degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Maine",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Andrew Jackson",
+      "anno": 1767,
+      "chi": "settimo presidente degli Stati Uniti",
+      "wiki": "Andrew Jackson"
+    },
+    {
+      "nome": "Emil von Behring",
+      "anno": 1854,
+      "chi": "primo premio Nobel per la medicina",
+      "wiki": "Emil von Behring"
+    },
+    {
+      "nome": "Ruth Bader Ginsburg",
+      "anno": 1933,
+      "chi": "giudice della Corte suprema americana",
+      "wiki": "Ruth Bader Ginsburg"
+    },
+    {
+      "nome": "will.i.am",
+      "anno": 1975,
+      "chi": "musicista dei Black Eyed Peas",
+      "wiki": "will.i.am"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Che cosa erano le Idi",
+      "testo": "Nel calendario romano le Idi cadevano a metà mese: il 15 a marzo, maggio, luglio e ottobre, il 13 negli altri mesi. Marzo era anche il primo mese dell'anno romano più antico."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il biglietto non letto",
+      "testo": "Secondo Plutarco, mentre andava in Senato, un uomo diede a Cesare un biglietto che svelava la congiura. Lui lo tenne in mano, senza trovare il tempo di leggerlo."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Ancora online",
+      "testo": "Symbolics, l'azienda del primo dominio .com, non esiste più da tempo, ma l'indirizzo symbolics.com è ancora attivo: oggi è una specie di museo di internet."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Guardati dalle Idi di marzo.",
+      "autore": "William Shakespeare",
+      "fonte": "Giulio Cesare, atto I"
+    },
+    {
+      "testo": "Anche tu, figlio?",
+      "autore": "Giulio Cesare secondo Svetonio",
+      "fonte": "Vite dei Cesari"
+    },
+    {
+      "testo": "Chi di spada ferisce, di spada perisce.",
+      "autore": "Vangelo di Matteo",
+      "fonte": "26,52"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Gòi nun t'haia fidà manco i l'ombra toia, picchì na vota è longa e na vota è corta.",
+      "regione": "Basilicata",
+      "traduzione": "Non fidarti nemmeno della tua ombra, perché una volta è lunga e una volta è corta.",
+      "spiegazione": "Bisogna stare attenti a fidarsi: anche le cose più vicine cambiano.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "Chi lassa la uia uecchia pu la noua, sa chell' ch' lassa ma n'n sa chell' ch' troua.",
+      "regione": "Lazio",
+      "traduzione": "Chi lascia la via vecchia per la nuova sa quel che lascia ma non sa quel che trova.",
+      "spiegazione": "Prima di cambiare strada conviene pensarci bene: il certo è meglio dell'incerto.",
+      "fonte": "Wikiquote, Proverbi alatrensi"
+    }
+  ],
+  "prima_pagina": null
+}

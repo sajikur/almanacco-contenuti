@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "giorno": "04-09",
+  "santo": {
+    "nome": "Santa Casilda",
+    "nota": "Figlia di un re musulmano di Toledo, portava di nascosto il pane ai prigionieri cristiani. Scoperta dal padre, aprì il grembiule e il pane si era trasformato in rose. Visse poi da eremita vicino a Burgos.",
+    "altri": [
+      "San Demetrio di Tessalonica",
+      "Santa Valdetrude",
+      "San Liborio di Le Mans"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "04-09-1454",
+      "anno": 1454,
+      "titolo": "La Pace di Lodi",
+      "testo": "Venezia e Milano firmano la Pace di Lodi: per quarant'anni gli stati italiani vivranno in equilibrio, ed è l'epoca d'oro del Rinascimento.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Pace di Lodi",
+      "tono": "storico",
+      "indizio": "Domani: gli stati italiani firmano una pace che aprirà quarant'anni di Rinascimento."
+    },
+    {
+      "id": "04-09-1865",
+      "anno": 1865,
+      "titolo": "Appomattox",
+      "testo": "Nella casa di un agricoltore di Appomattox, in Virginia, il generale Lee si arrende al generale Grant: finisce la guerra civile americana.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Resa di Appomattox",
+      "tono": "storico",
+      "indizio": "Domani: in un salotto di campagna finisce la guerra di secessione."
+    },
+    {
+      "id": "04-09-1682",
+      "anno": 1682,
+      "titolo": "La Louisiana",
+      "testo": "Arrivato alla foce del Mississippi, l'esploratore La Salle prende possesso di tutto il bacino del fiume per la Francia e lo chiama Louisiana, in onore di Luigi XIV.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "René-Robert Cavelier de La Salle",
+      "tono": "storico",
+      "indizio": "Domani: un esploratore francese arriva al mare dopo aver disceso il Mississippi."
+    },
+    {
+      "id": "04-09-1959",
+      "anno": 1959,
+      "titolo": "I Mercury Seven",
+      "testo": "La NASA presenta i suoi primi sette astronauti: diventeranno eroi nazionali prima ancora di volare.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Mercury Seven",
+      "tono": "leggero",
+      "indizio": "Domani: la NASA presenta al mondo i suoi primi sette astronauti."
+    },
+    {
+      "id": "04-09-1967",
+      "anno": 1967,
+      "titolo": "Il Boeing 737",
+      "testo": "Vola per la prima volta il Boeing 737: diventerà l'aereo di linea più venduto della storia.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Boeing 737",
+      "tono": "leggero",
+      "indizio": "Domani: vola per la prima volta l'aereo di linea più venduto di sempre."
+    },
+    {
+      "id": "04-09-1809",
+      "anno": 1809,
+      "titolo": "L'italiano torna a Firenze",
+      "testo": "Un decreto di Napoleone permette di usare l'italiano negli atti pubblici della Toscana, accanto al francese: è anche un'occasione per far rinascere l'Accademia della Crusca.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Accademia della Crusca",
+      "tono": "leggero",
+      "indizio": "Domani: Napoleone restituisce a Firenze la sua lingua."
+    },
+    {
+      "id": "04-09-1667",
+      "anno": 1667,
+      "titolo": "La prima mostra d'arte",
+      "testo": "A Parigi l'Accademia reale di pittura apre la prima esposizione pubblica d'arte.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Salon (Parigi)",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-09-1868",
+      "anno": 1868,
+      "titolo": "Carducci sospeso",
+      "testo": "A Bologna il professore Giosuè Carducci viene sospeso dall'insegnamento per aver mandato un saluto a Mazzini e Garibaldi.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Giosuè Carducci",
+      "tono": "storico"
+    },
+    {
+      "id": "04-09-2003",
+      "anno": 2003,
+      "titolo": "La statua di Saddam",
+      "testo": "A Baghdad, in piazza Firdos, viene abbattuta la grande statua di Saddam Hussein.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Caduta di Baghdad",
+      "tono": "storico"
+    },
+    {
+      "id": "04-09-1991",
+      "anno": 1991,
+      "titolo": "La Georgia indipendente",
+      "testo": "La Georgia si dichiara indipendente dall'Unione Sovietica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Georgia",
+      "tono": "storico"
+    },
+    {
+      "id": "04-09-1848",
+      "anno": 1848,
+      "titolo": "Il tricolore a Parma",
+      "testo": "Il ducato di Parma e Piacenza adotta il tricolore.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Ducato di Parma e Piacenza",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Isambard Kingdom Brunel",
+      "anno": 1806,
+      "chi": "ingegnere inglese di ponti e navi",
+      "wiki": "Isambard Kingdom Brunel"
+    },
+    {
+      "nome": "Charles Baudelaire",
+      "anno": 1821,
+      "chi": "poeta dei Fiori del male",
+      "wiki": "Charles Baudelaire"
+    },
+    {
+      "nome": "Eadweard Muybridge",
+      "anno": 1830,
+      "chi": "fotografo del movimento",
+      "wiki": "Eadweard Muybridge"
+    },
+    {
+      "nome": "Jean-Paul Belmondo",
+      "anno": 1933,
+      "chi": "attore francese",
+      "wiki": "Jean-Paul Belmondo"
+    },
+    {
+      "nome": "Severiano Ballesteros",
+      "anno": 1957,
+      "chi": "golfista spagnolo",
+      "wiki": "Severiano Ballesteros"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Il cavallo che vola",
+      "testo": "Muybridge, nato oggi, nel 1878 fotografò un cavallo al galoppo con dodici macchine in fila: dimostrò che per un istante tutte e quattro le zampe sono sollevate da terra. È uno dei primi passi verso il cinema."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "La guerra in casa McLean",
+      "testo": "Wilmer McLean aveva lasciato la sua fattoria vicino a Manassas, dove si combatté la prima battaglia della guerra civile, per stare tranquillo ad Appomattox. La guerra finì nel suo salotto."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il più venduto",
+      "testo": "Del Boeing 737 sono stati costruiti più di undicimila esemplari: in ogni momento, si dice, ce ne sono più di mille in volo nel mondo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La più grande astuzia del diavolo è convincerci che non esiste.",
+      "autore": "Charles Baudelaire",
+      "fonte": "Il giocatore generoso"
+    },
+    {
+      "testo": "Che ci sia pace.",
+      "autore": "Ulysses S. Grant",
+      "fonte": "1868"
+    },
+    {
+      "testo": "Chi tace acconsente.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A Natale, mezzo pane, a Pasqua, mezzo vino.",
+      "regione": "Toscana",
+      "traduzione": "A Natale metà del grano, a Pasqua metà del vino.",
+      "spiegazione": "Il contadino controlla le scorte: a Natale deve restare metà del grano, a Pasqua metà del vino, per arrivare al nuovo raccolto.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Natale a-o barco, Pasqua a-o tisson.",
+      "regione": "Liguria",
+      "traduzione": "Natale al balcone, Pasqua al tizzone.",
+      "spiegazione": "Se a Natale fa caldo e si sta sul balcone, a Pasqua si starà vicino al fuoco.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,235 @@
+{
+  "schema": 1,
+  "giorno": "04-08",
+  "santo": {
+    "nome": "Santa Giulia Billiart",
+    "nota": "Francese, rimase paralizzata per ventidue anni ma continuò a insegnare il catechismo dal letto. Guarita, fondò le Suore di Nostra Signora di Namur per l'istruzione delle ragazze povere.",
+    "altri": [
+      "Sant'Amanzio di Como",
+      "San Dionigi di Corinto",
+      "Sant'Agabo profeta"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale dei rom e dei sinti",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Hana Matsuri, festa dei fiori in Giappone",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-08-1341",
+      "anno": 1341,
+      "titolo": "Petrarca poeta laureato",
+      "testo": "Nel giorno di Pasqua, sul Campidoglio, Francesco Petrarca viene incoronato poeta con una corona d'alloro, come gli antichi.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Francesco Petrarca",
+      "tono": "leggero",
+      "indizio": "Domani: sul Campidoglio un poeta viene incoronato d'alloro."
+    },
+    {
+      "id": "04-08-1820",
+      "anno": 1820,
+      "titolo": "La Venere di Milo",
+      "testo": "Sull'isola greca di Milo un contadino trova tra le rovine una statua di marmo di una dea: è la Venere di Milo, oggi al Louvre.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Venere di Milo",
+      "tono": "leggero",
+      "indizio": "Domani: un contadino greco trova nel suo campo una dea di marmo."
+    },
+    {
+      "id": "04-08-1876",
+      "anno": 1876,
+      "titolo": "La Gioconda di Ponchielli",
+      "testo": "Alla Scala debutta La Gioconda di Amilcare Ponchielli: la sua Danza delle ore diventerà famosissima, anche nei cartoni animati.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "La Gioconda (opera)",
+      "tono": "leggero",
+      "indizio": "Domani: alla Scala debutta un'opera con una danza che farà ballare anche gli ippopotami."
+    },
+    {
+      "id": "04-08-1975",
+      "anno": 1975,
+      "titolo": "L'Oscar di Amarcord",
+      "testo": "Amarcord di Federico Fellini vince l'Oscar come miglior film straniero: è il quarto Oscar per un suo film.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Amarcord",
+      "tono": "leggero",
+      "indizio": "Domani: un film sui ricordi di Rimini vince l'Oscar."
+    },
+    {
+      "id": "04-08-1986",
+      "anno": 1986,
+      "titolo": "Clint Eastwood sindaco",
+      "testo": "L'attore Clint Eastwood viene eletto sindaco di Carmel-by-the-Sea, in California.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Clint Eastwood",
+      "tono": "leggero",
+      "indizio": "Domani: un cowboy del cinema diventa sindaco di un paesino sul mare."
+    },
+    {
+      "id": "04-08-1990",
+      "anno": 1990,
+      "titolo": "Twin Peaks",
+      "testo": "Negli Stati Uniti va in onda il primo episodio di I segreti di Twin Peaks di David Lynch.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "I segreti di Twin Peaks",
+      "tono": "leggero",
+      "indizio": "Domani: comincia una serie tv con una domanda: chi ha ucciso Laura Palmer?"
+    },
+    {
+      "id": "04-08-1866",
+      "anno": 1866,
+      "titolo": "L'alleanza con la Prussia",
+      "testo": "A Berlino Italia e Prussia firmano un'alleanza contro l'Austria: dopo la guerra l'Italia avrà il Veneto.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Alleanza italo-prussiana",
+      "tono": "storico"
+    },
+    {
+      "id": "04-08-1904",
+      "anno": 1904,
+      "titolo": "L'Intesa cordiale",
+      "testo": "Francia e Gran Bretagna firmano l'Entente cordiale, che chiude secoli di rivalità.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Entente cordiale",
+      "tono": "storico"
+    },
+    {
+      "id": "04-08-1848",
+      "anno": 1848,
+      "titolo": "Il ponte di Goito",
+      "testo": "I bersaglieri combattono contro gli austriaci per il ponte di Goito: è il loro battesimo del fuoco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Goito (1848)",
+      "tono": "storico"
+    },
+    {
+      "id": "04-08-2005",
+      "anno": 2005,
+      "titolo": "Il funerale di Giovanni Paolo II",
+      "testo": "In piazza San Pietro si celebrano i funerali di Giovanni Paolo II: la folla grida «santo subito».",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Funerale di papa Giovanni Paolo II",
+      "tono": "storico"
+    },
+    {
+      "id": "04-08-2014",
+      "anno": 2014,
+      "titolo": "Addio a Windows XP",
+      "testo": "Microsoft smette di aggiornare Windows XP, dopo tredici anni.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Windows XP",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Edmund Husserl",
+      "anno": 1859,
+      "chi": "filosofo tedesco",
+      "wiki": "Edmund Husserl"
+    },
+    {
+      "nome": "Mary Pickford",
+      "anno": 1892,
+      "chi": "diva del cinema muto",
+      "wiki": "Mary Pickford"
+    },
+    {
+      "nome": "Sonja Henie",
+      "anno": 1912,
+      "chi": "pattinatrice e attrice norvegese",
+      "wiki": "Sonja Henie"
+    },
+    {
+      "nome": "Jacques Brel",
+      "anno": 1929,
+      "chi": "cantautore belga",
+      "wiki": "Jacques Brel"
+    },
+    {
+      "nome": "Kofi Annan",
+      "anno": 1938,
+      "chi": "segretario generale dell'ONU",
+      "wiki": "Kofi Annan"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Le braccia perdute",
+      "testo": "Della Venere di Milo non si sono mai trovate le braccia. Forse si persero proprio durante il trasporto della statua verso la nave francese, in una zuffa con i turchi."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Il gelato del sindaco",
+      "testo": "A Carmel una vecchia ordinanza vietava di mangiare il gelato per strada. Come sindaco, Clint Eastwood la fece abolire."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Mi ricordo",
+      "testo": "Amarcord, in dialetto romagnolo, vuol dire «mi ricordo». Fellini raccontava nel film la Rimini della sua giovinezza, negli anni Trenta."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Chi può dir com'egli arde è in picciol foco.",
+      "autore": "Francesco Petrarca",
+      "fonte": "Canzoniere, 170"
+    },
+    {
+      "testo": "Chi si loda s'imbroda.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Non c'è rosa senza spine.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La morte del lovo xe la salute de la piegora.",
+      "regione": "Veneto",
+      "traduzione": "La morte del lupo è la salute della pecora.",
+      "spiegazione": "La disgrazia del prepotente è la salvezza del debole.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Fiascu malu non si segat appresse.",
+      "regione": "Sardegna",
+      "traduzione": "Il fiasco cattivo non si rompe presto.",
+      "spiegazione": "Le cose e le persone di poco valore spesso durano più a lungo di quelle buone.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

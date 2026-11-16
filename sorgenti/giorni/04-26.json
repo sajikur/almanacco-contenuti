@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "giorno": "04-26",
+  "santo": {
+    "nome": "Santi Cleto e Marcellino",
+    "nota": "Due papi dei primi secoli. Cleto, o Anacleto, fu il terzo vescovo di Roma dopo Pietro e Lino. Marcellino guidò la Chiesa durante la grande persecuzione di Diocleziano.",
+    "altri": [
+      "San Pascasio Radberto",
+      "San Rafael Arnáiz Barón",
+      "Beata Alda da Siena"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "04-26-1478",
+      "anno": 1478,
+      "titolo": "La congiura dei Pazzi",
+      "testo": "Nel Duomo di Firenze, durante la messa, i congiurati della famiglia Pazzi attaccano i Medici: Giuliano viene ucciso, Lorenzo si salva rifugiandosi in sagrestia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Congiura dei Pazzi",
+      "tono": "storico",
+      "indizio": "Domani: in Duomo a Firenze scatta una congiura contro i Medici."
+    },
+    {
+      "id": "04-26-1848",
+      "anno": 1848,
+      "titolo": "Wallace in Amazzonia",
+      "testo": "I naturalisti Alfred Russel Wallace e Henry Bates partono da Liverpool per l'Amazzonia. Wallace arriverà, quasi insieme a Darwin, all'idea della selezione naturale.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Alfred Russel Wallace",
+      "tono": "leggero",
+      "indizio": "Domani: due giovani naturalisti partono per la foresta amazzonica."
+    },
+    {
+      "id": "04-26-1915",
+      "anno": 1915,
+      "titolo": "Il Patto di Londra",
+      "testo": "Con un accordo segreto firmato a Londra l'Italia si impegna a entrare in guerra a fianco di Francia e Inghilterra entro un mese.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Patto di Londra",
+      "tono": "storico",
+      "indizio": "Domani: l'Italia firma in segreto per entrare nella Grande guerra."
+    },
+    {
+      "id": "04-26-1977",
+      "anno": 1977,
+      "titolo": "Lo Studio 54",
+      "testo": "A New York apre lo Studio 54, la discoteca più famosa del mondo: davanti alla porta si decide chi entra e chi no.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Studio 54",
+      "tono": "leggero",
+      "indizio": "Domani: a New York apre la discoteca dove tutti vorranno entrare."
+    },
+    {
+      "id": "04-26-1994",
+      "anno": 1994,
+      "titolo": "Il primo voto di tutti",
+      "testo": "In Sudafrica si vota per la prima volta senza distinzione di colore: milioni di persone fanno la fila per ore. Nelson Mandela diventerà presidente.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Elezioni generali in Sudafrica del 1994",
+      "tono": "storico",
+      "indizio": "Domani: in Sudafrica tutti possono votare per la prima volta."
+    },
+    {
+      "id": "04-26-2017",
+      "anno": 2017,
+      "titolo": "Il gran finale di Cassini",
+      "testo": "La sonda Cassini si tuffa per la prima volta nello spazio stretto tra Saturno e i suoi anelli: è l'inizio del gran finale della missione.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Cassini-Huygens",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda si infila tra Saturno e i suoi anelli."
+    },
+    {
+      "id": "04-26-1962",
+      "anno": 1962,
+      "titolo": "Ranger 4 sulla Luna",
+      "testo": "La sonda Ranger 4 è il primo oggetto americano a toccare la Luna, schiantandosi sul lato nascosto.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Ranger 4",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-26-1961",
+      "anno": 1961,
+      "titolo": "Tribuna politica",
+      "testo": "Va in onda la prima puntata di Tribuna politica: per la prima volta i partiti parlano agli italiani in televisione.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Tribuna politica",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-26-1868",
+      "anno": 1868,
+      "titolo": "Su Connotu",
+      "testo": "A Nuoro la popolazione insorge contro la vendita delle terre comuni: è la rivolta di Su Connotu, «il conosciuto».",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Su Connotu",
+      "tono": "storico"
+    },
+    {
+      "id": "04-26-1964",
+      "anno": 1964,
+      "titolo": "Nasce la Tanzania",
+      "testo": "Tanganica e Zanzibar si uniscono e nasce la Tanzania.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Tanzania",
+      "tono": "storico"
+    },
+    {
+      "id": "04-26-1986",
+      "anno": 1986,
+      "titolo": "Černobyl'",
+      "testo": "Nella centrale nucleare di Černobyl', in Ucraina, esplode un reattore: la nube radioattiva arriva in tutta Europa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Disastro di Černobyl'",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Marco Aurelio",
+      "anno": 121,
+      "chi": "imperatore e filosofo",
+      "wiki": "Marco Aurelio"
+    },
+    {
+      "nome": "John James Audubon",
+      "anno": 1785,
+      "chi": "naturalista degli uccelli d'America",
+      "wiki": "John James Audubon"
+    },
+    {
+      "nome": "Eugène Delacroix",
+      "anno": 1798,
+      "chi": "pittore francese",
+      "wiki": "Eugène Delacroix"
+    },
+    {
+      "nome": "Ludwig Wittgenstein",
+      "anno": 1889,
+      "chi": "filosofo austriaco",
+      "wiki": "Ludwig Wittgenstein"
+    },
+    {
+      "nome": "Charles Richter",
+      "anno": 1900,
+      "chi": "sismologo della scala",
+      "wiki": "Charles Richter"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "La scala dei terremoti",
+      "testo": "Charles Richter, nato oggi, inventò nel 1935 la scala che porta il suo nome. È logaritmica: ogni grado in più vuol dire un'ampiezza dieci volte maggiore delle onde sismiche."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "La lettera a Darwin",
+      "testo": "Nel 1858 Wallace, malato di febbre in un'isola delle Molucche, scrisse a Darwin la sua teoria dell'evoluzione. Darwin, che ci lavorava da vent'anni, decise allora di pubblicare la sua."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il rifugio in sagrestia",
+      "testo": "Lorenzo il Magnifico, ferito al collo, si salvò chiudendosi nella sagrestia del Duomo dietro le grandi porte di bronzo. Aveva ventinove anni."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La nostra vita è ciò che i nostri pensieri ne fanno.",
+      "autore": "Marco Aurelio",
+      "fonte": "Pensieri"
+    },
+    {
+      "testo": "Su ciò di cui non si può parlare, si deve tacere.",
+      "autore": "Ludwig Wittgenstein",
+      "fonte": "Tractatus logico-philosophicus"
+    },
+    {
+      "testo": "Chi la fa l'aspetti.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La donna e lu focu vo' stuzzicati 'gni pocu.",
+      "regione": "Umbria",
+      "traduzione": "La donna e il fuoco vanno stuzzicati spesso.",
+      "spiegazione": "Scherzoso: il fuoco va ravvivato perché non si spenga, e così le attenzioni in amore.",
+      "fonte": "Wikiquote, Proverbi umbri"
+    },
+    {
+      "testo": "Ël pan ëd ca a stofia.",
+      "regione": "Piemonte",
+      "traduzione": "Il pane di casa stanca.",
+      "spiegazione": "Quello che si ha sempre a disposizione finisce per annoiare: si desidera ciò che è degli altri.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    }
+  ],
+  "prima_pagina": null
+}

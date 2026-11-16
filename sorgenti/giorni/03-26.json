@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "giorno": "03-26",
+  "santo": {
+    "nome": "San Ludgero",
+    "nota": "Monaco frisone dell'VIII secolo, studiò in Inghilterra e portò il Vangelo ai sassoni. Fondò un monastero intorno al quale nacque la città di Münster, di cui fu il primo vescovo.",
+    "altri": [
+      "San Castulo",
+      "Santi Montano e Massima",
+      "Santi Baronzio e Desiderio"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Purple Day, giornata mondiale dell'epilessia",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-26-1953",
+      "anno": 1953,
+      "titolo": "Il vaccino contro la polio",
+      "testo": "Alla radio americana Jonas Salk annuncia di aver messo a punto un vaccino contro la poliomielite, che ogni estate paralizzava migliaia di bambini.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Vaccino antipolio",
+      "tono": "leggero",
+      "indizio": "Domani: un medico annuncia alla radio il vaccino contro la paralisi infantile."
+    },
+    {
+      "id": "03-26-1927",
+      "anno": 1927,
+      "titolo": "La prima Mille Miglia",
+      "testo": "A Brescia parte la prima Mille Miglia, la corsa su strade aperte fino a Roma e ritorno: vince un'OM in poco più di ventuno ore.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Mille Miglia",
+      "tono": "leggero",
+      "indizio": "Domani: da Brescia parte la corsa più bella del mondo."
+    },
+    {
+      "id": "03-26-1930",
+      "anno": 1930,
+      "titolo": "Marconi accende Sydney",
+      "testo": "Dallo yacht Elettra ancorato nel porto di Genova Guglielmo Marconi manda un segnale radio che accende le luci del municipio di Sydney, dall'altra parte del mondo.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Guglielmo Marconi",
+      "tono": "leggero",
+      "indizio": "Domani: da una nave a Genova si accendono le luci di una città australiana."
+    },
+    {
+      "id": "03-26-1923",
+      "anno": 1923,
+      "titolo": "La prima autostrada",
+      "testo": "Cominciano i lavori dell'autostrada Milano-Laghi, ideata dall'ingegnere Piero Puricelli: è la prima autostrada del mondo, a pagamento.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Autostrada dei Laghi",
+      "tono": "leggero",
+      "indizio": "Domani: l'Italia comincia a costruire la prima autostrada del mondo."
+    },
+    {
+      "id": "03-26-1937",
+      "anno": 1937,
+      "titolo": "La statua di Braccio di Ferro",
+      "testo": "A Crystal City, in Texas, capitale degli spinaci, si inaugura una statua di Braccio di Ferro: i coltivatori lo ringraziano per aver fatto mangiare spinaci ai bambini.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Braccio di Ferro",
+      "tono": "leggero",
+      "indizio": "Domani: una città degli spinaci dedica una statua a un marinaio dei fumetti."
+    },
+    {
+      "id": "03-26-1842",
+      "anno": 1842,
+      "titolo": "Garibaldi sposa Anita",
+      "testo": "A Montevideo Giuseppe Garibaldi sposa la brasiliana Anita Ribeiro, che lo seguirà in tutte le battaglie.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Anita Garibaldi",
+      "tono": "storico",
+      "indizio": "Domani: Garibaldi si sposa in Uruguay."
+    },
+    {
+      "id": "03-26-2012",
+      "anno": 2012,
+      "titolo": "In fondo agli abissi",
+      "testo": "Il regista James Cameron scende da solo con il sommergibile Deepsea Challenger in fondo alla fossa delle Marianne, a quasi undicimila metri.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Deepsea Challenger",
+      "tono": "leggero",
+      "indizio": "Domani: un regista scende da solo nel punto più profondo dell'oceano."
+    },
+    {
+      "id": "03-26-1979",
+      "anno": 1979,
+      "titolo": "La pace tra Egitto e Israele",
+      "testo": "Alla Casa Bianca Sadat e Begin firmano il trattato di pace tra Egitto e Israele, con Jimmy Carter.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Trattato di pace israelo-egiziano",
+      "tono": "storico",
+      "indizio": "Domani: Egitto e Israele firmano la pace."
+    },
+    {
+      "id": "03-26-1995",
+      "anno": 1995,
+      "titolo": "Senza frontiere",
+      "testo": "Entra in vigore l'accordo di Schengen: tra i primi paesi aderenti spariscono i controlli alle frontiere.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Accordo di Schengen",
+      "tono": "storico",
+      "indizio": "Domani: in Europa spariscono le frontiere."
+    },
+    {
+      "id": "03-26-1999",
+      "anno": 1999,
+      "titolo": "Il virus Melissa",
+      "testo": "Il virus informatico Melissa si diffonde via email in tutto il mondo e manda in tilt molti server di posta.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Melissa (virus informatico)",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-26-1511",
+      "anno": 1511,
+      "titolo": "Il terremoto del Friuli",
+      "testo": "Un forte terremoto colpisce il Friuli e la Slovenia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto del Friuli del 1511",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Robert Frost",
+      "anno": 1874,
+      "chi": "poeta statunitense",
+      "wiki": "Robert Frost"
+    },
+    {
+      "nome": "Tennessee Williams",
+      "anno": 1911,
+      "chi": "drammaturgo di Un tram che si chiama Desiderio",
+      "wiki": "Tennessee Williams"
+    },
+    {
+      "nome": "Leonard Nimoy",
+      "anno": 1931,
+      "chi": "attore, il signor Spock",
+      "wiki": "Leonard Nimoy"
+    },
+    {
+      "nome": "Diana Ross",
+      "anno": 1944,
+      "chi": "cantante delle Supremes",
+      "wiki": "Diana Ross"
+    },
+    {
+      "nome": "Keira Knightley",
+      "anno": 1985,
+      "chi": "attrice inglese",
+      "wiki": "Keira Knightley"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Si può brevettare il sole?",
+      "testo": "Salk non brevettò mai il suo vaccino. A un giornalista che gli chiedeva di chi fosse il brevetto rispose: «Della gente. Si può forse brevettare il sole?»"
+    },
+    {
+      "categoria": "sport",
+      "titolo": "Perché mille miglia",
+      "testo": "Il percorso Brescia-Roma-Brescia era lungo circa 1600 chilometri, cioè mille miglia: da qui il nome della corsa, che si correva su strade normali, tra paesi e passi di montagna."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Il nome di Münster",
+      "testo": "La città tedesca di Münster prende il nome dal monastero, monasterium in latino, che vi fondò san Ludgero."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Si può forse brevettare il sole?",
+      "autore": "Jonas Salk",
+      "fonte": "intervista, 1955"
+    },
+    {
+      "testo": "Due strade divergevano in un bosco, e io presi la meno battuta.",
+      "autore": "Robert Frost",
+      "fonte": "La strada non presa"
+    },
+    {
+      "testo": "Chi va con lo zoppo impara a zoppicare.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A padre avaro figliuol prodigo.",
+      "regione": "Toscana",
+      "traduzione": "A padre avaro, figlio spendaccione.",
+      "spiegazione": "Spesso i figli fanno il contrario dei padri: quello che uno ha risparmiato, l'altro lo sperpera.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Acqua ca duna a tanti vadduni a mari non ci n'arriva.",
+      "regione": "Sicilia",
+      "traduzione": "L'acqua che si divide in tanti torrenti al mare non arriva.",
+      "spiegazione": "Chi disperde le forze in troppe direzioni non arriva da nessuna parte.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

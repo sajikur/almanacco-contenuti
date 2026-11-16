@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "giorno": "03-31",
+  "santo": {
+    "nome": "San Guido di Pomposa",
+    "nota": "Abate dell'abbazia di Pomposa, sul delta del Po, nell'XI secolo. Sotto di lui il monastero ebbe centinaia di monaci e ospitò per un periodo Guido d'Arezzo, l'inventore delle note musicali.",
+    "altri": [
+      "Santa Balbina",
+      "San Beniamino diacono",
+      "San Maurilio di Milano"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "03-31-1889",
+      "anno": 1889,
+      "titolo": "La Torre Eiffel",
+      "testo": "Gustave Eiffel sale i 1710 gradini della sua torre e pianta in cima la bandiera francese: è l'inaugurazione della costruzione più alta del mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Torre Eiffel",
+      "tono": "leggero",
+      "indizio": "Domani: un ingegnere sale 1710 gradini fino in cima alla sua torre."
+    },
+    {
+      "id": "03-31-1909",
+      "anno": 1909,
+      "titolo": "Si comincia il Titanic",
+      "testo": "Nei cantieri Harland and Wolff di Belfast si posa la chiglia del Titanic.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "RMS Titanic",
+      "tono": "leggero",
+      "indizio": "Domani: a Belfast si posa la chiglia della nave più famosa della storia."
+    },
+    {
+      "id": "03-31-1949",
+      "anno": 1949,
+      "titolo": "Nasce l'Abarth",
+      "testo": "A Bologna Carlo Abarth fonda la sua casa, che si trasferirà presto a Torino: lo stemma è uno scorpione, il suo segno zodiacale.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Abarth",
+      "tono": "leggero",
+      "indizio": "Domani: nasce una casa automobilistica con lo scorpione."
+    },
+    {
+      "id": "03-31-1951",
+      "anno": 1951,
+      "titolo": "L'UNIVAC",
+      "testo": "Viene consegnato all'Ufficio del censimento americano l'UNIVAC I, il primo computer commerciale degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "UNIVAC I",
+      "tono": "leggero",
+      "indizio": "Domani: viene venduto il primo computer commerciale americano."
+    },
+    {
+      "id": "03-31-1966",
+      "anno": 1966,
+      "titolo": "Verso l'orbita lunare",
+      "testo": "Parte la sonda sovietica Luna 10: tre giorni dopo sarà il primo oggetto a girare intorno alla Luna.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Luna 10",
+      "tono": "leggero",
+      "indizio": "Domani: parte la prima sonda che entrerà in orbita intorno alla Luna."
+    },
+    {
+      "id": "03-31-1967",
+      "anno": 1967,
+      "titolo": "Hendrix incendia la chitarra",
+      "testo": "A Londra Jimi Hendrix dà fuoco per la prima volta alla sua chitarra sul palco.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Jimi Hendrix",
+      "tono": "leggero",
+      "indizio": "Domani: un chitarrista dà fuoco al suo strumento sul palco."
+    },
+    {
+      "id": "03-31-1997",
+      "anno": 1997,
+      "titolo": "Martina Hingis numero uno",
+      "testo": "A sedici anni e mezzo Martina Hingis diventa la più giovane numero uno del tennis.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Martina Hingis",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-31-1998",
+      "anno": 1998,
+      "titolo": "Il codice di Netscape",
+      "testo": "Netscape rende pubblico il codice del suo browser: da lì nascerà Firefox.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Mozilla",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-31-1935",
+      "anno": 1935,
+      "titolo": "La Città universitaria",
+      "testo": "A Roma si inaugura la Città universitaria della Sapienza.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Città universitaria di Roma",
+      "tono": "leggero",
+      "indizio": "Domani: Roma inaugura la sua città universitaria."
+    },
+    {
+      "id": "03-31-1917",
+      "anno": 1917,
+      "titolo": "Le Isole Vergini",
+      "testo": "La Danimarca vende agli Stati Uniti le Isole Vergini per venticinque milioni di dollari in oro.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Isole Vergini americane",
+      "tono": "storico"
+    },
+    {
+      "id": "03-31-1492",
+      "anno": 1492,
+      "titolo": "Il decreto dell'Alhambra",
+      "testo": "I re di Spagna firmano il decreto che espelle gli ebrei dai loro regni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Decreto dell'Alhambra",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Cartesio",
+      "anno": 1596,
+      "chi": "filosofo e matematico francese",
+      "wiki": "Cartesio"
+    },
+    {
+      "nome": "Franz Joseph Haydn",
+      "anno": 1732,
+      "chi": "compositore austriaco",
+      "wiki": "Franz Joseph Haydn"
+    },
+    {
+      "nome": "Octavio Paz",
+      "anno": 1914,
+      "chi": "poeta messicano, premio Nobel",
+      "wiki": "Octavio Paz"
+    },
+    {
+      "nome": "Christopher Walken",
+      "anno": 1943,
+      "chi": "attore statunitense",
+      "wiki": "Christopher Walken"
+    },
+    {
+      "nome": "Ewan McGregor",
+      "anno": 1971,
+      "chi": "attore scozzese",
+      "wiki": "Ewan McGregor"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Una torre da smontare",
+      "testo": "La Torre Eiffel doveva restare in piedi solo vent'anni. La salvarono le antenne della radio militare: era troppo utile per abbatterla."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Ut re mi",
+      "testo": "A Pomposa Guido d'Arezzo inventò i nomi delle note, prendendo le prime sillabe dei versi di un inno a san Giovanni: ut, re, mi, fa, sol, la. L'ut diventò poi do."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Il segreto dello scorpione",
+      "testo": "Carlo Abarth era nato a Vienna sotto il segno dello Scorpione. Lo mise sulle sue auto: piccole utilitarie Fiat trasformate in vetture da corsa."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Penso, dunque sono.",
+      "autore": "Cartesio",
+      "fonte": "Discorso sul metodo"
+    },
+    {
+      "testo": "Aprile, dolce dormire.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "Chi la fa l'aspetti.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi ha fatto il saggio del mèle non può dimenticare il lecco.",
+      "regione": "Toscana",
+      "traduzione": "Chi ha assaggiato il miele non può dimenticarne il sapore.",
+      "spiegazione": "Chi ha provato una cosa buona continua a desiderarla.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Il diaul la sa tant lunge, parcē ca l'è viēli.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Il diavolo la sa lunga perché è vecchio.",
+      "spiegazione": "L'esperienza vale più dell'intelligenza: chi ha vissuto a lungo sa molte cose.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

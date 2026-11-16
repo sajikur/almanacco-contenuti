@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "giorno": "04-17",
+  "santo": {
+    "nome": "Santa Kateri Tekakwitha",
+    "nota": "Figlia di un capo mohawk e di una madre algonchina cristiana, nel Seicento si fece battezzare nonostante l'ostilità del suo villaggio. È la prima santa dei nativi del Nord America, detta il giglio dei Mohawk.",
+    "altri": [
+      "San Roberto di Molesme",
+      "Sant'Innocenzo di Tortona",
+      "Beata Chiara Gambacorti"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale dell'emofilia",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-17-1524",
+      "anno": 1524,
+      "titolo": "Verrazzano a New York",
+      "testo": "Il navigatore fiorentino Giovanni da Verrazzano entra con la nave La Dauphine nella baia dove sorgerà New York: è il primo europeo a vederla.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Giovanni da Verrazzano",
+      "tono": "storico",
+      "indizio": "Domani: un navigatore fiorentino entra per primo nella baia di New York."
+    },
+    {
+      "id": "04-17-1492",
+      "anno": 1492,
+      "titolo": "Le capitolazioni di Santa Fe",
+      "testo": "Isabella e Ferdinando di Spagna firmano con Cristoforo Colombo l'accordo per il viaggio verso le Indie: se riuscirà, sarà ammiraglio e viceré delle terre scoperte.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Capitolazioni di Santa Fe",
+      "tono": "storico",
+      "indizio": "Domani: i re di Spagna firmano un contratto con un navigatore genovese."
+    },
+    {
+      "id": "04-17-1848",
+      "anno": 1848,
+      "titolo": "Cade il muro del ghetto",
+      "testo": "A Roma, per ordine di Pio IX, vengono abbattuti i portoni e il muro del ghetto ebraico.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Ghetto di Roma",
+      "tono": "storico",
+      "indizio": "Domani: a Roma si abbattono i portoni del ghetto."
+    },
+    {
+      "id": "04-17-1924",
+      "anno": 1924,
+      "titolo": "Nasce la MGM",
+      "testo": "Dalla fusione di tre case di produzione nasce la Metro-Goldwyn-Mayer, quella del leone che ruggisce all'inizio dei film.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Metro-Goldwyn-Mayer",
+      "tono": "leggero",
+      "indizio": "Domani: nasce la casa di Hollywood con il leone ruggente."
+    },
+    {
+      "id": "04-17-1964",
+      "anno": 1964,
+      "titolo": "Debutta la Mustang",
+      "testo": "Alla Fiera mondiale di New York la Ford presenta la Mustang: in un solo giorno ne ordinano ventiduemila.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Ford Mustang",
+      "tono": "leggero",
+      "indizio": "Domani: la Ford presenta un'auto sportiva che andrà a ruba."
+    },
+    {
+      "id": "04-17-1964b",
+      "anno": 1964,
+      "titolo": "La prima donna intorno al mondo",
+      "testo": "Jerrie Mock, casalinga dell'Ohio, atterra a Columbus con il suo piccolo Cessna: è la prima donna a fare il giro del mondo in aereo da sola.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Jerrie Mock",
+      "tono": "leggero",
+      "indizio": "Domani: una casalinga americana completa da sola il giro del mondo in aereo."
+    },
+    {
+      "id": "04-17-1970",
+      "anno": 1970,
+      "titolo": "L'Apollo 13 ammara",
+      "testo": "Dopo quattro giorni di paura gli astronauti dell'Apollo 13 ammarano nel Pacifico, sani e salvi.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Apollo 13",
+      "tono": "leggero",
+      "indizio": "Domani: l'equipaggio dell'Apollo 13 torna a casa."
+    },
+    {
+      "id": "04-17-2014",
+      "anno": 2014,
+      "titolo": "Un pianeta come la Terra",
+      "testo": "La NASA annuncia la scoperta di Kepler-186f, il primo pianeta grande come la Terra trovato nella fascia abitabile di un'altra stella.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Kepler-186 f",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-17-1797",
+      "anno": 1797,
+      "titolo": "Le Pasque veronesi",
+      "testo": "A Verona la popolazione insorge contro le truppe francesi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Pasque veronesi",
+      "tono": "storico"
+    },
+    {
+      "id": "04-17-1982",
+      "anno": 1982,
+      "titolo": "La costituzione del Canada",
+      "testo": "La regina Elisabetta firma a Ottawa la nuova costituzione del Canada.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Costituzione del Canada",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "J. P. Morgan",
+      "anno": 1837,
+      "chi": "banchiere statunitense",
+      "wiki": "J. P. Morgan"
+    },
+    {
+      "nome": "Karen Blixen",
+      "anno": 1885,
+      "chi": "scrittrice danese della Mia Africa",
+      "wiki": "Karen Blixen"
+    },
+    {
+      "nome": "Thornton Wilder",
+      "anno": 1897,
+      "chi": "drammaturgo statunitense",
+      "wiki": "Thornton Wilder"
+    },
+    {
+      "nome": "William Holden",
+      "anno": 1918,
+      "chi": "attore statunitense",
+      "wiki": "William Holden"
+    },
+    {
+      "nome": "Sean Bean",
+      "anno": 1959,
+      "chi": "attore inglese",
+      "wiki": "Sean Bean"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "La baia di Angoulême",
+      "testo": "Verrazzano chiamò la baia di New York Nuova Angoulême, in onore del re di Francia che lo finanziava. Oggi il ponte sospeso all'ingresso del porto porta il suo nome."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il leone della MGM",
+      "testo": "Il motto sotto il leone della MGM è latino: Ars gratia artis, l'arte per l'arte. I leoni che hanno ruggito nella sigla sono stati diversi: il più famoso si chiamava Leo."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Lo spirito di Columbus",
+      "testo": "L'aereo di Jerrie Mock si chiamava Spirit of Columbus. Lei aveva appena centinaia di ore di volo e partì per scommessa: il marito le disse di andare a fare il giro del mondo, se si annoiava."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Avevo una fattoria in Africa, ai piedi degli altipiani del Ngong.",
+      "autore": "Karen Blixen",
+      "fonte": "La mia Africa"
+    },
+    {
+      "testo": "Ars gratia artis.",
+      "autore": "Motto della MGM",
+      "fonte": "l'arte per l'arte"
+    },
+    {
+      "testo": "Chi trova un amico trova un tesoro.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "As peul nen anlevé e fé 'd formagg.",
+      "regione": "Piemonte",
+      "traduzione": "Non si possono allevare i vitelli e fare il formaggio.",
+      "spiegazione": "Il latte serve o ai vitelli o al formaggio: non si possono avere due cose che si escludono.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "Cum dess quél ch' frava el i och, ai vol ésser da far.",
+      "regione": "Emilia-Romagna",
+      "traduzione": "Come disse quello che ferrava le oche: ci sarà da fare.",
+      "spiegazione": "Si dice davanti a un lavoro lunghissimo o impossibile.",
+      "fonte": "Wikiquote, Proverbi bolognesi"
+    }
+  ],
+  "prima_pagina": null
+}

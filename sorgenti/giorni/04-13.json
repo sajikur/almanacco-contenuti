@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "giorno": "04-13",
+  "santo": {
+    "nome": "San Martino I",
+    "nota": "Papa nato a Todi nel VII secolo. Si oppose all'imperatore di Bisanzio in una disputa sulla fede: fu arrestato, portato a Costantinopoli e mandato in esilio in Crimea, dove morì di stenti.",
+    "altri": [
+      "Sant'Ermenegildo",
+      "Santa Margherita da Città di Castello",
+      "Sant'Orso di Ravenna"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Songkran, capodanno thailandese",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-13-1612",
+      "anno": 1612,
+      "titolo": "Il duello di Musashi",
+      "testo": "Sull'isoletta di Funajima il samurai Miyamoto Musashi affronta il campione Sasaki Kojirō: arriva in ritardo, armato di una spada che si è intagliato in barca da un remo, e vince.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Miyamoto Musashi",
+      "tono": "leggero",
+      "indizio": "Domani: un samurai si presenta al duello con una spada ricavata da un remo."
+    },
+    {
+      "id": "04-13-1742",
+      "anno": 1742,
+      "titolo": "Il Messiah",
+      "testo": "A Dublino si esegue per la prima volta il Messiah di Händel. Per fare posto, si chiede alle signore di non indossare la crinolina e ai signori di lasciare a casa la spada.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Messiah (Händel)",
+      "tono": "leggero",
+      "indizio": "Domani: a Dublino debutta l'oratorio dell'Alleluia."
+    },
+    {
+      "id": "04-13-1361",
+      "anno": 1361,
+      "titolo": "L'Università di Pavia",
+      "testo": "Con un decreto dell'imperatore Carlo IV, su richiesta di Galeazzo II Visconti, nasce lo Studio generale di Pavia, una delle università più antiche d'Italia.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Università degli Studi di Pavia",
+      "tono": "leggero",
+      "indizio": "Domani: nasce una delle università più antiche d'Italia."
+    },
+    {
+      "id": "04-13-1769",
+      "anno": 1769,
+      "titolo": "Cook a Tahiti",
+      "testo": "James Cook arriva a Tahiti con l'Endeavour: è lì per osservare il passaggio di Venere davanti al Sole e misurare la distanza della Terra dal Sole.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "James Cook",
+      "tono": "leggero",
+      "indizio": "Domani: un capitano inglese arriva a Tahiti per guardare Venere."
+    },
+    {
+      "id": "04-13-1870",
+      "anno": 1870,
+      "titolo": "Il Metropolitan Museum",
+      "testo": "A New York viene fondato il Metropolitan Museum of Art, che oggi conserva più di un milione di opere.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Metropolitan Museum of Art",
+      "tono": "leggero",
+      "indizio": "Domani: nasce a New York uno dei musei più grandi del mondo."
+    },
+    {
+      "id": "04-13-1895",
+      "anno": 1895,
+      "titolo": "Il tesoro di Boscoreale",
+      "testo": "Sotto il Vesuvio, a Boscoreale, in una villa romana sepolta dall'eruzione del 79, si trova un tesoro di oltre cento pezzi d'argento. Finirà al Louvre.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Tesoro di Boscoreale",
+      "tono": "leggero",
+      "indizio": "Domani: sotto la cenere del Vesuvio si trova un tesoro d'argento."
+    },
+    {
+      "id": "04-13-1986",
+      "anno": 1986,
+      "titolo": "Il papa in sinagoga",
+      "testo": "Giovanni Paolo II visita la sinagoga di Roma: è la prima volta che un papa entra in una sinagoga. Chiama gli ebrei «fratelli maggiori».",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Tempio maggiore di Roma",
+      "tono": "storico",
+      "indizio": "Domani: un papa varca per la prima volta la porta di una sinagoga."
+    },
+    {
+      "id": "04-13-1997",
+      "anno": 1997,
+      "titolo": "Tiger Woods",
+      "testo": "A ventun anni Tiger Woods vince il Masters di Augusta con il distacco più largo della storia: dodici colpi.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Tiger Woods",
+      "tono": "leggero",
+      "indizio": "Domani: un ragazzo di ventun anni stravince il torneo di golf più famoso."
+    },
+    {
+      "id": "04-13-1970",
+      "anno": 1970,
+      "titolo": "Houston, abbiamo un problema",
+      "testo": "Sull'Apollo 13, a metà strada verso la Luna, esplode un serbatoio di ossigeno. La missione diventa una corsa per tornare a casa vivi.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Apollo 13",
+      "tono": "leggero",
+      "indizio": "Domani: a metà strada verso la Luna qualcosa esplode."
+    },
+    {
+      "id": "04-13-2019",
+      "anno": 2019,
+      "titolo": "L'aereo più largo",
+      "testo": "Vola per la prima volta lo Stratolaunch, l'aereo con l'apertura alare più grande mai costruita: centodiciassette metri.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Scaled Composites Stratolaunch",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-13-1829",
+      "anno": 1829,
+      "titolo": "I cattolici inglesi",
+      "testo": "Il Parlamento inglese restituisce ai cattolici i diritti civili, compreso quello di sedere in Parlamento.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Catholic Relief Act 1829",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Caterina de' Medici",
+      "anno": 1519,
+      "chi": "regina di Francia",
+      "wiki": "Caterina de' Medici"
+    },
+    {
+      "nome": "Thomas Jefferson",
+      "anno": 1743,
+      "chi": "terzo presidente degli Stati Uniti",
+      "wiki": "Thomas Jefferson"
+    },
+    {
+      "nome": "Samuel Beckett",
+      "anno": 1906,
+      "chi": "scrittore di Aspettando Godot",
+      "wiki": "Samuel Beckett"
+    },
+    {
+      "nome": "Seamus Heaney",
+      "anno": 1939,
+      "chi": "poeta irlandese, premio Nobel",
+      "wiki": "Seamus Heaney"
+    },
+    {
+      "nome": "Garri Kasparov",
+      "anno": 1963,
+      "chi": "campione del mondo di scacchi",
+      "wiki": "Garri Kasparov"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "In piedi per l'Alleluia",
+      "testo": "Durante l'Alleluia del Messiah il pubblico si alza in piedi. Si racconta che a Londra lo fece per primo il re Giorgio II, commosso, e che tutti lo imitarono. Ma non ci sono prove che sia vero."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Caterina e la forchetta",
+      "testo": "Caterina de' Medici, nata oggi a Firenze, andò sposa in Francia nel 1533. La tradizione le attribuisce di aver portato alla corte francese la forchetta, i gelati e molti cuochi fiorentini."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "L'inventore presidente",
+      "testo": "Jefferson, nato oggi, inventò un leggio girevole, un aratro migliore e usava un poligrafo, una macchina che copiava le lettere mentre scriveva. Si progettò da solo la sua villa di Monticello."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Houston, abbiamo avuto un problema.",
+      "autore": "Jack Swigert e Jim Lovell",
+      "fonte": "Apollo 13, 1970"
+    },
+    {
+      "testo": "Tutti gli uomini sono creati uguali.",
+      "autore": "Thomas Jefferson",
+      "fonte": "Dichiarazione d'indipendenza"
+    },
+    {
+      "testo": "Ho provato. Ho fallito. Non importa. Riprova. Fallisci ancora. Fallisci meglio.",
+      "autore": "Samuel Beckett",
+      "fonte": "Peggio tutta"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Pulitùr' di piatte onòr' d' coch'.",
+      "regione": "Abruzzo",
+      "traduzione": "Piatti puliti, onore del cuoco.",
+      "spiegazione": "Se i piatti tornano vuoti in cucina vuol dire che il cuoco ha cucinato bene.",
+      "fonte": "Wikiquote, Proverbi abruzzesi"
+    },
+    {
+      "testo": "Majà pòc e majà mal per stà delòns de l'ospedàl.",
+      "regione": "Lombardia",
+      "traduzione": "Mangiare poco e mangiare semplice per stare lontani dall'ospedale.",
+      "spiegazione": "La sobrietà a tavola è la miglior medicina.",
+      "fonte": "Wikiquote, Proverbi camuni"
+    }
+  ],
+  "prima_pagina": null
+}

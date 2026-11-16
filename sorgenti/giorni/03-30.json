@@ -1,0 +1,233 @@
+{
+  "schema": 1,
+  "giorno": "03-30",
+  "santo": {
+    "nome": "San Leonardo Murialdo",
+    "nota": "Sacerdote torinese dell'Ottocento, dedicò la vita ai ragazzi poveri e agli apprendisti: fondò la congregazione di San Giuseppe, i Giuseppini del Murialdo.",
+    "altri": [
+      "San Giovanni Climaco",
+      "San Ludovico da Casoria",
+      "Beato Amedeo IX di Savoia"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "03-30-1867",
+      "anno": 1867,
+      "titolo": "L'Alaska in vendita",
+      "testo": "La Russia vende l'Alaska agli Stati Uniti per 7,2 milioni di dollari, circa due centesimi per acro. I giornali americani la chiamano «la follia di Seward».",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Acquisto dell'Alaska",
+      "tono": "leggero",
+      "indizio": "Domani: l'America compra un territorio di ghiaccio, e la prendono in giro."
+    },
+    {
+      "id": "03-30-1842",
+      "anno": 1842,
+      "titolo": "L'etere in sala operatoria",
+      "testo": "In Georgia il medico Crawford Long usa l'etere per addormentare un paziente e togliergli un tumore al collo: è la prima anestesia, ma la rende pubblica solo anni dopo.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Crawford Long",
+      "tono": "leggero",
+      "indizio": "Domani: un medico di campagna addormenta un paziente con l'etere."
+    },
+    {
+      "id": "03-30-1858",
+      "anno": 1858,
+      "titolo": "La matita con la gomma",
+      "testo": "A Philadelphia Hymen Lipman brevetta la matita con la gomma attaccata in cima.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Matita",
+      "tono": "leggero",
+      "indizio": "Domani: qualcuno pensa di attaccare la gomma alla matita."
+    },
+    {
+      "id": "03-30-1967",
+      "anno": 1967,
+      "titolo": "La copertina di Sgt. Pepper",
+      "testo": "A Londra i Beatles posano per la copertina di Sgt. Pepper's, in divise colorate davanti a decine di sagome di personaggi famosi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Sgt. Pepper's Lonely Hearts Club Band",
+      "tono": "leggero",
+      "indizio": "Domani: i Beatles posano per la copertina più famosa della storia del rock."
+    },
+    {
+      "id": "03-30-1987",
+      "anno": 1987,
+      "titolo": "I Girasoli all'asta",
+      "testo": "Da Christie's a Londra un dipinto dei Girasoli di Van Gogh viene venduto per quasi quaranta milioni di dollari, nel giorno del compleanno del pittore.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Girasoli (Van Gogh)",
+      "tono": "leggero",
+      "indizio": "Domani: un quadro di girasoli batte tutti i record d'asta."
+    },
+    {
+      "id": "03-30-1815",
+      "anno": 1815,
+      "titolo": "Il Proclama di Rimini",
+      "testo": "Gioacchino Murat invita gli italiani a unirsi per l'indipendenza: «Italiani! L'ora è venuta». È considerato uno dei primi atti del Risorgimento.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Proclama di Rimini",
+      "tono": "storico",
+      "indizio": "Domani: un re francese chiama gli italiani all'unità."
+    },
+    {
+      "id": "03-30-1282",
+      "anno": 1282,
+      "titolo": "I Vespri siciliani",
+      "testo": "A Palermo, all'ora del vespro davanti alla chiesa di Santo Spirito, scoppia la rivolta contro i francesi di Carlo d'Angiò.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Vespri siciliani",
+      "tono": "storico",
+      "indizio": "Domani: Palermo insorge all'ora del vespro."
+    },
+    {
+      "id": "03-30-1856",
+      "anno": 1856,
+      "titolo": "Il Congresso di Parigi",
+      "testo": "Finisce la guerra di Crimea: al tavolo della pace siede anche il piccolo Piemonte di Cavour, che porta all'attenzione dell'Europa la questione italiana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Congresso di Parigi",
+      "tono": "storico"
+    },
+    {
+      "id": "03-30-2006",
+      "anno": 2006,
+      "titolo": "Il primo brasiliano nello spazio",
+      "testo": "Il pilota Marcos Pontes è il primo brasiliano a volare nello spazio.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Marcos Pontes",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-30-1954",
+      "anno": 1954,
+      "titolo": "La metropolitana di Toronto",
+      "testo": "Apre a Toronto la prima metropolitana del Canada.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Metropolitana di Toronto",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-30-1981",
+      "anno": 1981,
+      "titolo": "Reagan ferito",
+      "testo": "A Washington un giovane spara al presidente Ronald Reagan, che si salva.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Attentato a Ronald Reagan",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Francisco Goya",
+      "anno": 1746,
+      "chi": "pittore spagnolo",
+      "wiki": "Francisco Goya"
+    },
+    {
+      "nome": "Paul Verlaine",
+      "anno": 1844,
+      "chi": "poeta francese",
+      "wiki": "Paul Verlaine"
+    },
+    {
+      "nome": "Vincent van Gogh",
+      "anno": 1853,
+      "chi": "pittore olandese",
+      "wiki": "Vincent van Gogh"
+    },
+    {
+      "nome": "Warren Beatty",
+      "anno": 1937,
+      "chi": "attore e regista",
+      "wiki": "Warren Beatty"
+    },
+    {
+      "nome": "Eric Clapton",
+      "anno": 1945,
+      "chi": "chitarrista inglese",
+      "wiki": "Eric Clapton"
+    },
+    {
+      "nome": "Céline Dion",
+      "anno": 1968,
+      "chi": "cantante canadese",
+      "wiki": "Céline Dion"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Un solo quadro venduto",
+      "testo": "Van Gogh, nato oggi, in vita vendette pochissimo: si dice un solo quadro, La vigna rossa. Cento anni dopo i suoi Girasoli sono stati venduti per una cifra record."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La folla di Sgt. Pepper",
+      "testo": "Per la copertina di Sgt. Pepper l'artista Peter Blake ritagliò sagome di attori, scrittori e filosofi. Costò quasi tremila sterline, quando di solito una copertina ne costava una cinquantina."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Il brevetto annullato",
+      "testo": "Il brevetto della matita con la gomma fu venduto per una fortuna, ma nel 1875 la Corte suprema americana lo annullò: unire due oggetti già esistenti non era un'invenzione."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Sogno i miei quadri, e poi dipingo i miei sogni.",
+      "autore": "attribuita a Vincent van Gogh",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "La musica prima di ogni cosa.",
+      "autore": "Paul Verlaine",
+      "fonte": "Arte poetica"
+    },
+    {
+      "testo": "Il sonno della ragione genera mostri.",
+      "autore": "Francisco Goya",
+      "fonte": "titolo di un'acquaforte, 1799"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Càlati juncu ca passa la china.",
+      "regione": "Sicilia",
+      "traduzione": "Piegati, giunco, che passa la piena.",
+      "spiegazione": "Nei momenti difficili conviene piegarsi e aspettare che la tempesta passi, per poi rialzarsi.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "A ru cavallu jestimatu luce ru pilu.",
+      "regione": "Calabria",
+      "traduzione": "Al cavallo maledetto luccica il pelo.",
+      "spiegazione": "Le maledizioni degli invidiosi non fanno male: anzi, chi è invidiato prospera.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,242 @@
+{
+  "schema": 1,
+  "giorno": "04-27",
+  "santo": {
+    "nome": "Santa Zita",
+    "nota": "Serva in una famiglia nobile di Lucca per quasi cinquant'anni, nel Duecento, dava il suo pane ai poveri. Una volta, sorpresa dal padrone, il pane nel grembiule si trasformò in fiori. È la patrona delle collaboratrici domestiche.",
+    "altri": [
+      "San Liberale d'Altino",
+      "San Pietro Armengol",
+      "Beata Osanna di Cattaro"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno del re nei Paesi Bassi",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-27-1810",
+      "anno": 1810,
+      "titolo": "Per Elisa",
+      "testo": "Beethoven scrive la data su un piccolo pezzo per pianoforte dedicato a Elisa: Per Elisa sarà ritrovata solo quarant'anni dopo la sua morte.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Per Elisa",
+      "tono": "leggero",
+      "indizio": "Domani: Beethoven scrive un pezzetto per pianoforte che tutti impareranno."
+    },
+    {
+      "id": "04-27-2005",
+      "anno": 2005,
+      "titolo": "Vola l'Airbus A380",
+      "testo": "A Tolosa decolla per la prima volta l'Airbus A380, il più grande aereo passeggeri del mondo, a due piani.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Airbus A380",
+      "tono": "leggero",
+      "indizio": "Domani: decolla l'aereo passeggeri più grande del mondo."
+    },
+    {
+      "id": "04-27-1667",
+      "anno": 1667,
+      "titolo": "Il Paradiso perduto per dieci sterline",
+      "testo": "John Milton, ormai cieco, vende all'editore i diritti del suo Paradiso perduto per cinque sterline subito e altre cinque se vendesse bene.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Paradiso perduto",
+      "tono": "leggero",
+      "indizio": "Domani: un poeta cieco vende il suo capolavoro per dieci sterline."
+    },
+    {
+      "id": "04-27-1981",
+      "anno": 1981,
+      "titolo": "Il mouse in ufficio",
+      "testo": "La Xerox presenta lo Star, il primo computer da ufficio con finestre, icone e mouse.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Xerox Star",
+      "tono": "leggero",
+      "indizio": "Domani: arriva in ufficio un computer con le icone e il mouse."
+    },
+    {
+      "id": "04-27-1950",
+      "anno": 1950,
+      "titolo": "Il Club Med",
+      "testo": "Il belga Gérard Blitz fonda il Club Méditerranée: il primo villaggio, in Spagna, ha tende militari e si paga con perline.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Club Med",
+      "tono": "leggero",
+      "indizio": "Domani: nasce un villaggio vacanze fatto di tende."
+    },
+    {
+      "id": "04-27-1859",
+      "anno": 1859,
+      "titolo": "Firenze senza granduca",
+      "testo": "Il granduca Leopoldo II lascia Firenze senza combattere: la Toscana si prepara a unirsi al Piemonte.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Leopoldo II di Toscana",
+      "tono": "storico"
+    },
+    {
+      "id": "04-27-1901",
+      "anno": 1901,
+      "titolo": "Il giro d'Italia in automobile",
+      "testo": "Parte da Torino il primo Giro automobilistico d'Italia.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Giro automobilistico d'Italia",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-27-1908",
+      "anno": 1908,
+      "titolo": "Le Olimpiadi di Londra",
+      "testo": "Si aprono a Londra i Giochi della IV Olimpiade.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Giochi della IV Olimpiade",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-27-1840",
+      "anno": 1840,
+      "titolo": "Il Palazzo di Westminster",
+      "testo": "Si posa la prima pietra del nuovo Palazzo di Westminster, quello del Big Ben.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Palazzo di Westminster",
+      "tono": "leggero",
+      "indizio": "Domani: Londra posa la prima pietra del palazzo del Big Ben."
+    },
+    {
+      "id": "04-27-1967",
+      "anno": 1967,
+      "titolo": "L'Expo di Montréal",
+      "testo": "Si apre l'Esposizione universale di Montréal.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Expo 67",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-27-1521",
+      "anno": 1521,
+      "titolo": "La morte di Magellano",
+      "testo": "Nelle Filippine, sull'isola di Mactan, Magellano viene ucciso in uno scontro con i guerrieri del capo Lapu-Lapu.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Mactan",
+      "tono": "storico"
+    },
+    {
+      "id": "04-27-2018",
+      "anno": 2018,
+      "titolo": "Kim oltre il confine",
+      "testo": "Kim Jong-un è il primo leader nordcoreano a mettere piede in Corea del Sud.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Vertice intercoreano di aprile 2018",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Edward Gibbon",
+      "anno": 1737,
+      "chi": "storico della decadenza di Roma",
+      "wiki": "Edward Gibbon"
+    },
+    {
+      "nome": "Mary Wollstonecraft",
+      "anno": 1759,
+      "chi": "scrittrice e pensatrice inglese",
+      "wiki": "Mary Wollstonecraft"
+    },
+    {
+      "nome": "Samuel Morse",
+      "anno": 1791,
+      "chi": "inventore del telegrafo",
+      "wiki": "Samuel Morse"
+    },
+    {
+      "nome": "Herbert Spencer",
+      "anno": 1820,
+      "chi": "filosofo inglese",
+      "wiki": "Herbert Spencer"
+    },
+    {
+      "nome": "Ulysses S. Grant",
+      "anno": 1822,
+      "chi": "generale e presidente americano",
+      "wiki": "Ulysses S. Grant"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Elisa o Teresa?",
+      "testo": "Il manoscritto di Per Elisa è andato perduto. Molti studiosi pensano che il nome fosse scritto male e che il pezzo fosse dedicato a Therese Malfatti, una ragazza che Beethoven voleva sposare."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il pittore del telegrafo",
+      "testo": "Samuel Morse, nato oggi, era un pittore famoso. Mentre lavorava a Washington, una lettera gli annunciò che la moglie stava male: quando arrivò a casa era già sepolta. Da allora cercò un modo per far viaggiare le notizie più veloci."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Le perline",
+      "testo": "Nei primi villaggi del Club Med non si usavano soldi: al bar si pagava con collane di perline colorate, per far sentire tutti in vacanza."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La mente è un luogo a sé, e può fare un paradiso dell'inferno, un inferno del paradiso.",
+      "autore": "John Milton",
+      "fonte": "Paradiso perduto"
+    },
+    {
+      "testo": "Non voglio che le donne abbiano potere sugli uomini, ma su se stesse.",
+      "autore": "Mary Wollstonecraft",
+      "fonte": "Rivendicazione dei diritti della donna"
+    },
+    {
+      "testo": "Chi trova un amico trova un tesoro.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "La vigna pampinosa fa poca uva.",
+      "regione": "Toscana",
+      "traduzione": "La vigna con troppe foglie fa poca uva.",
+      "spiegazione": "Chi si mostra troppo spesso conclude poco: l'apparenza non è sostanza.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Chi abbàja assaje se fa 'na panza 'e viento.",
+      "regione": "Campania",
+      "traduzione": "Chi abbaia molto si fa una pancia di vento.",
+      "spiegazione": "Chi parla e minaccia troppo non ottiene niente: resta solo aria.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

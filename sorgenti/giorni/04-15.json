@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "giorno": "04-15",
+  "santo": {
+    "nome": "San Damiano de Veuster",
+    "nota": "Missionario belga dell'Ottocento, chiese di andare nell'isola di Molokai, nelle Hawaii, dove venivano esiliati i malati di lebbra. Visse con loro sedici anni, finché si ammalò anche lui.",
+    "altri": [
+      "San Paterno di Avranches",
+      "Sante Basilissa e Anastasia",
+      "San César de Bus"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata nazionale del Made in Italy",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Giornata mondiale dell'arte",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-15-1874",
+      "anno": 1874,
+      "titolo": "La prima mostra degli impressionisti",
+      "testo": "Nello studio del fotografo Nadar, a Parigi, Monet, Renoir, Degas, Cézanne, Pissarro e altri espongono insieme. Un critico li prende in giro chiamandoli impressionisti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Prima mostra degli impressionisti",
+      "tono": "leggero",
+      "indizio": "Domani: a Parigi un gruppo di pittori rifiutati espone per conto suo."
+    },
+    {
+      "id": "04-15-1923",
+      "anno": 1923,
+      "titolo": "L'insulina in farmacia",
+      "testo": "Comincia la vendita dell'insulina, scoperta due anni prima a Toronto: per i malati di diabete è la salvezza.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Insulina",
+      "tono": "leggero",
+      "indizio": "Domani: arriva in farmacia la medicina che salva i diabetici."
+    },
+    {
+      "id": "04-15-1955",
+      "anno": 1955,
+      "titolo": "Il primo McDonald's di Kroc",
+      "testo": "A Des Plaines, vicino a Chicago, il venditore di frullatori Ray Kroc apre il suo primo ristorante McDonald's: da qui nascerà la catena mondiale.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "McDonald's",
+      "tono": "leggero",
+      "indizio": "Domani: un venditore di frullatori apre un fast food vicino a Chicago."
+    },
+    {
+      "id": "04-15-1738",
+      "anno": 1738,
+      "titolo": "Ombra mai fu",
+      "testo": "A Londra debutta il Serse di Händel: è un fiasco, ma la sua prima aria, dedicata all'ombra di un platano, diventerà uno dei brani più amati della musica.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Serse (Händel)",
+      "tono": "leggero",
+      "indizio": "Domani: debutta un'opera con un'aria d'amore dedicata a un albero."
+    },
+    {
+      "id": "04-15-1959",
+      "anno": 1959,
+      "titolo": "Il reattore di Ispra",
+      "testo": "Sulle rive del lago Maggiore, a Ispra, entra in funzione il primo reattore nucleare di ricerca italiano.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Centro comune di ricerca",
+      "tono": "leggero",
+      "indizio": "Domani: sul lago Maggiore si accende il primo reattore italiano."
+    },
+    {
+      "id": "04-15-2019",
+      "anno": 2019,
+      "titolo": "Brucia Notre-Dame",
+      "testo": "Un incendio distrugge il tetto e la guglia della cattedrale di Notre-Dame a Parigi. Verrà riaperta nel dicembre 2024.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Incendio della cattedrale di Notre-Dame",
+      "tono": "storico"
+    },
+    {
+      "id": "04-15-2017",
+      "anno": 2017,
+      "titolo": "L'ultima dell'Ottocento",
+      "testo": "A Verbania muore a 117 anni Emma Morano, l'ultima persona al mondo nata nell'Ottocento.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Emma Morano",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-15-1896",
+      "anno": 1896,
+      "titolo": "Si chiudono le Olimpiadi",
+      "testo": "Ad Atene si chiudono i primi Giochi olimpici moderni.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Giochi della I Olimpiade",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-15-1936",
+      "anno": 1936,
+      "titolo": "Aer Lingus",
+      "testo": "Nasce la compagnia aerea irlandese Aer Lingus.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Aer Lingus",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-15-1912",
+      "anno": 1912,
+      "titolo": "Il Titanic affonda",
+      "testo": "Nelle prime ore della notte il Titanic, squarciato da un iceberg, affonda nell'Atlantico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Naufragio del Titanic",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Leonardo da Vinci",
+      "anno": 1452,
+      "chi": "genio del Rinascimento",
+      "wiki": "Leonardo da Vinci"
+    },
+    {
+      "nome": "Leonhard Euler",
+      "anno": 1707,
+      "chi": "matematico svizzero",
+      "wiki": "Leonhard Euler"
+    },
+    {
+      "nome": "Henry James",
+      "anno": 1843,
+      "chi": "scrittore statunitense",
+      "wiki": "Henry James"
+    },
+    {
+      "nome": "Bessie Smith",
+      "anno": 1894,
+      "chi": "cantante blues",
+      "wiki": "Bessie Smith"
+    },
+    {
+      "nome": "Claudia Cardinale",
+      "anno": 1938,
+      "chi": "attrice",
+      "wiki": "Claudia Cardinale"
+    },
+    {
+      "nome": "Emma Thompson",
+      "anno": 1959,
+      "chi": "attrice inglese",
+      "wiki": "Emma Thompson"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Impressione, levar del sole",
+      "testo": "Il nome impressionisti viene da un quadro di Monet esposto alla mostra, Impressione, levar del sole. Il critico Louis Leroy lo usò per prenderli in giro: loro lo adottarono con orgoglio."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La scrittura allo specchio",
+      "testo": "Leonardo, nato oggi ad Anchiano vicino a Vinci, scriveva da destra a sinistra, con le lettere rovesciate: per leggere i suoi appunti ci vuole uno specchio. Era mancino."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Il matematico cieco",
+      "testo": "Euler, nato oggi a Basilea, perse la vista quasi del tutto da anziano. Continuò a lavorare dettando: in quegli anni scrisse circa metà delle sue opere."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Chi poco pensa, molto erra.",
+      "autore": "Leonardo da Vinci",
+      "fonte": "Codice Atlantico"
+    },
+    {
+      "testo": "Non si può avere maggiore né minore signoria che quella di se medesimo.",
+      "autore": "Leonardo da Vinci",
+      "fonte": "Manoscritto H"
+    },
+    {
+      "testo": "Ombra mai fu di vegetabile cara ed amabile soave più.",
+      "autore": "Libretto del Serse",
+      "fonte": "Händel, 1738"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A quattrino a quattrino si fa il fiorino.",
+      "regione": "Toscana",
+      "traduzione": "Un soldo dopo l'altro si fa il fiorino.",
+      "spiegazione": "Con la pazienza e il risparmio, poco alla volta si mette insieme molto.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Sté mmànge ppène a trademìnde.",
+      "regione": "Puglia",
+      "traduzione": "Sta mangiando pane a tradimento.",
+      "spiegazione": "Si dice di chi vive alle spalle degli altri, senza guadagnarsi quello che mangia.",
+      "fonte": "Wikiquote, Proverbi gravinesi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,226 @@
+{
+  "schema": 1,
+  "giorno": "04-24",
+  "santo": {
+    "nome": "San Fedele da Sigmaringen",
+    "nota": "Avvocato tedesco del Seicento, detto l'avvocato dei poveri, si fece cappuccino e andò a predicare tra i protestanti dei Grigioni, dove fu ucciso. È il patrono degli avvocati.",
+    "altri": [
+      "Santa Maria Elisabetta Hesselblad",
+      "San Benedetto Menni",
+      "San Gregorio di Elvira"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa della Madonna di Bonaria, patrona della Sardegna",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-24-1990",
+      "anno": 1990,
+      "titolo": "Hubble in orbita",
+      "testo": "Lo Space Shuttle Discovery porta in orbita il telescopio spaziale Hubble: dopo una correzione allo specchio diventerà l'occhio più potente sull'universo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Telescopio spaziale Hubble",
+      "tono": "leggero",
+      "indizio": "Domani: parte un telescopio che vedrà l'universo come mai prima."
+    },
+    {
+      "id": "04-24-1792",
+      "anno": 1792,
+      "titolo": "La Marsigliese",
+      "testo": "A Strasburgo, in una notte, l'ufficiale Rouget de Lisle compone il canto di guerra per l'armata del Reno. Lo canteranno i volontari di Marsiglia, e diventerà la Marsigliese.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "La Marsigliese",
+      "tono": "leggero",
+      "indizio": "Domani: un ufficiale scrive in una notte il canto che diventerà l'inno di Francia."
+    },
+    {
+      "id": "04-24-1704",
+      "anno": 1704,
+      "titolo": "Il primo giornale d'America",
+      "testo": "A Boston esce il News-Letter, il primo giornale pubblicato regolarmente nelle colonie americane.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The Boston News-Letter",
+      "tono": "leggero",
+      "indizio": "Domani: esce a Boston il primo giornale d'America."
+    },
+    {
+      "id": "04-24-1854",
+      "anno": 1854,
+      "titolo": "Sissi sposa Francesco Giuseppe",
+      "testo": "A Vienna la sedicenne Elisabetta di Baviera, Sissi, sposa l'imperatore Francesco Giuseppe.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Elisabetta di Baviera",
+      "tono": "storico",
+      "indizio": "Domani: una principessa bavarese diventa imperatrice d'Austria."
+    },
+    {
+      "id": "04-24-1970",
+      "anno": 1970,
+      "titolo": "Il satellite che canta",
+      "testo": "La Cina lancia il suo primo satellite, Dong Fang Hong 1, che trasmette dallo spazio la canzone L'Oriente è rosso.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Dong Fang Hong 1",
+      "tono": "leggero",
+      "indizio": "Domani: un satellite cinese canta dallo spazio."
+    },
+    {
+      "id": "04-24-1066",
+      "anno": 1066,
+      "titolo": "La cometa di Halley",
+      "testo": "In Europa compare una cometa luminosa: i Normanni la ricameranno nell'arazzo di Bayeux come presagio della conquista dell'Inghilterra. È la cometa di Halley.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Cometa di Halley",
+      "tono": "leggero",
+      "indizio": "Domani: nel cielo d'Europa compare una cometa che finirà ricamata su un arazzo."
+    },
+    {
+      "id": "04-24--1184",
+      "anno": -1184,
+      "titolo": "Il cavallo di Troia",
+      "testo": "Secondo i calcoli dell'antico geografo Eratostene, in questa notte i greci entrano a Troia nascosti nel cavallo di legno.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Cavallo di Troia",
+      "tono": "leggero",
+      "indizio": "Domani: secondo un antico calcolo, Troia apre le porte a un cavallo di legno."
+    },
+    {
+      "id": "04-24-1607",
+      "anno": 1607,
+      "titolo": "Nasce Vittoria",
+      "testo": "In Sicilia la contessa Vittoria Colonna Henriquez fonda la città di Vittoria, che porta il suo nome.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Vittoria (Italia)",
+      "tono": "storico"
+    },
+    {
+      "id": "04-24-2008",
+      "anno": 2008,
+      "titolo": "Padre Pio esposto",
+      "testo": "A San Giovanni Rotondo il corpo di padre Pio viene esposto ai fedeli.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Pio da Pietrelcina",
+      "tono": "storico"
+    },
+    {
+      "id": "04-24-1916",
+      "anno": 1916,
+      "titolo": "La rivolta di Pasqua",
+      "testo": "A Dublino i nazionalisti irlandesi insorgono contro il dominio britannico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Rivolta di Pasqua",
+      "tono": "storico"
+    },
+    {
+      "id": "04-24-1915",
+      "anno": 1915,
+      "titolo": "Il genocidio armeno",
+      "testo": "A Costantinopoli vengono arrestati centinaia di intellettuali armeni: è l'inizio del genocidio.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Genocidio armeno",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Anthony Trollope",
+      "anno": 1815,
+      "chi": "scrittore inglese",
+      "wiki": "Anthony Trollope"
+    },
+    {
+      "nome": "Willem de Kooning",
+      "anno": 1904,
+      "chi": "pittore espressionista",
+      "wiki": "Willem de Kooning"
+    },
+    {
+      "nome": "Shirley MacLaine",
+      "anno": 1934,
+      "chi": "attrice statunitense",
+      "wiki": "Shirley MacLaine"
+    },
+    {
+      "nome": "Barbra Streisand",
+      "anno": 1942,
+      "chi": "cantante e attrice",
+      "wiki": "Barbra Streisand"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Buenos Aires viene da Cagliari",
+      "testo": "Il nome di Buenos Aires viene dalla Madonna di Bonaria di Cagliari, la Madonna dei buoni venti, venerata dai marinai sardi e spagnoli che partivano per le Americhe."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Gli occhiali di Hubble",
+      "testo": "Appena lanciato, Hubble vedeva sfocato: lo specchio era stato levigato con un errore di due millesimi di millimetro. Nel 1993 gli astronauti gli montarono un sistema di correzione, come un paio di occhiali."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Perché Marsigliese",
+      "testo": "Il canto era stato scritto a Strasburgo, ma arrivò a Parigi in bocca ai volontari partiti da Marsiglia, che lo cantavano marciando: i parigini lo chiamarono così."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Avanti, figli della Patria, il giorno della gloria è arrivato!",
+      "autore": "Rouget de Lisle",
+      "fonte": "La Marsigliese"
+    },
+    {
+      "testo": "Temo i Greci anche quando portano doni.",
+      "autore": "Virgilio",
+      "fonte": "Eneide, II"
+    },
+    {
+      "testo": "Il buon giorno si vede dal mattino.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "S'avaru iscorza' su pulighe, 'olende.",
+      "regione": "Sardegna",
+      "traduzione": "L'avaro scortica la pulce mentre salta.",
+      "spiegazione": "L'avaro cerca di guadagnare anche dove non c'è niente da prendere.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Ogne acqua leva 'a sete.",
+      "regione": "Campania",
+      "traduzione": "Ogni acqua toglie la sete.",
+      "spiegazione": "Quando c'è bisogno non si va per il sottile: ci si accontenta di quello che c'è.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

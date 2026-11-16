@@ -1,0 +1,242 @@
+{
+  "schema": 1,
+  "giorno": "04-23",
+  "santo": {
+    "nome": "San Giorgio",
+    "nota": "Soldato cristiano martirizzato in Palestina all'inizio del IV secolo. Il racconto del cavaliere che uccide il drago e salva la principessa lo ha reso uno dei santi più amati: è patrono di Inghilterra, Genova, Ferrara e molte altre città.",
+    "altri": [
+      "Sant'Adalberto di Praga",
+      "Beato Egidio d'Assisi",
+      "Beata Maria Gabriella Sagheddu"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale del libro e del diritto d'autore",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Festa di Sant Jordi in Catalogna",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-23-2005",
+      "anno": 2005,
+      "titolo": "Il primo video di YouTube",
+      "testo": "Jawed Karim, uno dei fondatori, carica su YouTube il primo video: diciotto secondi davanti agli elefanti dello zoo di San Diego.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Me at the zoo",
+      "tono": "leggero",
+      "indizio": "Domani: un ragazzo carica un video di diciotto secondi allo zoo."
+    },
+    {
+      "id": "04-23-1982",
+      "anno": 1982,
+      "titolo": "Lo ZX Spectrum",
+      "testo": "In Inghilterra Clive Sinclair presenta lo ZX Spectrum, il computer con i tasti di gomma su cui una generazione imparerà a programmare e a giocare.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "ZX Spectrum",
+      "tono": "leggero",
+      "indizio": "Domani: arriva un piccolo computer con i tasti di gomma."
+    },
+    {
+      "id": "04-23-1407",
+      "anno": 1407,
+      "titolo": "Il Banco di San Giorgio",
+      "testo": "A Genova nasce la Casa di San Giorgio, una delle prime banche moderne d'Europa: arriverà a governare la Corsica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Banco di San Giorgio",
+      "tono": "storico",
+      "indizio": "Domani: a Genova nasce una banca che governerà un'isola."
+    },
+    {
+      "id": "04-23-1956",
+      "anno": 1956,
+      "titolo": "La Corte costituzionale",
+      "testo": "A Roma si tiene la prima udienza della Corte costituzionale, prevista dalla Costituzione otto anni prima.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Corte costituzionale (Italia)",
+      "tono": "storico",
+      "indizio": "Domani: si riunisce per la prima volta il giudice delle leggi."
+    },
+    {
+      "id": "04-23-1971",
+      "anno": 1971,
+      "titolo": "La cerniera di Sticky Fingers",
+      "testo": "I Rolling Stones pubblicano Sticky Fingers: la copertina di Andy Warhol ha una vera cerniera lampo, che graffiava i dischi vicini nei negozi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Sticky Fingers",
+      "tono": "leggero",
+      "indizio": "Domani: esce un disco con una cerniera vera sulla copertina."
+    },
+    {
+      "id": "04-23-1985",
+      "anno": 1985,
+      "titolo": "La nuova Coca-Cola",
+      "testo": "La Coca-Cola cambia la ricetta e lancia la New Coke. Le proteste sono tali che dopo tre mesi torna quella di prima.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "New Coke",
+      "tono": "leggero",
+      "indizio": "Domani: una famosa bibita cambia ricetta, e se ne pente."
+    },
+    {
+      "id": "04-23-1616",
+      "anno": 1616,
+      "titolo": "Shakespeare e Cervantes",
+      "testo": "Muoiono William Shakespeare e Miguel de Cervantes: è la data scelta dall'UNESCO per la Giornata mondiale del libro.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Giornata mondiale del libro e del diritto d'autore",
+      "tono": "leggero",
+      "indizio": "Domani: se ne vanno i due più grandi scrittori di Inghilterra e Spagna."
+    },
+    {
+      "id": "04-23-1867",
+      "anno": 1867,
+      "titolo": "Lo zootropio",
+      "testo": "L'americano William Lincoln brevetta lo zootropio, un cilindro girevole con fessure che fa sembrare in movimento dei disegni.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Zootropio",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-23-1956b",
+      "anno": 1956,
+      "titolo": "Elvis a Las Vegas",
+      "testo": "Elvis Presley suona per la prima volta a Las Vegas: il pubblico è freddo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Elvis Presley",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-23-1976",
+      "anno": 1976,
+      "titolo": "I Ramones",
+      "testo": "Esce il primo album dei Ramones: quattordici canzoni in meno di mezz'ora.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Ramones (album)",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-23-1348",
+      "anno": 1348,
+      "titolo": "L'Ordine della Giarrettiera",
+      "testo": "Edoardo III fonda l'Ordine della Giarrettiera, dedicato a san Giorgio.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Ordine della Giarrettiera",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "William Shakespeare",
+      "anno": 1564,
+      "chi": "drammaturgo inglese, per tradizione",
+      "wiki": "William Shakespeare"
+    },
+    {
+      "nome": "William Turner",
+      "anno": 1775,
+      "chi": "pittore inglese",
+      "wiki": "William Turner"
+    },
+    {
+      "nome": "Max Planck",
+      "anno": 1858,
+      "chi": "fisico dei quanti",
+      "wiki": "Max Planck"
+    },
+    {
+      "nome": "Sergej Prokof'ev",
+      "anno": 1891,
+      "chi": "compositore di Pierino e il lupo",
+      "wiki": "Sergej Prokof'ev"
+    },
+    {
+      "nome": "Shirley Temple",
+      "anno": 1928,
+      "chi": "attrice bambina",
+      "wiki": "Shirley Temple"
+    },
+    {
+      "nome": "Roy Orbison",
+      "anno": 1936,
+      "chi": "cantante",
+      "wiki": "Roy Orbison"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Lo stesso giorno, ma no",
+      "testo": "Shakespeare e Cervantes morirono entrambi il 23 aprile 1616, ma non lo stesso giorno: l'Inghilterra usava ancora il calendario giuliano, la Spagna già quello gregoriano. Tra le due morti passarono dieci giorni."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una rosa e un libro",
+      "testo": "In Catalogna per Sant Jordi gli innamorati si scambiano una rosa e un libro: le strade di Barcellona si riempiono di bancarelle. Da questa usanza nacque l'idea della Giornata del libro."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il fischio della cassetta",
+      "testo": "Lo ZX Spectrum aveva solo 16 o 48 kilobyte di memoria e i programmi si caricavano da una normale musicassetta, con un fischio lungo diversi minuti."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Essere o non essere, questo è il problema.",
+      "autore": "William Shakespeare",
+      "fonte": "Amleto"
+    },
+    {
+      "testo": "Chi legge molto e cammina molto, vede molto e sa molto.",
+      "autore": "Miguel de Cervantes",
+      "fonte": "Don Chisciotte"
+    },
+    {
+      "testo": "La scienza avanza un funerale alla volta.",
+      "autore": "attribuita a Max Planck",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "San Giorgio dinze, San Marco fora.",
+      "regione": "Trentino-Alto Adige",
+      "traduzione": "Fino a San Giorgio dentro, da San Marco fuori.",
+      "spiegazione": "Tra San Giorgio, il 23 aprile, e San Marco, il 25, si passa dalla stagione chiusa in casa a quella all'aperto: comincia la vita nei campi.",
+      "fonte": "Wikiquote, Proverbi trentini"
+    },
+    {
+      "testo": "Chi cava e non mette, le possessioni si disfanno.",
+      "regione": "Toscana",
+      "traduzione": "Chi toglie e non rimette, rovina il podere.",
+      "spiegazione": "Se si sfrutta la terra senza concimarla si impoverisce: vale per i campi e per i risparmi.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

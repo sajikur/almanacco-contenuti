@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "giorno": "04-07",
+  "santo": {
+    "nome": "San Giovanni Battista de La Salle",
+    "nota": "Sacerdote francese del Seicento, rinunciò a una ricca famiglia per aprire scuole gratuite per i figli dei poveri e fondò i Fratelli delle scuole cristiane. È il patrono degli insegnanti.",
+    "altri": [
+      "Sant'Egesippo",
+      "Sant'Ermanno Giuseppe",
+      "Beata Orsolina di Parma"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale della salute",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-07-1795",
+      "anno": 1795,
+      "titolo": "Nasce il metro",
+      "testo": "La Francia rivoluzionaria adotta il metro, definito come la decimilionesima parte della distanza tra il Polo Nord e l'equatore: una misura uguale per tutti.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Metro",
+      "tono": "leggero",
+      "indizio": "Domani: la Francia inventa una misura uguale per tutti gli uomini."
+    },
+    {
+      "id": "04-07-1969",
+      "anno": 1969,
+      "titolo": "La prima RFC",
+      "testo": "Steve Crocker scrive la prima Request for Comments, «richiesta di commenti», un documento tecnico per la rete ARPANET: è considerata la data simbolica della nascita di internet.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Request for Comments",
+      "tono": "leggero",
+      "indizio": "Domani: un giovane ricercatore scrive con modestia il primo documento di internet."
+    },
+    {
+      "id": "04-07-1805",
+      "anno": 1805,
+      "titolo": "L'Eroica",
+      "testo": "A Vienna Beethoven dirige la prima esecuzione pubblica della Terza sinfonia, l'Eroica. Era dedicata a Napoleone, ma quando questi si proclamò imperatore Beethoven cancellò il nome con rabbia.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Sinfonia n. 3 (Beethoven)",
+      "tono": "leggero",
+      "indizio": "Domani: Beethoven dirige la sinfonia da cui ha cancellato il nome di Napoleone."
+    },
+    {
+      "id": "04-07-1916",
+      "anno": 1916,
+      "titolo": "La prima vittoria di Baracca",
+      "testo": "Sopra Medea, in Friuli, Francesco Baracca abbatte un aereo austriaco: è la prima vittoria aerea della caccia italiana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Francesco Baracca",
+      "tono": "storico",
+      "indizio": "Domani: un pilota romagnolo vince il primo duello aereo italiano."
+    },
+    {
+      "id": "04-07-1933",
+      "anno": 1933,
+      "titolo": "Torna la birra",
+      "testo": "Negli Stati Uniti torna legale la birra leggera, dopo tredici anni di proibizionismo: quella sera si bevono milioni di bottiglie.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Proibizionismo negli Stati Uniti d'America",
+      "tono": "leggero",
+      "indizio": "Domani: l'America torna a brindare con la birra."
+    },
+    {
+      "id": "04-07-1964",
+      "anno": 1964,
+      "titolo": "L'IBM System/360",
+      "testo": "L'IBM presenta il System/360, la prima famiglia di computer compatibili tra loro: i programmi funzionano su tutti i modelli.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "IBM System/360",
+      "tono": "leggero",
+      "indizio": "Domani: nasce la prima famiglia di computer che parlano tutti la stessa lingua."
+    },
+    {
+      "id": "04-07-2002",
+      "anno": 2002,
+      "titolo": "Rossi vince la prima MotoGP",
+      "testo": "A Suzuka, in Giappone, Valentino Rossi vince la prima gara della nuova classe MotoGP.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Valentino Rossi",
+      "tono": "leggero",
+      "indizio": "Domani: il Dottore vince la prima corsa della nuova MotoGP."
+    },
+    {
+      "id": "04-07-2004",
+      "anno": 2004,
+      "titolo": "L'aereo del Piccolo Principe",
+      "testo": "Si annuncia che i rottami trovati in mare al largo di Marsiglia sono dell'aereo di Antoine de Saint-Exupéry, scomparso in volo nel 1944.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Antoine de Saint-Exupéry",
+      "tono": "leggero",
+      "indizio": "Domani: si ritrova in fondo al mare l'aereo dell'autore del Piccolo Principe."
+    },
+    {
+      "id": "04-07-1348",
+      "anno": 1348,
+      "titolo": "L'Università di Praga",
+      "testo": "L'imperatore Carlo IV fonda a Praga la prima università dell'Europa centrale.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Università Carolina",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-07-1992",
+      "anno": 1992,
+      "titolo": "Un fumetto da Pulitzer",
+      "testo": "Maus di Art Spiegelman, la storia dell'Olocausto con i topi e i gatti, vince un premio Pulitzer speciale.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Maus",
+      "tono": "leggero",
+      "indizio": "Domani: un fumetto vince il premio Pulitzer."
+    },
+    {
+      "id": "04-07-2001",
+      "anno": 2001,
+      "titolo": "Mars Odyssey",
+      "testo": "Parte la sonda Mars Odyssey: è ancora in orbita intorno a Marte.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "2001 Mars Odyssey",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Francesco Saverio",
+      "anno": 1506,
+      "chi": "missionario gesuita",
+      "wiki": "Francesco Saverio"
+    },
+    {
+      "nome": "William Wordsworth",
+      "anno": 1770,
+      "chi": "poeta inglese",
+      "wiki": "William Wordsworth"
+    },
+    {
+      "nome": "Billie Holiday",
+      "anno": 1915,
+      "chi": "cantante jazz",
+      "wiki": "Billie Holiday"
+    },
+    {
+      "nome": "Francis Ford Coppola",
+      "anno": 1939,
+      "chi": "regista del Padrino",
+      "wiki": "Francis Ford Coppola"
+    },
+    {
+      "nome": "Jackie Chan",
+      "anno": 1954,
+      "chi": "attore e acrobata",
+      "wiki": "Jackie Chan"
+    },
+    {
+      "nome": "Russell Crowe",
+      "anno": 1964,
+      "chi": "attore",
+      "wiki": "Russell Crowe"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "La Terra misurata",
+      "testo": "Per definire il metro due astronomi, Delambre e Méchain, misurarono per sette anni il meridiano tra Dunkerque e Barcellona, tra guerre e arresti. Méchain fece un piccolo errore che lo tormentò per tutta la vita."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il braccialetto del pescatore",
+      "testo": "Nel 1998 un pescatore di Marsiglia tirò su nella rete un braccialetto d'argento con inciso il nome di Saint-Exupéry e della moglie. Fu l'indizio che portò a ritrovare l'aereo."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il nome modesto",
+      "testo": "Crocker chiamò i suoi appunti Request for Comments per non sembrare presuntuoso: erano solo proposte da discutere. Ancora oggi le regole di internet si chiamano così."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il bambino è padre dell'uomo.",
+      "autore": "William Wordsworth",
+      "fonte": "My Heart Leaps Up"
+    },
+    {
+      "testo": "L'essenziale è invisibile agli occhi.",
+      "autore": "Antoine de Saint-Exupéry",
+      "fonte": "Il Piccolo Principe"
+    },
+    {
+      "testo": "La salute non ha prezzo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "But d'avril a'mpiniss nen ël baril.",
+      "regione": "Piemonte",
+      "traduzione": "Germoglio d'aprile non riempie il barile.",
+      "spiegazione": "Le gemme di aprile sono ancora fragili: per giudicare il raccolto bisogna aspettare.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "Catarru, vinu ccu llu carru.",
+      "regione": "Calabria",
+      "traduzione": "Per il raffreddore, vino a carrettate.",
+      "spiegazione": "Rimedio scherzoso della medicina popolare: per il catarro ci vuole un buon bicchiere di vino.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

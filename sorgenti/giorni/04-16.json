@@ -1,0 +1,241 @@
+{
+  "schema": 1,
+  "giorno": "04-16",
+  "santo": {
+    "nome": "Santa Bernadette Soubirous",
+    "nota": "Figlia di un mugnaio povero di Lourdes, nel 1858, a quattordici anni, vide la Madonna nella grotta di Massabielle. Diventò suora a Nevers, dove morì a trentacinque anni.",
+    "altri": [
+      "San Benedetto Giuseppe Labre",
+      "San Contardo d'Este",
+      "San Magnus delle Orcadi"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale contro la schiavitù infantile",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata mondiale della voce",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-16-1977",
+      "anno": 1977,
+      "titolo": "L'Apple II",
+      "testo": "Alla prima West Coast Computer Faire di San Francisco viene presentato l'Apple II: con la grafica a colori e la tastiera incorporata, porterà il computer nelle case.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Apple II",
+      "tono": "leggero",
+      "indizio": "Domani: debutta un computer da tavolo con la grafica a colori."
+    },
+    {
+      "id": "04-16-1914",
+      "anno": 1914,
+      "titolo": "La tragedia greca a Siracusa",
+      "testo": "Nel teatro greco di Siracusa va in scena l'Agamennone di Eschilo: è il primo spettacolo classico moderno, oltre duemila anni dopo le prime rappresentazioni.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Istituto nazionale del dramma antico",
+      "tono": "leggero",
+      "indizio": "Domani: il teatro greco di Siracusa torna a ospitare la tragedia."
+    },
+    {
+      "id": "04-16-1972",
+      "anno": 1972,
+      "titolo": "Apollo 16",
+      "testo": "Parte l'Apollo 16: John Young e Charlie Duke esploreranno per tre giorni gli altipiani lunari con la jeep elettrica.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Apollo 16",
+      "tono": "leggero",
+      "indizio": "Domani: parte un'altra missione verso la Luna."
+    },
+    {
+      "id": "04-16-1947",
+      "anno": 1947,
+      "titolo": "La guerra fredda",
+      "testo": "In un discorso nella Carolina del Sud il finanziere Bernard Baruch usa per primo l'espressione guerra fredda per i rapporti tra America e Unione Sovietica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Guerra fredda",
+      "tono": "storico",
+      "indizio": "Domani: nasce un'espressione che darà il nome a quarant'anni di storia."
+    },
+    {
+      "id": "04-16-1988",
+      "anno": 1988,
+      "titolo": "Il mio vicino Totoro",
+      "testo": "In Giappone esce Il mio vicino Totoro di Hayao Miyazaki: il grande spirito del bosco diventerà il simbolo dello Studio Ghibli.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Il mio vicino Totoro",
+      "tono": "leggero",
+      "indizio": "Domani: al cinema arriva un grosso spirito del bosco che aspetta l'autobus."
+    },
+    {
+      "id": "04-16-529",
+      "anno": 529,
+      "titolo": "Il codice di Giustiniano",
+      "testo": "A Costantinopoli entra in vigore il codice di Giustiniano, la raccolta delle leggi romane su cui si fonda ancora gran parte del diritto europeo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Codex Iustinianus",
+      "tono": "storico",
+      "indizio": "Domani: entrano in vigore le leggi romane raccolte da un imperatore."
+    },
+    {
+      "id": "04-16-1964",
+      "anno": 1964,
+      "titolo": "A Hard Day's Night",
+      "testo": "Negli studi di Abbey Road i Beatles registrano A Hard Day's Night, con il suo famoso accordo iniziale.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "A Hard Day's Night (singolo)",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-16-1910",
+      "anno": 1910,
+      "titolo": "La Boston Arena",
+      "testo": "A Boston apre la Boston Arena, il più antico palazzetto al chiuso per l'hockey su ghiaccio ancora in uso.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Matthews Arena",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-16-1071",
+      "anno": 1071,
+      "titolo": "Bari normanna",
+      "testo": "Dopo tre anni di assedio Roberto il Guiscardo conquista Bari: finisce la presenza bizantina nell'Italia meridionale.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Assedio di Bari (1068-1071)",
+      "tono": "storico"
+    },
+    {
+      "id": "04-16-2003",
+      "anno": 2003,
+      "titolo": "L'Europa si allarga",
+      "testo": "Ad Atene si firma il trattato che fa entrare nell'Unione europea dieci nuovi paesi.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Allargamento dell'Unione europea del 2004",
+      "tono": "storico"
+    },
+    {
+      "id": "04-16-1995",
+      "anno": 1995,
+      "titolo": "Iqbal Masih",
+      "testo": "In Pakistan viene ucciso Iqbal Masih, il ragazzo di dodici anni che si batteva contro il lavoro minorile nelle fabbriche di tappeti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Iqbal Masih",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Wilbur Wright",
+      "anno": 1867,
+      "chi": "pioniere del volo",
+      "wiki": "Wilbur Wright"
+    },
+    {
+      "nome": "Charlie Chaplin",
+      "anno": 1889,
+      "chi": "attore e regista, Charlot",
+      "wiki": "Charlie Chaplin"
+    },
+    {
+      "nome": "Peter Ustinov",
+      "anno": 1921,
+      "chi": "attore e scrittore",
+      "wiki": "Peter Ustinov"
+    },
+    {
+      "nome": "Henry Mancini",
+      "anno": 1924,
+      "chi": "compositore della Pantera rosa",
+      "wiki": "Henry Mancini"
+    },
+    {
+      "nome": "Benedetto XVI",
+      "anno": 1927,
+      "chi": "papa",
+      "wiki": "Benedetto XVI"
+    },
+    {
+      "nome": "Kareem Abdul-Jabbar",
+      "anno": 1947,
+      "chi": "campione di basket",
+      "wiki": "Kareem Abdul-Jabbar"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "spazio",
+      "titolo": "La foto sulla Luna",
+      "testo": "Charlie Duke lasciò sulla Luna una fotografia della sua famiglia in una bustina di plastica, con dedica sul retro. È ancora lì, sbiadita dal Sole, nella valle di Descartes."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il sosia sconfitto",
+      "testo": "Si racconta che Charlie Chaplin, nato oggi, partecipò per scherzo a un concorso di sosia di Charlot e non vinse. La storia è famosa, ma non ci sono prove certe."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Doppio spettacolo",
+      "testo": "Totoro uscì al cinema insieme a Una tomba per le lucciole, un film tristissimo sulla guerra: erano proiettati uno dopo l'altro. All'inizio nessuno dei due ebbe molto successo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Un giorno senza un sorriso è un giorno perso.",
+      "autore": "attribuita a Charlie Chaplin",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Un semplice e umile lavoratore nella vigna del Signore.",
+      "autore": "Benedetto XVI",
+      "fonte": "19 aprile 2005"
+    },
+    {
+      "testo": "Si impara soffrendo.",
+      "autore": "Eschilo",
+      "fonte": "Agamennone"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Addò fai la stat' fai l' mmern.",
+      "regione": "Lazio",
+      "traduzione": "Dove passi l'estate passi l'inverno.",
+      "spiegazione": "Chi ti accoglie nei momenti belli deve poterti accogliere anche in quelli difficili; e chi vuole solo il bello, poi paga il brutto.",
+      "fonte": "Wikiquote, Proverbi alatrensi"
+    },
+    {
+      "testo": "Ammatula ca t'allisci e fai cannola, 'u santu è di mammuru e nun sura.",
+      "regione": "Sicilia",
+      "traduzione": "Inutile che ti agghindi e prepari dolci: il santo è di marmo e non suda.",
+      "spiegazione": "È inutile insistere con chi non si lascia commuovere: certe persone non cambiano idea.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

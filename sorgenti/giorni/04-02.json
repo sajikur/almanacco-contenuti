@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "giorno": "04-02",
+  "santo": {
+    "nome": "San Francesco da Paola",
+    "nota": "Eremita calabrese del Quattrocento, fondatore dei Minimi, chiamato in Francia da re Luigi XI. La leggenda racconta che attraversò lo stretto di Messina navigando sul suo mantello: è il patrono della gente di mare.",
+    "altri": [
+      "Sant'Abbondio di Como",
+      "Beata Elisabetta Vendramini",
+      "Beato Leopoldo da Gaiche"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale del libro per ragazzi",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata mondiale della consapevolezza sull'autismo",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-02-568",
+      "anno": 568,
+      "titolo": "I Longobardi in Italia",
+      "testo": "Guidati dal re Alboino, i Longobardi scendono in Italia dal Friuli con le loro famiglie e il bestiame: resteranno più di due secoli.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Longobardi",
+      "tono": "storico",
+      "indizio": "Domani: un popolo intero scende dalle Alpi con carri e bestiame."
+    },
+    {
+      "id": "04-02-1902",
+      "anno": 1902,
+      "titolo": "Il primo cinema",
+      "testo": "A Los Angeles apre l'Electric Theatre, la prima sala americana dedicata solo al cinema: biglietto a dieci centesimi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Electric Theatre",
+      "tono": "leggero",
+      "indizio": "Domani: apre in America la prima sala solo per il cinema."
+    },
+    {
+      "id": "04-02-1912",
+      "anno": 1912,
+      "titolo": "Il Titanic lascia Belfast",
+      "testo": "Il Titanic lascia i cantieri di Belfast per le prove in mare e parte per Southampton, da dove salperà per il suo primo viaggio.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "RMS Titanic",
+      "tono": "leggero",
+      "indizio": "Domani: una nave gigantesca lascia il cantiere."
+    },
+    {
+      "id": "04-02-1801",
+      "anno": 1801,
+      "titolo": "L'occhio cieco di Nelson",
+      "testo": "Nella battaglia di Copenaghen l'ammiraglio Nelson riceve l'ordine di ritirarsi: si porta il cannocchiale all'occhio cieco e dice di non vedere nessun segnale.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Battaglia di Copenaghen (1801)",
+      "tono": "storico"
+    },
+    {
+      "id": "04-02-1943",
+      "anno": 1943,
+      "titolo": "Arrivano Cip e Ciop",
+      "testo": "I due scoiattoli Cip e Ciop debuttano in un cartone di Pluto.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Cip e Ciop",
+      "tono": "leggero",
+      "indizio": "Domani: debuttano due scoiattoli dispettosi."
+    },
+    {
+      "id": "04-02-2018",
+      "anno": 2018,
+      "titolo": "Cade Tiangong",
+      "testo": "Il laboratorio spaziale cinese Tiangong 1 rientra nell'atmosfera e si disintegra sul Pacifico.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Tiangong 1",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-02-2005",
+      "anno": 2005,
+      "titolo": "Muore Giovanni Paolo II",
+      "testo": "Alle 21.37 muore papa Giovanni Paolo II, dopo quasi ventisette anni di pontificato. Piazza San Pietro è piena di gente in preghiera.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Papa Giovanni Paolo II",
+      "tono": "storico",
+      "indizio": "Domani: piazza San Pietro si riempie di gente in preghiera."
+    },
+    {
+      "id": "04-02-1948",
+      "anno": 1948,
+      "titolo": "Il Piano Marshall",
+      "testo": "Il Congresso americano approva il Piano Marshall per la ricostruzione dell'Europa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Piano Marshall",
+      "tono": "storico"
+    },
+    {
+      "id": "04-02-1930",
+      "anno": 1930,
+      "titolo": "Hailé Selassié",
+      "testo": "Ras Tafari viene proclamato imperatore d'Etiopia con il nome di Hailé Selassié.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Hailé Selassié",
+      "tono": "storico"
+    },
+    {
+      "id": "04-02-1982",
+      "anno": 1982,
+      "titolo": "Le Falkland",
+      "testo": "L'Argentina occupa le isole Falkland: comincia la guerra con il Regno Unito.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Guerra delle Falkland",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Giacomo Casanova",
+      "anno": 1725,
+      "chi": "avventuriero e scrittore veneziano",
+      "wiki": "Giacomo Casanova"
+    },
+    {
+      "nome": "Hans Christian Andersen",
+      "anno": 1805,
+      "chi": "scrittore danese di fiabe",
+      "wiki": "Hans Christian Andersen"
+    },
+    {
+      "nome": "Émile Zola",
+      "anno": 1840,
+      "chi": "scrittore francese",
+      "wiki": "Émile Zola"
+    },
+    {
+      "nome": "Alec Guinness",
+      "anno": 1914,
+      "chi": "attore inglese",
+      "wiki": "Alec Guinness"
+    },
+    {
+      "nome": "Marvin Gaye",
+      "anno": 1939,
+      "chi": "cantante soul",
+      "wiki": "Marvin Gaye"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il compleanno dei libri per ragazzi",
+      "testo": "La giornata internazionale del libro per ragazzi cade il 2 aprile perché è il compleanno di Hans Christian Andersen, l'autore della Sirenetta e del Brutto anatroccolo."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "La fuga dai Piombi",
+      "testo": "Casanova, nato oggi a Venezia, fu chiuso nel 1755 nelle prigioni dei Piombi, sotto il tetto del Palazzo Ducale. Ne fuggì l'anno dopo passando dal tetto: l'unico, si dice, a riuscirci."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Chiudere un occhio, all'inglese",
+      "testo": "Dall'episodio di Copenaghen gli inglesi hanno preso il modo di dire turn a blind eye, cioè chiudere un occhio, letteralmente voltare l'occhio cieco."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La vita stessa è la fiaba più meravigliosa.",
+      "autore": "Hans Christian Andersen",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Ho il diritto di essere cieco, qualche volta.",
+      "autore": "Horatio Nelson",
+      "fonte": "Copenaghen, 1801"
+    },
+    {
+      "testo": "Charitas.",
+      "autore": "San Francesco da Paola",
+      "fonte": "motto dei Minimi"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Ainu malu, orriu bonu.",
+      "regione": "Sardegna",
+      "traduzione": "Asino cattivo, raglio buono.",
+      "spiegazione": "Chi vale poco spesso fa molto rumore.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    },
+    {
+      "testo": "Sbaglia u prèute 'ngoppe all'autare e nén pozze sbaglià' i'!",
+      "regione": "Molise",
+      "traduzione": "Sbaglia il prete sull'altare e non posso sbagliare io!",
+      "spiegazione": "Tutti possono sbagliare: anche i più esperti, figuriamoci noi.",
+      "fonte": "Wikiquote, Proverbi molisani"
+    }
+  ],
+  "prima_pagina": null
+}

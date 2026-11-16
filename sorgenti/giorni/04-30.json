@@ -1,0 +1,237 @@
+{
+  "schema": 1,
+  "giorno": "04-30",
+  "santo": {
+    "nome": "San Pio V",
+    "nota": "Il domenicano Michele Ghislieri, nato a Bosco Marengo, diventò papa nel 1566. Vestiva il saio bianco anche da pontefice: da lui viene la veste bianca dei papi. Sotto di lui la flotta cristiana vinse a Lepanto.",
+    "altri": [
+      "San Giuseppe Benedetto Cottolengo",
+      "Santa Sofia di Fermo",
+      "San Mercuriale di Forlì"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale del jazz",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Notte di Valpurga nei paesi del Nord",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-30-1803",
+      "anno": 1803,
+      "titolo": "L'acquisto della Louisiana",
+      "testo": "La Francia di Napoleone vende agli Stati Uniti la Louisiana, un territorio immenso dal Mississippi alle Montagne Rocciose, per quindici milioni di dollari.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Acquisto della Louisiana",
+      "tono": "storico",
+      "indizio": "Domani: l'America raddoppia comprando un territorio da Napoleone."
+    },
+    {
+      "id": "04-30-1993",
+      "anno": 1993,
+      "titolo": "Il Web è di tutti",
+      "testo": "Il CERN rende pubblico il software del World Wide Web e rinuncia a ogni diritto: chiunque può usarlo gratis.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "World Wide Web",
+      "tono": "leggero",
+      "indizio": "Domani: il CERN regala il Web al mondo."
+    },
+    {
+      "id": "04-30-1789",
+      "anno": 1789,
+      "titolo": "Washington presidente",
+      "testo": "Sul balcone della Federal Hall di New York George Washington giura come primo presidente degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "George Washington",
+      "tono": "storico",
+      "indizio": "Domani: a New York giura il primo presidente degli Stati Uniti."
+    },
+    {
+      "id": "04-30-1939",
+      "anno": 1939,
+      "titolo": "Il presidente in televisione",
+      "testo": "All'apertura della Fiera mondiale di New York Franklin Roosevelt è il primo presidente americano ad apparire in televisione.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Fiera mondiale di New York 1939",
+      "tono": "leggero",
+      "indizio": "Domani: un presidente compare per la prima volta sullo schermo della tv."
+    },
+    {
+      "id": "04-30-1904",
+      "anno": 1904,
+      "titolo": "La fiera di St. Louis",
+      "testo": "Si apre l'Esposizione universale di St. Louis: secondo la tradizione lì si diffusero il cono gelato, l'hamburger e il tè freddo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Esposizione universale di St. Louis",
+      "tono": "leggero",
+      "indizio": "Domani: si apre una fiera dove nasceranno, si dice, il cono gelato e il tè freddo."
+    },
+    {
+      "id": "04-30-1848",
+      "anno": 1848,
+      "titolo": "La carica di Pastrengo",
+      "testo": "A Pastrengo, vicino al lago di Garda, tre squadroni di carabinieri a cavallo caricano gli austriaci e salvano re Carlo Alberto da un'imboscata.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Battaglia di Pastrengo",
+      "tono": "storico",
+      "indizio": "Domani: i carabinieri a cavallo caricano a Pastrengo."
+    },
+    {
+      "id": "04-30-1943",
+      "anno": 1943,
+      "titolo": "L'uomo che non è mai esistito",
+      "testo": "Un sottomarino inglese lascia al largo della Spagna il cadavere di un finto ufficiale con documenti falsi sullo sbarco alleato: i tedeschi ci cascano e spostano le truppe lontano dalla Sicilia.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Operazione Mincemeat",
+      "tono": "storico",
+      "indizio": "Domani: un sottomarino lascia in mare un ufficiale che non è mai esistito."
+    },
+    {
+      "id": "04-30-1573",
+      "anno": 1573,
+      "titolo": "Crolla la torre di Beauvais",
+      "testo": "Crolla la torre della cattedrale di Beauvais, che i costruttori avevano voluto più alta di tutte: era stata finita solo quattro anni prima.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Cattedrale di Beauvais",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-30-1977",
+      "anno": 1977,
+      "titolo": "Le madri di Plaza de Mayo",
+      "testo": "A Buenos Aires quattordici madri di desaparecidos sfilano per la prima volta davanti al palazzo del governo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Madri di Plaza de Mayo",
+      "tono": "storico",
+      "indizio": "Domani: un gruppo di madri sfila in silenzio davanti al governo argentino."
+    },
+    {
+      "id": "04-30-1975",
+      "anno": 1975,
+      "titolo": "La caduta di Saigon",
+      "testo": "I carri armati nordvietnamiti entrano a Saigon: finisce la guerra del Vietnam.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Caduta di Saigon",
+      "tono": "storico"
+    },
+    {
+      "id": "04-30-311",
+      "anno": 311,
+      "titolo": "L'editto di Galerio",
+      "testo": "L'imperatore Galerio concede ai cristiani la libertà di culto, due anni prima di Costantino.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Editto di Galerio",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Carl Friedrich Gauss",
+      "anno": 1777,
+      "chi": "il principe dei matematici",
+      "wiki": "Carl Friedrich Gauss"
+    },
+    {
+      "nome": "Franz Lehár",
+      "anno": 1870,
+      "chi": "compositore della Vedova allegra",
+      "wiki": "Franz Lehár"
+    },
+    {
+      "nome": "Jaroslav Hašek",
+      "anno": 1883,
+      "chi": "scrittore del buon soldato Švejk",
+      "wiki": "Jaroslav Hašek"
+    },
+    {
+      "nome": "Claude Shannon",
+      "anno": 1916,
+      "chi": "padre della teoria dell'informazione",
+      "wiki": "Claude Shannon"
+    },
+    {
+      "nome": "Kirsten Dunst",
+      "anno": 1982,
+      "chi": "attrice",
+      "wiki": "Kirsten Dunst"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "La somma del bambino",
+      "testo": "Si racconta che Gauss, a sette anni, dovesse sommare con la classe tutti i numeri da 1 a 100. Lui capì subito che 1+100, 2+99 e così via fanno sempre 101: cinquanta coppie, 5050. Finì in pochi secondi."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il maggiore Martin",
+      "testo": "Il cadavere dell'operazione Mincemeat era di un senzatetto gallese. Gli inglesi gli costruirono una vita intera: lettere della fidanzata, biglietti del teatro, perfino il conto di un negozio, per rendere credibile il maggiore William Martin."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Tre centesimi l'acro",
+      "testo": "Con la Louisiana gli Stati Uniti pagarono circa tre centesimi per ogni acro di terra e raddoppiarono il loro territorio. Napoleone aveva bisogno di soldi per la guerra con l'Inghilterra."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La matematica è la regina delle scienze.",
+      "autore": "Carl Friedrich Gauss",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Maggio ortolano, molta paglia e poco grano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "La fortuna aiuta gli audaci.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Nu bécchiere 'é vine prima 'a ménestra saluta u miéréche d'â fénestra.",
+      "regione": "Molise",
+      "traduzione": "Un bicchiere di vino prima della minestra saluta il medico dalla finestra.",
+      "spiegazione": "Un po' di vino a tavola fa bene: il medico resta fuori casa.",
+      "fonte": "Wikiquote, Proverbi molisani"
+    },
+    {
+      "testo": "Sangu e dinari su' forti a cacciari.",
+      "regione": "Calabria",
+      "traduzione": "Sangue e soldi sono difficili da tirare fuori.",
+      "spiegazione": "Nessuno si separa volentieri dal proprio denaro, come dal proprio sangue.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,224 @@
+{
+  "schema": 1,
+  "giorno": "03-19",
+  "santo": {
+    "nome": "San Giuseppe",
+    "nota": "Il falegname di Nazaret, sposo di Maria e padre di Gesù sulla terra. È patrono della Chiesa universale, dei lavoratori e dei papà: per questo in Italia oggi è la festa del papà.",
+    "altri": [
+      "San Giovanni abate",
+      "Beata Sibillina Biscossi",
+      "Beato Marcel Callo"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Festa del papà",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Falò e tavolate di San Giuseppe in molti paesi",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-19-1932",
+      "anno": 1932,
+      "titolo": "Il ponte di Sydney",
+      "testo": "Si inaugura l'Harbour Bridge di Sydney, l'arco d'acciaio più largo del mondo. Prima che il premier tagli il nastro, un uomo a cavallo lo taglia con la sciabola.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Sydney Harbour Bridge",
+      "tono": "leggero",
+      "indizio": "Domani: a Sydney un cavaliere taglia il nastro al posto del primo ministro."
+    },
+    {
+      "id": "03-19-1918",
+      "anno": 1918,
+      "titolo": "L'ora legale in America",
+      "testo": "Il Congresso degli Stati Uniti stabilisce i fusi orari e introduce l'ora legale estiva per risparmiare carbone durante la guerra.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Ora legale",
+      "tono": "leggero",
+      "indizio": "Domani: l'America sposta per legge le lancette avanti di un'ora."
+    },
+    {
+      "id": "03-19-1831",
+      "anno": 1831,
+      "titolo": "La prima rapina in banca",
+      "testo": "A New York Edward Smith svaligia la City Bank con chiavi false: è la prima rapina in banca della storia americana. Viene preso quasi subito.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Edward Smith (rapinatore)",
+      "tono": "leggero",
+      "indizio": "Domani: a New York si consuma la prima rapina in banca d'America."
+    },
+    {
+      "id": "03-19-1915",
+      "anno": 1915,
+      "titolo": "Plutone fotografato senza saperlo",
+      "testo": "All'osservatorio Lowell una lastra fotografica cattura un debole puntino: è Plutone, ma nessuno se ne accorge. Lo troveranno solo quindici anni dopo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Plutone (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: una fotografia coglie un pianeta che nessuno vede."
+    },
+    {
+      "id": "03-19-1958",
+      "anno": 1958,
+      "titolo": "Il primo Parlamento europeo",
+      "testo": "A Strasburgo si riunisce per la prima volta l'Assemblea parlamentare europea, antenata del Parlamento europeo. La presiede Robert Schuman.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Parlamento europeo",
+      "tono": "storico",
+      "indizio": "Domani: a Strasburgo si siedono per la prima volta i deputati d'Europa."
+    },
+    {
+      "id": "03-19-1981",
+      "anno": 1981,
+      "titolo": "Il papa in fabbrica",
+      "testo": "Giovanni Paolo II visita le acciaierie di Terni: è la prima volta che un papa entra in una fabbrica.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Acciai Speciali Terni",
+      "tono": "storico",
+      "indizio": "Domani: un papa entra per la prima volta in una fabbrica."
+    },
+    {
+      "id": "03-19-2013",
+      "anno": 2013,
+      "titolo": "La messa di Francesco",
+      "testo": "In piazza San Pietro si celebra la messa di inizio del pontificato di papa Francesco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Papa Francesco",
+      "tono": "storico"
+    },
+    {
+      "id": "03-19-1954",
+      "anno": 1954,
+      "titolo": "La boxe a colori",
+      "testo": "Dal Madison Square Garden va in onda il primo incontro di pugilato trasmesso a colori.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 2,
+      "wiki": "Madison Square Garden",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-19-1687",
+      "anno": 1687,
+      "titolo": "La morte di La Salle",
+      "testo": "Nel Texas di oggi l'esploratore francese La Salle, che aveva disceso il Mississippi fino al mare, viene ucciso dai suoi uomini.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "René-Robert Cavelier de La Salle",
+      "tono": "storico"
+    },
+    {
+      "id": "03-19-1994",
+      "anno": 1994,
+      "titolo": "Don Peppe Diana",
+      "testo": "A Casal di Principe la camorra uccide don Giuseppe Diana, nella sua chiesa, il giorno del suo onomastico.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Giuseppe Diana",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "David Livingstone",
+      "anno": 1813,
+      "chi": "esploratore scozzese dell'Africa",
+      "wiki": "David Livingstone"
+    },
+    {
+      "nome": "Richard Francis Burton",
+      "anno": 1821,
+      "chi": "esploratore e traduttore delle Mille e una notte",
+      "wiki": "Richard Francis Burton"
+    },
+    {
+      "nome": "Wyatt Earp",
+      "anno": 1848,
+      "chi": "sceriffo del Far West",
+      "wiki": "Wyatt Earp"
+    },
+    {
+      "nome": "Philip Roth",
+      "anno": 1933,
+      "chi": "scrittore statunitense",
+      "wiki": "Philip Roth"
+    },
+    {
+      "nome": "Ursula Andress",
+      "anno": 1936,
+      "chi": "attrice svizzera",
+      "wiki": "Ursula Andress"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Le zeppole",
+      "testo": "Per San Giuseppe a Napoli si mangiano le zeppole, fritte o al forno, con crema e amarena; a Roma i bignè. Il santo era detto «frittellaro» perché, si racconta, durante la fuga in Egitto vendette frittelle per mantenere la famiglia."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Il nastro tagliato a cavallo",
+      "testo": "Al ponte di Sydney Francis de Groot, un antiquario in uniforme da ufficiale, galoppò fino al nastro e lo tagliò con la sciabola, per protesta contro il premier. Fu multato, il nastro riannodato e tagliato di nuovo."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Una festa del papà mobile",
+      "testo": "In Italia la festa del papà cade a San Giuseppe. Negli Stati Uniti e in molti altri paesi si celebra invece la terza domenica di giugno."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il dottor Livingstone, suppongo?",
+      "autore": "Henry Morton Stanley",
+      "fonte": "Ujiji, 1871"
+    },
+    {
+      "testo": "Andrò ovunque, purché sia avanti.",
+      "autore": "attribuita a David Livingstone",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Tale padre, tale figlio.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A Sant Giusepp se tira ol fiaa: ol dì e la nòcc hinn longh inguaa.",
+      "regione": "Lombardia",
+      "traduzione": "A San Giuseppe si tira il fiato: il giorno e la notte sono lunghi uguali.",
+      "spiegazione": "Intorno al 19 marzo cade l'equinozio: giorno e notte si equivalgono e i lavori dei campi riprendono.",
+      "fonte": "Wikiquote, Proverbi brianzoli"
+    },
+    {
+      "testo": "Beatu chiddu oceddu, chi fa lu nidu a lo so paisi.",
+      "regione": "Sicilia",
+      "traduzione": "Beato quell'uccello che fa il nido al suo paese.",
+      "spiegazione": "Fortunato chi può vivere e mettere su famiglia nella sua terra, senza emigrare.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

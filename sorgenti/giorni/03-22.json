@@ -1,0 +1,234 @@
+{
+  "schema": 1,
+  "giorno": "03-22",
+  "santo": {
+    "nome": "Santa Lea di Roma",
+    "nota": "Nobile vedova romana del IV secolo, amica di san Girolamo, trasformò la sua casa in un piccolo monastero e visse in umiltà tra le sue serve.",
+    "altri": [
+      "Santi Callinico e Basilissa",
+      "San Benvenuto Scotivoli",
+      "Beato Clemens August von Galen"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale dell'acqua",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-22-1895",
+      "anno": 1895,
+      "titolo": "Il primo film dei Lumière",
+      "testo": "A Parigi, davanti a un piccolo pubblico di industriali, i fratelli Lumière proiettano il loro primo film: gli operai che escono dalla fabbrica di Lione.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "L'uscita dalle officine Lumière",
+      "tono": "leggero",
+      "indizio": "Domani: a Parigi si accende per la prima volta il cinematografo."
+    },
+    {
+      "id": "03-22-1848",
+      "anno": 1848,
+      "titolo": "Milano libera",
+      "testo": "Dopo la battaglia di Porta Tosa gli austriaci lasciano Milano: finiscono le Cinque giornate. Lo stesso giorno a Venezia nasce la Repubblica di San Marco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Cinque giornate di Milano",
+      "tono": "storico",
+      "indizio": "Domani: gli austriaci se ne vanno da Milano."
+    },
+    {
+      "id": "03-22-1885",
+      "anno": 1885,
+      "titolo": "La prima pietra del Vittoriano",
+      "testo": "Il re Umberto I posa la prima pietra del Vittoriano, il monumento a Vittorio Emanuele II in piazza Venezia.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Vittoriano",
+      "tono": "storico",
+      "indizio": "Domani: a Roma si posa la prima pietra di un monumento bianchissimo."
+    },
+    {
+      "id": "03-22-1963",
+      "anno": 1963,
+      "titolo": "Please Please Me",
+      "testo": "Esce in Gran Bretagna Please Please Me, il primo album dei Beatles, registrato quasi tutto in un solo giorno.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Please Please Me (album)",
+      "tono": "leggero",
+      "indizio": "Domani: esce il primo album dei Beatles, registrato in un giorno."
+    },
+    {
+      "id": "03-22-1960",
+      "anno": 1960,
+      "titolo": "Il brevetto del laser",
+      "testo": "Arthur Schawlow e Charles Townes ottengono il brevetto per il maser ottico, cioè il laser.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Laser",
+      "tono": "leggero",
+      "indizio": "Domani: due fisici brevettano un raggio di luce che non si allarga."
+    },
+    {
+      "id": "03-22-1993",
+      "anno": 1993,
+      "titolo": "Il Pentium",
+      "testo": "Intel lancia il processore Pentium: è il primo a non avere un numero come nome.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Pentium",
+      "tono": "leggero",
+      "indizio": "Domani: esce un processore che rinuncia ai numeri per un nome."
+    },
+    {
+      "id": "03-22-1995",
+      "anno": 1995,
+      "titolo": "Un anno e due mesi nello spazio",
+      "testo": "Il medico russo Valerij Poljakov torna sulla Terra dopo 437 giorni sulla stazione Mir: è il record di permanenza nello spazio.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Valerij Poljakov",
+      "tono": "leggero",
+      "indizio": "Domani: un medico torna sulla Terra dopo più di un anno nello spazio."
+    },
+    {
+      "id": "03-22-1888",
+      "anno": 1888,
+      "titolo": "La Football League",
+      "testo": "A Londra si riuniscono i dirigenti dei club inglesi che daranno vita alla Football League, il primo campionato di calcio del mondo.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "English Football League",
+      "tono": "leggero",
+      "indizio": "Domani: nasce il primo campionato di calcio del mondo."
+    },
+    {
+      "id": "03-22-1994",
+      "anno": 1994,
+      "titolo": "La Voce di Montanelli",
+      "testo": "Esce il primo numero della Voce, il quotidiano fondato da Indro Montanelli dopo aver lasciato il Giornale.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "La Voce (quotidiano 1994)",
+      "tono": "leggero",
+      "indizio": "Domani: un grande giornalista fonda un nuovo quotidiano."
+    },
+    {
+      "id": "03-22-1765",
+      "anno": 1765,
+      "titolo": "Lo Stamp Act",
+      "testo": "Il Parlamento inglese approva la tassa sui documenti stampati nelle colonie americane: sarà una delle scintille della rivoluzione.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Stamp Act",
+      "tono": "storico"
+    },
+    {
+      "id": "03-22-1872",
+      "anno": 1872,
+      "titolo": "La parità in Illinois",
+      "testo": "L'Illinois è il primo stato americano a vietare di escludere le donne da un lavoro in base al sesso.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Illinois",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Antoon van Dyck",
+      "anno": 1599,
+      "chi": "pittore fiammingo",
+      "wiki": "Antoon van Dyck"
+    },
+    {
+      "nome": "Marcel Marceau",
+      "anno": 1923,
+      "chi": "mimo francese",
+      "wiki": "Marcel Marceau"
+    },
+    {
+      "nome": "William Shatner",
+      "anno": 1931,
+      "chi": "attore, il capitano Kirk",
+      "wiki": "William Shatner"
+    },
+    {
+      "nome": "Andrew Lloyd Webber",
+      "anno": 1948,
+      "chi": "compositore di musical",
+      "wiki": "Andrew Lloyd Webber"
+    },
+    {
+      "nome": "Reese Witherspoon",
+      "anno": 1976,
+      "chi": "attrice statunitense",
+      "wiki": "Reese Witherspoon"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "La Pasqua più bassa",
+      "testo": "Il 22 marzo è il primo giorno possibile per la Pasqua cattolica. È successo l'ultima volta nel 1818 e la prossima sarà nel 2285: nessuno di noi la vedrà."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La macchina da scrivere",
+      "testo": "I romani chiamano il Vittoriano la macchina da scrivere o la torta nuziale, per la sua forma e il marmo bianchissimo di Botticino. Inaugurato nel 1911, fu finito solo nel 1935."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Le iniziali del laser",
+      "testo": "Laser è una sigla inglese: amplificazione della luce mediante emissione stimolata di radiazione. Quando fu inventato qualcuno lo definì una soluzione in cerca di un problema."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "L'acqua è il vetturale della natura.",
+      "autore": "Leonardo da Vinci",
+      "fonte": "scritti"
+    },
+    {
+      "testo": "Acqua passata non macina più.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Acqua cheta rovina i ponti.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "I truoni 'e marz' revegghiene i scurzuni.",
+      "regione": "Basilicata",
+      "traduzione": "I tuoni di marzo risvegliano i serpenti.",
+      "spiegazione": "I primi temporali di primavera segnano la fine del letargo degli animali.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    },
+    {
+      "testo": "A oselo ingordo ghe crepa 'l gosso.",
+      "regione": "Veneto",
+      "traduzione": "All'uccello ingordo crepa il gozzo.",
+      "spiegazione": "Chi vuole troppo, tutto e subito, finisce per farsi male.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    }
+  ],
+  "prima_pagina": null
+}

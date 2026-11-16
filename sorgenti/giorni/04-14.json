@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "giorno": "04-14",
+  "santo": {
+    "nome": "San Pietro Gonzales",
+    "nota": "Domenicano spagnolo del Duecento, predicatore tra i marinai della Galizia, che lo chiamarono San Telmo. I marinai lo invocavano contro le tempeste: a lui, insieme a sant'Erasmo, sono legati i fuochi di Sant'Elmo.",
+    "altri": [
+      "Santa Liduina di Schiedam",
+      "Santi Tiburzio, Valeriano e Massimo",
+      "San Lamberto di Lione"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "04-14-1894",
+      "anno": 1894,
+      "titolo": "Il cinetoscopio",
+      "testo": "A New York, a Broadway, apre la prima sala di cinetoscopi di Edison: si guardano brevi film, uno alla volta, chinati su una scatola di legno.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Cinetoscopio",
+      "tono": "leggero",
+      "indizio": "Domani: a Broadway si guardano per la prima volta i film dentro una scatola."
+    },
+    {
+      "id": "04-14-1561",
+      "anno": 1561,
+      "titolo": "La battaglia nel cielo di Norimberga",
+      "testo": "All'alba gli abitanti di Norimberga raccontano di aver visto nel cielo sfere, croci e cilindri che combattevano tra loro. Un foglio illustrato dell'epoca ne conserva il ricordo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Fenomeno celeste di Norimberga del 1561",
+      "tono": "leggero",
+      "indizio": "Domani: il cielo di una città tedesca si riempie di strane figure."
+    },
+    {
+      "id": "04-14-2003",
+      "anno": 2003,
+      "titolo": "Il genoma umano",
+      "testo": "Si annuncia il completamento della mappa del genoma umano: tre miliardi di lettere del nostro DNA, lette in tredici anni da scienziati di sei paesi.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Progetto genoma umano",
+      "tono": "leggero",
+      "indizio": "Domani: gli scienziati finiscono di leggere il libro della vita."
+    },
+    {
+      "id": "04-14-1828",
+      "anno": 1828,
+      "titolo": "Il dizionario di Webster",
+      "testo": "Noah Webster pubblica il suo dizionario americano: è lui che fa scrivere agli americani color invece di colour e center invece di centre.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Noah Webster",
+      "tono": "leggero",
+      "indizio": "Domani: esce il dizionario che inventa l'inglese d'America."
+    },
+    {
+      "id": "04-14-1956",
+      "anno": 1956,
+      "titolo": "Il videoregistratore",
+      "testo": "A Chicago l'Ampex presenta il primo videoregistratore a nastro: la televisione può registrare i programmi invece di trasmetterli solo in diretta.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Videoregistratore",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta la televisione si può registrare."
+    },
+    {
+      "id": "04-14-1939",
+      "anno": 1939,
+      "titolo": "Furore",
+      "testo": "Esce Furore di John Steinbeck, il romanzo dei contadini cacciati dall'Oklahoma dalla polvere e dalla crisi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Furore (romanzo)",
+      "tono": "leggero",
+      "indizio": "Domani: esce un romanzo sui contadini in fuga dalla polvere."
+    },
+    {
+      "id": "04-14-1931",
+      "anno": 1931,
+      "titolo": "La Repubblica spagnola",
+      "testo": "In Spagna il re Alfonso XIII lascia il paese e viene proclamata la Seconda Repubblica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Seconda Repubblica spagnola",
+      "tono": "storico",
+      "indizio": "Domani: la Spagna diventa repubblica."
+    },
+    {
+      "id": "04-14-1981",
+      "anno": 1981,
+      "titolo": "Il Columbia atterra",
+      "testo": "Lo Space Shuttle Columbia atterra in California come un aliante, dopo il primo volo nello spazio.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "STS-1",
+      "tono": "leggero",
+      "indizio": "Domani: una navicella spaziale atterra come un aliante."
+    },
+    {
+      "id": "04-14-2024",
+      "anno": 2024,
+      "titolo": "Il Leverkusen campione",
+      "testo": "Il Bayer Leverkusen vince per la prima volta il campionato tedesco, dopo undici titoli di fila del Bayern Monaco.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Bayer 04 Leverkusen",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-14-1945",
+      "anno": 1945,
+      "titolo": "Imola liberata",
+      "testo": "Le truppe alleate e i partigiani entrano a Imola.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Imola",
+      "tono": "storico"
+    },
+    {
+      "id": "04-14-1865",
+      "anno": 1865,
+      "titolo": "Lincoln colpito",
+      "testo": "Al teatro Ford di Washington l'attore John Wilkes Booth spara al presidente Lincoln, che muore il giorno dopo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Assassinio di Abraham Lincoln",
+      "tono": "tragico"
+    },
+    {
+      "id": "04-14-1991",
+      "anno": 1991,
+      "titolo": "La petroliera Haven",
+      "testo": "Davanti ad Arenzano affonda la petroliera Haven, dopo tre giorni di incendio: è il più grave disastro ambientale del Mediterraneo.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Haven (petroliera)",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Christiaan Huygens",
+      "anno": 1629,
+      "chi": "fisico e astronomo olandese",
+      "wiki": "Christiaan Huygens"
+    },
+    {
+      "nome": "Anne Sullivan",
+      "anno": 1866,
+      "chi": "insegnante di Helen Keller",
+      "wiki": "Anne Sullivan"
+    },
+    {
+      "nome": "Loretta Lynn",
+      "anno": 1932,
+      "chi": "cantante country",
+      "wiki": "Loretta Lynn"
+    },
+    {
+      "nome": "Julie Christie",
+      "anno": 1940,
+      "chi": "attrice inglese",
+      "wiki": "Julie Christie"
+    },
+    {
+      "nome": "Adrien Brody",
+      "anno": 1973,
+      "chi": "attore statunitense",
+      "wiki": "Adrien Brody"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "I fuochi di Sant'Elmo",
+      "testo": "I fuochi di Sant'Elmo sono scariche elettriche luminose, azzurre o violette, che compaiono sulla cima degli alberi delle navi o dei campanili durante i temporali. Per i marinai erano un segno della protezione del santo."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "La parola acqua",
+      "testo": "Anne Sullivan, nata oggi, insegnò a parlare a Helen Keller, sorda e cieca, scrivendole le lettere sul palmo della mano. La prima parola che Helen capì fu acqua, mentre l'acqua della pompa le scorreva sull'altra mano."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il videoregistratore di casa",
+      "testo": "Il primo videoregistratore Ampex era grande come un armadio e costava cinquantamila dollari: lo compravano solo le televisioni. Le cassette per casa arrivarono vent'anni dopo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il mondo è la mia patria, fare scienza la mia religione.",
+      "autore": "attribuita a Christiaan Huygens",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Chi semina spine non vada scalzo.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Non svegliare il can che dorme.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A troppa carità scianca a vertula.",
+      "regione": "Calabria",
+      "traduzione": "La troppa carità strappa la bisaccia.",
+      "spiegazione": "Anche la generosità ha un limite: chi dà troppo finisce per restare senza niente.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "La rrobb' vai' e ven' cumm' a vint', e lu trívul' rest' a tutt' timp'.",
+      "regione": "Basilicata",
+      "traduzione": "La roba va e viene come il vento, e i guai restano sempre.",
+      "spiegazione": "I beni materiali sono passeggeri, mentre le preoccupazioni non mancano mai.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

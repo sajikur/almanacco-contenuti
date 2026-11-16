@@ -1,0 +1,225 @@
+{
+  "schema": 1,
+  "giorno": "03-13",
+  "santo": {
+    "nome": "San Leandro di Siviglia",
+    "nota": "Vescovo di Siviglia nel VI secolo, fratello maggiore di sant'Isidoro. Convertì al cattolicesimo il re dei Visigoti Recaredo e con lui tutta la Spagna.",
+    "altri": [
+      "Sant'Ansovino di Camerino",
+      "Santa Cristina di Persia",
+      "Sant'Eldrado di Novalesa"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Tredesin de Marz, festa dei fiori a Milano",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-13-1781",
+      "anno": 1781,
+      "titolo": "Herschel scopre Urano",
+      "testo": "A Bath, in Inghilterra, il musicista e astronomo dilettante William Herschel vede nel suo telescopio fatto in casa un puntino che si muove: pensa a una cometa, è un pianeta nuovo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Urano (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: un musicista con un telescopio fatto in casa trova un pianeta."
+    },
+    {
+      "id": "03-13-1930",
+      "anno": 1930,
+      "titolo": "L'annuncio di Plutone",
+      "testo": "L'osservatorio Lowell, in Arizona, annuncia la scoperta di Plutone, trovato dal giovane Clyde Tombaugh confrontando lastre fotografiche.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Plutone (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: viene annunciato un nuovo pianeta, che un giorno smetterà di esserlo."
+    },
+    {
+      "id": "03-13-2013",
+      "anno": 2013,
+      "titolo": "Papa Francesco",
+      "testo": "L'argentino Jorge Mario Bergoglio viene eletto papa: è il primo gesuita e il primo papa americano. Si affaccia e dice «Buonasera».",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Papa Francesco",
+      "tono": "storico",
+      "indizio": "Domani: dal comignolo della Sistina esce il fumo bianco per un papa venuto «quasi dalla fine del mondo»."
+    },
+    {
+      "id": "03-13-1639",
+      "anno": 1639,
+      "titolo": "Il nome di Harvard",
+      "testo": "Il collegio fondato a Cambridge, nel Massachusetts, prende il nome del pastore John Harvard, che gli aveva lasciato la sua biblioteca e metà dei suoi beni.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Università di Harvard",
+      "tono": "leggero",
+      "indizio": "Domani: un college americano prende il nome di un pastore generoso."
+    },
+    {
+      "id": "03-13-2004",
+      "anno": 2004,
+      "titolo": "L'ultimo Pavarotti al Met",
+      "testo": "Luciano Pavarotti canta per l'ultima volta al Metropolitan di New York, nella parte di Cavaradossi nella Tosca.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Luciano Pavarotti",
+      "tono": "leggero",
+      "indizio": "Domani: un tenore modenese saluta per sempre il Metropolitan di New York."
+    },
+    {
+      "id": "03-13-1969",
+      "anno": 1969,
+      "titolo": "Il ritorno di Apollo 9",
+      "testo": "L'Apollo 9 ammara nell'Atlantico dopo aver provato in orbita terrestre il modulo lunare.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Apollo 9",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-13-1861",
+      "anno": 1861,
+      "titolo": "La resa di Messina",
+      "testo": "Nella cittadella di Messina i borbonici alzano bandiera bianca: è uno degli ultimi presidi del Regno delle Due Sicilie.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Assedio di Messina (1861)",
+      "tono": "storico"
+    },
+    {
+      "id": "03-13-1995",
+      "anno": 1995,
+      "titolo": "Dogma 95",
+      "testo": "I registi danesi Lars von Trier e Thomas Vinterberg firmano il manifesto Dogma 95: niente luci artificiali, niente musica aggiunta, camera a mano.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Dogma 95",
+      "tono": "leggero",
+      "indizio": "Domani: due registi danesi firmano un manifesto contro gli effetti speciali."
+    },
+    {
+      "id": "03-13-1972",
+      "anno": 1972,
+      "titolo": "Il congresso di Milano",
+      "testo": "A Milano si apre il XIII congresso del PCI, che eleggerà segretario Enrico Berlinguer.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Enrico Berlinguer",
+      "tono": "storico"
+    },
+    {
+      "id": "03-13-222",
+      "anno": 222,
+      "titolo": "Alessandro Severo",
+      "testo": "A tredici anni Alessandro Severo diventa imperatore di Roma.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Alessandro Severo",
+      "tono": "storico"
+    },
+    {
+      "id": "03-13-1881",
+      "anno": 1881,
+      "titolo": "Lo zar Alessandro II",
+      "testo": "A San Pietroburgo una bomba uccide lo zar Alessandro II.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Alessandro II di Russia",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Percival Lowell",
+      "anno": 1855,
+      "chi": "astronomo che cercava Plutone",
+      "wiki": "Percival Lowell"
+    },
+    {
+      "nome": "Hugo Wolf",
+      "anno": 1860,
+      "chi": "compositore austriaco di Lieder",
+      "wiki": "Hugo Wolf"
+    },
+    {
+      "nome": "Neil Sedaka",
+      "anno": 1939,
+      "chi": "cantautore statunitense",
+      "wiki": "Neil Sedaka"
+    },
+    {
+      "nome": "William H. Macy",
+      "anno": 1950,
+      "chi": "attore statunitense",
+      "wiki": "William H. Macy"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "spazio",
+      "titolo": "Il nome dato da una bambina",
+      "testo": "Il nome Plutone lo propose Venetia Burney, una bambina inglese di undici anni appassionata di mitologia. Il nonno lo girò all'osservatorio: la scelta piacque anche perché le prime lettere, PL, erano le iniziali di Percival Lowell."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Il miracolo del Tredesin",
+      "testo": "Secondo la leggenda milanese, il 13 marzo dell'anno 51 san Barnaba piantò una croce a Milano e intorno, sulla neve, sbocciarono i fiori. Da allora in quel giorno si fa la fiera dei fiori."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "La stella di Giorgio",
+      "testo": "Herschel voleva chiamare il nuovo pianeta Georgium Sidus, la stella di Giorgio, in onore del re Giorgio III, che lo ricompensò con una pensione. Fuori dall'Inghilterra nessuno accettò: prevalse Urano, padre di Saturno nel mito."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Fratelli e sorelle, buonasera!",
+      "autore": "Papa Francesco",
+      "fonte": "dalla loggia di San Pietro, 2013"
+    },
+    {
+      "testo": "Dove c'è una volontà c'è una strada.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Non tutte le ciambelle riescono col buco.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Arent al foeugh la paja la brusa.",
+      "regione": "Lombardia",
+      "traduzione": "Vicino al fuoco la paglia brucia.",
+      "spiegazione": "Chi si mette troppo vicino al pericolo, o alla tentazione, finisce per bruciarsi.",
+      "fonte": "Wikiquote, Proverbi brianzoli"
+    },
+    {
+      "testo": "Lis malatiis son avīs.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "Le malattie sono avvertimenti.",
+      "spiegazione": "Gli acciacchi sono segnali che il corpo ci manda: conviene ascoltarli.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    }
+  ],
+  "prima_pagina": null
+}

@@ -1,0 +1,229 @@
+{
+  "schema": 1,
+  "giorno": "03-02",
+  "santo": {
+    "nome": "Sant'Agnese di Boemia",
+    "nota": "Principessa di Praga che rifiutò di sposare l'imperatore Federico II per farsi clarissa, in corrispondenza con santa Chiara d'Assisi. Fondò un ospedale e un ordine per curare i malati.",
+    "altri": [
+      "San Luca Casali",
+      "San Quinto il Taumaturgo",
+      "Beato Carlo il Buono"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "03-02-1933",
+      "anno": 1933,
+      "titolo": "King Kong",
+      "testo": "A New York, al Radio City Music Hall, debutta King Kong: il gorilla gigante sull'Empire State Building diventa un mito del cinema.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "King Kong (film 1933)",
+      "tono": "leggero",
+      "indizio": "Domani: a New York debutta al cinema un gorilla gigante."
+    },
+    {
+      "id": "03-02-1962",
+      "anno": 1962,
+      "titolo": "Cento punti in una partita",
+      "testo": "A Hershey, in Pennsylvania, Wilt Chamberlain segna cento punti in una sola partita di basket: è un record mai battuto.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Wilt Chamberlain",
+      "tono": "leggero",
+      "indizio": "Domani: un cestista segna da solo cento punti in una partita."
+    },
+    {
+      "id": "03-02-1969",
+      "anno": 1969,
+      "titolo": "Il Concorde vola",
+      "testo": "A Tolosa il prototipo del Concorde fa il suo primo volo: per ora resta sotto la velocità del suono.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Concorde",
+      "tono": "leggero",
+      "indizio": "Domani: decolla per la prima volta l'aereo supersonico franco-inglese."
+    },
+    {
+      "id": "03-02-1949",
+      "anno": 1949,
+      "titolo": "Il giro del mondo senza scalo",
+      "testo": "Il bombardiere americano Lucky Lady II atterra in Texas dopo il primo giro del mondo in aereo senza scalo: novantaquattro ore, con quattro rifornimenti in volo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Lucky Lady II",
+      "tono": "leggero",
+      "indizio": "Domani: un aereo fa il giro del mondo senza mai atterrare."
+    },
+    {
+      "id": "03-02-2004",
+      "anno": 2004,
+      "titolo": "Parte Rosetta",
+      "testo": "Dalla Guyana francese parte la sonda europea Rosetta, diretta verso la cometa 67P: la raggiungerà dieci anni dopo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Rosetta (sonda spaziale)",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda europea parte per un viaggio di dieci anni verso una cometa."
+    },
+    {
+      "id": "03-02-1998",
+      "anno": 1998,
+      "titolo": "Un oceano sotto il ghiaccio",
+      "testo": "Le immagini della sonda Galileo fanno pensare che sotto il ghiaccio di Europa, luna di Giove, ci sia un oceano d'acqua liquida.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Europa (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda trova indizi di un oceano nascosto sotto il ghiaccio di una luna."
+    },
+    {
+      "id": "03-02-1939",
+      "anno": 1939,
+      "titolo": "Pio XII",
+      "testo": "Nel giorno del suo sessantatreesimo compleanno il cardinale Eugenio Pacelli viene eletto papa con il nome di Pio XII.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Papa Pio XII",
+      "tono": "storico",
+      "indizio": "Domani: un cardinale romano diventa papa il giorno del suo compleanno."
+    },
+    {
+      "id": "03-02-1903",
+      "anno": 1903,
+      "titolo": "L'albergo per sole donne",
+      "testo": "A New York apre il Martha Washington Hotel, il primo albergo riservato alle donne.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Martha Washington Hotel",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-02-1935",
+      "anno": 1935,
+      "titolo": "Arriva Porky Pig",
+      "testo": "Nei cartoni della Warner Bros debutta il maialino balbuziente Porky Pig.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Porky Pig",
+      "tono": "leggero",
+      "indizio": "Domani: debutta nei cartoni un maialino balbuziente."
+    },
+    {
+      "id": "03-02-1978",
+      "anno": 1978,
+      "titolo": "Il primo cosmonauta europeo",
+      "testo": "Il cecoslovacco Vladimír Remek è il primo astronauta né sovietico né americano a volare nello spazio.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Vladimír Remek",
+      "tono": "leggero",
+      "indizio": "Domani: vola nello spazio il primo astronauta né russo né americano."
+    },
+    {
+      "id": "03-02-1836",
+      "anno": 1836,
+      "titolo": "Il Texas indipendente",
+      "testo": "Il Texas proclama la propria indipendenza dal Messico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Repubblica del Texas",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Bedřich Smetana",
+      "anno": 1824,
+      "chi": "compositore ceco della Moldava",
+      "wiki": "Bedřich Smetana"
+    },
+    {
+      "nome": "Dr. Seuss",
+      "anno": 1904,
+      "chi": "scrittore statunitense per bambini",
+      "wiki": "Dr. Seuss"
+    },
+    {
+      "nome": "Michail Gorbačëv",
+      "anno": 1931,
+      "chi": "ultimo leader dell'Unione Sovietica",
+      "wiki": "Michail Gorbačëv"
+    },
+    {
+      "nome": "Lou Reed",
+      "anno": 1942,
+      "chi": "cantautore statunitense",
+      "wiki": "Lou Reed"
+    },
+    {
+      "nome": "Daniel Craig",
+      "anno": 1968,
+      "chi": "attore britannico, James Bond",
+      "wiki": "Daniel Craig"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Un gorilla di quarantacinque centimetri",
+      "testo": "Il King Kong del film era un pupazzo snodato alto circa quarantacinque centimetri, animato fotogramma per fotogramma. Per i primi piani costruirono una testa gigante e una mano meccanica."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "Il foglio con il cento",
+      "testo": "La partita dei cento punti di Chamberlain non fu trasmessa in televisione. Ne resta una foto famosa: lui negli spogliatoi con un foglio su cui qualcuno ha scritto «100»."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Cinquanta parole",
+      "testo": "Dr. Seuss, nato oggi, scrisse Prosciutto e uova verdi usando soltanto cinquanta parole diverse: era una scommessa con il suo editore, e la vinse."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Non fu l'aereo: fu la bella a uccidere la bestia.",
+      "autore": "Ruth Rose e James Creelman",
+      "fonte": "King Kong"
+    },
+    {
+      "testo": "Chi tardi arriva male alloggia.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Marzo asciutto, grano dappertutto.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Cànde cànde, ca u ciucce te sénde.",
+      "regione": "Puglia",
+      "traduzione": "Canta pure, che l'asino ti ascolta.",
+      "spiegazione": "È inutile parlare a chi non può capire: è come cantare per un asino.",
+      "fonte": "Wikiquote, Proverbi gravinesi"
+    },
+    {
+      "testo": "Vià 'l gat, bala 'l rat.",
+      "regione": "Lombardia",
+      "traduzione": "Via il gatto, balla il topo.",
+      "spiegazione": "Quando il capo non c'è, i sottoposti fanno festa.",
+      "fonte": "Wikiquote, Proverbi bergamaschi"
+    }
+  ],
+  "prima_pagina": null
+}

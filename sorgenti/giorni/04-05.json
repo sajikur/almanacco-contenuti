@@ -1,0 +1,232 @@
+{
+  "schema": 1,
+  "giorno": "04-05",
+  "santo": {
+    "nome": "San Vincenzo Ferrer",
+    "nota": "Domenicano spagnolo del Trecento, predicatore instancabile, girò a piedi mezza Europa. Si racconta che parlasse in valenzano e fosse capito da tutti, in ogni paese.",
+    "altri": [
+      "Santa Giuliana di Cornillon",
+      "Santa Caterina Tomás",
+      "Sant'Alberto da Montecorvino"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Qingming, festa dei defunti in Cina",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-05-1722",
+      "anno": 1722,
+      "titolo": "L'Isola di Pasqua",
+      "testo": "Nel giorno di Pasqua l'olandese Jacob Roggeveen arriva su un'isola sperduta nel Pacifico, piena di enormi statue di pietra: la chiama Isola di Pasqua.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Isola di Pasqua",
+      "tono": "storico",
+      "indizio": "Domani: un navigatore olandese trova un'isola piena di giganti di pietra."
+    },
+    {
+      "id": "04-05-1614",
+      "anno": 1614,
+      "titolo": "Pocahontas si sposa",
+      "testo": "In Virginia la principessa indiana Pocahontas sposa il coltivatore di tabacco inglese John Rolfe.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Pocahontas",
+      "tono": "storico",
+      "indizio": "Domani: una principessa indiana sposa un colono inglese."
+    },
+    {
+      "id": "04-05-1974",
+      "anno": 1974,
+      "titolo": "Carrie",
+      "testo": "Esce Carrie, il primo romanzo di Stephen King. L'aveva buttato nel cestino: fu la moglie Tabitha a ripescarlo e a convincerlo a finirlo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Carrie (romanzo)",
+      "tono": "leggero",
+      "indizio": "Domani: esce il primo romanzo di uno scrittore che l'aveva buttato nel cestino."
+    },
+    {
+      "id": "04-05-1998",
+      "anno": 1998,
+      "titolo": "Il ponte più lungo",
+      "testo": "In Giappone apre il ponte Akashi Kaikyō: con una campata centrale di quasi due chilometri, è il ponte sospeso più lungo del mondo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Ponte di Akashi Kaikyō",
+      "tono": "leggero",
+      "indizio": "Domani: il Giappone apre il ponte sospeso più lungo del mondo."
+    },
+    {
+      "id": "04-05-2004",
+      "anno": 2004,
+      "titolo": "Il cranio di Petrarca",
+      "testo": "Gli studiosi che hanno aperto la tomba di Petrarca ad Arquà annunciano che il cranio non è suo: appartiene a una donna.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Francesco Petrarca",
+      "tono": "leggero",
+      "indizio": "Domani: si scopre che nella tomba di un poeta c'è la testa di una donna."
+    },
+    {
+      "id": "04-05-1803",
+      "anno": 1803,
+      "titolo": "La seconda di Beethoven",
+      "testo": "A Vienna si esegue per la prima volta la Seconda sinfonia di Beethoven.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Sinfonia n. 2 (Beethoven)",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-05-1242",
+      "anno": 1242,
+      "titolo": "La battaglia sul ghiaccio",
+      "testo": "Sul lago dei Ciudi, ghiacciato, il principe Aleksandr Nevskij sconfigge i cavalieri teutonici.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia del lago Peipus",
+      "tono": "storico",
+      "indizio": "Domani: si combatte una battaglia su un lago ghiacciato."
+    },
+    {
+      "id": "04-05-1621",
+      "anno": 1621,
+      "titolo": "Il ritorno della Mayflower",
+      "testo": "La nave Mayflower lascia i padri pellegrini in America e riparte per l'Inghilterra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Mayflower",
+      "tono": "storico"
+    },
+    {
+      "id": "04-05-2001",
+      "anno": 2001,
+      "titolo": "Il sottomarino va al museo",
+      "testo": "Il sommergibile Enrico Toti lascia Augusta per l'ultimo viaggio: diventerà un pezzo del Museo della scienza di Milano.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Enrico Toti (S 506)",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-05-1986",
+      "anno": 1986,
+      "titolo": "Rendez-vous Houston",
+      "testo": "Jean-Michel Jarre tiene a Houston un enorme concerto all'aperto in memoria degli astronauti del Challenger.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Rendez-vous Houston",
+      "tono": "leggero",
+      "indizio": "Domani: un concerto di luci e laser illumina Houston."
+    },
+    {
+      "id": "04-05-1955",
+      "anno": 1955,
+      "titolo": "Churchill si dimette",
+      "testo": "Winston Churchill, ottantenne, lascia la guida del governo britannico.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Winston Churchill",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Thomas Hobbes",
+      "anno": 1588,
+      "chi": "filosofo inglese",
+      "wiki": "Thomas Hobbes"
+    },
+    {
+      "nome": "Joseph Lister",
+      "anno": 1827,
+      "chi": "chirurgo, padre dell'antisepsi",
+      "wiki": "Joseph Lister"
+    },
+    {
+      "nome": "Bette Davis",
+      "anno": 1908,
+      "chi": "attrice statunitense",
+      "wiki": "Bette Davis"
+    },
+    {
+      "nome": "Herbert von Karajan",
+      "anno": 1908,
+      "chi": "direttore d'orchestra austriaco",
+      "wiki": "Herbert von Karajan"
+    },
+    {
+      "nome": "Gregory Peck",
+      "anno": 1916,
+      "chi": "attore statunitense",
+      "wiki": "Gregory Peck"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "I moai",
+      "testo": "Le statue dell'Isola di Pasqua si chiamano moai: sono quasi novecento, alcune alte più di dieci metri. Furono scolpite nella pietra vulcanica e trascinate per chilometri, forse facendole «camminare» con le funi."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Un collutorio con il suo nome",
+      "testo": "Joseph Lister, nato oggi, convinse i chirurghi a disinfettare mani e strumenti con l'acido fenico. In suo onore un farmacista americano chiamò Listerine il suo collutorio."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Il cuculo del 5 aprile",
+      "testo": "Il proverbio toscano dice che il cuculo deve arrivare entro il 5 aprile. È un uccello che non costruisce nidi: depone le uova in quelli degli altri."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "L'uomo è un lupo per l'altro uomo.",
+      "autore": "Thomas Hobbes",
+      "fonte": "De cive"
+    },
+    {
+      "testo": "Ogni lasciata è persa.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Tutto è bene quel che finisce bene.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A' cinque d'aprile, il cucco dee venire; se non viene a' sette o agli otto, o ch'è preso o che è morto.",
+      "regione": "Toscana",
+      "traduzione": "Il cuculo deve arrivare il cinque aprile; se non arriva entro il sette o l'otto, o l'hanno preso o è morto.",
+      "spiegazione": "Il canto del cuculo segnava per i contadini l'arrivo vero della primavera.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Agge sciorta e gghièttete a mare.",
+      "regione": "Basilicata",
+      "traduzione": "Abbi fortuna e buttati in mare.",
+      "spiegazione": "Con la fortuna dalla propria parte si esce salvi da qualsiasi rischio.",
+      "fonte": "Wikiquote, Proverbi lucani"
+    }
+  ],
+  "prima_pagina": null
+}

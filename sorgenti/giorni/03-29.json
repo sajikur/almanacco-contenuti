@@ -1,0 +1,238 @@
+{
+  "schema": 1,
+  "giorno": "03-29",
+  "santo": {
+    "nome": "San Secondo di Asti",
+    "nota": "Nobile soldato romano del II secolo, secondo la tradizione convertito dalla fede dei martiri che incontrò, morì martire. È il patrono di Asti, dove gli è dedicata la collegiata.",
+    "altri": [
+      "San Marco di Aretusa",
+      "Santi Simplicio e Costantino",
+      "San Guglielmo Tempier"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata internazionale del pianoforte",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-29-1974",
+      "anno": 1974,
+      "titolo": "L'esercito di terracotta",
+      "testo": "In Cina, vicino a Xi'an, alcuni contadini che scavano un pozzo trovano frammenti di statue: è l'esercito di terracotta del primo imperatore.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Esercito di terracotta",
+      "tono": "leggero",
+      "indizio": "Domani: dei contadini cinesi scavano un pozzo e trovano un esercito."
+    },
+    {
+      "id": "03-29-1848",
+      "anno": 1848,
+      "titolo": "Il Niagara si ferma",
+      "testo": "Per qualche ora le cascate del Niagara smettono di scorrere: il ghiaccio ha bloccato il fiume a monte. La gente cammina sul letto asciutto e raccoglie souvenir.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Cascate del Niagara",
+      "tono": "leggero",
+      "indizio": "Domani: per una notte le cascate del Niagara restano a secco."
+    },
+    {
+      "id": "03-29-1946",
+      "anno": 1946,
+      "titolo": "La Vespa",
+      "testo": "La Piaggio presenta la Vespa, lo scooter disegnato da Corradino D'Ascanio, che non amava le motociclette.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Vespa (motoveicolo)",
+      "tono": "leggero",
+      "indizio": "Domani: nasce uno scooter dal ronzio d'insetto."
+    },
+    {
+      "id": "03-29-1886",
+      "anno": 1886,
+      "titolo": "Il primo campione del mondo di scacchi",
+      "testo": "A New Orleans Wilhelm Steinitz batte Johannes Zukertort e diventa il primo campione del mondo ufficiale di scacchi.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Wilhelm Steinitz",
+      "tono": "leggero",
+      "indizio": "Domani: nasce il primo campione del mondo di scacchi."
+    },
+    {
+      "id": "03-29-1871",
+      "anno": 1871,
+      "titolo": "La Royal Albert Hall",
+      "testo": "La regina Vittoria inaugura a Londra la Royal Albert Hall, dedicata al marito Alberto, morto dieci anni prima.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Royal Albert Hall",
+      "tono": "leggero",
+      "indizio": "Domani: Londra apre una grande sala rotonda per la musica."
+    },
+    {
+      "id": "03-29-1516",
+      "anno": 1516,
+      "titolo": "Il ghetto di Venezia",
+      "testo": "Venezia obbliga gli ebrei ad abitare in un'area di Cannaregio chiusa di notte, dove c'era una fonderia, il getto: è il primo ghetto.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Ghetto di Venezia",
+      "tono": "storico",
+      "indizio": "Domani: Venezia dà a un quartiere un nome che farà il giro del mondo."
+    },
+    {
+      "id": "03-29-1795",
+      "anno": 1795,
+      "titolo": "Beethoven a Vienna",
+      "testo": "A ventiquattro anni Beethoven si esibisce per la prima volta in pubblico a Vienna, suonando un suo concerto per pianoforte.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Ludwig van Beethoven",
+      "tono": "leggero",
+      "indizio": "Domani: un giovane pianista tedesco debutta a Vienna."
+    },
+    {
+      "id": "03-29-1918",
+      "anno": 1918,
+      "titolo": "Cabruna contro undici",
+      "testo": "Sul Piave il pilota Ernesto Cabruna attacca da solo undici aerei austriaci.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Ernesto Cabruna",
+      "tono": "storico"
+    },
+    {
+      "id": "03-29-1912",
+      "anno": 1912,
+      "titolo": "L'ultima pagina di Scott",
+      "testo": "Nella sua tenda in Antartide il capitano Scott scrive l'ultima pagina del diario.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Spedizione Terra Nova",
+      "tono": "storico"
+    },
+    {
+      "id": "03-29-2017",
+      "anno": 2017,
+      "titolo": "La Brexit",
+      "testo": "Il Regno Unito avvia formalmente l'uscita dall'Unione europea.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Brexit",
+      "tono": "storico"
+    },
+    {
+      "id": "03-29-1638",
+      "anno": 1638,
+      "titolo": "La Nuova Svezia",
+      "testo": "Coloni svedesi fondano un insediamento sul fiume Delaware.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Nuova Svezia",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Cy Young",
+      "anno": 1867,
+      "chi": "leggenda del baseball",
+      "wiki": "Cy Young"
+    },
+    {
+      "nome": "Ernst Jünger",
+      "anno": 1895,
+      "chi": "scrittore tedesco",
+      "wiki": "Ernst Jünger"
+    },
+    {
+      "nome": "Terence Hill",
+      "anno": 1939,
+      "chi": "attore veneziano",
+      "wiki": "Terence Hill"
+    },
+    {
+      "nome": "Eric Idle",
+      "anno": 1943,
+      "chi": "attore dei Monty Python",
+      "wiki": "Eric Idle"
+    },
+    {
+      "nome": "Vangelis",
+      "anno": 1943,
+      "chi": "compositore greco",
+      "wiki": "Vangelis"
+    },
+    {
+      "nome": "Jennifer Capriati",
+      "anno": 1976,
+      "chi": "tennista statunitense",
+      "wiki": "Jennifer Capriati"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Ottantotto tasti",
+      "testo": "La giornata del pianoforte cade nell'ottantottesimo giorno dell'anno, come gli 88 tasti del pianoforte: 52 bianchi e 36 neri."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Tutti diversi",
+      "testo": "I soldati dell'esercito di terracotta sono circa ottomila, a grandezza naturale, e non ce ne sono due con la stessa faccia. All'origine erano dipinti a colori vivaci."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Sembra una vespa",
+      "testo": "Quando Enrico Piaggio vide il prototipo, con il corpo largo dietro e stretto in mezzo, esclamò che sembrava una vespa. Il nome rimase."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Per amor di Dio, abbiate cura dei nostri cari.",
+      "autore": "Robert Falcon Scott",
+      "fonte": "ultima pagina del diario, 1912"
+    },
+    {
+      "testo": "La musica è una rivelazione più alta di ogni saggezza e filosofia.",
+      "autore": "attribuita a Ludwig van Beethoven",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Piano piano si va lontano.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Al prem còulp an casca l'alber.",
+      "regione": "Emilia-Romagna",
+      "traduzione": "Al primo colpo non cade l'albero.",
+      "spiegazione": "Le imprese difficili richiedono pazienza e tentativi ripetuti.",
+      "fonte": "Wikiquote, Proverbi bolognesi"
+    },
+    {
+      "testo": "Abbasce ca vìnne, ialze ca accàtte.",
+      "regione": "Puglia",
+      "traduzione": "Abbassa il prezzo e vendi, alzalo e compri.",
+      "spiegazione": "Nel commercio chi sa trattare sul prezzo conclude l'affare.",
+      "fonte": "Wikiquote, Proverbi gravinesi"
+    }
+  ],
+  "prima_pagina": null
+}

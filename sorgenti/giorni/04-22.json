@@ -1,0 +1,250 @@
+{
+  "schema": 1,
+  "giorno": "04-22",
+  "santo": {
+    "nome": "Santi Sotero e Caio",
+    "nota": "Due papi dei primi secoli, celebrati nello stesso giorno. Sotero, nel II secolo, scrisse alla comunità di Corinto e mandò aiuti ai cristiani poveri; Caio, nel III, era dalmata e parente dell'imperatore Diocleziano.",
+    "altri": [
+      "Sant'Agapito I papa",
+      "San Leonida",
+      "Beato Francesco da Fabriano"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata della Terra",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-22-1516",
+      "anno": 1516,
+      "titolo": "L'Orlando furioso",
+      "testo": "A Ferrara esce la prima edizione dell'Orlando furioso di Ludovico Ariosto, in quaranta canti: Ariosto continuerà a correggerlo per sedici anni.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Orlando furioso",
+      "tono": "leggero",
+      "indizio": "Domani: a Ferrara esce un poema di cavalieri, maghe e ippogrifi."
+    },
+    {
+      "id": "04-22-1970",
+      "anno": 1970,
+      "titolo": "La prima Giornata della Terra",
+      "testo": "Negli Stati Uniti venti milioni di persone scendono in strada per l'ambiente: è la prima Giornata della Terra.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Giornata della Terra",
+      "tono": "leggero",
+      "indizio": "Domani: milioni di americani scendono in piazza per il pianeta."
+    },
+    {
+      "id": "04-22-1500",
+      "anno": 1500,
+      "titolo": "Cabral vede il Brasile",
+      "testo": "La flotta portoghese di Pedro Álvares Cabral avvista un monte sulla costa del Brasile e lo chiama Monte Pascoal.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Pedro Álvares Cabral",
+      "tono": "storico",
+      "indizio": "Domani: una flotta diretta in India avvista per caso il Brasile."
+    },
+    {
+      "id": "04-22-1868",
+      "anno": 1868,
+      "titolo": "Umberto e Margherita",
+      "testo": "A Torino il principe Umberto sposa la cugina Margherita di Savoia: diventerà la prima regina d'Italia e darà il nome a una pizza.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Margherita di Savoia",
+      "tono": "storico",
+      "indizio": "Domani: un principe sposa la cugina che darà il nome a una pizza."
+    },
+    {
+      "id": "04-22-1964",
+      "anno": 1964,
+      "titolo": "Kubrick incontra Clarke",
+      "testo": "A New York il regista Stanley Kubrick e lo scrittore Arthur C. Clarke si incontrano per la prima volta: da lì nascerà 2001: Odissea nello spazio.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "2001: Odissea nello spazio",
+      "tono": "leggero",
+      "indizio": "Domani: un regista e uno scrittore di fantascienza si incontrano a pranzo."
+    },
+    {
+      "id": "04-22-1977",
+      "anno": 1977,
+      "titolo": "La fibra ottica",
+      "testo": "A Long Beach, in California, passano per la prima volta telefonate vere su un cavo in fibra ottica.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Fibra ottica",
+      "tono": "leggero",
+      "indizio": "Domani: le telefonate cominciano a viaggiare dentro fili di vetro."
+    },
+    {
+      "id": "04-22-1978",
+      "anno": 1978,
+      "titolo": "I Blues Brothers",
+      "testo": "Al Saturday Night Live debuttano i Blues Brothers, John Belushi e Dan Aykroyd, in abito nero e occhiali scuri.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The Blues Brothers",
+      "tono": "leggero",
+      "indizio": "Domani: due comici in giacca nera e occhiali scuri cantano il blues in tv."
+    },
+    {
+      "id": "04-22-1983",
+      "anno": 1983,
+      "titolo": "I falsi diari di Hitler",
+      "testo": "La rivista tedesca Stern annuncia di aver trovato i diari segreti di Hitler. Due settimane dopo si scopre che sono un falso, scritti da un antiquario.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Diari di Hitler",
+      "tono": "leggero",
+      "indizio": "Domani: una rivista annuncia lo scoop del secolo, che si rivelerà un falso."
+    },
+    {
+      "id": "04-22-1914",
+      "anno": 1914,
+      "titolo": "Il debutto di Babe Ruth",
+      "testo": "Il diciannovenne Babe Ruth gioca la sua prima partita da professionista con i Baltimore Orioles.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Babe Ruth",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-22-1975",
+      "anno": 1975,
+      "titolo": "Il nuovo diritto di famiglia",
+      "testo": "Il Parlamento approva la riforma del diritto di famiglia: marito e moglie diventano uguali davanti alla legge.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Riforma del diritto di famiglia",
+      "tono": "storico"
+    },
+    {
+      "id": "04-22-2024",
+      "anno": 2024,
+      "titolo": "La seconda stella",
+      "testo": "L'Inter batte il Milan nel derby e vince il ventesimo scudetto: sulla maglia arriva la seconda stella.",
+      "ambito": "italia",
+      "categoria": "sport",
+      "peso": 3,
+      "wiki": "Football Club Internazionale Milano",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-22-1370",
+      "anno": 1370,
+      "titolo": "La prima pietra della Bastiglia",
+      "testo": "A Parigi cominciano i lavori di una fortezza a porta Saint-Antoine: diventerà la Bastiglia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Bastiglia",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Immanuel Kant",
+      "anno": 1724,
+      "chi": "filosofo tedesco",
+      "wiki": "Immanuel Kant"
+    },
+    {
+      "nome": "Vladimir Nabokov",
+      "anno": 1899,
+      "chi": "scrittore russo-americano",
+      "wiki": "Vladimir Nabokov"
+    },
+    {
+      "nome": "Robert Oppenheimer",
+      "anno": 1904,
+      "chi": "fisico",
+      "wiki": "Robert Oppenheimer"
+    },
+    {
+      "nome": "Rita Levi-Montalcini",
+      "anno": 1909,
+      "chi": "neurologa, premio Nobel",
+      "wiki": "Rita Levi-Montalcini"
+    },
+    {
+      "nome": "Yehudi Menuhin",
+      "anno": 1916,
+      "chi": "violinista",
+      "wiki": "Yehudi Menuhin"
+    },
+    {
+      "nome": "Jack Nicholson",
+      "anno": 1937,
+      "chi": "attore",
+      "wiki": "Jack Nicholson"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "L'orologio di Königsberg",
+      "testo": "Kant, nato oggi a Königsberg, era così puntuale nella sua passeggiata pomeridiana che, si racconta, i vicini regolavano gli orologi quando passava. Non si allontanò quasi mai dalla sua città."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Le iniziali sbagliate",
+      "testo": "Sulla copertina dei falsi diari di Hitler c'erano due lettere gotiche di metallo: il falsario aveva scelto per sbaglio FH invece di AH."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Ariosto e il cardinale",
+      "testo": "Ariosto dedicò il Furioso al cardinale Ippolito d'Este, che secondo la tradizione gli rispose: «Messer Ludovico, dove avete trovato tante corbellerie?»."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il cielo stellato sopra di me, la legge morale dentro di me.",
+      "autore": "Immanuel Kant",
+      "fonte": "Critica della ragion pratica"
+    },
+    {
+      "testo": "Le donne, i cavallier, l'arme, gli amori, le cortesie, l'audaci imprese io canto.",
+      "autore": "Ludovico Ariosto",
+      "fonte": "Orlando furioso, I"
+    },
+    {
+      "testo": "Meglio aggiungere vita ai giorni che giorni alla vita.",
+      "autore": "Rita Levi-Montalcini",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi no se contenta de l'onesto, perde 'l manego e anca 'l cesto.",
+      "regione": "Veneto",
+      "traduzione": "Chi non si accontenta del giusto perde il manico e anche il cesto.",
+      "spiegazione": "Chi vuole troppo rischia di perdere tutto, anche quello che aveva.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "Si ti queres sanu abba su vinu.",
+      "regione": "Sardegna",
+      "traduzione": "Se vuoi stare sano, annacqua il vino.",
+      "spiegazione": "La moderazione è la regola della salute.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

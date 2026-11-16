@@ -1,0 +1,200 @@
+{
+  "schema": 1,
+  "giorno": "04-19",
+  "santo": {
+    "nome": "Sant'Espedito",
+    "nota": "Soldato romano martire in Armenia nel IV secolo. La leggenda racconta che, deciso a convertirsi, un corvo gli gracchiò «cras, cras», cioè «domani»: lui lo schiacciò gridando «hodie», oggi. È il santo delle cause urgenti.",
+    "altri": [
+      "San Leone IX papa",
+      "Sant'Emma di Sassonia",
+      "Sant'Elfego di Canterbury"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "04-19-1770",
+      "anno": 1770,
+      "titolo": "Cook avvista l'Australia",
+      "testo": "Dall'Endeavour il tenente Zachary Hicks avvista la costa sud-orientale dell'Australia: è la prima volta che degli europei vedono quella parte del continente.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "James Cook",
+      "tono": "storico",
+      "indizio": "Domani: una nave inglese avvista una terra sconosciuta agli europei."
+    },
+    {
+      "id": "04-19-1956",
+      "anno": 1956,
+      "titolo": "Il matrimonio di Grace Kelly",
+      "testo": "Nella cattedrale di Monaco l'attrice Grace Kelly sposa il principe Ranieri III: la cerimonia è vista in televisione da trenta milioni di persone.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Grace Kelly",
+      "tono": "leggero",
+      "indizio": "Domani: una diva di Hollywood diventa principessa."
+    },
+    {
+      "id": "04-19-1987",
+      "anno": 1987,
+      "titolo": "Nascono i Simpson",
+      "testo": "Nel Tracey Ullman Show va in onda il primo cortometraggio dei Simpson, la famiglia gialla di Matt Groening.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "I Simpson",
+      "tono": "leggero",
+      "indizio": "Domani: in televisione compare per la prima volta una famiglia gialla."
+    },
+    {
+      "id": "04-19-1971",
+      "anno": 1971,
+      "titolo": "La prima stazione spaziale",
+      "testo": "L'Unione Sovietica lancia la Saljut 1, la prima stazione spaziale della storia.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Saljut 1",
+      "tono": "leggero",
+      "indizio": "Domani: sale in orbita la prima casa nello spazio."
+    },
+    {
+      "id": "04-19-1775",
+      "anno": 1775,
+      "titolo": "Il colpo sentito nel mondo",
+      "testo": "A Lexington e Concord, nel Massachusetts, i coloni americani si scontrano con le truppe inglesi: comincia la guerra d'indipendenza.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Battaglie di Lexington e Concord",
+      "tono": "storico",
+      "indizio": "Domani: si spara il primo colpo della rivoluzione americana."
+    },
+    {
+      "id": "04-19-1897",
+      "anno": 1897,
+      "titolo": "La prima maratona di Boston",
+      "testo": "Si corre la prima maratona di Boston, ispirata a quella delle Olimpiadi di Atene: oggi è la maratona annuale più antica del mondo.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Maratona di Boston",
+      "tono": "leggero",
+      "indizio": "Domani: si corre la prima maratona di Boston."
+    },
+    {
+      "id": "04-19-2005",
+      "anno": 2005,
+      "titolo": "Benedetto XVI",
+      "testo": "Il cardinale tedesco Joseph Ratzinger viene eletto papa con il nome di Benedetto XVI.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Papa Benedetto XVI",
+      "tono": "storico",
+      "indizio": "Domani: dalla loggia di San Pietro si affaccia un papa tedesco."
+    },
+    {
+      "id": "04-19-1927",
+      "anno": 1927,
+      "titolo": "Mae West in prigione",
+      "testo": "L'attrice Mae West viene condannata a dieci giorni di prigione per la sua commedia intitolata Sex. Ne sconta otto e ne esce più famosa di prima.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Mae West",
+      "tono": "leggero",
+      "indizio": "Domani: un'attrice finisce in prigione per il titolo di una commedia."
+    },
+    {
+      "id": "04-19-1948",
+      "anno": 1948,
+      "titolo": "I risultati del voto",
+      "testo": "Si conoscono i risultati delle prime elezioni repubblicane: la Democrazia cristiana ottiene quasi la metà dei voti.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Elezioni politiche in Italia del 1948",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Glenn T. Seaborg",
+      "anno": 1912,
+      "chi": "chimico, scopritore del plutonio",
+      "wiki": "Glenn T. Seaborg"
+    },
+    {
+      "nome": "Jayne Mansfield",
+      "anno": 1933,
+      "chi": "attrice statunitense",
+      "wiki": "Jayne Mansfield"
+    },
+    {
+      "nome": "Dudley Moore",
+      "anno": 1935,
+      "chi": "attore e pianista inglese",
+      "wiki": "Dudley Moore"
+    },
+    {
+      "nome": "Maria Šarapova",
+      "anno": 1987,
+      "chi": "tennista russa",
+      "wiki": "Maria Šarapova"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Il santo che non rimanda",
+      "testo": "Sant'Espedito è invocato da chi ha fretta, o da chi tende a rimandare: viene raffigurato mentre schiaccia il corvo, con una croce su cui è scritto hodie, «oggi»."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una famiglia vera",
+      "testo": "Matt Groening diede ai Simpson i nomi della sua famiglia: il padre si chiamava Homer, la madre Margaret, le sorelle Lisa e Maggie. Bart è l'anagramma di brat, «monello»."
+    },
+    {
+      "categoria": "sport",
+      "titolo": "Quindici corridori",
+      "testo": "Alla prima maratona di Boston partirono solo quindici atleti e ne arrivarono dieci. Oggi si iscrivono in più di trentamila."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Qui un giorno gli agricoltori in armi spararono il colpo sentito in tutto il mondo.",
+      "autore": "Ralph Waldo Emerson",
+      "fonte": "Inno di Concord"
+    },
+    {
+      "testo": "Hodie!",
+      "autore": "Sant'Espedito",
+      "fonte": "secondo la leggenda"
+    },
+    {
+      "testo": "Non rimandare a domani quello che puoi fare oggi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Amaru cu u porcu no 'mmazza, a li travi soi non mpicca sarzizza.",
+      "regione": "Calabria",
+      "traduzione": "Povero chi non ammazza il maiale: alle sue travi non appende salsicce.",
+      "spiegazione": "Chi non lavora e non si prepara per tempo resta senza scorte per l'inverno.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "Attacca la crapa alla uigna, accomm'è la mamma è pur' la figlia.",
+      "regione": "Lazio",
+      "traduzione": "Lega la capra alla vigna: com'è la mamma è anche la figlia.",
+      "spiegazione": "I figli assomigliano ai genitori, nel bene e nel male.",
+      "fonte": "Wikiquote, Proverbi alatrensi"
+    }
+  ],
+  "prima_pagina": null
+}

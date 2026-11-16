@@ -1,0 +1,236 @@
+{
+  "schema": 1,
+  "giorno": "03-25",
+  "santo": {
+    "nome": "Annunciazione del Signore",
+    "nota": "L'angelo Gabriele annuncia a Maria che sarà la madre di Gesù: mancano esattamente nove mesi a Natale. Per secoli a Firenze e in altre città l'anno cominciava proprio oggi.",
+    "altri": [
+      "San Disma, il buon ladrone",
+      "Santa Lucia Filippini",
+      "San Procopio di Sázava"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Dantedì, giornata di Dante Alighieri",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Natale di Venezia",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Festa dell'indipendenza greca",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-25-421",
+      "anno": 421,
+      "titolo": "Il Natale di Venezia",
+      "testo": "Secondo la tradizione, a mezzogiorno di questo giorno si consacra sulle isole di Rialto la chiesetta di San Giacomo: è la data di nascita di Venezia.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Storia della Repubblica di Venezia",
+      "tono": "leggero",
+      "indizio": "Domani: secondo la leggenda, su un'isola della laguna nasce Venezia."
+    },
+    {
+      "id": "03-25-1655",
+      "anno": 1655,
+      "titolo": "Huygens scopre Titano",
+      "testo": "L'olandese Christiaan Huygens scopre la più grande luna di Saturno, che oggi si chiama Titano.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Titano (astronomia)",
+      "tono": "leggero",
+      "indizio": "Domani: un astronomo olandese trova la luna più grande di Saturno."
+    },
+    {
+      "id": "03-25-1957",
+      "anno": 1957,
+      "titolo": "I Trattati di Roma",
+      "testo": "In Campidoglio, nella sala degli Orazi e Curiazi, sei paesi firmano i Trattati di Roma: nasce la Comunità economica europea.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Trattati di Roma",
+      "tono": "storico",
+      "indizio": "Domani: in Campidoglio sei paesi firmano l'atto di nascita dell'Europa unita."
+    },
+    {
+      "id": "03-25-1436",
+      "anno": 1436,
+      "titolo": "La cattedrale di Firenze",
+      "testo": "Papa Eugenio IV consacra Santa Maria del Fiore, appena completata dalla cupola di Brunelleschi.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Cattedrale di Santa Maria del Fiore",
+      "tono": "leggero",
+      "indizio": "Domani: un papa consacra la cattedrale con la cupola più grande del mondo."
+    },
+    {
+      "id": "03-25-1857",
+      "anno": 1857,
+      "titolo": "La prima registrazione del suono",
+      "testo": "Il francese Édouard-Léon Scott de Martinville brevetta il fonautografo, che disegna le onde sonore su carta annerita. Non poteva riprodurle: ci sono riusciti nel 2008 con il computer.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Fonautografo",
+      "tono": "leggero",
+      "indizio": "Domani: un tipografo francese brevetta una macchina che disegna la voce."
+    },
+    {
+      "id": "03-25-1925",
+      "anno": 1925,
+      "titolo": "La televisione ai grandi magazzini",
+      "testo": "Ai grandi magazzini Selfridges di Londra John Logie Baird mostra al pubblico il suo televisore: immagini tremolanti di sagome.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "John Logie Baird",
+      "tono": "leggero",
+      "indizio": "Domani: ai grandi magazzini di Londra si vede la prima televisione."
+    },
+    {
+      "id": "03-25-1995",
+      "anno": 1995,
+      "titolo": "Il primo wiki",
+      "testo": "Ward Cunningham mette online il WikiWikiWeb, il primo sito che chiunque può modificare: il nome viene dall'hawaiano wiki, «veloce».",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "WikiWikiWeb",
+      "tono": "leggero",
+      "indizio": "Domani: nasce il primo sito che tutti possono scrivere."
+    },
+    {
+      "id": "03-25-1996",
+      "anno": 1996,
+      "titolo": "La cometa Hyakutake",
+      "testo": "La cometa Hyakutake passa vicinissima alla Terra: la sua coda attraversa mezzo cielo.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Cometa Hyakutake",
+      "tono": "leggero",
+      "indizio": "Domani: una cometa passa vicinissima alla Terra."
+    },
+    {
+      "id": "03-25-1306",
+      "anno": 1306,
+      "titolo": "Robert Bruce re",
+      "testo": "Robert Bruce viene incoronato re di Scozia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Roberto I di Scozia",
+      "tono": "storico"
+    },
+    {
+      "id": "03-25-1296",
+      "anno": 1296,
+      "titolo": "Federico re di Sicilia",
+      "testo": "A Palermo Federico III d'Aragona viene incoronato re di Sicilia.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Federico III di Sicilia",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Arturo Toscanini",
+      "anno": 1867,
+      "chi": "direttore d'orchestra parmigiano",
+      "wiki": "Arturo Toscanini"
+    },
+    {
+      "nome": "Béla Bartók",
+      "anno": 1881,
+      "chi": "compositore ungherese",
+      "wiki": "Béla Bartók"
+    },
+    {
+      "nome": "Flannery O'Connor",
+      "anno": 1925,
+      "chi": "scrittrice statunitense",
+      "wiki": "Flannery O'Connor"
+    },
+    {
+      "nome": "Mina",
+      "anno": 1940,
+      "chi": "cantante",
+      "wiki": "Mina"
+    },
+    {
+      "nome": "Aretha Franklin",
+      "anno": 1942,
+      "chi": "cantante soul",
+      "wiki": "Aretha Franklin"
+    },
+    {
+      "nome": "Elton John",
+      "anno": 1947,
+      "chi": "cantante e pianista inglese",
+      "wiki": "Elton John"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Perché il Dantedì",
+      "testo": "Il 25 marzo è il giorno in cui, secondo molti studiosi, Dante comincia il viaggio della Divina Commedia, nel 1300. Dal 2020 è la giornata nazionale dedicata a lui."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Capodanno a marzo",
+      "testo": "A Firenze l'anno nuovo cominciava il 25 marzo, giorno dell'Incarnazione, fino al 1750. Per questo i documenti fiorentini di gennaio e febbraio portano la data dell'anno precedente."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il direttore che sapeva tutto a memoria",
+      "testo": "Toscanini, nato oggi, era così miope che non poteva leggere la partitura sul leggio: imparava a memoria ogni nota di ogni strumento. Cominciò a dirigere a diciannove anni, sostituendo all'improvviso un direttore a Rio de Janeiro."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura.",
+      "autore": "Dante Alighieri",
+      "fonte": "Inferno, I"
+    },
+    {
+      "testo": "Fatti non foste a viver come bruti, ma per seguir virtute e canoscenza.",
+      "autore": "Dante Alighieri",
+      "fonte": "Inferno, XXVI"
+    },
+    {
+      "testo": "L'amor che move il sole e l'altre stelle.",
+      "autore": "Dante Alighieri",
+      "fonte": "Paradiso, XXXIII"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A l'Anonsià la ròndola sot ca.",
+      "regione": "Piemonte",
+      "traduzione": "All'Annunziata la rondine è sotto casa.",
+      "spiegazione": "Per il 25 marzo le rondini sono già tornate a fare il nido sotto i tetti.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "A Candilora 'u mbernu è fora, rispundi 'a vecchia arraggiata: 'u 'mbernu si ndi vaci a Nunziata.",
+      "regione": "Calabria",
+      "traduzione": "A Candelora l'inverno è finito, risponde la vecchia arrabbiata: l'inverno se ne va all'Annunziata.",
+      "spiegazione": "Non bisogna illudersi troppo presto: il freddo vero se ne va solo a fine marzo.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

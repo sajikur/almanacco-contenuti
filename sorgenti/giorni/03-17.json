@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "giorno": "03-17",
+  "santo": {
+    "nome": "San Patrizio",
+    "nota": "Nato in Britannia, fu rapito da ragazzo dai pirati e portato in Irlanda come schiavo. Fuggito, tornò sull'isola da vescovo e la evangelizzò. È il patrono dell'Irlanda.",
+    "altri": [
+      "Santa Gertrude di Nivelles",
+      "San Giovanni Sarkander",
+      "San Corrado di Baviera"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata dell'Unità nazionale, della Costituzione, dell'inno e della bandiera",
+      "ambito": "italia"
+    },
+    {
+      "nome": "Festa di San Patrizio in Irlanda",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-17-1861",
+      "anno": 1861,
+      "titolo": "Nasce il Regno d'Italia",
+      "testo": "A Torino il Parlamento proclama Vittorio Emanuele II re d'Italia: è la data dell'Unità.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Proclamazione del Regno d'Italia",
+      "tono": "storico",
+      "indizio": "Domani: a Torino nasce il Regno d'Italia."
+    },
+    {
+      "id": "03-17-1852",
+      "anno": 1852,
+      "titolo": "L'asteroide Psiche",
+      "testo": "Dall'osservatorio di Capodimonte, a Napoli, Annibale de Gasparis scopre l'asteroide Psiche, fatto in gran parte di metallo. Nel 2023 la NASA gli ha mandato una sonda.",
+      "ambito": "italia",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "16 Psyche",
+      "tono": "leggero",
+      "indizio": "Domani: un astronomo napoletano scopre un asteroide di metallo."
+    },
+    {
+      "id": "03-17-1762",
+      "anno": 1762,
+      "titolo": "La prima parata di San Patrizio",
+      "testo": "A New York gli irlandesi sfilano per la prima volta per San Patrizio: oggi è una delle parate più grandi del mondo.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Festa di San Patrizio",
+      "tono": "leggero",
+      "indizio": "Domani: gli irlandesi di New York sfilano per il loro santo."
+    },
+    {
+      "id": "03-17-1958",
+      "anno": 1958,
+      "titolo": "Vanguard 1",
+      "testo": "Gli Stati Uniti lanciano Vanguard 1, un satellite grande come un pompelmo con le prime celle solari: è ancora in orbita, il più vecchio oggetto umano rimasto lassù.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Vanguard 1",
+      "tono": "leggero",
+      "indizio": "Domani: parte un satellite grande come un pompelmo che è ancora lassù."
+    },
+    {
+      "id": "03-17-1898",
+      "anno": 1898,
+      "titolo": "Il sottomarino di Holland",
+      "testo": "John Holland mostra alla marina americana il suo sottomarino, capace di restare sott'acqua a lungo: è il modello dei sottomarini moderni.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "USS Holland (SS-1)",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-17-1901",
+      "anno": 1901,
+      "titolo": "Van Gogh a Parigi",
+      "testo": "Una mostra di settantuno quadri di Van Gogh, morto undici anni prima, fa scalpore a Parigi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Vincent van Gogh",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-17-1950",
+      "anno": 1950,
+      "titolo": "Il californio",
+      "testo": "A Berkeley si annuncia la scoperta dell'elemento 98, il californio.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Californio",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-17-1229",
+      "anno": 1229,
+      "titolo": "Federico II a Gerusalemme",
+      "testo": "L'imperatore Federico II entra in Gerusalemme, ottenuta trattando con il sultano invece che combattendo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Sesta crociata",
+      "tono": "storico",
+      "indizio": "Domani: un imperatore entra a Gerusalemme senza combattere."
+    },
+    {
+      "id": "03-17-1848",
+      "anno": 1848,
+      "titolo": "Venezia insorge",
+      "testo": "Venezia libera Daniele Manin dal carcere e si solleva contro gli austriaci: cinque giorni dopo nascerà la Repubblica di San Marco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Repubblica di San Marco",
+      "tono": "storico"
+    },
+    {
+      "id": "03-17-1805",
+      "anno": 1805,
+      "titolo": "Napoleone re d'Italia",
+      "testo": "La Repubblica italiana diventa Regno d'Italia, con Napoleone come re.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Regno d'Italia (1805-1814)",
+      "tono": "storico"
+    },
+    {
+      "id": "03-17-1891",
+      "anno": 1891,
+      "titolo": "Il piroscafo Utopia",
+      "testo": "Il piroscafo Utopia, carico di emigranti del Sud Italia, affonda nel porto di Gibilterra.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Utopia (piroscafo)",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Gottlieb Daimler",
+      "anno": 1834,
+      "chi": "pioniere dell'automobile",
+      "wiki": "Gottlieb Daimler"
+    },
+    {
+      "nome": "Nat King Cole",
+      "anno": 1919,
+      "chi": "cantante e pianista jazz",
+      "wiki": "Nat King Cole"
+    },
+    {
+      "nome": "Rudolf Nureyev",
+      "anno": 1938,
+      "chi": "ballerino russo",
+      "wiki": "Rudolf Nureyev"
+    },
+    {
+      "nome": "Kurt Russell",
+      "anno": 1951,
+      "chi": "attore statunitense",
+      "wiki": "Kurt Russell"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Il trifoglio",
+      "testo": "Secondo la tradizione san Patrizio spiegava la Trinità agli irlandesi mostrando un trifoglio, tre foglie su un solo stelo. Per questo il trifoglio è il simbolo dell'Irlanda e oggi si veste di verde."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Il fiume verde",
+      "testo": "Dal 1962 Chicago colora di verde il suo fiume per San Patrizio. L'idea venne agli idraulici della città, che usavano un colorante per scoprire gli scarichi abusivi."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Secondo, non primo",
+      "testo": "Diventato re d'Italia, Vittorio Emanuele volle conservare il numerale II, quello dei re di Sardegna: un segno che il nuovo regno continuava quello sabaudo."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Fatta l'Italia, bisogna fare gli italiani.",
+      "autore": "attribuita a Massimo d'Azeglio",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Libera Chiesa in libero Stato.",
+      "autore": "Camillo Benso di Cavour",
+      "fonte": "discorso, 1861"
+    },
+    {
+      "testo": "L'unione fa la forza.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Amor veccio non fa ruzene.",
+      "regione": "Veneto",
+      "traduzione": "Amore vecchio non fa ruggine.",
+      "spiegazione": "I sentimenti di lunga data non si consumano: restano forti con il tempo.",
+      "fonte": "Wikiquote, Proverbi veneti"
+    },
+    {
+      "testo": "A magnà' e a rattà' tutte sta a cumméncià'.",
+      "regione": "Molise",
+      "traduzione": "A mangiare e a grattarsi, tutto sta a cominciare.",
+      "spiegazione": "Certe cose, una volta cominciate, non si smettono più.",
+      "fonte": "Wikiquote, Proverbi molisani"
+    }
+  ],
+  "prima_pagina": null
+}

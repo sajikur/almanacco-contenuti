@@ -1,0 +1,240 @@
+{
+  "schema": 1,
+  "giorno": "03-14",
+  "santo": {
+    "nome": "Santa Matilde",
+    "nota": "Regina di Germania nel X secolo, moglie di Enrico l'Uccellatore e madre dell'imperatore Ottone I. Fondò monasteri e fu così generosa con i poveri che i figli la accusarono di sperperare il tesoro.",
+    "altri": [
+      "San Leone vescovo",
+      "San Lazzaro di Milano",
+      "Beato Giacomo Cusmano"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giorno del pi greco (3,14)",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata nazionale del paesaggio",
+      "ambito": "italia"
+    },
+    {
+      "nome": "White Day in Giappone",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-14-1994",
+      "anno": 1994,
+      "titolo": "Linux 1.0",
+      "testo": "A Helsinki Linus Torvalds presenta la versione 1.0 di Linux, il sistema operativo libero nato tre anni prima come passatempo di uno studente.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Linux (kernel)",
+      "tono": "leggero",
+      "indizio": "Domani: uno studente finlandese pubblica la prima versione stabile del suo sistema operativo."
+    },
+    {
+      "id": "03-14-1489",
+      "anno": 1489,
+      "titolo": "Cipro diventa veneziana",
+      "testo": "La regina veneziana Caterina Cornaro cede il regno di Cipro alla Serenissima. In cambio riceve la signoria di Asolo, dove terrà una piccola corte di letterati.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Caterina Cornaro",
+      "tono": "storico",
+      "indizio": "Domani: una regina cede la sua isola a Venezia in cambio di un borgo sui colli."
+    },
+    {
+      "id": "03-14-1800",
+      "anno": 1800,
+      "titolo": "Il conclave di Venezia",
+      "testo": "Nel monastero di San Giorgio Maggiore, a Venezia, dopo più di tre mesi di conclave viene eletto papa Pio VII: è l'ultimo conclave tenuto fuori Roma.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Conclave del 1799-1800",
+      "tono": "storico",
+      "indizio": "Domani: per l'ultima volta un papa viene eletto fuori Roma."
+    },
+    {
+      "id": "03-14-1847",
+      "anno": 1847,
+      "titolo": "Il Macbeth di Verdi",
+      "testo": "Al teatro della Pergola di Firenze debutta il Macbeth, la prima opera di Verdi tratta da Shakespeare.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Macbeth (Verdi)",
+      "tono": "leggero",
+      "indizio": "Domani: Verdi porta Shakespeare per la prima volta all'opera."
+    },
+    {
+      "id": "03-14-1794",
+      "anno": 1794,
+      "titolo": "La sgranatrice di cotone",
+      "testo": "Eli Whitney ottiene il brevetto della sgranatrice, la macchina che separa i semi dalle fibre del cotone.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Sgranatrice di cotone",
+      "tono": "leggero",
+      "indizio": "Domani: un'invenzione semplice cambia per sempre il Sud degli Stati Uniti."
+    },
+    {
+      "id": "03-14-1903",
+      "anno": 1903,
+      "titolo": "Il primo rifugio della fauna",
+      "testo": "Theodore Roosevelt fa dell'isola di Pelican Island, in Florida, il primo rifugio federale per gli uccelli e la fauna selvatica.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Pelican Island National Wildlife Refuge",
+      "tono": "leggero",
+      "indizio": "Domani: un presidente cacciatore protegge un'isola piena di pellicani."
+    },
+    {
+      "id": "03-14-1995",
+      "anno": 1995,
+      "titolo": "Un americano sulla Sojuz",
+      "testo": "Norman Thagard è il primo astronauta statunitense a partire su un razzo russo, verso la stazione Mir.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Norman Thagard",
+      "tono": "leggero",
+      "indizio": "Domani: un americano parte su un razzo russo."
+    },
+    {
+      "id": "03-14-1848",
+      "anno": 1848,
+      "titolo": "Lo Statuto di Pio IX",
+      "testo": "Papa Pio IX concede una costituzione allo Stato Pontificio.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Statuto fondamentale del governo temporale degli Stati di Santa Chiesa",
+      "tono": "storico"
+    },
+    {
+      "id": "03-14-1757",
+      "anno": 1757,
+      "titolo": "L'ammiraglio Byng",
+      "testo": "A Portsmouth l'ammiraglio John Byng viene fucilato per non aver fatto «tutto il possibile» per salvare Minorca.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "John Byng",
+      "tono": "storico"
+    },
+    {
+      "id": "03-14-1982",
+      "anno": 1982,
+      "titolo": "Il primo concerto dei Metallica",
+      "testo": "Ad Anaheim, in California, i Metallica suonano dal vivo per la prima volta.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 2,
+      "wiki": "Metallica",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-14-1972",
+      "anno": 1972,
+      "titolo": "Feltrinelli",
+      "testo": "Sotto un traliccio a Segrate viene trovato il corpo dell'editore Giangiacomo Feltrinelli.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Giangiacomo Feltrinelli",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Johann Strauss padre",
+      "anno": 1804,
+      "chi": "compositore della Marcia di Radetzky",
+      "wiki": "Johann Strauss padre"
+    },
+    {
+      "nome": "Vittorio Emanuele II",
+      "anno": 1820,
+      "chi": "primo re d'Italia",
+      "wiki": "Vittorio Emanuele II"
+    },
+    {
+      "nome": "Albert Einstein",
+      "anno": 1879,
+      "chi": "fisico della relatività",
+      "wiki": "Albert Einstein"
+    },
+    {
+      "nome": "Michael Caine",
+      "anno": 1933,
+      "chi": "attore britannico",
+      "wiki": "Michael Caine"
+    },
+    {
+      "nome": "Quincy Jones",
+      "anno": 1933,
+      "chi": "produttore e musicista statunitense",
+      "wiki": "Quincy Jones"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "scienza",
+      "titolo": "Il giorno del pi greco",
+      "testo": "Negli Stati Uniti la data si scrive 3/14, come le prime cifre del pi greco. La festa la inventò nel 1988 il fisico Larry Shaw all'Exploratorium di San Francisco, con una torta: in inglese pie, che si pronuncia come pi."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Lo stesso giorno",
+      "testo": "Il 14 marzo è nato Albert Einstein ed è morto, nel 2018, Stephen Hawking: due dei fisici più famosi del Novecento legati alla data del pi greco."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Per incoraggiare gli altri",
+      "testo": "Voltaire, nel Candido, commentò la fucilazione dell'ammiraglio Byng dicendo che in Inghilterra è bene uccidere ogni tanto un ammiraglio per incoraggiare gli altri. La frase è diventata proverbiale."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La fantasia è più importante della conoscenza.",
+      "autore": "Albert Einstein",
+      "fonte": "intervista, 1929"
+    },
+    {
+      "testo": "In questo paese è bene uccidere di tanto in tanto un ammiraglio, per incoraggiare gli altri.",
+      "autore": "Voltaire",
+      "fonte": "Candido, 1759"
+    },
+    {
+      "testo": "Chi non risica non rosica.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Chi a travaja për sò cont a val për tre.",
+      "regione": "Piemonte",
+      "traduzione": "Chi lavora per conto proprio vale per tre.",
+      "spiegazione": "Chi lavora per sé ci mette un impegno che nessun dipendente mette.",
+      "fonte": "Wikiquote, Proverbi piemontesi"
+    },
+    {
+      "testo": "Casa quantu stai, vigna quantu bivi, terra quantu vidi.",
+      "regione": "Sicilia",
+      "traduzione": "Casa quanta ne abiti, vigna quanta ne bevi, terra quanta ne vedi.",
+      "spiegazione": "La casa basta che sia grande quanto serve, la vigna quanto basta per il proprio vino; la terra invece non è mai troppa.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    }
+  ],
+  "prima_pagina": null
+}

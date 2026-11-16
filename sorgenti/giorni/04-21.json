@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "giorno": "04-21",
+  "santo": {
+    "nome": "Sant'Anselmo d'Aosta",
+    "nota": "Nato ad Aosta nell'XI secolo, monaco in Normandia e poi arcivescovo di Canterbury. Filosofo e teologo, cercò di dimostrare l'esistenza di Dio con la sola ragione. È dottore della Chiesa.",
+    "altri": [
+      "San Corrado da Parzham",
+      "Sant'Apollonio di Roma",
+      "Beato Bartolomeo Cerveri"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Natale di Roma",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-21--753",
+      "anno": -753,
+      "titolo": "La fondazione di Roma",
+      "testo": "Secondo la leggenda Romolo traccia con l'aratro il solco sacro sul Palatino: nasce Roma. Il fratello Remo, che lo scavalca per scherno, viene ucciso.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Natale di Roma",
+      "tono": "storico",
+      "indizio": "Domani: secondo la leggenda Romolo traccia un solco sul Palatino."
+    },
+    {
+      "id": "04-21-1989",
+      "anno": 1989,
+      "titolo": "Il Game Boy",
+      "testo": "In Giappone esce il Game Boy di Nintendo: con Tetris, diventerà la console portatile più amata della sua epoca.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Game Boy",
+      "tono": "leggero",
+      "indizio": "Domani: arriva nei negozi una console che sta in tasca."
+    },
+    {
+      "id": "04-21-1900",
+      "anno": 1900,
+      "titolo": "Il primo Salone dell'auto",
+      "testo": "A Torino, nella palazzina delle Belle Arti al Valentino, si inaugura la prima esposizione italiana dell'automobile: è l'antenato del Salone dell'auto.",
+      "ambito": "italia",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Salone dell'automobile di Torino",
+      "tono": "leggero",
+      "indizio": "Domani: a Torino si apre la prima mostra delle automobili."
+    },
+    {
+      "id": "04-21-1918",
+      "anno": 1918,
+      "titolo": "Cade il Barone Rosso",
+      "testo": "Sopra la Somme viene abbattuto Manfred von Richthofen, il Barone Rosso, l'asso con ottanta vittorie e l'aereo dipinto di rosso.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Manfred von Richthofen",
+      "tono": "storico",
+      "indizio": "Domani: cade il pilota più famoso della Grande guerra."
+    },
+    {
+      "id": "04-21-1960",
+      "anno": 1960,
+      "titolo": "Nasce Brasilia",
+      "testo": "Si inaugura Brasilia, la nuova capitale del Brasile costruita dal nulla in quarantun mesi, con la pianta a forma di aeroplano.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Brasilia",
+      "tono": "leggero",
+      "indizio": "Domani: il Brasile inaugura una capitale costruita da zero."
+    },
+    {
+      "id": "04-21-1970",
+      "anno": 1970,
+      "titolo": "La provincia di Hutt River",
+      "testo": "In Australia l'agricoltore Leonard Casley, in lite con il governo per le quote di grano, proclama indipendente la sua fattoria: nasce il principato di Hutt River.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Principato di Hutt River",
+      "tono": "leggero",
+      "indizio": "Domani: un contadino australiano proclama indipendente la sua fattoria."
+    },
+    {
+      "id": "04-21-1942",
+      "anno": 1942,
+      "titolo": "Il codice civile in vigore",
+      "testo": "Entra in vigore il codice civile italiano.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Codice civile italiano",
+      "tono": "storico",
+      "indizio": "Domani: entra in vigore il codice civile italiano."
+    },
+    {
+      "id": "04-21-1945",
+      "anno": 1945,
+      "titolo": "Bologna liberata",
+      "testo": "I partigiani e le truppe alleate entrano a Bologna.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Liberazione di Bologna",
+      "tono": "storico",
+      "indizio": "Domani: Bologna è libera."
+    },
+    {
+      "id": "04-21-1509",
+      "anno": 1509,
+      "titolo": "Enrico VIII",
+      "testo": "Il diciassettenne Enrico VIII diventa re d'Inghilterra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Enrico VIII d'Inghilterra",
+      "tono": "storico"
+    },
+    {
+      "id": "04-21-1519",
+      "anno": 1519,
+      "titolo": "Cortés in Messico",
+      "testo": "Hernán Cortés sbarca sulla costa del Messico, dove fonderà Veracruz.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Hernán Cortés",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Friedrich Fröbel",
+      "anno": 1782,
+      "chi": "pedagogista, inventore dell'asilo",
+      "wiki": "Friedrich Fröbel"
+    },
+    {
+      "nome": "Charlotte Brontë",
+      "anno": 1816,
+      "chi": "scrittrice di Jane Eyre",
+      "wiki": "Charlotte Brontë"
+    },
+    {
+      "nome": "Max Weber",
+      "anno": 1864,
+      "chi": "sociologo tedesco",
+      "wiki": "Max Weber"
+    },
+    {
+      "nome": "Anthony Quinn",
+      "anno": 1915,
+      "chi": "attore",
+      "wiki": "Anthony Quinn"
+    },
+    {
+      "nome": "Elisabetta II",
+      "anno": 1926,
+      "chi": "regina del Regno Unito",
+      "wiki": "Elisabetta II"
+    },
+    {
+      "nome": "Iggy Pop",
+      "anno": 1947,
+      "chi": "cantante rock",
+      "wiki": "Iggy Pop"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "La festa dei pastori",
+      "testo": "Il 21 aprile i romani celebravano già prima di Roma le Palilie, la festa della dea Pale, protettrice dei pastori: si saltava sopra falò di paglia per purificarsi. La data fu poi legata alla fondazione della città."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Due compleanni",
+      "testo": "Elisabetta II, nata oggi, festeggiava due compleanni: quello vero il 21 aprile, in privato, e quello ufficiale a giugno, con la parata, perché il tempo in Inghilterra è più clemente."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il giardino dei bambini",
+      "testo": "Friedrich Fröbel, nato oggi, nel 1840 chiamò Kindergarten, «giardino dei bambini», la scuola per i più piccoli che aveva inventato. La parola è entrata in molte lingue."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tu ricordati, o Romano, di governare i popoli.",
+      "autore": "Virgilio",
+      "fonte": "Eneide, VI"
+    },
+    {
+      "testo": "Fides quaerens intellectum.",
+      "autore": "Anselmo d'Aosta",
+      "fonte": "Proslogion"
+    },
+    {
+      "testo": "Roma caput mundi.",
+      "autore": "Motto latino",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Caglina ca n'è fatt' gli ou è semp' pullastra.",
+      "regione": "Lazio",
+      "traduzione": "Gallina che non ha fatto uova è sempre pollastra.",
+      "spiegazione": "Chi non ha ancora provato certe esperienze resta giovane e inesperto, qualunque sia la sua età.",
+      "fonte": "Wikiquote, Proverbi alatrensi"
+    },
+    {
+      "testo": "A chi consiglia non gli duole il capo.",
+      "regione": "Toscana",
+      "traduzione": "A chi dà consigli non duole la testa.",
+      "spiegazione": "È facile dare consigli quando i problemi sono degli altri.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    }
+  ],
+  "prima_pagina": null
+}

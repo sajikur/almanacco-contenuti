@@ -1,0 +1,227 @@
+{
+  "schema": 1,
+  "giorno": "04-04",
+  "santo": {
+    "nome": "Sant'Isidoro di Siviglia",
+    "nota": "Vescovo di Siviglia nel VII secolo, scrisse le Etimologie, un'enciclopedia di tutto il sapere antico che si studiò per tutto il Medioevo. È dottore della Chiesa e qualcuno l'ha proposto come patrono di internet.",
+    "altri": [
+      "San Benedetto il Moro",
+      "Beato Giuseppe Benedetto Dusmet",
+      "Beato Guglielmo di Noto"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "04-04-1975",
+      "anno": 1975,
+      "titolo": "Nasce Microsoft",
+      "testo": "Ad Albuquerque, nel New Mexico, Bill Gates e Paul Allen fondano Micro-Soft, con il trattino: fanno programmi per microcomputer.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Microsoft",
+      "tono": "leggero",
+      "indizio": "Domani: due ragazzi fondano una piccola ditta di programmi per computer."
+    },
+    {
+      "id": "04-04-1964",
+      "anno": 1964,
+      "titolo": "I primi cinque posti",
+      "testo": "Nella classifica americana i primi cinque posti sono tutti dei Beatles: è un record mai eguagliato.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "The Beatles",
+      "tono": "leggero",
+      "indizio": "Domani: un solo gruppo occupa tutto il podio della classifica americana, e anche oltre."
+    },
+    {
+      "id": "04-04-1949",
+      "anno": 1949,
+      "titolo": "Il Patto atlantico",
+      "testo": "A Washington dodici paesi, tra cui l'Italia, firmano il Patto atlantico: nasce la NATO.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Trattato del Nord Atlantico",
+      "tono": "storico",
+      "indizio": "Domani: dodici paesi firmano un'alleanza a Washington."
+    },
+    {
+      "id": "04-04-1973",
+      "anno": 1973,
+      "titolo": "Le Torri Gemelle",
+      "testo": "A New York si inaugura il World Trade Center, con le due torri più alte del mondo.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "World Trade Center (1973-2001)",
+      "tono": "leggero",
+      "indizio": "Domani: a New York si inaugurano due torri gemelle."
+    },
+    {
+      "id": "04-04-1581",
+      "anno": 1581,
+      "titolo": "Sir Francis Drake",
+      "testo": "A bordo della Golden Hind, nel porto di Deptford, la regina Elisabetta nomina cavaliere Francis Drake, il primo capitano a completare il giro del mondo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Francis Drake",
+      "tono": "storico",
+      "indizio": "Domani: una regina sale su una nave per fare cavaliere un corsaro."
+    },
+    {
+      "id": "04-04-1887",
+      "anno": 1887,
+      "titolo": "La sindaca per scherzo",
+      "testo": "Ad Argonia, nel Kansas, Susanna Salter diventa la prima donna sindaco degli Stati Uniti. Un gruppo di uomini l'aveva candidata per prenderla in giro: vinse con due terzi dei voti.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Susanna M. Salter",
+      "tono": "leggero",
+      "indizio": "Domani: una donna candidata per scherzo vince le elezioni."
+    },
+    {
+      "id": "04-04-1841",
+      "anno": 1841,
+      "titolo": "Il presidente di un mese",
+      "testo": "Muore William Henry Harrison, presidente degli Stati Uniti da soli trentuno giorni: il mandato più breve della storia americana.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "William Henry Harrison",
+      "tono": "storico",
+      "indizio": "Domani: muore un presidente americano dopo un solo mese."
+    },
+    {
+      "id": "04-04-1818",
+      "anno": 1818,
+      "titolo": "Una stella per ogni stato",
+      "testo": "Il Congresso stabilisce che la bandiera americana abbia tredici strisce e una stella per ogni stato.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Bandiera degli Stati Uniti d'America",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-04-1969",
+      "anno": 1969,
+      "titolo": "Il cuore artificiale",
+      "testo": "A Houston il chirurgo Denton Cooley impianta il primo cuore artificiale in un paziente, in attesa del trapianto.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Cuore artificiale",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-04-1850",
+      "anno": 1850,
+      "titolo": "Los Angeles città",
+      "testo": "Los Angeles diventa ufficialmente una città.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Los Angeles",
+      "tono": "storico"
+    },
+    {
+      "id": "04-04-1968",
+      "anno": 1968,
+      "titolo": "Martin Luther King",
+      "testo": "A Memphis viene ucciso Martin Luther King.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Assassinio di Martin Luther King",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Muddy Waters",
+      "anno": 1913,
+      "chi": "padre del blues di Chicago",
+      "wiki": "Muddy Waters"
+    },
+    {
+      "nome": "Marguerite Duras",
+      "anno": 1914,
+      "chi": "scrittrice francese",
+      "wiki": "Marguerite Duras"
+    },
+    {
+      "nome": "Maya Angelou",
+      "anno": 1928,
+      "chi": "poetessa statunitense",
+      "wiki": "Maya Angelou"
+    },
+    {
+      "nome": "Andrej Tarkovskij",
+      "anno": 1932,
+      "chi": "regista russo",
+      "wiki": "Andrej Tarkovskij"
+    },
+    {
+      "nome": "Robert Downey Jr.",
+      "anno": 1965,
+      "chi": "attore statunitense",
+      "wiki": "Robert Downey Jr."
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "La classifica impossibile",
+      "testo": "Il 4 aprile 1964 i Beatles avevano nella Hot 100 i primi cinque posti con Can't Buy Me Love, Twist and Shout, She Loves You, I Want to Hold Your Hand e Please Please Me."
+    },
+    {
+      "categoria": "storia",
+      "titolo": "Il discorso al freddo",
+      "testo": "Harrison lesse il discorso d'insediamento più lungo della storia americana, quasi due ore, sotto la pioggia gelata e senza cappotto. Si ammalò poco dopo e morì un mese più tardi."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il patrono di internet",
+      "testo": "Sant'Isidoro è stato proposto come patrono di internet perché le sue Etimologie, un'enorme raccolta del sapere ordinata per argomenti, ricordano una banca dati."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Ogni promessa è debito.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Tutte le strade portano a Roma.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi semina raccoglie.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A tali carni tali cuteddu.",
+      "regione": "Sicilia",
+      "traduzione": "A tale carne tale coltello.",
+      "spiegazione": "Ogni problema va affrontato con lo strumento adatto: alle persone dure si risponde con durezza.",
+      "fonte": "Wikiquote, Proverbi siciliani"
+    },
+    {
+      "testo": "I uerm' diss alla noci: \"temp ci uò ma t' sbuci\".",
+      "regione": "Lazio",
+      "traduzione": "Disse il verme alla noce: ci vuole tempo, ma ti buco.",
+      "spiegazione": "Con la pazienza e la costanza si arriva a tutto, anche alle imprese più dure.",
+      "fonte": "Wikiquote, Proverbi alatrensi"
+    }
+  ],
+  "prima_pagina": null
+}

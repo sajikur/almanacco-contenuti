@@ -1,0 +1,231 @@
+{
+  "schema": 1,
+  "giorno": "04-01",
+  "santo": {
+    "nome": "Sant'Ugo di Grenoble",
+    "nota": "Vescovo di Grenoble nell'XI secolo, accolse san Bruno e i suoi compagni e li guidò nel deserto montano della Chartreuse, dove nacque la Grande Certosa.",
+    "altri": [
+      "Santa Maria Egiziaca",
+      "San Lodovico Pavoni",
+      "Beato Giuseppe Girotti"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Pesce d'aprile",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "04-01-1957",
+      "anno": 1957,
+      "titolo": "Gli alberi degli spaghetti",
+      "testo": "La BBC trasmette un servizio sulla raccolta degli spaghetti nel Canton Ticino: contadine che staccano la pasta dagli alberi. Centinaia di telespettatori chiamano per sapere come coltivarli.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Raccolto degli spaghetti",
+      "tono": "leggero",
+      "indizio": "Domani: la televisione inglese mostra la raccolta degli spaghetti dagli alberi."
+    },
+    {
+      "id": "04-01-1976",
+      "anno": 1976,
+      "titolo": "Nasce Apple",
+      "testo": "Steve Jobs, Steve Wozniak e Ronald Wayne fondano la Apple Computer: il primo computer lo montano nel garage di casa Jobs.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Apple",
+      "tono": "leggero",
+      "indizio": "Domani: in California nasce una società con una mela per nome."
+    },
+    {
+      "id": "04-01-2004",
+      "anno": 2004,
+      "titolo": "Gmail non è uno scherzo",
+      "testo": "Google annuncia Gmail, la posta con un gigabyte di spazio gratuito: centinaia di volte più dei concorrenti. Visto il giorno, molti pensano a un pesce d'aprile.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Gmail",
+      "tono": "leggero",
+      "indizio": "Domani: viene annunciata una novità così grande che tutti la credono uno scherzo."
+    },
+    {
+      "id": "04-01-1938",
+      "anno": 1938,
+      "titolo": "Il Nescafé",
+      "testo": "In Svizzera la Nestlé mette in vendita il Nescafé, il primo caffè solubile di successo, nato per aiutare i coltivatori brasiliani a smaltire il raccolto.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Nescafé",
+      "tono": "leggero",
+      "indizio": "Domani: arriva sugli scaffali un caffè che si fa con l'acqua calda."
+    },
+    {
+      "id": "04-01-1960",
+      "anno": 1960,
+      "titolo": "Il primo satellite meteo",
+      "testo": "Gli Stati Uniti lanciano TIROS-1, il primo satellite meteorologico: manda a terra le prime foto delle nuvole viste dallo spazio.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "TIROS-1",
+      "tono": "leggero",
+      "indizio": "Domani: per la prima volta le nuvole si fotografano dallo spazio."
+    },
+    {
+      "id": "04-01-1934",
+      "anno": 1934,
+      "titolo": "San Giovanni Bosco",
+      "testo": "Nel giorno di Pasqua Pio XI proclama santo don Giovanni Bosco, il prete torinese dei ragazzi di strada.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Giovanni Bosco",
+      "tono": "storico",
+      "indizio": "Domani: il prete degli oratori diventa santo."
+    },
+    {
+      "id": "04-01-1918",
+      "anno": 1918,
+      "titolo": "Nasce la RAF",
+      "testo": "Dalla fusione dei reparti aerei di esercito e marina nasce la Royal Air Force, la prima aviazione militare indipendente del mondo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Royal Air Force",
+      "tono": "storico"
+    },
+    {
+      "id": "04-01-1826",
+      "anno": 1826,
+      "titolo": "Un motore a scoppio",
+      "testo": "L'americano Samuel Morey brevetta un motore a combustione interna.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Samuel Morey",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-01-1997",
+      "anno": 1997,
+      "titolo": "Pokémon in televisione",
+      "testo": "In Giappone va in onda il primo episodio dei Pokémon.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Pokémon (serie animata)",
+      "tono": "leggero"
+    },
+    {
+      "id": "04-01-1984",
+      "anno": 1984,
+      "titolo": "Pozzuoli trema",
+      "testo": "In poche ore Pozzuoli è scossa da centinaia di piccoli terremoti: è la fase più forte del bradisismo, che solleva il suolo.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 2,
+      "wiki": "Bradisismo flegreo",
+      "tono": "storico"
+    },
+    {
+      "id": "04-01-1873",
+      "anno": 1873,
+      "titolo": "Il piroscafo Atlantic",
+      "testo": "Il transatlantico Atlantic naufraga davanti alla Nuova Scozia.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "RMS Atlantic",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "William Harvey",
+      "anno": 1578,
+      "chi": "medico della circolazione del sangue",
+      "wiki": "William Harvey"
+    },
+    {
+      "nome": "Nikolaj Gogol'",
+      "anno": 1809,
+      "chi": "scrittore russo",
+      "wiki": "Nikolaj Gogol'"
+    },
+    {
+      "nome": "Otto von Bismarck",
+      "anno": 1815,
+      "chi": "cancelliere tedesco",
+      "wiki": "Otto von Bismarck"
+    },
+    {
+      "nome": "Sergej Rachmaninov",
+      "anno": 1873,
+      "chi": "compositore e pianista russo",
+      "wiki": "Sergej Rachmaninov"
+    },
+    {
+      "nome": "Milan Kundera",
+      "anno": 1929,
+      "chi": "scrittore ceco",
+      "wiki": "Milan Kundera"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Perché pesce d'aprile",
+      "testo": "Una delle ipotesi: nel 1564 il re di Francia spostò l'inizio dell'anno dal primo aprile al primo gennaio. Chi continuava a festeggiare ad aprile riceveva regali finti per scherzo. Il pesce forse perché il Sole esce dal segno dei Pesci."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Il terzo socio",
+      "testo": "Ronald Wayne, il terzo fondatore della Apple, disegnò il primo logo e dopo dodici giorni vendette la sua quota del dieci per cento per ottocento dollari."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "La risposta della BBC",
+      "testo": "A chi telefonava per sapere come coltivare gli spaghetti, la BBC rispondeva di mettere un rametto di spaghetti in una scatola di salsa di pomodoro e sperare per il meglio."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Di chi ridete? Ridete di voi stessi!",
+      "autore": "Nikolaj Gogol'",
+      "fonte": "L'ispettore generale"
+    },
+    {
+      "testo": "Il riso fa buon sangue.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Aprile, ogni goccia un barile.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A-o primmo d'Arvi tûtti i scemmi se fan corrì.",
+      "regione": "Liguria",
+      "traduzione": "Al primo d'aprile tutti gli sciocchi si fanno correre.",
+      "spiegazione": "Il primo aprile è il giorno degli scherzi: chi ci casca corre dietro a commissioni inventate.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Apréile iàcque a varréile.",
+      "regione": "Puglia",
+      "traduzione": "Aprile, acqua a barili.",
+      "spiegazione": "Aprile è il mese delle piogge abbondanti, preziose per i campi.",
+      "fonte": "Wikiquote, Proverbi gravinesi"
+    }
+  ],
+  "prima_pagina": null
+}

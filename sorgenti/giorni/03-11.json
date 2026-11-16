@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "giorno": "03-11",
+  "santo": {
+    "nome": "San Sofronio di Gerusalemme",
+    "nota": "Monaco e patriarca di Gerusalemme nel Seicento, trattò la resa della città al califfo Omar nel 638, ottenendo che i cristiani fossero rispettati.",
+    "altri": [
+      "San Costantino di Dumnonia",
+      "Sant'Eulogio di Cordova",
+      "Santa Rosina"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "03-11-1851",
+      "anno": 1851,
+      "titolo": "Rigoletto",
+      "testo": "Alla Fenice di Venezia debutta Rigoletto di Verdi, su libretto di Francesco Maria Piave: è un trionfo. La censura aveva costretto a cambiare il re di Francia in un duca di Mantova.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Rigoletto",
+      "tono": "leggero",
+      "indizio": "Domani: alla Fenice debutta l'opera della «donna è mobile»."
+    },
+    {
+      "id": "03-11-1702",
+      "anno": 1702,
+      "titolo": "Il primo quotidiano inglese",
+      "testo": "A Londra esce The Daily Courant, il primo quotidiano in lingua inglese: un solo foglio, con notizie dall'estero.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "The Daily Courant",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra esce il primo quotidiano inglese."
+    },
+    {
+      "id": "03-11-1984",
+      "anno": 1984,
+      "titolo": "Nausicaä",
+      "testo": "In Giappone esce Nausicaä della Valle del vento di Hayao Miyazaki: dal suo successo nascerà lo Studio Ghibli.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Nausicaä della Valle del vento (film)",
+      "tono": "leggero",
+      "indizio": "Domani: esce il film di animazione da cui nascerà lo Studio Ghibli."
+    },
+    {
+      "id": "03-11-1985",
+      "anno": 1985,
+      "titolo": "Gorbačëv al Cremlino",
+      "testo": "Michail Gorbačëv diventa segretario del Partito comunista sovietico: con lui arriveranno la perestrojka e la fine della guerra fredda.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Michail Gorbačëv",
+      "tono": "storico",
+      "indizio": "Domani: al Cremlino arriva un leader giovane che cambierà tutto."
+    },
+    {
+      "id": "03-11-1888",
+      "anno": 1888,
+      "titolo": "Il grande blizzard",
+      "testo": "Comincia la grande tormenta di neve del 1888, che seppellisce New York sotto cumuli alti come le case.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Bufera di neve del 1888",
+      "tono": "storico",
+      "indizio": "Domani: New York finisce sepolta sotto la neve."
+    },
+    {
+      "id": "03-11-1927",
+      "anno": 1927,
+      "titolo": "Il Roxy Theatre",
+      "testo": "A New York apre il Roxy, un cinema da quasi seimila posti, chiamato la cattedrale del cinema.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Roxy Theatre (New York)",
+      "tono": "leggero",
+      "indizio": "Domani: a New York apre la cattedrale del cinema."
+    },
+    {
+      "id": "03-11-1977",
+      "anno": 1977,
+      "titolo": "Winnie the Pooh",
+      "testo": "Esce Le avventure di Winnie the Pooh, classico Disney.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Le avventure di Winnie the Pooh",
+      "tono": "leggero",
+      "indizio": "Domani: arriva al cinema un orsetto goloso di miele."
+    },
+    {
+      "id": "03-11-1387",
+      "anno": 1387,
+      "titolo": "Castagnaro",
+      "testo": "Sull'Adige, a Castagnaro, le truppe padovane di John Hawkwood battono quelle veronesi.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Battaglia di Castagnaro",
+      "tono": "storico",
+      "indizio": "Domani: sull'Adige si combatte una battaglia tra Padova e Verona."
+    },
+    {
+      "id": "03-11-1990",
+      "anno": 1990,
+      "titolo": "La Lituania indipendente",
+      "testo": "La Lituania è la prima repubblica sovietica a dichiararsi indipendente.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Atto di restaurazione dell'indipendenza della Lituania",
+      "tono": "storico",
+      "indizio": "Domani: una repubblica baltica sfida l'Unione Sovietica."
+    },
+    {
+      "id": "03-11-2002",
+      "anno": 2002,
+      "titolo": "Arch Linux",
+      "testo": "Esce la prima versione di Arch Linux.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 2,
+      "wiki": "Arch Linux",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-11-2011",
+      "anno": 2011,
+      "titolo": "Il terremoto del Tōhoku",
+      "testo": "Un terremoto di magnitudo 9 e lo tsunami devastano il Giappone nord-orientale e la centrale di Fukushima.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Terremoto e maremoto del Tōhoku del 2011",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Torquato Tasso",
+      "anno": 1544,
+      "chi": "poeta della Gerusalemme liberata",
+      "wiki": "Torquato Tasso"
+    },
+    {
+      "nome": "Urbain Le Verrier",
+      "anno": 1811,
+      "chi": "astronomo che calcolò Nettuno",
+      "wiki": "Urbain Le Verrier"
+    },
+    {
+      "nome": "Astor Piazzolla",
+      "anno": 1921,
+      "chi": "musicista argentino del tango",
+      "wiki": "Astor Piazzolla"
+    },
+    {
+      "nome": "Douglas Adams",
+      "anno": 1952,
+      "chi": "scrittore della Guida galattica per gli autostoppisti",
+      "wiki": "Douglas Adams"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "L'aria segreta",
+      "testo": "Verdi consegnò al tenore La donna è mobile solo alla vigilia della prima, facendogli giurare di non canticchiarla: temeva che i gondolieri la imparassero e la cantassero per Venezia prima del debutto."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Il pianeta trovato con la penna",
+      "testo": "Le Verrier, nato oggi, calcolò la posizione di un pianeta sconosciuto dalle irregolarità dell'orbita di Urano. Nel 1846 l'astronomo Galle puntò il telescopio dove diceva lui e trovò Nettuno."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Perché quarantadue",
+      "testo": "Nella Guida galattica di Douglas Adams un computer calcola per sette milioni e mezzo di anni la risposta alla domanda fondamentale sulla vita: è 42. Adams disse di averlo scelto perché era un numero qualunque."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La donna è mobile qual piuma al vento.",
+      "autore": "Francesco Maria Piave",
+      "fonte": "Rigoletto, 1851"
+    },
+    {
+      "testo": "Perduto è tutto il tempo che in amar non si spende.",
+      "autore": "Torquato Tasso",
+      "fonte": "Aminta"
+    },
+    {
+      "testo": "Non fare il passo più lungo della gamba.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "Acquazzina 'un inchie puzzu.",
+      "regione": "Calabria",
+      "traduzione": "La rugiada non riempie il pozzo.",
+      "spiegazione": "Le piccole cose non bastano per le grandi necessità.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    },
+    {
+      "testo": "'A buscia esce 'ncopp' 'o naso.",
+      "regione": "Campania",
+      "traduzione": "La bugia si vede sul naso.",
+      "spiegazione": "Le bugie si scoprono sempre: chi mente si tradisce da solo.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    }
+  ],
+  "prima_pagina": null
+}

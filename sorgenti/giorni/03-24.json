@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "giorno": "03-24",
+  "santo": {
+    "nome": "Santa Caterina di Svezia",
+    "nota": "Figlia di santa Brigida, visse con la madre a Roma per venticinque anni e ne riportò il corpo in Svezia, dove guidò il monastero di Vadstena.",
+    "altri": [
+      "Sant'Oscar Romero",
+      "San Severo di Catania",
+      "Sant'Aldemaro di Capua"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale contro la tubercolosi",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-24-1882",
+      "anno": 1882,
+      "titolo": "Il bacillo della tubercolosi",
+      "testo": "A Berlino Robert Koch annuncia di aver scoperto il batterio che causa la tubercolosi, allora la prima causa di morte in Europa.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Mycobacterium tuberculosis",
+      "tono": "leggero",
+      "indizio": "Domani: un medico tedesco trova il nemico invisibile della tisi."
+    },
+    {
+      "id": "03-24-1530",
+      "anno": 1530,
+      "titolo": "Malta ai Cavalieri",
+      "testo": "L'imperatore Carlo V concede Malta ai Cavalieri di San Giovanni. L'affitto? Un falcone all'anno.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Sovrano militare ordine di Malta",
+      "tono": "leggero",
+      "indizio": "Domani: un imperatore affitta un'isola per un falcone l'anno."
+    },
+    {
+      "id": "03-24-1721",
+      "anno": 1721,
+      "titolo": "I Concerti brandeburghesi",
+      "testo": "Bach firma la dedica di sei concerti al margravio di Brandeburgo: è il manoscritto dei Concerti brandeburghesi.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Concerti brandeburghesi",
+      "tono": "leggero",
+      "indizio": "Domani: Bach dedica sei concerti a un principe che forse non li suonerà mai."
+    },
+    {
+      "id": "03-24-1958",
+      "anno": 1958,
+      "titolo": "Elvis soldato",
+      "testo": "Elvis Presley si presenta all'esercito americano: il taglio dei suoi capelli finisce su tutti i giornali.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Elvis Presley",
+      "tono": "leggero",
+      "indizio": "Domani: il re del rock si taglia i capelli per fare il soldato."
+    },
+    {
+      "id": "03-24-1860",
+      "anno": 1860,
+      "titolo": "Nizza e Savoia",
+      "testo": "Con il trattato di Torino il Piemonte cede Nizza e la Savoia alla Francia, in cambio dell'aiuto contro l'Austria. Garibaldi, nato a Nizza, non lo perdonerà a Cavour.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Trattato di Torino (1860)",
+      "tono": "storico",
+      "indizio": "Domani: Nizza, la città di Garibaldi, diventa francese."
+    },
+    {
+      "id": "03-24-1993",
+      "anno": 1993,
+      "titolo": "La cometa che cadrà su Giove",
+      "testo": "Gli astronomi Carolyn e Eugene Shoemaker e David Levy scoprono una cometa spezzata in frammenti: l'anno dopo si schianterà su Giove.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 4,
+      "wiki": "Cometa Shoemaker-Levy 9",
+      "tono": "leggero",
+      "indizio": "Domani: viene scoperta una cometa destinata a cadere su Giove."
+    },
+    {
+      "id": "03-24-1603",
+      "anno": 1603,
+      "titolo": "Una corona per due regni",
+      "testo": "Muore Elisabetta I: il re di Scozia Giacomo VI diventa anche re d'Inghilterra.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Unione delle corone",
+      "tono": "storico"
+    },
+    {
+      "id": "03-24-1896",
+      "anno": 1896,
+      "titolo": "Un messaggio senza fili",
+      "testo": "A San Pietroburgo il fisico Aleksandr Popov trasmette via radio le parole Heinrich Hertz.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "Aleksandr Stepanovič Popov",
+      "tono": "leggero",
+      "indizio": "Domani: due parole viaggiano via radio senza fili."
+    },
+    {
+      "id": "03-24-1944",
+      "anno": 1944,
+      "titolo": "Le Fosse Ardeatine",
+      "testo": "A Roma i nazisti fucilano 335 persone alle Fosse Ardeatine.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Eccidio delle Fosse Ardeatine",
+      "tono": "tragico"
+    },
+    {
+      "id": "03-24-1999",
+      "anno": 1999,
+      "titolo": "Il traforo del Monte Bianco",
+      "testo": "Un camion prende fuoco nel traforo del Monte Bianco.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Incendio del traforo del Monte Bianco",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "William Morris",
+      "anno": 1834,
+      "chi": "artista e designer inglese",
+      "wiki": "William Morris"
+    },
+    {
+      "nome": "Harry Houdini",
+      "anno": 1874,
+      "chi": "illusionista ed escapologo",
+      "wiki": "Harry Houdini"
+    },
+    {
+      "nome": "Joseph Barbera",
+      "anno": 1911,
+      "chi": "creatore dei Flintstones e di Tom e Jerry",
+      "wiki": "Joseph Barbera"
+    },
+    {
+      "nome": "Dario Fo",
+      "anno": 1926,
+      "chi": "drammaturgo, premio Nobel",
+      "wiki": "Dario Fo"
+    },
+    {
+      "nome": "Steve McQueen",
+      "anno": 1930,
+      "chi": "attore statunitense",
+      "wiki": "Steve McQueen"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "storia",
+      "titolo": "Il falcone maltese",
+      "testo": "Ogni anno, il giorno di Ognissanti, i Cavalieri di Malta mandavano al viceré di Sicilia un falcone come affitto dell'isola. Da qui il titolo del romanzo Il falcone maltese."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Il nome rubato",
+      "testo": "Houdini, nato oggi a Budapest come Erik Weisz, prese il nome d'arte dal suo idolo, il prestigiatore francese Jean Eugène Robert-Houdin."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Concerti dimenticati",
+      "testo": "I Concerti brandeburghesi probabilmente non furono mai eseguiti alla corte del margravio. Il manoscritto restò in biblioteca e fu riscoperto solo nel 1849."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Non è bello ciò che è bello, ma è bello ciò che piace.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Il riso abbonda sulla bocca degli stolti.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Melius abundare quam deficere.",
+      "autore": "Massima latina",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A fā la barbe al mus, si pierd timp i fadie.",
+      "regione": "Friuli-Venezia Giulia",
+      "traduzione": "A fare la barba all'asino si perdono tempo e fatica.",
+      "spiegazione": "È inutile sprecare energie con chi non può o non vuole apprezzarle.",
+      "fonte": "Wikiquote, Proverbi friulani"
+    },
+    {
+      "testo": "Pò 'sci sangu a 'na rapa?",
+      "regione": "Lazio",
+      "traduzione": "Può uscire sangue da una rapa?",
+      "spiegazione": "Da chi non ha nulla non si può ottenere nulla.",
+      "fonte": "Wikiquote, Proverbi alatrensi"
+    }
+  ],
+  "prima_pagina": null
+}

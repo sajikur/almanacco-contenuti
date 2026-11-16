@@ -1,0 +1,250 @@
+{
+  "schema": 1,
+  "giorno": "03-20",
+  "santo": {
+    "nome": "San Cutberto di Lindisfarne",
+    "nota": "Monaco ed eremita inglese del VII secolo, vescovo di Lindisfarne. Si racconta che pregasse di notte immerso nel mare gelido e che all'alba due lontre gli asciugassero i piedi.",
+    "altri": [
+      "Santa Claudia",
+      "San Martino di Braga",
+      "Sant'Archippo"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Equinozio di primavera",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata internazionale della felicità",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata della Francofonia",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-20-1800",
+      "anno": 1800,
+      "titolo": "La pila di Volta",
+      "testo": "Alessandro Volta scrive alla Royal Society di Londra per descrivere la sua pila: dischi di zinco e di rame alternati e separati da panni bagnati, che producono corrente continua.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 5,
+      "wiki": "Pila di Volta",
+      "tono": "leggero",
+      "indizio": "Domani: un fisico di Como annuncia al mondo la prima batteria."
+    },
+    {
+      "id": "03-20-1966",
+      "anno": 1966,
+      "titolo": "Rubata la Coppa Rimet",
+      "testo": "A Londra, pochi mesi prima dei Mondiali, la Coppa del Mondo viene rubata da una mostra. Una settimana dopo la ritrova un cane, Pickles, avvolta in un giornale sotto una siepe.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 5,
+      "wiki": "Coppa Rimet",
+      "tono": "leggero",
+      "indizio": "Domani: a Londra sparisce la Coppa del Mondo."
+    },
+    {
+      "id": "03-20-1852",
+      "anno": 1852,
+      "titolo": "La capanna dello zio Tom",
+      "testo": "Esce in volume La capanna dello zio Tom di Harriet Beecher Stowe: il romanzo contro la schiavitù vende centinaia di migliaia di copie in un anno.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "La capanna dello zio Tom",
+      "tono": "leggero",
+      "indizio": "Domani: esce un romanzo che infiammerà l'America contro la schiavitù."
+    },
+    {
+      "id": "03-20-1916",
+      "anno": 1916,
+      "titolo": "La relatività generale",
+      "testo": "Sugli Annalen der Physik esce l'articolo completo di Einstein sulla relatività generale: la gravità è una curvatura dello spazio-tempo.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Relatività generale",
+      "tono": "leggero",
+      "indizio": "Domani: Einstein spiega che la gravità piega lo spazio."
+    },
+    {
+      "id": "03-20-1969",
+      "anno": 1969,
+      "titolo": "Il matrimonio di Lennon",
+      "testo": "John Lennon e Yoko Ono si sposano a Gibilterra; la luna di miele sarà una settimana a letto davanti ai giornalisti, per la pace.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "John Lennon",
+      "tono": "leggero",
+      "indizio": "Domani: un Beatle si sposa in una rocca inglese in mezzo al Mediterraneo."
+    },
+    {
+      "id": "03-20-1602",
+      "anno": 1602,
+      "titolo": "La Compagnia delle Indie",
+      "testo": "Nasce la Compagnia olandese delle Indie orientali: è considerata la prima società per azioni moderna.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Compagnia olandese delle Indie orientali",
+      "tono": "storico",
+      "indizio": "Domani: in Olanda nasce la prima vera società per azioni."
+    },
+    {
+      "id": "03-20-1861",
+      "anno": 1861,
+      "titolo": "Civitella del Tronto",
+      "testo": "Si arrende la fortezza di Civitella del Tronto, in Abruzzo, ultimo presidio borbonico.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Assedio di Civitella del Tronto",
+      "tono": "storico"
+    },
+    {
+      "id": "03-20-1815",
+      "anno": 1815,
+      "titolo": "I Cento giorni",
+      "testo": "Fuggito dall'Elba, Napoleone rientra a Parigi: cominciano i Cento giorni.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Cento giorni",
+      "tono": "storico"
+    },
+    {
+      "id": "03-20-1964",
+      "anno": 1964,
+      "titolo": "Nasce l'ESRO",
+      "testo": "Nasce l'ESRO, l'organizzazione europea per la ricerca spaziale da cui verrà l'ESA.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "European Space Research Organisation",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-20-2010",
+      "anno": 2010,
+      "titolo": "Il vulcano islandese",
+      "testo": "In Islanda comincia l'eruzione dell'Eyjafjallajökull: ad aprile le sue ceneri bloccheranno i voli di mezza Europa.",
+      "ambito": "mondo",
+      "categoria": "scienza",
+      "peso": 3,
+      "wiki": "Eruzione dell'Eyjafjallajökull del 2010",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-20-1883",
+      "anno": 1883,
+      "titolo": "La proprietà industriale",
+      "testo": "A Parigi si firma la convenzione internazionale che protegge brevetti e marchi.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Convenzione di Parigi per la protezione della proprietà industriale",
+      "tono": "storico"
+    },
+    {
+      "id": "03-20-1995",
+      "anno": 1995,
+      "titolo": "Il sarin di Tokyo",
+      "testo": "Una setta diffonde gas sarin nella metropolitana di Tokyo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Attentato alla metropolitana di Tokyo",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Ovidio",
+      "anno": -43,
+      "chi": "poeta latino delle Metamorfosi",
+      "wiki": "Ovidio"
+    },
+    {
+      "nome": "Friedrich Hölderlin",
+      "anno": 1770,
+      "chi": "poeta tedesco",
+      "wiki": "Friedrich Hölderlin"
+    },
+    {
+      "nome": "Henrik Ibsen",
+      "anno": 1828,
+      "chi": "drammaturgo norvegese",
+      "wiki": "Henrik Ibsen"
+    },
+    {
+      "nome": "Fred Rogers",
+      "anno": 1928,
+      "chi": "conduttore televisivo per bambini",
+      "wiki": "Fred Rogers"
+    },
+    {
+      "nome": "Spike Lee",
+      "anno": 1957,
+      "chi": "regista statunitense",
+      "wiki": "Spike Lee"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "sport",
+      "titolo": "Pickles",
+      "testo": "Il cane che ritrovò la Coppa Rimet si chiamava Pickles. Diventò una celebrità, fu invitato alla festa per la vittoria dell'Inghilterra ai Mondiali e il suo padrone ricevette una ricompensa."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Equinozi che scivolano",
+      "testo": "L'equinozio di primavera non cade sempre lo stesso giorno: per effetto del calendario gregoriano, negli ultimi anni cade il 20 marzo e dal 2044 capiterà anche il 19."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Una torre di monete",
+      "testo": "Volta chiamò il suo apparecchio pila perché era davvero una pila di dischi, uno sopra l'altro. In suo onore l'unità di misura della tensione elettrica si chiama volt."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "La goccia scava la pietra.",
+      "autore": "Ovidio",
+      "fonte": "Epistulae ex Ponto"
+    },
+    {
+      "testo": "L'uomo più forte del mondo è colui che è più solo.",
+      "autore": "Henrik Ibsen",
+      "fonte": "Un nemico del popolo"
+    },
+    {
+      "testo": "Una rondine non fa primavera.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A far servizio non se ne perde.",
+      "regione": "Toscana",
+      "traduzione": "A fare un favore non si perde mai.",
+      "spiegazione": "Aiutare gli altri non è mai tempo sprecato: prima o poi torna indietro.",
+      "fonte": "Wikiquote, Proverbi toscani"
+    },
+    {
+      "testo": "Vocca vasciata nen perde ventura, ma s'arrinova come fa la luna.",
+      "regione": "Abruzzo",
+      "traduzione": "Bocca baciata non perde fortuna, ma si rinnova come la luna.",
+      "spiegazione": "L'amore non consuma chi lo riceve: ogni volta si rinnova.",
+      "fonte": "Wikiquote, Proverbi abruzzesi"
+    }
+  ],
+  "prima_pagina": null
+}

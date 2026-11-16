@@ -1,0 +1,228 @@
+{
+  "schema": 1,
+  "giorno": "03-04",
+  "santo": {
+    "nome": "San Casimiro",
+    "nota": "Principe polacco del Quattrocento, figlio del re, rinunciò alla corona e visse in preghiera e carità. Morì giovanissimo ed è il patrono della Lituania.",
+    "altri": [
+      "San Lucio I papa",
+      "San Giovanni Antonio Farina",
+      "San Pietro Pappacarbone"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "03-04-1848",
+      "anno": 1848,
+      "titolo": "Lo Statuto Albertino",
+      "testo": "Carlo Alberto firma lo Statuto, la costituzione del Regno di Sardegna: diventerà quella del Regno d'Italia e resterà in vigore fino al 1948.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Statuto Albertino",
+      "tono": "storico",
+      "indizio": "Domani: un re firma la costituzione che durerà cento anni."
+    },
+    {
+      "id": "03-04-1877",
+      "anno": 1877,
+      "titolo": "Il lago dei cigni",
+      "testo": "Al Bol'šoj di Mosca debutta Il lago dei cigni di Čajkovskij: la prima va male, ma diventerà il balletto più famoso del mondo.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Il lago dei cigni",
+      "tono": "leggero",
+      "indizio": "Domani: a Mosca debutta un balletto con le ballerine trasformate in cigni."
+    },
+    {
+      "id": "03-04-1877b",
+      "anno": 1877,
+      "titolo": "Il microfono",
+      "testo": "Emile Berliner inventa un microfono che migliora enormemente il telefono di Bell.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 4,
+      "wiki": "Emile Berliner",
+      "tono": "leggero",
+      "indizio": "Domani: un inventore tedesco crea il microfono."
+    },
+    {
+      "id": "03-04-1950",
+      "anno": 1950,
+      "titolo": "Cenerentola",
+      "testo": "Esce negli Stati Uniti la Cenerentola della Disney: il successo salva lo studio, che rischiava il fallimento.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Cenerentola (film 1950)",
+      "tono": "leggero",
+      "indizio": "Domani: esce un cartone animato che salva la Disney dal fallimento."
+    },
+    {
+      "id": "03-04-1966",
+      "anno": 1966,
+      "titolo": "Più famosi di Gesù",
+      "testo": "In un'intervista a un giornale londinese John Lennon dice che i Beatles sono ormai più famosi di Gesù: mesi dopo, in America, si bruciano i loro dischi.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Più famosi di Gesù",
+      "tono": "leggero",
+      "indizio": "Domani: un musicista inglese pronuncia una frase che farà bruciare i suoi dischi."
+    },
+    {
+      "id": "03-04-1975",
+      "anno": 1975,
+      "titolo": "Sir Charlie Chaplin",
+      "testo": "La regina Elisabetta nomina cavaliere Charlie Chaplin, ottantacinquenne, che arriva a Buckingham Palace in sedia a rotelle.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Charlie Chaplin",
+      "tono": "leggero",
+      "indizio": "Domani: un vecchio comico diventa sir."
+    },
+    {
+      "id": "03-04-1947",
+      "anno": 1947,
+      "titolo": "L'ultima condanna a morte",
+      "testo": "A Torino viene eseguita l'ultima condanna a morte in Italia: pochi mesi dopo la Costituzione abolirà la pena capitale per i reati comuni.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Pena di morte in Italia",
+      "tono": "storico"
+    },
+    {
+      "id": "03-04-1681",
+      "anno": 1681,
+      "titolo": "Nasce la Pennsylvania",
+      "testo": "Il re Carlo II d'Inghilterra concede al quacchero William Penn le terre che diventeranno la Pennsylvania.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Pennsylvania",
+      "tono": "storico",
+      "indizio": "Domani: un re inglese regala a un quacchero una terra grande come un regno."
+    },
+    {
+      "id": "03-04-1861",
+      "anno": 1861,
+      "titolo": "Lincoln presidente",
+      "testo": "Abraham Lincoln giura come sedicesimo presidente degli Stati Uniti.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Abraham Lincoln",
+      "tono": "storico"
+    },
+    {
+      "id": "03-04-1790",
+      "anno": 1790,
+      "titolo": "I dipartimenti francesi",
+      "testo": "La Francia rivoluzionaria si divide in ottantatré dipartimenti, disegnati perché ogni capoluogo si raggiunga a cavallo in un giorno.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Dipartimenti della Francia",
+      "tono": "leggero",
+      "indizio": "Domani: la Francia si ridisegna in dipartimenti da percorrere in un giorno a cavallo."
+    },
+    {
+      "id": "03-04-1977",
+      "anno": 1977,
+      "titolo": "Il terremoto di Bucarest",
+      "testo": "Un violento terremoto colpisce la Romania e Bucarest.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Terremoto della Romania del 1977",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Enrico il Navigatore",
+      "anno": 1394,
+      "chi": "principe portoghese delle esplorazioni",
+      "wiki": "Enrico il Navigatore"
+    },
+    {
+      "nome": "Antonio Vivaldi",
+      "anno": 1678,
+      "chi": "compositore veneziano delle Quattro stagioni",
+      "wiki": "Antonio Vivaldi"
+    },
+    {
+      "nome": "Knute Rockne",
+      "anno": 1888,
+      "chi": "allenatore di football americano",
+      "wiki": "Knute Rockne"
+    },
+    {
+      "nome": "Miriam Makeba",
+      "anno": 1932,
+      "chi": "cantante sudafricana, Mama Africa",
+      "wiki": "Miriam Makeba"
+    },
+    {
+      "nome": "Lucio Dalla",
+      "anno": 1943,
+      "chi": "cantautore bolognese",
+      "wiki": "Lucio Dalla"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Il prete rosso",
+      "testo": "Antonio Vivaldi, nato oggi a Venezia, era sacerdote e aveva i capelli rossi: lo chiamavano il prete rosso. Insegnava musica alle orfane dell'Ospedale della Pietà."
+    },
+    {
+      "categoria": "cultura",
+      "titolo": "Una data per titolo",
+      "testo": "Lucio Dalla, nato il 4 marzo 1943, intitolò con la sua data di nascita una delle sue canzoni più famose, presentata a Sanremo nel 1971."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Un giorno a cavallo",
+      "testo": "I dipartimenti francesi furono disegnati con una regola pratica: da ogni punto si doveva poter arrivare al capoluogo a cavallo in una giornata."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Tra il dire e il fare c'è di mezzo il mare.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi semina vento raccoglie tempesta.",
+      "autore": "Libro di Osea",
+      "fonte": "8,7"
+    },
+    {
+      "testo": "Chi canta prega due volte.",
+      "autore": "attribuita a Sant'Agostino",
+      "fonte": "tradizione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "L'abbéte nén fa u monéche e la chiréca nén fa u prèute.",
+      "regione": "Molise",
+      "traduzione": "L'abito non fa il monaco e la tonsura non fa il prete.",
+      "spiegazione": "Non bisogna giudicare le persone dall'aspetto esteriore.",
+      "fonte": "Wikiquote, Proverbi molisani"
+    },
+    {
+      "testo": "Agiallu va duve truva granu.",
+      "regione": "Calabria",
+      "traduzione": "L'uccello va dove trova il grano.",
+      "spiegazione": "Ognuno va dove trova il suo interesse.",
+      "fonte": "Wikiquote, Proverbi calabresi"
+    }
+  ],
+  "prima_pagina": null
+}

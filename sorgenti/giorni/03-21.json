@@ -1,0 +1,250 @@
+{
+  "schema": 1,
+  "giorno": "03-21",
+  "santo": {
+    "nome": "San Nicola di Flüe",
+    "nota": "Contadino svizzero del Quattrocento, padre di dieci figli, a cinquant'anni si ritirò eremita nella gola del Ranft. Con un suo consiglio evitò la guerra tra i cantoni: è il patrono della Svizzera.",
+    "altri": [
+      "Transito di San Benedetto",
+      "Santa Benedetta Cambiagio Frassinello",
+      "San Serapione di Thmuis"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata mondiale della poesia",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata internazionale delle foreste",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Giornata mondiale della sindrome di Down",
+      "ambito": "mondo"
+    },
+    {
+      "nome": "Nawruz, capodanno persiano",
+      "ambito": "mondo"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-21-2006",
+      "anno": 2006,
+      "titolo": "Il primo tweet",
+      "testo": "Jack Dorsey scrive il primo messaggio su twttr, il servizio che diventerà Twitter: «just setting up my twttr».",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 5,
+      "wiki": "Twitter",
+      "tono": "leggero",
+      "indizio": "Domani: viene scritto il primo messaggio di un social network di poche parole."
+    },
+    {
+      "id": "03-21-1963",
+      "anno": 1963,
+      "titolo": "Chiude Alcatraz",
+      "testo": "Gli ultimi detenuti lasciano Alcatraz, il carcere sull'isola della baia di San Francisco: costava troppo da mantenere.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Penitenziario federale di Alcatraz",
+      "tono": "leggero",
+      "indizio": "Domani: il carcere più famoso d'America chiude per sempre."
+    },
+    {
+      "id": "03-21-1952",
+      "anno": 1952,
+      "titolo": "Il primo concerto rock",
+      "testo": "A Cleveland il disc jockey Alan Freed organizza il Moondog Coronation Ball, considerato il primo concerto rock and roll: si presentano il doppio dei biglietti venduti.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Moondog Coronation Ball",
+      "tono": "leggero",
+      "indizio": "Domani: a Cleveland si tiene il primo concerto rock and roll."
+    },
+    {
+      "id": "03-21-1999",
+      "anno": 1999,
+      "titolo": "Il giro del mondo in pallone",
+      "testo": "Bertrand Piccard e Brian Jones atterrano in Egitto con il Breitling Orbiter 3: sono i primi ad aver fatto il giro del mondo in mongolfiera senza scalo, in diciannove giorni.",
+      "ambito": "mondo",
+      "categoria": "sport",
+      "peso": 4,
+      "wiki": "Breitling Orbiter 3",
+      "tono": "leggero",
+      "indizio": "Domani: due aeronauti atterrano nel deserto dopo il giro del mondo in pallone."
+    },
+    {
+      "id": "03-21-1935",
+      "anno": 1935,
+      "titolo": "La Persia diventa Iran",
+      "testo": "Lo scià chiede a tutti i paesi di chiamare la Persia con il nome che usano i suoi abitanti: Iran.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Iran",
+      "tono": "storico",
+      "indizio": "Domani: un paese antico chiede al mondo di chiamarlo con un altro nome."
+    },
+    {
+      "id": "03-21-1804",
+      "anno": 1804,
+      "titolo": "Il Codice napoleonico",
+      "testo": "In Francia entra in vigore il Codice civile di Napoleone, modello dei codici di mezzo mondo, Italia compresa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Codice napoleonico",
+      "tono": "storico",
+      "indizio": "Domani: Napoleone dà alla Francia il suo codice civile."
+    },
+    {
+      "id": "03-21-1800",
+      "anno": 1800,
+      "titolo": "La tiara di cartapesta",
+      "testo": "Nel monastero di San Giorgio Maggiore a Venezia Pio VII viene incoronato papa con una tiara di cartapesta: quelle vere erano state portate via dai francesi.",
+      "ambito": "italia",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Papa Pio VII",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-21-1965",
+      "anno": 1965,
+      "titolo": "Ranger 9",
+      "testo": "Parte la sonda Ranger 9, che fotograferà la Luna da vicino prima di schiantarsi nel cratere Alfonso.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 3,
+      "wiki": "Ranger 9",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-21-1990",
+      "anno": 1990,
+      "titolo": "La Namibia indipendente",
+      "testo": "La Namibia diventa indipendente dal Sudafrica.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Namibia",
+      "tono": "storico",
+      "indizio": "Domani: nasce l'ultimo stato africano a diventare indipendente nel Novecento."
+    },
+    {
+      "id": "03-21-1871",
+      "anno": 1871,
+      "titolo": "Bismarck cancelliere",
+      "testo": "Otto von Bismarck diventa cancelliere del nuovo Impero tedesco.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Otto von Bismarck",
+      "tono": "storico"
+    },
+    {
+      "id": "03-21-1960",
+      "anno": 1960,
+      "titolo": "Sharpeville",
+      "testo": "In Sudafrica la polizia spara sui manifestanti contro l'apartheid a Sharpeville: per questo oggi è la giornata contro il razzismo.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Massacro di Sharpeville",
+      "tono": "tragico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Johann Sebastian Bach",
+      "anno": 1685,
+      "chi": "compositore tedesco",
+      "wiki": "Johann Sebastian Bach"
+    },
+    {
+      "nome": "Joseph Fourier",
+      "anno": 1768,
+      "chi": "matematico francese",
+      "wiki": "Joseph Fourier"
+    },
+    {
+      "nome": "Benito Juárez",
+      "anno": 1806,
+      "chi": "presidente del Messico",
+      "wiki": "Benito Juárez"
+    },
+    {
+      "nome": "Modest Musorgskij",
+      "anno": 1839,
+      "chi": "compositore russo",
+      "wiki": "Modest Musorgskij"
+    },
+    {
+      "nome": "Alda Merini",
+      "anno": 1931,
+      "chi": "poetessa milanese",
+      "wiki": "Alda Merini"
+    },
+    {
+      "nome": "Ayrton Senna",
+      "anno": 1960,
+      "chi": "pilota brasiliano di Formula 1",
+      "wiki": "Ayrton Senna"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Nata a primavera",
+      "testo": "Alda Merini nacque il 21 marzo, primo giorno di primavera e oggi giornata mondiale della poesia: lei stessa ne fece il tema di una delle sue poesie più conosciute."
+    },
+    {
+      "categoria": "tecnologia",
+      "titolo": "Senza vocali",
+      "testo": "Twitter si chiamava all'inizio twttr, senza vocali, come andava di moda allora per i nomi dei siti. I messaggi potevano essere al massimo di 140 caratteri, perché dovevano stare in un SMS."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "Tre copie del 21",
+      "testo": "La giornata della sindrome di Down cade il 21/3 perché la sindrome è dovuta a tre copie del cromosoma 21."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Lo scopo di ogni musica dovrebbe essere la gloria di Dio e il ristoro dell'anima.",
+      "autore": "attribuita a Johann Sebastian Bach",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "Ora et labora.",
+      "autore": "Motto benedettino",
+      "fonte": "tradizione"
+    },
+    {
+      "testo": "San Benedetto, la rondine sotto il tetto.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A rondaninn-a a teito a teito, porta l'êujo a San Beneito.",
+      "regione": "Liguria",
+      "traduzione": "La rondinella di tetto in tetto porta l'olio a San Benedetto.",
+      "spiegazione": "Intorno al 21 marzo, festa di san Benedetto, tornano le rondini e con loro la bella stagione.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    },
+    {
+      "testo": "Non abbaides né femina in festa, né caddu in beranu.",
+      "regione": "Sardegna",
+      "traduzione": "Non giudicare né una donna alla festa né un cavallo in primavera.",
+      "spiegazione": "Alla festa tutti sono belli e in primavera ogni cavallo sembra in forma: per giudicare bisogna vedere i giorni normali.",
+      "fonte": "Wikiquote, Proverbi sardi"
+    }
+  ],
+  "prima_pagina": null
+}

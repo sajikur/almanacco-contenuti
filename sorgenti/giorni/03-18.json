@@ -1,0 +1,213 @@
+{
+  "schema": 1,
+  "giorno": "03-18",
+  "santo": {
+    "nome": "San Cirillo di Gerusalemme",
+    "nota": "Vescovo di Gerusalemme nel IV secolo, fu esiliato tre volte nelle dispute del suo tempo. Le sue catechesi per i nuovi battezzati sono tra i testi cristiani più antichi. È dottore della Chiesa.",
+    "altri": [
+      "San Frediano di Lucca",
+      "San Salvatore da Horta",
+      "Sant'Edoardo il Martire"
+    ]
+  },
+  "ricorrenze": [
+    {
+      "nome": "Giornata in memoria delle vittime del Covid",
+      "ambito": "italia"
+    }
+  ],
+  "eventi": [
+    {
+      "id": "03-18-1662",
+      "anno": 1662,
+      "titolo": "Il primo autobus",
+      "testo": "A Parigi entrano in servizio le carrozze a cinque soldi ideate da Blaise Pascal: seguono linee fisse e orari, e chiunque può salire pagando. È il primo trasporto pubblico.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 5,
+      "wiki": "Carrozze a cinque soldi",
+      "tono": "leggero",
+      "indizio": "Domani: un filosofo matematico inventa l'autobus."
+    },
+    {
+      "id": "03-18-1848",
+      "anno": 1848,
+      "titolo": "Le Cinque giornate di Milano",
+      "testo": "Milano insorge contro gli austriaci di Radetzky: in cinque giorni di barricate la città sarà libera.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 5,
+      "wiki": "Cinque giornate di Milano",
+      "tono": "storico",
+      "indizio": "Domani: Milano alza le barricate."
+    },
+    {
+      "id": "03-18-1965",
+      "anno": 1965,
+      "titolo": "La prima passeggiata nello spazio",
+      "testo": "Aleksej Leonov esce dalla Voschod 2 e galleggia nello spazio per dodici minuti. La tuta si gonfia tanto che, per rientrare, deve sgonfiarla di nascosto.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Aleksej Leonov",
+      "tono": "leggero",
+      "indizio": "Domani: un cosmonauta esce dalla navicella e galleggia nel vuoto."
+    },
+    {
+      "id": "03-18-1944",
+      "anno": 1944,
+      "titolo": "L'ultima eruzione del Vesuvio",
+      "testo": "Comincia l'ultima eruzione del Vesuvio: la lava arriva a San Sebastiano e i soldati americani la filmano.",
+      "ambito": "italia",
+      "categoria": "scienza",
+      "peso": 4,
+      "wiki": "Eruzione del Vesuvio del 1944",
+      "tono": "storico",
+      "indizio": "Domani: il Vesuvio si risveglia per l'ultima volta."
+    },
+    {
+      "id": "03-18-1990",
+      "anno": 1990,
+      "titolo": "Il furto al Gardner",
+      "testo": "Due ladri travestiti da poliziotti entrano nel museo Isabella Stewart Gardner di Boston e portano via tredici opere, tra cui un Vermeer e tre Rembrandt.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 4,
+      "wiki": "Furto all'Isabella Stewart Gardner Museum",
+      "tono": "leggero",
+      "indizio": "Domani: due finti poliziotti bussano a un museo di Boston."
+    },
+    {
+      "id": "03-18-1925",
+      "anno": 1925,
+      "titolo": "Le statue di cera",
+      "testo": "Un incendio distrugge molte statue del museo delle cere di Madame Tussauds a Londra.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "Madame Tussauds",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-18-1871",
+      "anno": 1871,
+      "titolo": "La Comune di Parigi",
+      "testo": "A Parigi il popolo si ribella al governo: nasce la Comune.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Comune di Parigi",
+      "tono": "storico"
+    },
+    {
+      "id": "03-18-1314",
+      "anno": 1314,
+      "titolo": "Il rogo dei Templari",
+      "testo": "A Parigi viene bruciato sul rogo Jacques de Molay, ultimo gran maestro dei Templari.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Jacques de Molay",
+      "tono": "storico"
+    },
+    {
+      "id": "03-18-1990b",
+      "anno": 1990,
+      "titolo": "Le libere elezioni dell'Est",
+      "testo": "Nella Germania Est si vota per la prima e unica volta in elezioni libere.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Elezioni parlamentari nella Germania Est del 1990",
+      "tono": "storico"
+    },
+    {
+      "id": "03-18-1940",
+      "anno": 1940,
+      "titolo": "L'incontro al Brennero",
+      "testo": "Hitler e Mussolini si incontrano al Brennero.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 2,
+      "wiki": "Asse Roma-Berlino",
+      "tono": "storico"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Stéphane Mallarmé",
+      "anno": 1842,
+      "chi": "poeta francese",
+      "wiki": "Stéphane Mallarmé"
+    },
+    {
+      "nome": "Nikolaj Rimskij-Korsakov",
+      "anno": 1844,
+      "chi": "compositore russo",
+      "wiki": "Nikolaj Rimskij-Korsakov"
+    },
+    {
+      "nome": "Rudolf Diesel",
+      "anno": 1858,
+      "chi": "inventore del motore diesel",
+      "wiki": "Rudolf Diesel"
+    },
+    {
+      "nome": "Luc Besson",
+      "anno": 1959,
+      "chi": "regista francese",
+      "wiki": "Luc Besson"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "curiosita",
+      "titolo": "Cinque soldi",
+      "testo": "Le carrozze di Pascal costavano cinque soldi a corsa e partivano a orari fissi. All'inizio era vietato salire a soldati, servitori e operai: la novità ebbe successo, ma durò solo una quindicina d'anni."
+    },
+    {
+      "categoria": "curiosita",
+      "titolo": "Le cornici vuote",
+      "testo": "Al museo Gardner le cornici dei quadri rubati sono ancora appese vuote: Isabella Gardner aveva lasciato scritto che niente doveva essere spostato. Per chi li ritrova c'è una ricompensa di dieci milioni di dollari."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "Rientrare a fatica",
+      "testo": "Fuori dalla navicella la tuta di Leonov si irrigidì come un pallone: non entrava più nel portello. Senza avvisare la base, abbassò la pressione della tuta e riuscì a infilarsi a testa avanti."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Il cuore ha le sue ragioni che la ragione non conosce.",
+      "autore": "Blaise Pascal",
+      "fonte": "Pensieri"
+    },
+    {
+      "testo": "Chi dorme non piglia pesci.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    },
+    {
+      "testo": "Chi ha più giudizio lo adoperi.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "'A famma fa ascì 'o lupo da 'o bosco.",
+      "regione": "Campania",
+      "traduzione": "La fame fa uscire il lupo dal bosco.",
+      "spiegazione": "Il bisogno spinge a fare cose che normalmente non si farebbero.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "A unn-a donna ben maiä sciûga fito a o sêu bugâ.",
+      "regione": "Liguria",
+      "traduzione": "A una donna ben sposata il bucato asciuga presto.",
+      "spiegazione": "A chi ha trovato la persona giusta tutto va per il verso giusto.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    }
+  ],
+  "prima_pagina": null
+}

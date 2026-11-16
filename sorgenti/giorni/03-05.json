@@ -1,0 +1,221 @@
+{
+  "schema": 1,
+  "giorno": "03-05",
+  "santo": {
+    "nome": "San Giovan Giuseppe della Croce",
+    "nota": "Frate alcantarino nato a Ischia nel Seicento, visse a Napoli in povertà e penitenza. È il patrono dell'isola d'Ischia.",
+    "altri": [
+      "San Foca di Sinope",
+      "San Conone l'ortolano",
+      "San Lucio I papa"
+    ]
+  },
+  "ricorrenze": [],
+  "eventi": [
+    {
+      "id": "03-05-1876",
+      "anno": 1876,
+      "titolo": "Esce il Corriere della Sera",
+      "testo": "A Milano esce il primo numero del Corriere della Sera, fondato da Eugenio Torelli Viollier: quattro pagine, cinque centesimi.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 5,
+      "wiki": "Corriere della Sera",
+      "tono": "leggero",
+      "indizio": "Domani: a Milano esce un giornale che diventerà il più letto d'Italia."
+    },
+    {
+      "id": "03-05-1979",
+      "anno": 1979,
+      "titolo": "Voyager 1 da Giove",
+      "testo": "La sonda Voyager 1 passa vicino a Giove e scopre che la luna Io ha vulcani attivi e che il pianeta ha anelli sottili.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 5,
+      "wiki": "Voyager 1",
+      "tono": "leggero",
+      "indizio": "Domani: una sonda scopre vulcani attivi su una luna di Giove."
+    },
+    {
+      "id": "03-05-1946",
+      "anno": 1946,
+      "titolo": "La cortina di ferro",
+      "testo": "A Fulton, nel Missouri, Winston Churchill dice che da Stettino a Trieste una «cortina di ferro» è scesa sull'Europa.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Discorso della cortina di ferro",
+      "tono": "storico",
+      "indizio": "Domani: un vecchio statista inglese inventa un'espressione per la guerra fredda."
+    },
+    {
+      "id": "03-05-1868",
+      "anno": 1868,
+      "titolo": "Il fiasco del Mefistofele",
+      "testo": "Alla Scala la prima del Mefistofele di Arrigo Boito è un fiasco clamoroso: dura quasi sei ore. Rivisto e accorciato, sette anni dopo sarà un trionfo.",
+      "ambito": "italia",
+      "categoria": "cultura",
+      "peso": 4,
+      "wiki": "Mefistofele (opera)",
+      "tono": "leggero",
+      "indizio": "Domani: un'opera di sei ore viene fischiata alla Scala."
+    },
+    {
+      "id": "03-05-1570",
+      "anno": 1570,
+      "titolo": "Cosimo I granduca",
+      "testo": "A Roma papa Pio V incorona Cosimo de' Medici granduca di Toscana.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 4,
+      "wiki": "Cosimo I de' Medici",
+      "tono": "storico",
+      "indizio": "Domani: un Medici diventa granduca."
+    },
+    {
+      "id": "03-05-1872",
+      "anno": 1872,
+      "titolo": "Il freno ad aria",
+      "testo": "George Westinghouse brevetta il freno automatico ad aria compressa per i treni, che li rende molto più sicuri.",
+      "ambito": "mondo",
+      "categoria": "tecnologia",
+      "peso": 3,
+      "wiki": "George Westinghouse",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-05-1943",
+      "anno": 1943,
+      "titolo": "Lo sciopero di Mirafiori",
+      "testo": "A Torino gli operai della Fiat Mirafiori incrociano le braccia: lo sciopero si estende a tutto il Nord.",
+      "ambito": "italia",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Scioperi del marzo 1943",
+      "tono": "storico",
+      "indizio": "Domani: gli operai di Mirafiori incrociano le braccia."
+    },
+    {
+      "id": "03-05-1960",
+      "anno": 1960,
+      "titolo": "Elvis in congedo",
+      "testo": "Elvis Presley viene congedato dall'esercito americano dopo due anni passati in Germania.",
+      "ambito": "mondo",
+      "categoria": "cultura",
+      "peso": 3,
+      "wiki": "Elvis Presley",
+      "tono": "leggero"
+    },
+    {
+      "id": "03-05-1829",
+      "anno": 1829,
+      "titolo": "L'ultimo del Bounty",
+      "testo": "Sull'isola di Pitcairn muore John Adams, l'ultimo superstite degli ammutinati del Bounty.",
+      "ambito": "mondo",
+      "categoria": "curiosita",
+      "peso": 3,
+      "wiki": "John Adams (ammutinato)",
+      "tono": "leggero",
+      "indizio": "Domani: muore l'ultimo degli ammutinati del Bounty."
+    },
+    {
+      "id": "03-05-1953",
+      "anno": 1953,
+      "titolo": "Muore Stalin",
+      "testo": "A Mosca muore Iosif Stalin.",
+      "ambito": "mondo",
+      "categoria": "storia",
+      "peso": 3,
+      "wiki": "Iosif Stalin",
+      "tono": "storico"
+    },
+    {
+      "id": "03-05-1998",
+      "anno": 1998,
+      "titolo": "Acqua sulla Luna",
+      "testo": "La NASA annuncia che la sonda Lunar Prospector ha trovato indizi di ghiaccio nei crateri dei poli lunari.",
+      "ambito": "mondo",
+      "categoria": "spazio",
+      "peso": 2,
+      "wiki": "Lunar Prospector",
+      "tono": "leggero"
+    }
+  ],
+  "nati": [
+    {
+      "nome": "Gerardo Mercatore",
+      "anno": 1512,
+      "chi": "cartografo fiammingo della celebre proiezione",
+      "wiki": "Gerardo Mercatore"
+    },
+    {
+      "nome": "Giambattista Tiepolo",
+      "anno": 1696,
+      "chi": "pittore veneziano",
+      "wiki": "Giambattista Tiepolo"
+    },
+    {
+      "nome": "Rex Harrison",
+      "anno": 1908,
+      "chi": "attore britannico di My Fair Lady",
+      "wiki": "Rex Harrison"
+    },
+    {
+      "nome": "Pier Paolo Pasolini",
+      "anno": 1922,
+      "chi": "poeta, scrittore e regista",
+      "wiki": "Pier Paolo Pasolini"
+    }
+  ],
+  "curiosita": [
+    {
+      "categoria": "cultura",
+      "titolo": "Cinque centesimi",
+      "testo": "Il primo Corriere della Sera aveva quattro pagine e costava cinque centesimi: se ne stamparono circa tremila copie. Usciva la sera, da cui il nome."
+    },
+    {
+      "categoria": "scienza",
+      "titolo": "La carta di Mercatore",
+      "testo": "La proiezione di Mercatore, nato oggi, ingrandisce le terre vicine ai poli: la Groenlandia sembra grande come l'Africa, che in realtà è quattordici volte più grande."
+    },
+    {
+      "categoria": "spazio",
+      "titolo": "I vulcani di Io",
+      "testo": "Le foto di Voyager mostrarono un pennacchio sul bordo di Io. Lo notò per prima un'ingegnere, Linda Morabito: era la prima eruzione vista fuori dalla Terra."
+    }
+  ],
+  "citazioni": [
+    {
+      "testo": "Una cortina di ferro è scesa attraverso il continente.",
+      "autore": "Winston Churchill",
+      "fonte": "discorso di Fulton, 1946"
+    },
+    {
+      "testo": "Marzo ventoso, april piovoso.",
+      "autore": "Proverbio",
+      "fonte": "proverbio di stagione"
+    },
+    {
+      "testo": "La verità vien sempre a galla.",
+      "autore": "Proverbio",
+      "fonte": "proverbio"
+    }
+  ],
+  "proverbi": [
+    {
+      "testo": "A barca storta 'o puorto deritto.",
+      "regione": "Campania",
+      "traduzione": "A barca storta, porto diritto.",
+      "spiegazione": "Anche chi parte male, con un po' di fortuna, arriva bene alla meta.",
+      "fonte": "Wikiquote, Proverbi napoletani"
+    },
+    {
+      "testo": "A moœ pietosa a fâ i figgiêu rognosi.",
+      "regione": "Liguria",
+      "traduzione": "La madre troppo pietosa fa i figli rognosi.",
+      "spiegazione": "Troppa indulgenza non fa bene ai figli: crescono viziati.",
+      "fonte": "Wikiquote, Proverbi liguri"
+    }
+  ],
+  "prima_pagina": null
+}
