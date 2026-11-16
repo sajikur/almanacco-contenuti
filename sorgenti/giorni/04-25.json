@@ -44,7 +44,7 @@
       "testo": "Alla Scala debutta la Turandot di Giacomo Puccini, rimasta incompiuta per la sua morte. Toscanini posa la bacchetta a metà del terzo atto e si rivolge al pubblico.",
       "ambito": "italia",
       "categoria": "cultura",
-      "peso": 5,
+      "peso": 2,
       "wiki": "Turandot",
       "tono": "leggero",
       "indizio": "Domani: alla Scala debutta l'ultima opera di Puccini, che lui non ha potuto finire."
@@ -56,7 +56,7 @@
       "testo": "Sulla rivista Nature James Watson e Francis Crick descrivono in una sola pagina la struttura del DNA: una doppia elica, come una scala a chiocciola.",
       "ambito": "mondo",
       "categoria": "scienza",
-      "peso": 5,
+      "peso": 2,
       "wiki": "DNA",
       "tono": "leggero",
       "indizio": "Domani: due scienziati descrivono in una pagina la forma della vita."
@@ -68,7 +68,7 @@
       "testo": "A Londra esce Robinson Crusoe di Daniel Defoe, presentato come il racconto vero di un naufrago rimasto ventotto anni su un'isola deserta.",
       "ambito": "mondo",
       "categoria": "cultura",
-      "peso": 4,
+      "peso": 2,
       "wiki": "Robinson Crusoe",
       "tono": "leggero",
       "indizio": "Domani: esce la storia di un naufrago su un'isola deserta."
@@ -80,7 +80,7 @@
       "testo": "A Saint-Dié, nei Vosgi, esce il libro di Martin Waldseemüller con la carta del mondo in cui il Nuovo Mondo si chiama per la prima volta America.",
       "ambito": "mondo",
       "categoria": "storia",
-      "peso": 4,
+      "peso": 2,
       "wiki": "Mappa di Waldseemüller",
       "tono": "leggero",
       "indizio": "Domani: una carta geografica dà per la prima volta un nome al Nuovo Mondo."
@@ -92,7 +92,7 @@
       "testo": "A Porto Said Ferdinand de Lesseps dà il primo colpo di piccone al canale di Suez, che unirà il Mediterraneo al Mar Rosso.",
       "ambito": "mondo",
       "categoria": "tecnologia",
-      "peso": 4,
+      "peso": 2,
       "wiki": "Canale di Suez",
       "tono": "leggero",
       "indizio": "Domani: comincia lo scavo del canale tra due mari."
@@ -104,7 +104,7 @@
       "testo": "Umberto Cagni, della spedizione del Duca degli Abruzzi, arriva con le slitte a 86 gradi e 34 primi di latitudine: nessuno si era mai spinto così a nord.",
       "ambito": "italia",
       "categoria": "storia",
-      "peso": 4,
+      "peso": 2,
       "wiki": "Spedizione della Stella Polare",
       "tono": "storico",
       "indizio": "Domani: una spedizione italiana arriva più a nord di chiunque altro."
@@ -116,7 +116,7 @@
       "testo": "Robert Noyce ottiene il brevetto del circuito integrato su silicio: è il seme di tutti i chip dei computer.",
       "ambito": "mondo",
       "categoria": "tecnologia",
-      "peso": 4,
+      "peso": 2,
       "wiki": "Circuito integrato",
       "tono": "leggero",
       "indizio": "Domani: viene brevettato il chip."
@@ -128,7 +128,7 @@
       "testo": "In Portogallo un colpo di stato quasi senza spari mette fine alla dittatura: la gente infila garofani nelle canne dei fucili dei soldati.",
       "ambito": "mondo",
       "categoria": "storia",
-      "peso": 4,
+      "peso": 2,
       "wiki": "Rivoluzione dei garofani",
       "tono": "storico",
       "indizio": "Domani: in Portogallo i soldati mettono fiori nei fucili."
@@ -140,7 +140,7 @@
       "testo": "A Torgau, sull'Elba, i soldati americani e sovietici si incontrano e si stringono la mano.",
       "ambito": "mondo",
       "categoria": "storia",
-      "peso": 3,
+      "peso": 2,
       "wiki": "Elba Day",
       "tono": "storico",
       "indizio": "Domani: due eserciti si stringono la mano su un fiume tedesco."
@@ -152,7 +152,7 @@
       "testo": "L'ultima parte dell'obelisco di Axum, portato a Roma nel 1937, torna in Etiopia.",
       "ambito": "italia",
       "categoria": "cultura",
-      "peso": 3,
+      "peso": 2,
       "wiki": "Obelisco di Axum",
       "tono": "leggero"
     },
@@ -163,7 +163,7 @@
       "testo": "La sonda Pioneer 10 supera l'orbita di Plutone.",
       "ambito": "mondo",
       "categoria": "spazio",
-      "peso": 3,
+      "peso": 2,
       "wiki": "Pioneer 10",
       "tono": "leggero",
       "indizio": "Domani: una sonda supera l'orbita di Plutone."
